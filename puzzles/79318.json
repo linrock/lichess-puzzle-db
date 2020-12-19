@@ -1,0 +1,28 @@
+{
+  "id": 79318,
+  "rating": 2148,
+  "attempts": 9171,
+  "fen": "3rk3/4nrpp/p7/1p5Q/2p5/2PqP3/PP1N2PP/2KR3R w - - 6 23",
+  "color": "black",
+  "initialPly": 45,
+  "gameId": "ONdw2PST",
+  "lines": {
+    "g7g6": {
+      "h5g4": {
+        "h7h5": {
+          "g4e4": {
+            "f7f1": {
+              "d1f1": {
+                "d3d2": {
+                  "c1b1": "win"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 264,
+  "enabled": true
+}

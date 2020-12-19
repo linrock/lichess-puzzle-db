@@ -1,0 +1,24 @@
+{
+  "id": 102514,
+  "rating": 1297,
+  "attempts": 13932,
+  "fen": "2r4r/1b3kb1/pp2N2p/q1np1Pp1/6P1/1P1B4/P3N2P/2RQ1RK1 b - - 1 22",
+  "color": "white",
+  "initialPly": 44,
+  "gameId": "OguvGlDU",
+  "lines": {
+    "f5e6": {
+      "f7e6": {
+        "d3f5": {
+          "e6e7": {
+            "f5c8": {
+              "h8c8": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 107,
+  "enabled": true
+}

@@ -1,0 +1,28 @@
+{
+  "id": 97376,
+  "rating": 2610,
+  "attempts": 443,
+  "fen": "5rk1/1PQ2pp1/4p2p/2P5/2P5/3pb2P/3N2PK/3r4 b - - 1 33",
+  "color": "white",
+  "initialPly": 66,
+  "gameId": "Be7LEIrS",
+  "lines": {
+    "h2g3": {
+      "d1d2": {
+        "b7b8q": {
+          "f8b8": {
+            "c7b8": {
+              "g8h7": {
+                "b8d6": {
+                  "g1f2": "win"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": -7,
+  "enabled": true
+}

@@ -1,0 +1,28 @@
+{
+  "id": 103167,
+  "rating": 2187,
+  "attempts": 4173,
+  "fen": "r5k1/6bp/4ppp1/p1qp4/Rn3PN1/1PB1PQ2/2n3PP/5RK1 w - - 0 25",
+  "color": "black",
+  "initialPly": 49,
+  "gameId": "AmG8SM0x",
+  "lines": {
+    "h7h5": {
+      "f6g7": {
+        "h5g4": {
+          "g7d4": {
+            "c5d4": {
+              "e3d4": {
+                "g4f3": {
+                  "f1f3": "win"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 106,
+  "enabled": true
+}

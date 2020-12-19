@@ -1,0 +1,32 @@
+{
+  "id": 104536,
+  "rating": 1693,
+  "attempts": 8796,
+  "fen": "8/R3bkn1/3p4/2pPp1p1/Qp1qPr2/6N1/1PP1B3/4K3 b - - 3 42",
+  "color": "white",
+  "initialPly": 84,
+  "gameId": "IaNLee52",
+  "lines": {
+    "a4d7": {
+      "b2c1": {
+        "e2d1": {
+          "c1e3": {
+            "g3e2": {
+              "e3f2": {
+                "e1d2": {
+                  "f7g8": {
+                    "d7e7": {
+                      "f4f7": "win"
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 191,
+  "enabled": true
+}

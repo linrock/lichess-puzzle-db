@@ -1,0 +1,28 @@
+{
+  "id": 119247,
+  "rating": 2900,
+  "attempts": 158,
+  "fen": "2rr2k1/2q2pp1/p3pn1p/3b3P/2pN4/2P2P2/PP1QB1P1/1K1R3R w - - 2 22",
+  "color": "black",
+  "initialPly": 43,
+  "gameId": "Bs0LX5Ti",
+  "lines": {
+    "e6e5": {
+      "g4g5": {
+        "f6e4": {
+          "f3e4": {
+            "d5e4": {
+              "b1a1": {
+                "e4h1": {
+                  "g5h6": "win"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 0,
+  "enabled": true
+}

@@ -1,0 +1,24 @@
+{
+  "id": 95895,
+  "rating": 1369,
+  "attempts": 6081,
+  "fen": "4r1k1/1pp4p/3p2p1/2PPq3/1P1n1R2/r2B2P1/5P1P/2RQ2K1 w - - 3 25",
+  "color": "black",
+  "initialPly": 49,
+  "gameId": "DrxPpTLq",
+  "lines": {
+    "a3d3": {
+      "d1d3": {
+        "e5e4": {
+          "d3e4": {
+            "e8e4": {
+              "c5d6": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 127,
+  "enabled": true
+}

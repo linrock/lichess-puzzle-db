@@ -1,0 +1,24 @@
+{
+  "id": 120919,
+  "rating": 1572,
+  "attempts": 8320,
+  "fen": "6k1/1n2q1pp/Q4b2/3p4/1p3B2/6PP/1PP1r1BK/3R4 w - - 4 28",
+  "color": "black",
+  "initialPly": 55,
+  "gameId": "ESYba3WG",
+  "lines": {
+    "e2g2": {
+      "h2g2": {
+        "e7e4": {
+          "g2g1": {
+            "e4d5": {
+              "a6e2": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 162,
+  "enabled": true
+}

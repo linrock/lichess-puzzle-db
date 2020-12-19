@@ -1,0 +1,24 @@
+{
+  "id": 124948,
+  "rating": 2031,
+  "attempts": 9104,
+  "fen": "2r2rk1/pbq2pp1/p4b1B/3pN3/3PnP2/2N5/PP4QP/R3K1R1 b Q - 2 19",
+  "color": "white",
+  "initialPly": 38,
+  "gameId": "kBFthVS4",
+  "lines": {
+    "e5g6": {
+      "f7g6": {
+        "g2g6": {
+          "g8h8": {
+            "h6f8": {
+              "c7h7": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 123,
+  "enabled": true
+}

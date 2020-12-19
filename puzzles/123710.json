@@ -1,0 +1,24 @@
+{
+  "id": 123710,
+  "rating": 1976,
+  "attempts": 5779,
+  "fen": "r1b2rk1/p4pbp/1p4p1/2pq4/3N4/1P6/PB2BPPP/2RQ1RK1 b - - 0 15",
+  "color": "white",
+  "initialPly": 30,
+  "gameId": "Mzwm5bTM",
+  "lines": {
+    "e2f3": {
+      "d5f5": {
+        "b2d4": {
+          "c5d4": {
+            "f3a8": {
+              "c8a6": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 62,
+  "enabled": true
+}

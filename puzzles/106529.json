@@ -1,0 +1,32 @@
+{
+  "id": 106529,
+  "rating": 2228,
+  "attempts": 3140,
+  "fen": "8/2q3bk/p3p1Q1/8/8/6R1/4r3/6K1 b - - 9 45",
+  "color": "white",
+  "initialPly": 90,
+  "gameId": "RGOyMBKA",
+  "lines": {
+    "g3h3": {
+      "h8g8": {
+        "g6h7": {
+          "g8f8": {
+            "h3f3": {
+              "c7f7": {
+                "f3f7": {
+                  "f8f7": {
+                    "h7h5": {
+                      "f7f6": "win"
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 84,
+  "enabled": true
+}

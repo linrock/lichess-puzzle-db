@@ -1,0 +1,24 @@
+{
+  "id": 103780,
+  "rating": 2112,
+  "attempts": 3964,
+  "fen": "5qk1/7p/2br1ppb/2pNp1N1/2P1P3/r7/3R2PP/3Q1RK1 w - - 2 29",
+  "color": "black",
+  "initialPly": 57,
+  "gameId": "LSikVYVM",
+  "lines": {
+    "d6f6": {
+      "d2d8": {
+        "f6f1": {
+          "d1f1": {
+            "c6e8": {
+              "h2h4": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 113,
+  "enabled": true
+}

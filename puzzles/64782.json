@@ -1,0 +1,20 @@
+{
+  "id": 64782,
+  "rating": 715,
+  "attempts": 2597,
+  "fen": "r3qrk1/3n2pp/2Np1n2/1Q1P4/4p1b1/2N5/PPP2PPP/R4RK1 b - - 1 16",
+  "color": "white",
+  "initialPly": 32,
+  "gameId": "GoRTMT8K",
+  "lines": {
+    "c6e7": {
+      "g8h8": {
+        "e7g6": {
+          "h7g6": "win"
+        }
+      }
+    }
+  },
+  "vote": 34,
+  "enabled": true
+}

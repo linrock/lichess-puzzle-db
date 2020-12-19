@@ -1,0 +1,24 @@
+{
+  "id": 70429,
+  "rating": 1702,
+  "attempts": 55959,
+  "fen": "5r1r/2k1bppp/p7/1pp1n3/4PB2/1BP4P/PP3P2/3R1RK1 b - - 1 25",
+  "color": "white",
+  "initialPly": 50,
+  "gameId": "UKCs2l7a",
+  "lines": {
+    "d1d6": {
+      "c7d6": {
+        "f1d1": {
+          "d6e7": {
+            "f4e5": {
+              "f8d8": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 636,
+  "enabled": true
+}

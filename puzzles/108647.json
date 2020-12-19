@@ -1,0 +1,24 @@
+{
+  "id": 108647,
+  "rating": 2090,
+  "attempts": 4436,
+  "fen": "r2q1rk1/5ppp/p2bbn2/np1pN1B1/2pP4/P1P4P/1P1NBPP1/R1Q2RK1 b - - 2 14",
+  "color": "white",
+  "initialPly": 28,
+  "gameId": "R68Rts1a",
+  "lines": {
+    "d4e5": {
+      "h7h6": {
+        "g5h4": {
+          "g7g5": {
+            "e5f6": {
+              "d8f6": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": -15,
+  "enabled": true
+}

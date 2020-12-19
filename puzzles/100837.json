@@ -1,0 +1,28 @@
+{
+  "id": 100837,
+  "rating": 1990,
+  "attempts": 7516,
+  "fen": "4r3/1p4kp/p1rp1pp1/4p3/2P1PPPB/1P1R3b/P3BK1P/8 b - - 1 33",
+  "color": "white",
+  "initialPly": 66,
+  "gameId": "WDXCby30",
+  "lines": {
+    "f4g5": {
+      "f6g5": {
+        "h4g5": {
+          "e8f8": {
+            "f2g1": {
+              "h3g4": {
+                "e2g4": {
+                  "d6d5": "win"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 101,
+  "enabled": true
+}

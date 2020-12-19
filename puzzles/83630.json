@@ -1,0 +1,24 @@
+{
+  "id": 83630,
+  "rating": 2109,
+  "attempts": 12380,
+  "fen": "r3r1k1/1p3pbp/pq1p1np1/3P2B1/P3P3/2NQ3P/1P3PP1/R4R1K b - - 0 19",
+  "color": "white",
+  "initialPly": 38,
+  "gameId": "ILyPObha",
+  "lines": {
+    "f1b1": {
+      "b2f2": {
+        "b1f1": {
+          "f6g4": {
+            "h3g4": {
+              "f2d4": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 272,
+  "enabled": true
+}

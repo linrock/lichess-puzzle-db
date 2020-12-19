@@ -1,0 +1,32 @@
+{
+  "id": 77403,
+  "rating": 1952,
+  "attempts": 17317,
+  "fen": "2Q1r1k1/5R2/p5P1/1p6/7P/4q3/P5P1/7K w - - 3 34",
+  "color": "black",
+  "initialPly": 67,
+  "gameId": "IglusrDW",
+  "lines": {
+    "e3e1": {
+      "f7f1": {
+        "e1f1": {
+          "h1h2": {
+            "f1f6": {
+              "c7h7": {
+                "g8f8": {
+                  "g6g7": {
+                    "f6g7": {
+                      "h7f5": "win"
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 380,
+  "enabled": true
+}

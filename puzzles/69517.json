@@ -1,0 +1,24 @@
+{
+  "id": 69517,
+  "rating": 764,
+  "attempts": 1087,
+  "fen": "6k1/R4pp1/1p5p/2p3n1/2P3B1/4r1P1/P5PK/8 b - - 0 31",
+  "color": "white",
+  "initialPly": 62,
+  "gameId": "gjUQLudp",
+  "lines": {
+    "a7a8": {
+      "g8h7": {
+        "g4f5": {
+          "g7g6": {
+            "f5e4": {
+              "g5e4": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 28,
+  "enabled": true
+}

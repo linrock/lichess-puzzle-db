@@ -1,0 +1,28 @@
+{
+  "id": 119035,
+  "rating": 1851,
+  "attempts": 8270,
+  "fen": "r2qkb1r/3b1ppp/3p4/1B1Pp3/8/N2Qn3/PP3PPP/R3K2R w KQkq - 0 16",
+  "color": "black",
+  "initialPly": 31,
+  "gameId": "mlgHBSDi",
+  "lines": {
+    "d8a5": {
+      "e3d2": {
+        "d7b5": {
+          "d2a5": {
+            "a8a5": {
+              "a3b5": {
+                "a5b5": {
+                  "e1c1": "win"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 123,
+  "enabled": true
+}

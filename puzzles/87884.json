@@ -1,0 +1,22 @@
+{
+  "id": 87884,
+  "rating": 1699,
+  "attempts": 162008,
+  "fen": "r4r1k/1pq3pp/2p5/4p3/2B1npPN/2PR4/PQ3bP1/4RK2 b - - 1 26",
+  "color": "white",
+  "initialPly": 52,
+  "gameId": "IFMCoUet",
+  "lines": {
+    "h4g6": {
+      "h7g6": {
+        "d3h3": {
+          "e1h4": {
+            "h3h4": "win"
+          }
+        }
+      }
+    }
+  },
+  "vote": 2339,
+  "enabled": true
+}

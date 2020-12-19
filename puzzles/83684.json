@@ -1,0 +1,24 @@
+{
+  "id": 83684,
+  "rating": 1322,
+  "attempts": 7801,
+  "fen": "r3r1k1/ppq1bppp/2n2n2/6B1/4p3/1PP1Q2P/1P2NPP1/RN3RK1 w - - 3 15",
+  "color": "black",
+  "initialPly": 29,
+  "gameId": "63m3qTFT",
+  "lines": {
+    "f6d5": {
+      "e3g3": {
+        "c7g3": {
+          "e2g3": {
+            "e7g5": {
+              "d2e4": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 181,
+  "enabled": true
+}

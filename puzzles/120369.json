@@ -1,0 +1,24 @@
+{
+  "id": 120369,
+  "rating": 2238,
+  "attempts": 5483,
+  "fen": "3r2k1/1b3pb1/p4qp1/1pP4p/8/1Q1BP3/P2N1PPP/3R2K1 w - - 1 24",
+  "color": "black",
+  "initialPly": 47,
+  "gameId": "NTRZ9CSS",
+  "lines": {
+    "d8d2": {
+      "d1d2": {
+        "b7e4": {
+          "f2f3": {
+            "e4f5": {
+              "h2h3": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": -64,
+  "enabled": true
+}

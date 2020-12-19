@@ -1,0 +1,24 @@
+{
+  "id": 94986,
+  "rating": 2012,
+  "attempts": 7680,
+  "fen": "r3qrk1/ppp2npp/2n5/3Q4/1bPp1P2/3B3P/PP1B2P1/RN3RK1 w - - 2 15",
+  "color": "black",
+  "initialPly": 29,
+  "gameId": "SDQMrHOL",
+  "lines": {
+    "e8e3": {
+      "g1h2": {
+        "c6b4": {
+          "d3h7": {
+            "g8h7": {
+              "d5b5": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 130,
+  "enabled": true
+}

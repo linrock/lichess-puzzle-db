@@ -1,0 +1,20 @@
+{
+  "id": 77374,
+  "rating": 935,
+  "attempts": 1151,
+  "fen": "r5nr/ppp1k1pp/2p1p3/2b3B1/4P3/8/PPP1KPPP/RN5R b - - 3 10",
+  "color": "white",
+  "initialPly": 20,
+  "gameId": "BTLRX2rN",
+  "lines": {
+    "e4e5": {
+      "c5d4": {
+        "e5f6": {
+          "g7f6": "win"
+        }
+      }
+    }
+  },
+  "vote": 13,
+  "enabled": true
+}

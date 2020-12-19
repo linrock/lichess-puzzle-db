@@ -1,0 +1,24 @@
+{
+  "id": 124906,
+  "rating": 1731,
+  "attempts": 9039,
+  "fen": "r1bq1rk1/1pp2pb1/p6p/2p1nNp1/8/1QN1P1P1/PP2BPP1/3R1RK1 b - - 1 16",
+  "color": "white",
+  "initialPly": 32,
+  "gameId": "BkxmeVPI",
+  "lines": {
+    "c3d5": {
+      "f6f5": {
+        "d5e7": {
+          "g8h8": {
+            "e7f5": {
+              "c8f5": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 118,
+  "enabled": true
+}

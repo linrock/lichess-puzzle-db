@@ -1,0 +1,24 @@
+{
+  "id": 112897,
+  "rating": 1852,
+  "attempts": 16730,
+  "fen": "r1b1k2r/pp2bppp/1q3n2/3P4/1pP5/3B1Q2/P5PP/RNB1R2K b kq - 0 14",
+  "color": "white",
+  "initialPly": 28,
+  "gameId": "SCFaDHW2",
+  "lines": {
+    "f3e2": {
+      "e8g8": {
+        "c1b2": {
+          "d4b6": {
+            "e2e7": {
+              "f6g4": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 227,
+  "enabled": true
+}

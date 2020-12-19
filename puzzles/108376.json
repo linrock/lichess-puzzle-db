@@ -1,0 +1,24 @@
+{
+  "id": 108376,
+  "rating": 1268,
+  "attempts": 3273,
+  "fen": "4rrk1/2p2p2/p1pp4/4nR2/3QP1q1/1P4N1/1PP2K2/4R3 w - - 3 30",
+  "color": "black",
+  "initialPly": 59,
+  "gameId": "4CUTpiil",
+  "lines": {
+    "g4f5": {
+      "g3f5": {
+        "e5g4": {
+          "f2f3": {
+            "g4e3": {
+              "e1e3": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 73,
+  "enabled": true
+}

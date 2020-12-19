@@ -1,0 +1,24 @@
+{
+  "id": 118777,
+  "rating": 1371,
+  "attempts": 7520,
+  "fen": "2r3k1/5ppp/p2Rp3/q2nP3/8/1B3P2/PP2QP1P/6K1 w - - 0 23",
+  "color": "black",
+  "initialPly": 45,
+  "gameId": "FSSEtJiX",
+  "lines": {
+    "c8c1": {
+      "b3d1": {
+        "c1d1": {
+          "e2d1": {
+            "a5a6": {
+              "a2a4": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 101,
+  "enabled": true
+}

@@ -1,0 +1,24 @@
+{
+  "id": 99123,
+  "rating": 1910,
+  "attempts": 9818,
+  "fen": "1r3q1k/3P2pp/8/1r2n3/1PRQB3/5P2/6PP/1K5R w - - 1 37",
+  "color": "black",
+  "initialPly": 73,
+  "gameId": "iMpIX6s6",
+  "lines": {
+    "b5b4": {
+      "c4b4": {
+        "b8b4": {
+          "d4b4": {
+            "f8b4": {
+              "b1c1": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 175,
+  "enabled": true
+}

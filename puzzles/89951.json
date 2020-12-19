@@ -1,0 +1,24 @@
+{
+  "id": 89951,
+  "rating": 803,
+  "attempts": 550,
+  "fen": "4rk2/pp2r3/4P3/6p1/8/1Q2RPqb/P3R1B1/6K1 b - - 2 38",
+  "color": "white",
+  "initialPly": 76,
+  "gameId": "HOnmEGKi",
+  "lines": {
+    "e3e6": {
+      "e7e6": {
+        "e2e6": {
+          "e8e6": {
+            "b3e6": {
+              "b7b6": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 18,
+  "enabled": true
+}

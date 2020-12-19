@@ -1,0 +1,28 @@
+{
+  "id": 106587,
+  "rating": 1573,
+  "attempts": 49259,
+  "fen": "1r2kb1r/2qp1ppp/p3p1n1/2p1P1B1/8/1PN2Q2/P1P2PPP/R3R1K1 b k - 0 14",
+  "color": "white",
+  "initialPly": 28,
+  "gameId": "Zwr4grMe",
+  "lines": {
+    "e1e5": {
+      "c7e5": {
+        "g5f4": {
+          "e5f5": {
+            "f4b8": {
+              "f5f3": {
+                "g2f3": {
+                  "d7d6": "win"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 165,
+  "enabled": true
+}

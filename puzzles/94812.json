@@ -1,0 +1,32 @@
+{
+  "id": 94812,
+  "rating": 1159,
+  "attempts": 46945,
+  "fen": "2k5/1p6/3p1p2/1p1Pp3/1P2P2P/P1n2N2/8/6K1 b - - 0 33",
+  "color": "white",
+  "initialPly": 66,
+  "gameId": "XBEK6NTa",
+  "lines": {
+    "h4h5": {
+      "f6f5": {
+        "h5h6": {
+          "e4f6": {
+            "f3g5": {
+              "c8d7": {
+                "h6h7": {
+                  "f6h7": {
+                    "g5h7": {
+                      "d7d8": "win"
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 95,
+  "enabled": true
+}

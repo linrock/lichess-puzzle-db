@@ -1,0 +1,24 @@
+{
+  "id": 82584,
+  "rating": 1732,
+  "attempts": 18569,
+  "fen": "r1b2rk1/pp2pp1p/2np1npQ/q7/2B1P3/2N2N2/PPP2PPP/R3K2R b KQ - 0 11",
+  "color": "white",
+  "initialPly": 22,
+  "gameId": "NrxaniXP",
+  "lines": {
+    "e1g1": {
+      "e4c3": {
+        "f3g5": {
+          "a5g5": {
+            "h6g5": {
+              "c3e4": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 367,
+  "enabled": true
+}

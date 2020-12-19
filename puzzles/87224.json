@@ -1,0 +1,22 @@
+{
+  "id": 87224,
+  "rating": 1215,
+  "attempts": 73178,
+  "fen": "5r1k/p3q1p1/6P1/3Q1R2/4p2r/6b1/P7/4R1K1 b - - 0 30",
+  "color": "white",
+  "initialPly": 60,
+  "gameId": "MMILLZWj",
+  "lines": {
+    "f5h5": {
+      "h4h5": {
+        "d5h5": {
+          "h8g8": {
+            "h5h7": "win"
+          }
+        }
+      }
+    }
+  },
+  "vote": 142,
+  "enabled": true
+}

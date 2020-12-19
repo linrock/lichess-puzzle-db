@@ -1,0 +1,20 @@
+{
+  "id": 100486,
+  "rating": 750,
+  "attempts": 106,
+  "fen": "8/6p1/R2NP2p/2r1P1k1/3p4/2n3P1/7P/6K1 b - - 0 36",
+  "color": "white",
+  "initialPly": 72,
+  "gameId": "TsAJemyG",
+  "lines": {
+    "d6f7": {
+      "g5f6": {
+        "f7e5": {
+          "c3b5": "win"
+        }
+      }
+    }
+  },
+  "vote": 4,
+  "enabled": true
+}

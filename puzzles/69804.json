@@ -1,0 +1,24 @@
+{
+  "id": 69804,
+  "rating": 1494,
+  "attempts": 53675,
+  "fen": "2r3k1/5qp1/p2p3p/4p2P/4QbP1/1P6/P7/1K1R3R w - - 0 35",
+  "color": "black",
+  "initialPly": 69,
+  "gameId": "guualBsB",
+  "lines": {
+    "c8c1": {
+      "b1b2": {
+        "f7d5": {
+          "d1d5": {
+            "c1h1": {
+              "d5d6": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 481,
+  "enabled": true
+}

@@ -1,0 +1,24 @@
+{
+  "id": 78856,
+  "rating": 1345,
+  "attempts": 90166,
+  "fen": "4r3/4Npk1/1p1q4/pPnp1bQ1/P7/7P/5PP1/3B2K1 b - - 1 33",
+  "color": "white",
+  "initialPly": 66,
+  "gameId": "FREh3Wta",
+  "lines": {
+    "e7f5": {
+      "g7g8": {
+        "f5d6": {
+          "e8e1": {
+            "g1h2": {
+              "e1d1": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 191,
+  "enabled": true
+}

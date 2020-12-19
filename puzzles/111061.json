@@ -1,0 +1,24 @@
+{
+  "id": 111061,
+  "rating": 1438,
+  "attempts": 5797,
+  "fen": "rn1qkbnr/pb2pppp/8/1N1P4/Ppp5/8/1P3PPP/R1BQKBNR b KQkq - 1 8",
+  "color": "white",
+  "initialPly": 16,
+  "gameId": "TxZAUnfA",
+  "lines": {
+    "d1d5": {
+      "d8d5": {
+        "b5c7": {
+          "e8d7": {
+            "c7d5": {
+              "e7e6": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 132,
+  "enabled": true
+}

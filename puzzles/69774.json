@@ -1,0 +1,24 @@
+{
+  "id": 69774,
+  "rating": 1543,
+  "attempts": 51023,
+  "fen": "3r2k1/p4pn1/1p1qp1p1/2r5/3N4/2P2QR1/PP3PP1/4R1K1 w - - 0 26",
+  "color": "black",
+  "initialPly": 51,
+  "gameId": "TNRsLuaF",
+  "lines": {
+    "g7h5": {
+      "g3g6": {
+        "f7g6": {
+          "f6g6": {
+            "h5g7": {
+              "e1e6": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 483,
+  "enabled": true
+}

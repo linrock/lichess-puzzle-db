@@ -1,0 +1,24 @@
+{
+  "id": 111082,
+  "rating": 1555,
+  "attempts": 8813,
+  "fen": "r1bqkbnr/pp1ppp1p/2n3p1/8/2P5/P1N1B3/1P3PPP/R2QKBNR b KQkq - 0 6",
+  "color": "white",
+  "initialPly": 12,
+  "gameId": "20DGZVhz",
+  "lines": {
+    "c3d5": {
+      "e7e6": {
+        "e3b6": {
+          "e6d5": {
+            "b6d8": {
+              "c6d8": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 113,
+  "enabled": true
+}

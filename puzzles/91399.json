@@ -1,0 +1,24 @@
+{
+  "id": 91399,
+  "rating": 2265,
+  "attempts": 2905,
+  "fen": "2r1k2r/p4pp1/4p2p/q2n4/1b1Pb3/PQ2BN2/1P3PPP/K2R1B1R w k - 5 16",
+  "color": "black",
+  "initialPly": 31,
+  "gameId": "mBF15S62",
+  "lines": {
+    "c8c3": {
+      "e5c4": {
+        "c3b3": {
+          "c4a5": {
+            "b4a5": {
+              "e3d2": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 52,
+  "enabled": true
+}

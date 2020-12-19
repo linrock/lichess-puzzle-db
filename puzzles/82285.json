@@ -1,0 +1,28 @@
+{
+  "id": 82285,
+  "rating": 2535,
+  "attempts": 588,
+  "fen": "r5k1/p5bp/7r/2R2bp1/2P1BP1q/8/P3NPP1/2Q1R1K1 w - - 1 27",
+  "color": "black",
+  "initialPly": 53,
+  "gameId": "TOV7HMho",
+  "lines": {
+    "f5g4": {
+      "f2f3": {
+        "g7d4": {
+          "g1f1": {
+            "h4g3": {
+              "c5g5": {
+                "g8h8": {
+                  "f1e2": "win"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": -2,
+  "enabled": true
+}

@@ -1,0 +1,24 @@
+{
+  "id": 98167,
+  "rating": 1213,
+  "attempts": 2289,
+  "fen": "1r4k1/5p1p/2pqp1p1/3n4/3PQ3/P6P/1PB2PP1/3R2K1 w - - 0 27",
+  "color": "black",
+  "initialPly": 53,
+  "gameId": "uRzPoKYO",
+  "lines": {
+    "d5c3": {
+      "e4e5": {
+        "d6e5": {
+          "d4e5": {
+            "c3d1": {
+              "c2d1": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 63,
+  "enabled": true
+}

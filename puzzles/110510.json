@@ -1,0 +1,24 @@
+{
+  "id": 110510,
+  "rating": 1520,
+  "attempts": 6362,
+  "fen": "r1b1k2r/1p3ppp/1qn1pn2/p1bp4/4P3/2PB1N2/PP1N1PPP/R1BQ1RK1 w kq - 0 9",
+  "color": "black",
+  "initialPly": 17,
+  "gameId": "QXgHaxxp",
+  "lines": {
+    "d5e4": {
+      "b3c5": {
+        "b6c5": {
+          "d3c2": {
+            "e4f3": {
+              "d1f3": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 138,
+  "enabled": true
+}

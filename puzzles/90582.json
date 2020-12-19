@@ -1,0 +1,28 @@
+{
+  "id": 90582,
+  "rating": 2702,
+  "attempts": 401,
+  "fen": "4r1k1/pp1brpbp/6p1/3RP3/1q6/1P2B2P/P4PP1/1B1QR1K1 b - - 0 21",
+  "color": "white",
+  "initialPly": 42,
+  "gameId": "WUSlHk4P",
+  "lines": {
+    "e3d2": {
+      "b4b6": {
+        "e1e5": {
+          "e7e5": {
+            "d5d7": {
+              "e5e2": {
+                "d1f1": {
+                  "b6c6": "win"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": -3,
+  "enabled": true
+}

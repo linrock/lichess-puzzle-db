@@ -1,0 +1,24 @@
+{
+  "id": 122618,
+  "rating": 1519,
+  "attempts": 20749,
+  "fen": "r1bq1rk1/pp4p1/5b1p/3P3B/2Pp4/3P2Q1/PP4PP/4RRK1 b - - 2 21",
+  "color": "white",
+  "initialPly": 42,
+  "gameId": "gosXCLYv",
+  "lines": {
+    "f1f8": {
+      "d8f8": {
+        "e1e8": {
+          "c8f5": {
+            "e8f8": {
+              "a8f8": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 114,
+  "enabled": true
+}

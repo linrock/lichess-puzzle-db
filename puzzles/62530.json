@@ -1,0 +1,28 @@
+{
+  "id": 62530,
+  "rating": 2802,
+  "attempts": 32454,
+  "fen": "r3k1r1/pppqbp2/3p1n2/3Pp1pp/1PP1P1b1/3BBPPn/P1Q3KP/RN3RN1 b q - 0 16",
+  "color": "white",
+  "initialPly": 32,
+  "gameId": "anilQSZj",
+  "lines": {
+    "f3g4": {
+      "g1h3": {
+        "f1f6": {
+          "e7f6": {
+            "g2h3": {
+              "d7g4": {
+                "h3g2": {
+                  "h5h4": "win"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 691,
+  "enabled": true
+}

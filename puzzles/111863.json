@@ -1,0 +1,24 @@
+{
+  "id": 111863,
+  "rating": 1454,
+  "attempts": 14305,
+  "fen": "2r3k1/5pp1/4p2p/4P3/1n1Q4/5NP1/2qR1PKP/8 b - - 1 36",
+  "color": "white",
+  "initialPly": 72,
+  "gameId": "T679EIPM",
+  "lines": {
+    "d2b2": {
+      "b4c6": {
+        "b2b3": {
+          "c6d4": {
+            "f3d4": {
+              "g7g5": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 117,
+  "enabled": true
+}

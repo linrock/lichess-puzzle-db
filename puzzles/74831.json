@@ -1,0 +1,28 @@
+{
+  "id": 74831,
+  "rating": 1883,
+  "attempts": 30492,
+  "fen": "1R6/6p1/p2KPn2/1b3k1p/5P2/6P1/8/8 b - - 6 48",
+  "color": "white",
+  "initialPly": 96,
+  "gameId": "FIPBr4WM",
+  "lines": {
+    "b8f8": {
+      "g6g5": {
+        "d6e7": {
+          "g5f4": {
+            "f8f6": {
+              "f5g4": {
+                "g3f4": {
+                  "h5h4": "win"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 464,
+  "enabled": true
+}

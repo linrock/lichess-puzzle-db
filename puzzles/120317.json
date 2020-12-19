@@ -1,0 +1,24 @@
+{
+  "id": 120317,
+  "rating": 1280,
+  "attempts": 5338,
+  "fen": "2n2r1k/1pq3p1/5pQp/p4N2/P7/2P5/1P4PP/4R2K b - - 4 31",
+  "color": "white",
+  "initialPly": 62,
+  "gameId": "REUm0IOL",
+  "lines": {
+    "g6f7": {
+      "f8f7": {
+        "e1e8": {
+          "h8h7": {
+            "e8c8": {
+              "g7g5": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 91,
+  "enabled": true
+}

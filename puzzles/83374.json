@@ -1,0 +1,24 @@
+{
+  "id": 83374,
+  "rating": 2034,
+  "attempts": 11697,
+  "fen": "8/8/p7/P1p1n3/2P1k1Pp/3p1b1P/3Q3K/8 w - - 1 49",
+  "color": "black",
+  "initialPly": 97,
+  "gameId": "TaqXinc5",
+  "lines": {
+    "f3e2": {
+      "h2g2": {
+        "e5f3": {
+          "g5g6": {
+            "f3d2": {
+              "g6g7": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 70,
+  "enabled": true
+}

@@ -1,0 +1,24 @@
+{
+  "id": 107113,
+  "rating": 1058,
+  "attempts": 728,
+  "fen": "2r1r1k1/6p1/1q3nQp/p1bp4/3B2P1/1P3N1P/P4P2/R2R2K1 w - - 1 25",
+  "color": "black",
+  "initialPly": 49,
+  "gameId": "UnCIS7GT",
+  "lines": {
+    "c5d4": {
+      "f3d4": {
+        "c8c1": {
+          "d1c1": {
+            "b6d4": {
+              "g1g2": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 32,
+  "enabled": true
+}

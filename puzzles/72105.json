@@ -1,0 +1,24 @@
+{
+  "id": 72105,
+  "rating": 1491,
+  "attempts": 26666,
+  "fen": "3rr1k1/1p2n1p1/p2p3p/4pN1n/1P2P1q1/P2QB1Pb/5P2/R2R2KB w - - 6 22",
+  "color": "black",
+  "initialPly": 43,
+  "gameId": "LKUt6zmd",
+  "lines": {
+    "e7f5": {
+      "h1f3": {
+        "g4g6": {
+          "e4f5": {
+            "g6h6": {
+              "d3e3": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 295,
+  "enabled": true
+}

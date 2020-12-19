@@ -1,0 +1,24 @@
+{
+  "id": 64660,
+  "rating": 1100,
+  "attempts": 26889,
+  "fen": "4r1k1/pp5p/6p1/2PP4/5p2/3Qn2P/P5PK/8 w - - 0 33",
+  "color": "black",
+  "initialPly": 65,
+  "gameId": "RubfZGQ8",
+  "lines": {
+    "e3g4": {
+      "h2g1": {
+        "e8e1": {
+          "d3f1": {
+            "e1f1": {
+              "g1f1": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 310,
+  "enabled": true
+}

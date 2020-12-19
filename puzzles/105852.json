@@ -1,0 +1,24 @@
+{
+  "id": 105852,
+  "rating": 1542,
+  "attempts": 12148,
+  "fen": "r1b2rk1/ppq1p2p/6P1/2pP1p2/8/2P5/P2QB1Pb/1RB2R1K b - - 1 18",
+  "color": "white",
+  "initialPly": 36,
+  "gameId": "Dt095NSp",
+  "lines": {
+    "d2h6": {
+      "c7d6": {
+        "h6h2": {
+          "d6h2": {
+            "h1h2": {
+              "e7e5": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 92,
+  "enabled": true
+}

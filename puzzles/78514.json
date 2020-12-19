@@ -1,0 +1,28 @@
+{
+  "id": 78514,
+  "rating": 1706,
+  "attempts": 32101,
+  "fen": "6rk/pp4r1/2p3q1/4P2p/5Rn1/2Q3R1/PP5P/5B1K b - - 4 41",
+  "color": "white",
+  "initialPly": 82,
+  "gameId": "sAwpcMuT",
+  "lines": {
+    "f1c4": {
+      "e6e5": {
+        "c3e5": {
+          "g4e5": {
+            "c4g8": {
+              "g7g3": {
+                "h2g3": {
+                  "h8g8": "win"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 475,
+  "enabled": true
+}

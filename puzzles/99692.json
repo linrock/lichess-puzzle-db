@@ -1,0 +1,36 @@
+{
+  "id": 99692,
+  "rating": 2117,
+  "attempts": 66082,
+  "fen": "r4r1k/1pp2qp1/pn2p2p/4N3/1P6/PB2P3/2Q3PP/3R2K1 b - - 1 21",
+  "color": "white",
+  "initialPly": 42,
+  "gameId": "HMVKqNgw",
+  "lines": {
+    "e5g6": {
+      "h8h7": {
+        "g6f8": {
+          "a8f8": {
+            "d1f1": {
+              "f5c2": {
+                "b3c2": {
+                  "h7g8": {
+                    "c2h7": {
+                      "g8h7": {
+                        "f1f8": {
+                          "b6c4": "win"
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 266,
+  "enabled": true
+}

@@ -1,0 +1,28 @@
+{
+  "id": 102285,
+  "rating": 1993,
+  "attempts": 8555,
+  "fen": "3R4/5p1k/p4Pp1/1p3nQ1/5P1P/P7/1Pr4r/6K1 w - - 3 36",
+  "color": "black",
+  "initialPly": 71,
+  "gameId": "GTZ37gu7",
+  "lines": {
+    "f5h4": {
+      "d7f7": {
+        "h7g8": {
+          "f7g7": {
+            "g8f8": {
+              "g5c5": {
+                "c2c5": {
+                  "g1h2": "win"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 190,
+  "enabled": true
+}

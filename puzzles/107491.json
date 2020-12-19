@@ -1,0 +1,24 @@
+{
+  "id": 107491,
+  "rating": 1296,
+  "attempts": 3472,
+  "fen": "8/r3kppp/4p3/P5r1/2N3P1/3PP3/4KP1P/1R6 b - - 0 27",
+  "color": "white",
+  "initialPly": 54,
+  "gameId": "zkFrs4In",
+  "lines": {
+    "c4e5": {
+      "g4a4": {
+        "e5c6": {
+          "e7f6": {
+            "c6a7": {
+              "a4a2": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 86,
+  "enabled": true
+}

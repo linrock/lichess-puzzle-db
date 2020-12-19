@@ -1,0 +1,24 @@
+{
+  "id": 65509,
+  "rating": 1326,
+  "attempts": 66040,
+  "fen": "8/p3r1kp/1p1R2p1/2p1qp2/2P1P1P1/3Q1PP1/P4K2/8 w - - 0 33",
+  "color": "black",
+  "initialPly": 65,
+  "gameId": "MTHI98K2",
+  "lines": {
+    "e5e1": {
+      "f2g2": {
+        "e7e2": {
+          "d3e2": {
+            "e1e2": {
+              "g2g1": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 615,
+  "enabled": true
+}

@@ -1,0 +1,26 @@
+{
+  "id": 117692,
+  "rating": 1614,
+  "attempts": 70362,
+  "fen": "5r2/1b3p1k/p4Pp1/2p3Qp/3b3R/pP6/P1q3PP/5R1K b - - 3 30",
+  "color": "white",
+  "initialPly": 60,
+  "gameId": "mv14mewp",
+  "lines": {
+    "h4h5": {
+      "h7g8": {
+        "h5h8": {
+          "g8h8": {
+            "g5h6": {
+              "h8g8": {
+                "h6g7": "win"
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 327,
+  "enabled": true
+}

@@ -1,0 +1,24 @@
+{
+  "id": 124813,
+  "rating": 1386,
+  "attempts": 4386,
+  "fen": "r2q1rk1/1p2bppp/p3bn2/2pp2B1/3n4/1BNP3P/PPP2PPN/R2QR1K1 w - - 6 13",
+  "color": "black",
+  "initialPly": 25,
+  "gameId": "kVMiMgEx",
+  "lines": {
+    "d4b3": {
+      "a2b3": {
+        "d5d4": {
+          "e3g5": {
+            "d4c3": {
+              "b2c3": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 45,
+  "enabled": true
+}

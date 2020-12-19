@@ -1,0 +1,24 @@
+{
+  "id": 67551,
+  "rating": 1369,
+  "attempts": 40131,
+  "fen": "rnbqk1nr/pp4pp/2pbp3/3p1p2/2PP4/1P2PN2/P4PPP/RNBQKB1R w KQkq - 0 6",
+  "color": "black",
+  "initialPly": 11,
+  "gameId": "STTXiErd",
+  "lines": {
+    "d6a3": {
+      "b1a3": {
+        "d8a5": {
+          "d1d2": {
+            "a5a3": {
+              "f1d3": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 362,
+  "enabled": true
+}

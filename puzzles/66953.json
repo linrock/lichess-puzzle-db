@@ -1,0 +1,24 @@
+{
+  "id": 66953,
+  "rating": 1897,
+  "attempts": 93805,
+  "fen": "r1b2bk1/pp1n2q1/2p5/3p4/7Q/3BP3/PPPN2PP/5RK1 b - - 2 24",
+  "color": "white",
+  "initialPly": 48,
+  "gameId": "RWethQ1x",
+  "lines": {
+    "d3h7": {
+      "g7h7": {
+        "f1f8": {
+          "g8f8": {
+            "h4h7": {
+              "e5f7": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 1269,
+  "enabled": true
+}

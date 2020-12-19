@@ -1,0 +1,28 @@
+{
+  "id": 69711,
+  "rating": 2131,
+  "attempts": 138235,
+  "fen": "4r3/p6p/2p2k2/3pn3/1P3pp1/2P2P2/P4KPP/4RB2 w - - 0 32",
+  "color": "black",
+  "initialPly": 63,
+  "gameId": "cNyXKUND",
+  "lines": {
+    "g4g3": {
+      "h2g3": {
+        "e5g4": {
+          "f3g4": {
+            "f4g3": {
+              "f2g3": {
+                "e8e1": {
+                  "f1a6": "win"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 846,
+  "enabled": true
+}

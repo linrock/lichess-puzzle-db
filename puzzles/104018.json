@@ -1,0 +1,20 @@
+{
+  "id": 104018,
+  "rating": 2501,
+  "attempts": 1140,
+  "fen": "r1r3k1/4bpp1/pq2pnp1/3pN3/Pp1P1B2/1nPB3P/1P1Q1PP1/R3R1K1 w - - 6 20",
+  "color": "black",
+  "initialPly": 39,
+  "gameId": "caBW7LZk",
+  "lines": {
+    "b4c3": {
+      "b2c3": {
+        "b3a1": {
+          "e1a1": "win"
+        }
+      }
+    }
+  },
+  "vote": -21,
+  "enabled": true
+}

@@ -1,0 +1,27 @@
+{
+  "id": 101309,
+  "rating": 1500,
+  "attempts": 4,
+  "fen": "8/8/P1n5/2P5/8/2K2nk1/6p1/R7 w - - 1 57",
+  "color": "black",
+  "initialPly": 113,
+  "gameId": "kZas47v5",
+  "lines": {
+    "f3d2": {
+      "c4d5": {
+        "d2f1": {
+          "d5c6": {
+            "g2g1q": {
+              "a6a7": {
+                "g1g2": {
+                  "c6d6": "win"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": -9000
+}

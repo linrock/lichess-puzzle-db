@@ -1,0 +1,32 @@
+{
+  "id": 120906,
+  "rating": 1816,
+  "attempts": 10036,
+  "fen": "rn3rk1/pp3pp1/4p1b1/2pq3p/6PP/2BP1N2/PPP1QP2/R3K1R1 b Q - 1 14",
+  "color": "white",
+  "initialPly": 28,
+  "gameId": "ZodpwQ74",
+  "lines": {
+    "g4h5": {
+      "d5h5": {
+        "g1g5": {
+          "h5h6": {
+            "h4h5": {
+              "g6h5": {
+                "g5g7": {
+                  "h6g7": {
+                    "c3g7": {
+                      "g8g7": "win"
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 237,
+  "enabled": true
+}

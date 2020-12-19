@@ -1,0 +1,24 @@
+{
+  "id": 119915,
+  "rating": 1581,
+  "attempts": 22170,
+  "fen": "5rk1/1r1qppbp/2N3p1/P2Pp3/8/2n1Q1P1/1P3PKP/R4R2 w - - 0 25",
+  "color": "black",
+  "initialPly": 49,
+  "gameId": "olsRIsoK",
+  "lines": {
+    "d7d5": {
+      "e3f3": {
+        "e5e4": {
+          "c6e7": {
+            "b7e7": {
+              "f3e3": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 193,
+  "enabled": true
+}

@@ -1,0 +1,28 @@
+{
+  "id": 110464,
+  "rating": 2005,
+  "attempts": 5718,
+  "fen": "r3r1k1/6bp/3p1p2/p1qP1P2/5B2/2p4Q/PP1R2P1/2K4R w - - 0 28",
+  "color": "black",
+  "initialPly": 55,
+  "gameId": "CCabA9OR",
+  "lines": {
+    "c5a3": {
+      "c1b1": {
+        "a8b8": {
+          "b1a1": {
+            "e8e4": {
+              "f4d6": {
+                "a3d6": {
+                  "h3d3": "win"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 93,
+  "enabled": true
+}

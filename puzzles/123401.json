@@ -1,0 +1,20 @@
+{
+  "id": 123401,
+  "rating": 1072,
+  "attempts": 1382,
+  "fen": "5rk1/pp2Rr1p/1p2Q1p1/8/8/7P/P1q3P1/4R1K1 w - - 2 24",
+  "color": "black",
+  "initialPly": 47,
+  "gameId": "ModkGAHl",
+  "lines": {
+    "c2c5": {
+      "g1h2": {
+        "c5e7": {
+          "e6d5": "win"
+        }
+      }
+    }
+  },
+  "vote": 31,
+  "enabled": true
+}

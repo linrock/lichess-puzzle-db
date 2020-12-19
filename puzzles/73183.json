@@ -1,0 +1,24 @@
+{
+  "id": 73183,
+  "rating": 1111,
+  "attempts": 25801,
+  "fen": "rnbqk1nr/ppp2ppp/8/2b1p3/4P3/5N2/PPPP2PP/RNBQKB1R w KQkq - 0 5",
+  "color": "black",
+  "initialPly": 9,
+  "gameId": "RAH520Pu",
+  "lines": {
+    "d8h4": {
+      "g2g3": {
+        "h4e4": {
+          "d1e2": {
+            "e4h1": {
+              "e5g6": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 359,
+  "enabled": true
+}

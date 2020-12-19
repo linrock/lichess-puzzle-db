@@ -1,0 +1,24 @@
+{
+  "id": 109794,
+  "rating": 967,
+  "attempts": 389,
+  "fen": "1r1r2k1/p1p2pp1/4p2p/8/B2qQ3/2R5/2P2PPP/3R2K1 w - - 0 23",
+  "color": "black",
+  "initialPly": 45,
+  "gameId": "zFakaPGA",
+  "lines": {
+    "d4e4": {
+      "d3d8": {
+        "b8d8": {
+          "d1d8": {
+            "g8h7": {
+              "a4b5": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 13,
+  "enabled": true
+}

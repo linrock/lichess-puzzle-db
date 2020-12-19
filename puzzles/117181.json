@@ -1,0 +1,28 @@
+{
+  "id": 117181,
+  "rating": 1931,
+  "attempts": 8266,
+  "fen": "8/1p1Q2bk/6pp/4rp2/8/1NP1q2P/PP1Rr1P1/5R1K w - - 5 35",
+  "color": "black",
+  "initialPly": 69,
+  "gameId": "MkyUpTZ1",
+  "lines": {
+    "e2e1": {
+      "d1e1": {
+        "e3e1": {
+          "h1h2": {
+            "e5e7": {
+              "d7e7": {
+                "e1e7": {
+                  "b3d4": "win"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 136,
+  "enabled": true
+}

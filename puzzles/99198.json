@@ -1,0 +1,28 @@
+{
+  "id": 99198,
+  "rating": 2422,
+  "attempts": 2765,
+  "fen": "2r3k1/pp1qnpp1/4b2p/3pP3/3N4/8/PP3PPP/1B1QR1K1 b - - 1 18",
+  "color": "white",
+  "initialPly": 36,
+  "gameId": "kt7X45mm",
+  "lines": {
+    "b1f5": {
+      "e7f5": {
+        "d1g4": {
+          "c8c4": {
+            "g4f5": {
+              "d7f5": {
+                "d4f5": {
+                  "c4c2": "win"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 46,
+  "enabled": true
+}

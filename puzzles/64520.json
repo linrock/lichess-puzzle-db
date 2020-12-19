@@ -1,0 +1,28 @@
+{
+  "id": 64520,
+  "rating": 2120,
+  "attempts": 76184,
+  "fen": "6k1/p4r2/4R2p/6b1/4Q1P1/2q1N1K1/7P/8 w - - 6 40",
+  "color": "black",
+  "initialPly": 79,
+  "gameId": "LiYouUQx",
+  "lines": {
+    "g8f8": {
+      "g6c2": {
+        "c3e1": {
+          "g3g2": {
+            "g5e3": {
+              "c2c5": {
+                "e3c5": {
+                  "e6e1": "win"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 1230,
+  "enabled": true
+}

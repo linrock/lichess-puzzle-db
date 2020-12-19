@@ -1,0 +1,24 @@
+{
+  "id": 66957,
+  "rating": 1601,
+  "attempts": 67405,
+  "fen": "6k1/p2r1p2/4p1p1/R6p/7P/1P1BKP1n/P4P2/8 b - - 3 30",
+  "color": "white",
+  "initialPly": 60,
+  "gameId": "npTkbra6",
+  "lines": {
+    "d3f1": {
+      "h3g1": {
+        "a5g5": {
+          "d7d1": {
+            "g5g1": {
+              "a7a5": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 790,
+  "enabled": true
+}

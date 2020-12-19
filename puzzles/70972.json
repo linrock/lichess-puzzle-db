@@ -1,0 +1,24 @@
+{
+  "id": 70972,
+  "rating": 2076,
+  "attempts": 19934,
+  "fen": "rn3rk1/pp4pp/2p2nq1/2bp2B1/6P1/2N1PN1P/PPP2P2/R2QK2R w KQ - 0 13",
+  "color": "black",
+  "initialPly": 25,
+  "gameId": "cylxsaAV",
+  "lines": {
+    "g6f6": {
+      "c3d5": {
+        "c6d5": {
+          "d1d5": {
+            "g8h8": {
+              "e1c1": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 9,
+  "enabled": true
+}

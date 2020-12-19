@@ -1,0 +1,28 @@
+{
+  "id": 114574,
+  "rating": 2901,
+  "attempts": 249,
+  "fen": "r3r1k1/ppp1qp2/5nbp/2PP2p1/3P4/P1P2Q2/R2NB1PP/4KR2 b - - 2 24",
+  "color": "white",
+  "initialPly": 48,
+  "gameId": "JdnyddRC",
+  "lines": {
+    "f3f6": {
+      "d7d5": {
+        "a2b2": {
+          "g6h5": {
+            "g2g4": {
+              "h5g4": {
+                "f1f2": {
+                  "a8d8": "win"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": -2,
+  "enabled": true
+}

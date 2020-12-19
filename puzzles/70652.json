@@ -1,0 +1,24 @@
+{
+  "id": 70652,
+  "rating": 1822,
+  "attempts": 230542,
+  "fen": "8/1RP5/2r3kp/6p1/8/5K1P/6P1/8 b - - 3 40",
+  "color": "white",
+  "initialPly": 80,
+  "gameId": "PiLex80U",
+  "lines": {
+    "b7b5": {
+      "f5g6": {
+        "b5b6": {
+          "c6b6": {
+            "c7c8q": {
+              "b6f6": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 1534,
+  "enabled": true
+}

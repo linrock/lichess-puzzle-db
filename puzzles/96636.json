@@ -1,0 +1,20 @@
+{
+  "id": 96636,
+  "rating": 1320,
+  "attempts": 7679,
+  "fen": "r6k/6p1/6Qp/2pp4/3q4/3B2PP/5P2/6K1 b - - 2 42",
+  "color": "white",
+  "initialPly": 84,
+  "gameId": "SLDS5LbV",
+  "lines": {
+    "g1g2": {
+      "d4d3": {
+        "g6d3": {
+          "d5d4": "win"
+        }
+      }
+    }
+  },
+  "vote": -40,
+  "enabled": true
+}

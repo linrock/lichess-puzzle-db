@@ -1,0 +1,20 @@
+{
+  "id": 101280,
+  "rating": 804,
+  "attempts": 122,
+  "fen": "r2R2k1/p1p2ppp/1pn1b3/4p3/4P3/1N4P1/PP3PBP/2R3K1 b - - 0 17",
+  "color": "white",
+  "initialPly": 34,
+  "gameId": "UkiVnMgF",
+  "lines": {
+    "c1c6": {
+      "d8d1": {
+        "g2f1": {
+          "e6h3": "win"
+        }
+      }
+    }
+  },
+  "vote": 3,
+  "enabled": true
+}

@@ -1,0 +1,24 @@
+{
+  "id": 64735,
+  "rating": 1578,
+  "attempts": 67631,
+  "fen": "rn3rk1/4qppp/3pb3/p1p2N2/1p2PR2/1P1P3P/1PP3PN/R2Q2K1 b - - 2 20",
+  "color": "white",
+  "initialPly": 40,
+  "gameId": "kAouKON2",
+  "lines": {
+    "f4g4": {
+      "g5f6": {
+        "g4g7": {
+          "f6g7": {
+            "f5g7": {
+              "g8g7": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 609,
+  "enabled": true
+}

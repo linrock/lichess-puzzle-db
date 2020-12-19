@@ -1,0 +1,24 @@
+{
+  "id": 96773,
+  "rating": 1254,
+  "attempts": 3476,
+  "fen": "r3r1k1/p4ppp/1p1q1n2/2ppNb2/B2P1P2/2P3R1/P3Q1PP/5RK1 b - - 1 24",
+  "color": "white",
+  "initialPly": 48,
+  "gameId": "RGXhZen3",
+  "lines": {
+    "a4d7": {
+      "d6d7": {
+        "e5d7": {
+          "e8e2": {
+            "d7f6": {
+              "g8h8": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 56,
+  "enabled": true
+}

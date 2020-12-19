@@ -1,0 +1,24 @@
+{
+  "id": 124056,
+  "rating": 1743,
+  "attempts": 6795,
+  "fen": "7r/4b3/p3qpk1/3p1p1p/5Q1P/PP1RB1PK/2r2P2/5R2 w - - 0 39",
+  "color": "black",
+  "initialPly": 77,
+  "gameId": "FAC15TOa",
+  "lines": {
+    "e7d6": {
+      "f4f3": {
+        "f5f4": {
+          "h3g2": {
+            "f4e3": {
+              "d3e3": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 98,
+  "enabled": true
+}

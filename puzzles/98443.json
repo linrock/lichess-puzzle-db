@@ -1,0 +1,24 @@
+{
+  "id": 98443,
+  "rating": 1336,
+  "attempts": 35593,
+  "fen": "8/pr5p/2pP4/2P1k1p1/R3P3/3K3P/2r5/5R2 b - - 2 44",
+  "color": "white",
+  "initialPly": 88,
+  "gameId": "H03A150W",
+  "lines": {
+    "f1f5": {
+      "e5d6": {
+        "a4d4": {
+          "d6e7": {
+            "f5c5": {
+              "b7b3": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 191,
+  "enabled": true
+}

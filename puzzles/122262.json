@@ -1,0 +1,28 @@
+{
+  "id": 122262,
+  "rating": 2900,
+  "attempts": 58,
+  "fen": "r2qk2r/pp3ppp/2nbp3/3p3b/Q2Pn3/2N1PN1P/PP2BPP1/R1B2RK1 w kq - 3 11",
+  "color": "black",
+  "initialPly": 21,
+  "gameId": "mzXp2G26",
+  "lines": {
+    "h5f3": {
+      "b5c6": {
+        "e8f8": {
+          "c3e4": {
+            "d5e4": {
+              "c6e4": {
+                "f3e4": {
+                  "f2f3": "win"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 1,
+  "enabled": true
+}

@@ -1,0 +1,24 @@
+{
+  "id": 76396,
+  "rating": 2183,
+  "attempts": 11545,
+  "fen": "4r1k1/p5p1/5p1p/4BQ1b/3P4/6P1/P3r2P/5K2 b - - 1 29",
+  "color": "white",
+  "initialPly": 58,
+  "gameId": "czLvlSe1",
+  "lines": {
+    "f5d7": {
+      "g6g5": {
+        "g3g4": {
+          "e2e5": {
+            "d4e5": {
+              "h5f7": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 224,
+  "enabled": true
+}

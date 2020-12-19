@@ -1,0 +1,40 @@
+{
+  "id": 68156,
+  "rating": 2232,
+  "attempts": 28416,
+  "fen": "r3k3/2p4p/p1qbQ1p1/1p1N4/3P1p2/4BK1P/P7/8 b - - 13 34",
+  "color": "white",
+  "initialPly": 68,
+  "gameId": "KMari4sC",
+  "lines": {
+    "e3f4": {
+      "h7h6": {
+        "f4h6": {
+          "c6d7": {
+            "e6g8": {
+              "d7e8": {
+                "h6g5": {
+                  "d6e7": {
+                    "g5e7": {
+                      "d8d7": {
+                        "d5f6": {
+                          "d7e7": {
+                            "f6e8": {
+                              "a8e8": "win"
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 768,
+  "enabled": true
+}

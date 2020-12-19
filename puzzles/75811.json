@@ -1,0 +1,32 @@
+{
+  "id": 75811,
+  "rating": 2106,
+  "attempts": 11940,
+  "fen": "8/1R4pk/3br3/1p1p4/3PpPqp/2P1BbP1/1P3Q1P/R5K1 w - - 4 31",
+  "color": "black",
+  "initialPly": 61,
+  "gameId": "KseNtd85",
+  "lines": {
+    "e6g6": {
+      "g1f1": {
+        "g4h3": {
+          "f1e1": {
+            "h4g3": {
+              "b7g7": {
+                "g6g7": {
+                  "a7g7": {
+                    "h7g7": {
+                      "h2g3": "win"
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 212,
+  "enabled": true
+}

@@ -1,0 +1,24 @@
+{
+  "id": 123127,
+  "rating": 1091,
+  "attempts": 375,
+  "fen": "5k2/1p4b1/p5Bp/8/6R1/5P1P/P2r2PK/8 b - - 0 39",
+  "color": "white",
+  "initialPly": 78,
+  "gameId": "JakpKfDy",
+  "lines": {
+    "g4f4": {
+      "f8g8": {
+        "g6f7": {
+          "g8h7": {
+            "f7a2": {
+              "g7e5": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 9,
+  "enabled": true
+}

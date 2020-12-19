@@ -1,0 +1,24 @@
+{
+  "id": 86804,
+  "rating": 1697,
+  "attempts": 15129,
+  "fen": "7k/6p1/3pN1p1/3P4/R1P1p3/5n1P/2r5/5K2 w - - 0 46",
+  "color": "black",
+  "initialPly": 91,
+  "gameId": "KzuSpDeB",
+  "lines": {
+    "e4e3": {
+      "a4a8": {
+        "h8h7": {
+          "e6g5": {
+            "f3g5": {
+              "a8f8": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 255,
+  "enabled": true
+}

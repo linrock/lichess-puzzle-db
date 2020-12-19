@@ -1,0 +1,28 @@
+{
+  "id": 83864,
+  "rating": 1548,
+  "attempts": 61612,
+  "fen": "r2q2k1/p4ppp/1p3p2/4n3/3N4/2P3Q1/PP3PPP/4R1K1 b - - 2 19",
+  "color": "white",
+  "initialPly": 38,
+  "gameId": "gSNH3Gtt",
+  "lines": {
+    "d4f5": {
+      "e5g6": {
+        "g3g6": {
+          "f7g6": {
+            "f5e7": {
+              "g8f7": {
+                "e7d5": {
+                  "a8d8": "win"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 484,
+  "enabled": true
+}

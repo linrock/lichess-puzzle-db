@@ -1,0 +1,22 @@
+{
+  "id": 82430,
+  "rating": 1337,
+  "attempts": 205519,
+  "fen": "r4q2/7k/3pQ3/2pP1p1p/2P5/6R1/p4PK1/8 b - - 5 50",
+  "color": "white",
+  "initialPly": 100,
+  "gameId": "FIvyLIwv",
+  "lines": {
+    "e6g6": {
+      "h7h8": {
+        "g6h5": {
+          "f8h6": {
+            "h5h6": "win"
+          }
+        }
+      }
+    }
+  },
+  "vote": 1578,
+  "enabled": true
+}

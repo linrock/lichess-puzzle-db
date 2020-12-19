@@ -1,0 +1,36 @@
+{
+  "id": 124979,
+  "rating": 2900,
+  "attempts": 138,
+  "fen": "r3knnr/pp1bpp2/1q5p/3Pb2B/7N/2N5/PP4P1/R1BQK2R w KQkq - 0 15",
+  "color": "black",
+  "initialPly": 29,
+  "gameId": "XAXrxk49",
+  "lines": {
+    "e8f7": {
+      "d1h5": {
+        "f8g6": {
+          "c3e2": {
+            "b6b4": {
+              "c1d2": {
+                "b4h4": {
+                  "h1h4": {
+                    "g8f6": {
+                      "h4f4": {
+                        "e5f4": {
+                          "h5f3": "win"
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": -1,
+  "enabled": true
+}

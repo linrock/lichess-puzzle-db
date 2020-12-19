@@ -1,0 +1,24 @@
+{
+  "id": 117700,
+  "rating": 1329,
+  "attempts": 44425,
+  "fen": "rn3rk1/p1n1q3/1pp1P2p/2p2p2/4pP2/1QP1B3/P2RB1PP/R5K1 b - - 0 19",
+  "color": "white",
+  "initialPly": 38,
+  "gameId": "IkpvReiS",
+  "lines": {
+    "d2d5": {
+      "c6d5": {
+        "b3d5": {
+          "b8c6": {
+            "d5c6": {
+              "a8d8": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 143,
+  "enabled": true
+}

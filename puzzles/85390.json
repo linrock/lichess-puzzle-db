@@ -1,0 +1,24 @@
+{
+  "id": 85390,
+  "rating": 992,
+  "attempts": 981,
+  "fen": "8/8/1p4r1/p1p1pp2/P1R2b1P/1P1k1K2/8/7N b - - 0 47",
+  "color": "white",
+  "initialPly": 94,
+  "gameId": "giLocLBW",
+  "lines": {
+    "h1f2": {
+      "d3d2": {
+        "f2g4": {
+          "f5g4": {
+            "f3g4": {
+              "f4h6": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 25,
+  "enabled": true
+}

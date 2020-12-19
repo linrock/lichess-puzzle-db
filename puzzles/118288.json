@@ -1,0 +1,24 @@
+{
+  "id": 118288,
+  "rating": 1557,
+  "attempts": 67535,
+  "fen": "6k1/1p4p1/2p4p/p2q1p2/Pb1Pr3/3Q2BP/1P3PP1/3R2K1 w - - 0 30",
+  "color": "black",
+  "initialPly": 59,
+  "gameId": "LkTSpGL6",
+  "lines": {
+    "e4d4": {
+      "d3d4": {
+        "b4c5": {
+          "d4c5": {
+            "d5c5": {
+              "g1h2": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 272,
+  "enabled": true
+}

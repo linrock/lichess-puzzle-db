@@ -1,0 +1,28 @@
+{
+  "id": 86445,
+  "rating": 1734,
+  "attempts": 10716,
+  "fen": "6rk/2Rb3p/p2p4/1P1Pp1r1/1P2Bn1q/P3Q2P/5P1K/5RN1 b - - 0 27",
+  "color": "white",
+  "initialPly": 54,
+  "gameId": "LGOYePMx",
+  "lines": {
+    "f1g1": {
+      "g8g1": {
+        "h2g1": {
+          "f4h3": {
+            "g1f1": {
+              "d7b5": {
+                "f1e1": {
+                  "h3g5": "win"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 172,
+  "enabled": true
+}

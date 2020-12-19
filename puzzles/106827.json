@@ -1,0 +1,28 @@
+{
+  "id": 106827,
+  "rating": 2044,
+  "attempts": 4343,
+  "fen": "2r2r2/3b1pp1/p1n1p1k1/1pN5/3P1q2/1Q6/PP3PPP/2R2RK1 b - - 5 19",
+  "color": "white",
+  "initialPly": 38,
+  "gameId": "25CVDSNI",
+  "lines": {
+    "c5d7": {
+      "c6d4": {
+        "d7f8": {
+          "c8f8": {
+            "b3d3": {
+              "f8h8": {
+                "h2h3": {
+                  "g6f6": "win"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 31,
+  "enabled": true
+}

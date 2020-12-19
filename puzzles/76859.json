@@ -1,0 +1,28 @@
+{
+  "id": 76859,
+  "rating": 2033,
+  "attempts": 17937,
+  "fen": "r7/p1p5/2pq2k1/3p1r2/3P2bB/P1P2P2/2PQ4/R4RK1 b - - 0 22",
+  "color": "white",
+  "initialPly": 44,
+  "gameId": "NoPMczmV",
+  "lines": {
+    "f1f3": {
+      "f5f3": {
+        "d2g2": {
+          "g6h7": {
+            "g2f3": {
+              "a8g8": {
+                "g1h1": {
+                  "d6g6": "win"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 433,
+  "enabled": true
+}

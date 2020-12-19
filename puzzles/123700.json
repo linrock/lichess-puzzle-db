@@ -1,0 +1,24 @@
+{
+  "id": 123700,
+  "rating": 1570,
+  "attempts": 7308,
+  "fen": "3r1rk1/p1q2pbp/2pp2p1/3n1b2/2N5/BP3N2/P1P2PPP/R2Q1RK1 w - - 4 17",
+  "color": "black",
+  "initialPly": 33,
+  "gameId": "UPT25dhP",
+  "lines": {
+    "d8d6": {
+      "c4d6": {
+        "c7d6": {
+          "c2c4": {
+            "g7a1": {
+              "d1a1": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 79,
+  "enabled": true
+}

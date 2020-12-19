@@ -1,0 +1,24 @@
+{
+  "id": 100233,
+  "rating": 1456,
+  "attempts": 10942,
+  "fen": "8/1p5k/p5nN/2pP2P1/4r1Q1/2P5/PP5q/2K3R1 w - - 2 38",
+  "color": "black",
+  "initialPly": 75,
+  "gameId": "laTtQ5MH",
+  "lines": {
+    "e4e1": {
+      "c1d2": {
+        "h2g1": {
+          "g2g1": {
+            "e1g1": {
+              "h6f7": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 204,
+  "enabled": true
+}

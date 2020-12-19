@@ -1,0 +1,24 @@
+{
+  "id": 114234,
+  "rating": 1901,
+  "attempts": 8300,
+  "fen": "r2qk2r/ppp1bppp/2n3b1/3nN3/2B3P1/2P4P/PP1P1P2/RNBQR1K1 b kq - 0 10",
+  "color": "white",
+  "initialPly": 20,
+  "gameId": "CEAbtEVL",
+  "lines": {
+    "c4d5": {
+      "d8d5": {
+        "e5c6": {
+          "d5c6": {
+            "e1e7": {
+              "a8e8": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 166,
+  "enabled": true
+}

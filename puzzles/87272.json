@@ -1,0 +1,24 @@
+{
+  "id": 87272,
+  "rating": 1630,
+  "attempts": 13525,
+  "fen": "r1r4k/1b4pp/p2P1pq1/2N1p3/2Q1R3/P7/5PPP/4R1K1 w - - 1 27",
+  "color": "black",
+  "initialPly": 53,
+  "gameId": "UCF2Lsx8",
+  "lines": {
+    "c8c5": {
+      "c4b4": {
+        "c5b5": {
+          "g4g6": {
+            "b5b4": {
+              "g6f6": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 180,
+  "enabled": true
+}

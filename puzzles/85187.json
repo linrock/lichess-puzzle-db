@@ -1,0 +1,24 @@
+{
+  "id": 85187,
+  "rating": 1335,
+  "attempts": 12034,
+  "fen": "rn2k2r/ppp2ppp/8/3q4/3P4/3B1b2/P2B1PPP/Q3R1K1 b kq - 1 13",
+  "color": "white",
+  "initialPly": 26,
+  "gameId": "dCABBDVB",
+  "lines": {
+    "d2b4": {
+      "c7c5": {
+        "b4c5": {
+          "d5c5": {
+            "d4c5": {
+              "b8c6": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 251,
+  "enabled": true
+}

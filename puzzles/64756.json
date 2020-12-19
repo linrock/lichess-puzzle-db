@@ -1,0 +1,23 @@
+{
+  "id": 64756,
+  "rating": 1071,
+  "attempts": 14,
+  "fen": "8/8/p6p/2k2N2/1p3KP1/8/8/8 w - - 0 68",
+  "color": "black",
+  "initialPly": 135,
+  "gameId": "Cl6DUxlt",
+  "lines": {
+    "b4b3": {
+      "g4g5": {
+        "b3b2": {
+          "g5g6": {
+            "b2b1q": {
+              "g6g7": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": -9000
+}

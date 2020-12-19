@@ -1,0 +1,20 @@
+{
+  "id": 123121,
+  "rating": 899,
+  "attempts": 202,
+  "fen": "r3k2r/pp3p2/5p2/3Np3/4n2P/8/PPP2P2/R3K2R b KQkq - 0 17",
+  "color": "white",
+  "initialPly": 34,
+  "gameId": "mxyMlMpL",
+  "lines": {
+    "d5c7": {
+      "e8e7": {
+        "c7a8": {
+          "h8a8": "win"
+        }
+      }
+    }
+  },
+  "vote": 12,
+  "enabled": true
+}

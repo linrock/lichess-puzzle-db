@@ -1,0 +1,28 @@
+{
+  "id": 90373,
+  "rating": 1870,
+  "attempts": 13069,
+  "fen": "3rr1k1/1pq3bp/p5p1/2P2b2/P1R1NP2/3Pp3/4Q1BP/5R1K b - - 4 26",
+  "color": "white",
+  "initialPly": 52,
+  "gameId": "AGsxjSip",
+  "lines": {
+    "c4d4": {
+      "d8d4": {
+        "e4f6": {
+          "g8f7": {
+            "f6e8": {
+              "c7c5": {
+                "e2e3": {
+                  "b7b6": "win"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 277,
+  "enabled": true
+}

@@ -1,0 +1,24 @@
+{
+  "id": 87054,
+  "rating": 2015,
+  "attempts": 11326,
+  "fen": "1r3rk1/1bq3bp/pp1pp1p1/2p2p2/2PnPP2/1PNP2PP/P2Q1BBK/3R1R2 w - - 0 18",
+  "color": "black",
+  "initialPly": 35,
+  "gameId": "MRBKKSUw",
+  "lines": {
+    "b7g2": {
+      "f2d4": {
+        "c5d4": {
+          "d2g2": {
+            "d4c3": {
+              "f5e6": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 285,
+  "enabled": true
+}

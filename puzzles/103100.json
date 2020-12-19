@@ -1,0 +1,24 @@
+{
+  "id": 103100,
+  "rating": 2457,
+  "attempts": 1421,
+  "fen": "r4k2/1qp2r2/p7/R1P5/2PP4/3Q4/4BPb1/3R2K1 w - - 0 35",
+  "color": "black",
+  "initialPly": 69,
+  "gameId": "EsIETsMz",
+  "lines": {
+    "g2f1": {
+      "c5c6": {
+        "b7b4": {
+          "d3a3": {
+            "b4a3": {
+              "a5a3": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 11,
+  "enabled": true
+}

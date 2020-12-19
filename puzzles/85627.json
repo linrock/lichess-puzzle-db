@@ -1,0 +1,24 @@
+{
+  "id": 85627,
+  "rating": 1090,
+  "attempts": 1505,
+  "fen": "8/1p2rpk1/p1p3p1/7p/P1Qb3P/1P3BP1/3q1PK1/5R2 b - - 5 39",
+  "color": "white",
+  "initialPly": 78,
+  "gameId": "EgekOMjy",
+  "lines": {
+    "f1e1": {
+      "d2f2": {
+        "g2h3": {
+          "f2e1": {
+            "c4d4": {
+              "g7g8": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": -23,
+  "enabled": true
+}

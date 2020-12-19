@@ -1,0 +1,20 @@
+{
+  "id": 112219,
+  "rating": 1085,
+  "attempts": 1497,
+  "fen": "r3r1k1/pp3ppp/2p3q1/2Pp4/3Pn3/1P3QN1/P4PPP/4RRK1 w - - 2 22",
+  "color": "black",
+  "initialPly": 43,
+  "gameId": "IJONSNXP",
+  "lines": {
+    "e4d2": {
+      "f3d1": {
+        "d2f1": {
+          "g3f1": "win"
+        }
+      }
+    }
+  },
+  "vote": 34,
+  "enabled": true
+}

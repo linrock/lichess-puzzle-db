@@ -1,0 +1,24 @@
+{
+  "id": 81391,
+  "rating": 1219,
+  "attempts": 11250,
+  "fen": "r1bqk1nr/ppp2ppp/6n1/3P4/1b2NP2/8/PP1B2PP/R2QKBNR b KQkq - 2 9",
+  "color": "white",
+  "initialPly": 18,
+  "gameId": "bKwoFolt",
+  "lines": {
+    "d1a4": {
+      "c8d7": {
+        "a4b4": {
+          "e7b4": {
+            "d2b4": {
+              "e8c8": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 204,
+  "enabled": true
+}

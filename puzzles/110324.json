@@ -1,0 +1,20 @@
+{
+  "id": 110324,
+  "rating": 1011,
+  "attempts": 813,
+  "fen": "r1b2rk1/pp3ppp/2q5/8/8/2n2B2/PP3PPP/R2Q1RK1 w - - 0 15",
+  "color": "black",
+  "initialPly": 29,
+  "gameId": "SyBp21EW",
+  "lines": {
+    "c3d1": {
+      "c6b7": {
+        "c8b7": {
+          "f1d1": "win"
+        }
+      }
+    }
+  },
+  "vote": -26,
+  "enabled": true
+}

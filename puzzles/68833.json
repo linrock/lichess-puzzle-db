@@ -1,0 +1,36 @@
+{
+  "id": 68833,
+  "rating": 2223,
+  "attempts": 70853,
+  "fen": "8/5p1p/6pk/3PQ3/4P1K1/P4PP1/1R6/5q1r w - - 9 43",
+  "color": "black",
+  "initialPly": 85,
+  "gameId": "TMHu5DFd",
+  "lines": {
+    "f7f5": {
+      "e4f5": {
+        "f1h3": {
+          "g4f4": {
+            "g6g5": {
+              "f4e3": {
+                "h1e1": {
+                  "e3d4": {
+                    "e1e5": {
+                      "b7b6": {
+                        "h6g7": {
+                          "d4e5": "win"
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 474,
+  "enabled": true
+}

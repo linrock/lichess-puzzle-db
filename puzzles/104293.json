@@ -1,0 +1,24 @@
+{
+  "id": 104293,
+  "rating": 1975,
+  "attempts": 5959,
+  "fen": "2r3k1/1p5p/1P1Nrpp1/2P1p3/4b3/8/6PP/1RR4K b - - 3 34",
+  "color": "white",
+  "initialPly": 68,
+  "gameId": "JGrt460f",
+  "lines": {
+    "d6c8": {
+      "b1e4": {
+        "c5c6": {
+          "e4c6": {
+            "c1c6": {
+              "g8f7": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 209,
+  "enabled": true
+}

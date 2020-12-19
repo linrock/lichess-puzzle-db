@@ -1,0 +1,28 @@
+{
+  "id": 62356,
+  "rating": 1964,
+  "attempts": 171172,
+  "fen": "5r1k/6qn/pp2bN2/3pP2Q/3p4/P2P3P/1P4P1/5RK1 b - - 4 31",
+  "color": "white",
+  "initialPly": 62,
+  "gameId": "MpDeMlT3",
+  "lines": {
+    "h5h7": {
+      "g7h7": {
+        "f6h7": {
+          "h8h7": {
+            "e5e6": {
+              "f7e6": {
+                "f1f8": {
+                  "h7g7": "win"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 3737,
+  "enabled": true
+}

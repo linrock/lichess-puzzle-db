@@ -1,0 +1,24 @@
+{
+  "id": 104627,
+  "rating": 1423,
+  "attempts": 31914,
+  "fen": "8/1pR2ppk/4pb1p/4B2P/4n3/r4NP1/5PK1/8 w - - 2 39",
+  "color": "black",
+  "initialPly": 77,
+  "gameId": "OXGfpf64",
+  "lines": {
+    "a3f3": {
+      "g2f3": {
+        "e4g5": {
+          "f3e2": {
+            "g5f7": {
+              "e5f4": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 171,
+  "enabled": true
+}

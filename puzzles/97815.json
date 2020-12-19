@@ -1,0 +1,24 @@
+{
+  "id": 97815,
+  "rating": 1608,
+  "attempts": 10561,
+  "fen": "r4rk1/p1Rb2bp/1p1q1np1/1B1p1p2/N2Pp3/1Q2P1P1/PP1N1PP1/2R3K1 b - - 9 22",
+  "color": "white",
+  "initialPly": 44,
+  "gameId": "AzSTcYJS",
+  "lines": {
+    "c1c6": {
+      "d6d8": {
+        "c7g7": {
+          "g8g7": {
+            "c6e6": {
+              "d8c8": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 218,
+  "enabled": true
+}

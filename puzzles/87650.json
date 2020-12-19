@@ -1,0 +1,28 @@
+{
+  "id": 87650,
+  "rating": 1049,
+  "attempts": 824,
+  "fen": "r3k2r/1bqp1ppp/p1nbpn2/1p6/4P3/2NB1N2/PP1BQPPP/2R1R1K1 b kq - 11 12",
+  "color": "white",
+  "initialPly": 24,
+  "gameId": "jesLDAkW",
+  "lines": {
+    "e4e5": {
+      "c6e5": {
+        "f3e5": {
+          "d6e5": {
+            "e2e5": {
+              "c7e5": {
+                "e1e5": {
+                  "e8g8": "win"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": -15,
+  "enabled": true
+}

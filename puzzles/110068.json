@@ -1,0 +1,20 @@
+{
+  "id": 110068,
+  "rating": 1457,
+  "attempts": 5900,
+  "fen": "r3k3/1b1p1pp1/p3p3/1p2b3/3BP3/P2B4/R1P1N1P1/3R1K1r w q - 4 26",
+  "color": "black",
+  "initialPly": 51,
+  "gameId": "PkWU49nn",
+  "lines": {
+    "e5d4": {
+      "e2d4": {
+        "h1d1": {
+          "f2e2": "win"
+        }
+      }
+    }
+  },
+  "vote": 100,
+  "enabled": true
+}

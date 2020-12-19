@@ -1,0 +1,24 @@
+{
+  "id": 125096,
+  "rating": 2025,
+  "attempts": 9018,
+  "fen": "rnb1k2r/p1q2ppp/1ppbpn2/3p4/2PP4/2N1PN2/PP1BBPPP/2RQK2R b Kkq - 5 8",
+  "color": "white",
+  "initialPly": 16,
+  "gameId": "Lf4WLdLC",
+  "lines": {
+    "c4d5": {
+      "f6d5": {
+        "c3b5": {
+          "c6b5": {
+            "c1c7": {
+              "d5c7": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 61,
+  "enabled": true
+}

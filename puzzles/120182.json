@@ -1,0 +1,35 @@
+{
+  "id": 120182,
+  "rating": 2637,
+  "attempts": 68,
+  "fen": "8/1p6/p1p1p3/3pP1k1/1P1P2P1/1P3K2/7b/4N3 b - - 46 64",
+  "color": "white",
+  "initialPly": 128,
+  "gameId": "yaenAAmO",
+  "lines": {
+    "f3e2": {
+      "g1d4": {
+        "e1f3": {
+          "g5g4": {
+            "f3d4": {
+              "g4f4": {
+                "d4e6": {
+                  "f4e5": {
+                    "e6d8": {
+                      "e5d6": {
+                        "d8b7": {
+                          "d6d7": "win"
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": -9000
+}

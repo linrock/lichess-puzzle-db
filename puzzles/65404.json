@@ -1,0 +1,24 @@
+{
+  "id": 65404,
+  "rating": 1687,
+  "attempts": 81326,
+  "fen": "r4rk1/ppp1q1pp/5B2/8/4p3/2Pn3P/PP1NQ1PK/4RR2 b - - 0 20",
+  "color": "white",
+  "initialPly": 40,
+  "gameId": "jKCRYezZ",
+  "lines": {
+    "e2d3": {
+      "e4d3": {
+        "e1e7": {
+          "f6f1": {
+            "d2f1": {
+              "a8c8": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 1189,
+  "enabled": true
+}

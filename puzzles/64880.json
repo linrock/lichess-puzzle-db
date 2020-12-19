@@ -1,0 +1,28 @@
+{
+  "id": 64880,
+  "rating": 1851,
+  "attempts": 84966,
+  "fen": "7r/1n1rk3/qP1p1p2/3Rp1p1/4P1P1/1Q4KP/2R3B1/8 b - - 8 54",
+  "color": "white",
+  "initialPly": 108,
+  "gameId": "jRCsEnop",
+  "lines": {
+    "c2a2": {
+      "b7c5": {
+        "d5c5": {
+          "d6c5": {
+            "a2a6": {
+              "d7d3": {
+                "b3d3": {
+                  "d8d3": "win"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 1140,
+  "enabled": true
+}

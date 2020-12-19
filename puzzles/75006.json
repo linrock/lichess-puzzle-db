@@ -1,0 +1,24 @@
+{
+  "id": 75006,
+  "rating": 1096,
+  "attempts": 2988,
+  "fen": "r7/pp3k2/2p2p2/2Pn1PP1/P2PR2P/8/1P6/2K5 b - - 0 32",
+  "color": "white",
+  "initialPly": 64,
+  "gameId": "XQXXlFax",
+  "lines": {
+    "g5g6": {
+      "f7f8": {
+        "g6g7": {
+          "f8g7": {
+            "e4e8": {
+              "a7a5": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 86,
+  "enabled": true
+}

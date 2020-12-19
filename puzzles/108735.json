@@ -1,0 +1,32 @@
+{
+  "id": 108735,
+  "rating": 1612,
+  "attempts": 7229,
+  "fen": "r1bq1rk1/4npbp/p1p3pB/2pp4/4p2Q/2NP1N2/PPP3PP/R4RK1 w - - 0 14",
+  "color": "black",
+  "initialPly": 27,
+  "gameId": "LVBQCoA8",
+  "lines": {
+    "e7f5": {
+      "f1f5": {
+        "c8f5": {
+          "h6g7": {
+            "g8g7": {
+              "h4h7": {
+                "g7f6": {
+                  "h7h6": {
+                    "f8h8": {
+                      "g5h7": "win"
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 152,
+  "enabled": true
+}

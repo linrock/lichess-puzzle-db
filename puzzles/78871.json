@@ -1,0 +1,28 @@
+{
+  "id": 78871,
+  "rating": 1599,
+  "attempts": 47156,
+  "fen": "r1bq3r/p1p1bkpp/2pp4/4p3/4n3/5N2/PPP2PPP/RNBQR1K1 b - - 3 9",
+  "color": "white",
+  "initialPly": 18,
+  "gameId": "NI8TLOER",
+  "lines": {
+    "f3g5": {
+      "e7g5": {
+        "d1h5": {
+          "g7g6": {
+            "h5g5": {
+              "d8g5": {
+                "c1g5": {
+                  "c8f5": "win"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 497,
+  "enabled": true
+}

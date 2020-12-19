@@ -1,0 +1,32 @@
+{
+  "id": 122895,
+  "rating": 2901,
+  "attempts": 38,
+  "fen": "3rr1k1/2pb1p1p/2p2qp1/p1b2P2/4B3/2P2Q2/PP1B2PP/R2R3K w - - 1 19",
+  "color": "black",
+  "initialPly": 37,
+  "gameId": "LTlt84mD",
+  "lines": {
+    "g6g5": {
+      "f3h5": {
+        "e8e4": {
+          "h6g5": {
+            "f6f5": {
+              "d1f1": {
+                "c5f2": {
+                  "h5f3": {
+                    "f5g5": {
+                      "f3e4": "win"
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 0,
+  "enabled": true
+}

@@ -1,0 +1,24 @@
+{
+  "id": 68130,
+  "rating": 1277,
+  "attempts": 108040,
+  "fen": "5n1k/8/1p1BB2p/p2P4/8/P6P/1bn1N1P1/6K1 b - - 1 32",
+  "color": "white",
+  "initialPly": 64,
+  "gameId": "JKDSgvbp",
+  "lines": {
+    "d6e5": {
+      "h8h7": {
+        "e6f5": {
+          "h7g8": {
+            "f5c2": {
+              "b6b5": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 394,
+  "enabled": true
+}

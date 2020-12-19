@@ -1,0 +1,20 @@
+{
+  "id": 101665,
+  "rating": 984,
+  "attempts": 523,
+  "fen": "r2q1rk1/1p3ppp/1p6/1B1pP3/1P2n3/4QP2/P5PP/R1B3K1 b - - 0 21",
+  "color": "white",
+  "initialPly": 42,
+  "gameId": "NtOO2mmd",
+  "lines": {
+    "e3g5": {
+      "d8g5": {
+        "c1g5": {
+          "a8a3": "win"
+        }
+      }
+    }
+  },
+  "vote": 12,
+  "enabled": true
+}

@@ -1,0 +1,24 @@
+{
+  "id": 101258,
+  "rating": 1622,
+  "attempts": 9975,
+  "fen": "3r1rk1/1p3pp1/1p4np/6q1/4P3/P1QP4/4BPPP/RR4K1 w - - 5 23",
+  "color": "black",
+  "initialPly": 45,
+  "gameId": "RPURtweR",
+  "lines": {
+    "g6f4": {
+      "e2f3": {
+        "d8d3": {
+          "c3d3": {
+            "f4d3": {
+              "a1f1": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 237,
+  "enabled": true
+}

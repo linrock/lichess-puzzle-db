@@ -1,0 +1,28 @@
+{
+  "id": 117709,
+  "rating": 2275,
+  "attempts": 4329,
+  "fen": "r7/pp4kp/2p2b1P/2n1q1p1/2Q1Pp2/5P2/1P1R4/2KR4 b - - 0 29",
+  "color": "white",
+  "initialPly": 58,
+  "gameId": "TtSsNgeS",
+  "lines": {
+    "c4f7": {
+      "c5b3": {
+        "c1b1": {
+          "b3d2": {
+            "d1d2": {
+              "e5b2": {
+                "d2b2": {
+                  "f6b2": "win"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 59,
+  "enabled": true
+}

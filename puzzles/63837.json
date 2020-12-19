@@ -1,0 +1,24 @@
+{
+  "id": 63837,
+  "rating": 1395,
+  "attempts": 59408,
+  "fen": "r2q3r/p1pb1kp1/1p1p1p2/3P2p1/2PQ1nP1/2B2N1P/P3RP2/R4K2 b - - 11 25",
+  "color": "white",
+  "initialPly": 50,
+  "gameId": "SHAoKEct",
+  "lines": {
+    "f3g5": {
+      "f7g8": {
+        "g5h3": {
+          "f4e2": {
+            "f1e2": {
+              "d8e7": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 335,
+  "enabled": true
+}

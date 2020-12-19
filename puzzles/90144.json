@@ -1,0 +1,20 @@
+{
+  "id": 90144,
+  "rating": 1546,
+  "attempts": 11683,
+  "fen": "1r1q1rk1/pp1bnp2/3ppn1p/6p1/3P4/2P2B2/PP1NNPPP/R2Q1RK1 w - - 0 14",
+  "color": "black",
+  "initialPly": 27,
+  "gameId": "MMmkwBFp",
+  "lines": {
+    "g5g4": {
+      "f3g4": {
+        "f6g4": {
+          "f2f3": "win"
+        }
+      }
+    }
+  },
+  "vote": 208,
+  "enabled": true
+}

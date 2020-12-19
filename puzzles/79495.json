@@ -1,0 +1,20 @@
+{
+  "id": 79495,
+  "rating": 955,
+  "attempts": 1531,
+  "fen": "5k2/p1r1npp1/1p2p1p1/2p1P1Pr/P2p1P2/3P2P1/1PP3B1/R3R1K1 b - - 0 26",
+  "color": "white",
+  "initialPly": 52,
+  "gameId": "prgIMixg",
+  "lines": {
+    "g3g4": {
+      "h5h4": {
+        "g4f5": {
+          "g6f5": "win"
+        }
+      }
+    }
+  },
+  "vote": 41,
+  "enabled": true
+}

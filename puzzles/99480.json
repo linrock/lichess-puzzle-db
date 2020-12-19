@@ -1,0 +1,28 @@
+{
+  "id": 99480,
+  "rating": 1728,
+  "attempts": 11888,
+  "fen": "1r4k1/1r3ppp/p1bqpn2/3pN3/2pP4/P1P3QP/1PB2PP1/1R2R1K1 b - - 9 20",
+  "color": "white",
+  "initialPly": 40,
+  "gameId": "gzyTLCog",
+  "lines": {
+    "e5c6": {
+      "d6c6": {
+        "g3b8": {
+          "b2b8": {
+            "b1b8": {
+              "f6e8": {
+                "e1b1": {
+                  "g7g6": "win"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 83,
+  "enabled": true
+}

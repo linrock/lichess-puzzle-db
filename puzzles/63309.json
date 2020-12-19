@@ -1,0 +1,32 @@
+{
+  "id": 63309,
+  "rating": 1961,
+  "attempts": 231174,
+  "fen": "3r3k/2p2p1p/p1p2q1p/1p6/8/1Q3R1P/PP3PP1/6K1 b - - 1 24",
+  "color": "white",
+  "initialPly": 48,
+  "gameId": "fin22P4o",
+  "lines": {
+    "b3c3": {
+      "h8g8": {
+        "f3g3": {
+          "g8f8": {
+            "c3g7": {
+              "f8e7": {
+                "g3e3": {
+                  "e6e3": {
+                    "f2e3": {
+                      "d8d1": "win"
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 2704,
+  "enabled": true
+}

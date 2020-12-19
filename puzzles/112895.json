@@ -1,0 +1,24 @@
+{
+  "id": 112895,
+  "rating": 1253,
+  "attempts": 3636,
+  "fen": "5r2/2pR1pkp/pp1b4/2pK2p1/4P1P1/1BP4P/PP6/8 b - - 1 27",
+  "color": "white",
+  "initialPly": 54,
+  "gameId": "sltURTbu",
+  "lines": {
+    "e4e5": {
+      "d6e5": {
+        "d5e5": {
+          "f8e8": {
+            "e5d5": {
+              "e8e3": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 80,
+  "enabled": true
+}

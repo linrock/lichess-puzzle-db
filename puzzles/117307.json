@@ -1,0 +1,24 @@
+{
+  "id": 117307,
+  "rating": 1944,
+  "attempts": 9447,
+  "fen": "8/8/6p1/2p2bN1/4p1PK/1k1nP3/3B3P/8 b - - 0 41",
+  "color": "white",
+  "initialPly": 82,
+  "gameId": "ATVrAWsm",
+  "lines": {
+    "g4f5": {
+      "g6f5": {
+        "g5e6": {
+          "b3c2": {
+            "d2a5": {
+              "d3e5": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 110,
+  "enabled": true
+}

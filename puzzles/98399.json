@@ -1,0 +1,20 @@
+{
+  "id": 98399,
+  "rating": 1490,
+  "attempts": 14271,
+  "fen": "8/5pbk/1p1Np1pp/2r5/8/P1P1q2P/1P4P1/3Q1R1K b - - 4 29",
+  "color": "white",
+  "initialPly": 58,
+  "gameId": "pySKikif",
+  "lines": {
+    "d6e4": {
+      "g3c7": {
+        "e4c5": {
+          "b6c5": "win"
+        }
+      }
+    }
+  },
+  "vote": 201,
+  "enabled": true
+}

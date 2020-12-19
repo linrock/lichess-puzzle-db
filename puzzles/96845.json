@@ -1,0 +1,36 @@
+{
+  "id": 96845,
+  "rating": 2257,
+  "attempts": 28563,
+  "fen": "r1b1k2r/1p2bppp/p1n5/3Q4/4Nq2/5N2/PPP2PPP/2KR1B1R w kq - 5 12",
+  "color": "black",
+  "initialPly": 23,
+  "gameId": "N5Pu70pR",
+  "lines": {
+    "c8e6": {
+      "e4d6": {
+        "e7d6": {
+          "d5d6": {
+            "a8d8": {
+              "d6f4": {
+                "d8d1": {
+                  "f4c1": {
+                    "e6a2": {
+                      "b1a2": {
+                        "d1c1": {
+                          "a2b3": "win"
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 182,
+  "enabled": true
+}

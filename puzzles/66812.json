@@ -1,0 +1,24 @@
+{
+  "id": 66812,
+  "rating": 999,
+  "attempts": 2943,
+  "fen": "r3r1k1/ppp2ppp/2n1b3/5q2/8/P1BP1B2/1PP1QPPP/R3R1K1 w - - 5 16",
+  "color": "black",
+  "initialPly": 31,
+  "gameId": "VjAXrLEx",
+  "lines": {
+    "f5g4": {
+      "e2g4": {
+        "e6g4": {
+          "e1e8": {
+            "a8e8": {
+              "f2f3": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": -6,
+  "enabled": true
+}

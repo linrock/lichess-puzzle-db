@@ -1,0 +1,32 @@
+{
+  "id": 117169,
+  "rating": 2247,
+  "attempts": 6204,
+  "fen": "r4r1k/pppb2p1/2n4p/4p3/2BP3q/2P3N1/PP2Q1PP/2KR3R w - - 0 17",
+  "color": "black",
+  "initialPly": 33,
+  "gameId": "SycpzqDM",
+  "lines": {
+    "d7g4": {
+      "e2e4": {
+        "h4g5": {
+          "d1d2": {
+            "f8f4": {
+              "h2h4": {
+                "f4e4": {
+                  "h4g5": {
+                    "e4c4": {
+                      "g5h6": "win"
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 127,
+  "enabled": true
+}

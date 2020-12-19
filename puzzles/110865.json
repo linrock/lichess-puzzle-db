@@ -1,0 +1,24 @@
+{
+  "id": 110865,
+  "rating": 1335,
+  "attempts": 45503,
+  "fen": "4r1k1/p4pp1/8/2bP3p/2P2Bn1/4pNPq/PP2Q2P/5R1K b - - 1 26",
+  "color": "white",
+  "initialPly": 52,
+  "gameId": "ZaMS4OB1",
+  "lines": {
+    "f3g1": {
+      "h3h2": {
+        "e2h2": {
+          "g4h2": {
+            "h1h2": {
+              "g7g5": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 109,
+  "enabled": true
+}

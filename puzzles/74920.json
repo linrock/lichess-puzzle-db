@@ -1,0 +1,24 @@
+{
+  "id": 74920,
+  "rating": 1304,
+  "attempts": 12354,
+  "fen": "6r1/5Q1k/1b1q1p1p/p3p3/4P3/P3NBP1/5PK1/8 b - - 0 36",
+  "color": "white",
+  "initialPly": 72,
+  "gameId": "CKPmNbAN",
+  "lines": {
+    "f7g7": {
+      "h7g7": {
+        "e3f5": {
+          "g7g6": {
+            "f5d6": {
+              "b6c5": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 305,
+  "enabled": true
+}

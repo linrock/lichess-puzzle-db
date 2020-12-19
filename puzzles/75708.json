@@ -1,0 +1,32 @@
+{
+  "id": 75708,
+  "rating": 1787,
+  "attempts": 57793,
+  "fen": "r1q4r/2p1kP2/3p4/2pPp3/p1P1Pb2/P1NB3b/1P3KP1/R2Q1R2 w - - 1 23",
+  "color": "black",
+  "initialPly": 45,
+  "gameId": "PsMgMg87",
+  "lines": {
+    "c8h3": {
+      "d1f3": {
+        "h3h2": {
+          "f3g2": {
+            "f4e3": {
+              "f2f3": {
+                "h8h3": {
+                  "g2h3": {
+                    "h2h3": {
+                      "f3e2": "win"
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 659,
+  "enabled": true
+}

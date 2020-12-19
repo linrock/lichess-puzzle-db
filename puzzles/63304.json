@@ -1,0 +1,24 @@
+{
+  "id": 63304,
+  "rating": 1803,
+  "attempts": 237841,
+  "fen": "4r1k1/p1q2pp1/2pb3p/2pn4/3p4/1P1P1BPb/PNPB1P1P/1R1Q2K1 b - - 3 22",
+  "color": "white",
+  "initialPly": 44,
+  "gameId": "lNJdCC44",
+  "lines": {
+    "f3d5": {
+      "c6d5": {
+        "d1h5": {
+          "c7f7": {
+            "h5h3": {
+              "e8e2": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 2619,
+  "enabled": true
+}

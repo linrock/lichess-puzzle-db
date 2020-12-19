@@ -1,0 +1,24 @@
+{
+  "id": 89340,
+  "rating": 2023,
+  "attempts": 8138,
+  "fen": "r1k4r/pp6/1np2B1p/4Q1p1/3PP3/2P2q1P/P4P2/R3K2R w KQ - 6 26",
+  "color": "black",
+  "initialPly": 51,
+  "gameId": "hcx9Enoz",
+  "lines": {
+    "b6d7": {
+      "e5e6": {
+        "f3f6": {
+          "e6f6": {
+            "d7f6": {
+              "f2f3": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 212,
+  "enabled": true
+}

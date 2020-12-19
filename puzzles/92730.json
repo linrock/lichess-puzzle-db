@@ -1,0 +1,24 @@
+{
+  "id": 92730,
+  "rating": 2420,
+  "attempts": 2656,
+  "fen": "6rr/1b1kb3/p1n1p1Q1/qp1p3p/3P1B2/P2BP3/4NPPP/R1R3K1 w - - 1 22",
+  "color": "black",
+  "initialPly": 43,
+  "gameId": "fcBarLpf",
+  "lines": {
+    "g8g6": {
+      "a4b5": {
+        "a5b5": {
+          "d3b5": {
+            "a6b5": {
+              "e2c3": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 48,
+  "enabled": true
+}

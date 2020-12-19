@@ -1,0 +1,24 @@
+{
+  "id": 84302,
+  "rating": 2105,
+  "attempts": 10584,
+  "fen": "3rk2r/pp2bppp/2b5/8/3Q4/5N2/PPP2PPP/RN4K1 w k - 0 15",
+  "color": "black",
+  "initialPly": 29,
+  "gameId": "Lgycr9WI",
+  "lines": {
+    "d8d1": {
+      "f3e1": {
+        "e8g8": {
+          "b1d2": {
+            "d1a1": {
+              "d2f1": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 111,
+  "enabled": true
+}

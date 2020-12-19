@@ -1,0 +1,28 @@
+{
+  "id": 95061,
+  "rating": 1870,
+  "attempts": 12220,
+  "fen": "4b3/2R2pkp/4P1p1/8/p1P2P2/6NP/1r4P1/6K1 b - - 0 34",
+  "color": "white",
+  "initialPly": 68,
+  "gameId": "oiHISAbn",
+  "lines": {
+    "e6f7": {
+      "e8f7": {
+        "g3e4": {
+          "f6e6": {
+            "e4g5": {
+              "e6d6": {
+                "c7f7": {
+                  "d6c5": "win"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 301,
+  "enabled": true
+}

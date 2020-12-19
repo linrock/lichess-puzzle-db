@@ -1,0 +1,24 @@
+{
+  "id": 78806,
+  "rating": 1854,
+  "attempts": 20128,
+  "fen": "2kr3r/ppbnqppp/4p3/2pnN3/2PPNP2/P2Q4/1P1B2PP/R4RK1 b - - 0 15",
+  "color": "white",
+  "initialPly": 30,
+  "gameId": "OngPWBuT",
+  "lines": {
+    "f4e5": {
+      "d5b6": {
+        "d2g5": {
+          "d8d4": {
+            "d3d4": {
+              "e7g5": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 478,
+  "enabled": true
+}

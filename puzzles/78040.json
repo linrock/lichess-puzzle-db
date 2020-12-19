@@ -1,0 +1,24 @@
+{
+  "id": 78040,
+  "rating": 1324,
+  "attempts": 9791,
+  "fen": "2r2r1k/pp3Ppp/6q1/1b1pQ3/1P1B2P1/P7/7P/R4RK1 w - - 2 23",
+  "color": "black",
+  "initialPly": 45,
+  "gameId": "nyRUs5WD",
+  "lines": {
+    "b5f1": {
+      "a1f1": {
+        "f8f7": {
+          "f1f7": {
+            "g6f7": {
+              "e5e2": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 227,
+  "enabled": true
+}

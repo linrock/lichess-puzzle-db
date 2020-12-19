@@ -1,0 +1,24 @@
+{
+  "id": 62954,
+  "rating": 2420,
+  "attempts": 50661,
+  "fen": "1R6/5rk1/2pBp1p1/1bP3Pp/r4P2/7P/1R6/6K1 b - - 0 36",
+  "color": "white",
+  "initialPly": 72,
+  "gameId": "HB4xSE10",
+  "lines": {
+    "d6e5": {
+      "g7f7": {
+        "b2d2": {
+          "a4a1": {
+            "e5a1": {
+              "a7a1": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 495,
+  "enabled": true
+}

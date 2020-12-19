@@ -1,0 +1,32 @@
+{
+  "id": 65124,
+  "rating": 1923,
+  "attempts": 77427,
+  "fen": "8/6pk/p4pr1/2B5/PP2P3/7P/5K2/8 b - - 0 44",
+  "color": "white",
+  "initialPly": 88,
+  "gameId": "8kOMtln3",
+  "lines": {
+    "b4b5": {
+      "a6b5": {
+        "a4b5": {
+          "h6h5": {
+            "b5b6": {
+              "g6g5": {
+                "b6b7": {
+                  "g5c5": {
+                    "b7b8q": {
+                      "h5g6": "win"
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 1118,
+  "enabled": true
+}

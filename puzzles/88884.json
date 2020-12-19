@@ -1,0 +1,20 @@
+{
+  "id": 88884,
+  "rating": 1250,
+  "attempts": 2866,
+  "fen": "8/k3Bp2/1p2p1p1/1P1bP2p/2pK1P1P/4P3/8/8 b - - 3 35",
+  "color": "white",
+  "initialPly": 70,
+  "gameId": "RiOXTMNw",
+  "lines": {
+    "e3e4": {
+      "d5c6": {
+        "b5c6": {
+          "b7c6": "win"
+        }
+      }
+    }
+  },
+  "vote": 64,
+  "enabled": true
+}

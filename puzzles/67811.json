@@ -1,0 +1,24 @@
+{
+  "id": 67811,
+  "rating": 2033,
+  "attempts": 68398,
+  "fen": "3r2k1/p4pp1/1p2p2p/4P3/2Pq4/BP1n2P1/P3QP1P/3R2K1 w - - 2 28",
+  "color": "black",
+  "initialPly": 55,
+  "gameId": "LOKhE6p1",
+  "lines": {
+    "d3f4": {
+      "b2d4": {
+        "f4e2": {
+          "g1f1": {
+            "e2d4": {
+              "f2f4": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 913,
+  "enabled": true
+}

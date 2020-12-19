@@ -1,0 +1,24 @@
+{
+  "id": 111574,
+  "rating": 1647,
+  "attempts": 6700,
+  "fen": "nr1qr1k1/4ppbp/2Qp2p1/p1pP4/BpP1RB2/7P/P4PP1/4R1K1 b - - 10 27",
+  "color": "white",
+  "initialPly": 54,
+  "gameId": "TiZcMRkA",
+  "lines": {
+    "c6e8": {
+      "d8e8": {
+        "a4e8": {
+          "b8e8": {
+            "f4d6": {
+              "e7e6": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 127,
+  "enabled": true
+}

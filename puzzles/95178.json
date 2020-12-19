@@ -1,0 +1,24 @@
+{
+  "id": 95178,
+  "rating": 1967,
+  "attempts": 9441,
+  "fen": "3r1rk1/Qp2R1pp/2pp4/8/2PN2b1/8/P2q1PPP/4R1K1 w - - 3 27",
+  "color": "black",
+  "initialPly": 53,
+  "gameId": "CFGwAkSZ",
+  "lines": {
+    "d8a8": {
+      "a7b6": {
+        "a8a6": {
+          "b6b7": {
+            "d2d4": {
+              "g1h1": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 193,
+  "enabled": true
+}

@@ -1,0 +1,24 @@
+{
+  "id": 120160,
+  "rating": 1808,
+  "attempts": 7924,
+  "fen": "7k/4p3/7B/p1p2r2/8/2PP1Bbq/P2QKR2/8 w - - 1 35",
+  "color": "black",
+  "initialPly": 69,
+  "gameId": "VAUunkFE",
+  "lines": {
+    "g3f2": {
+      "d2b2": {
+        "f2d4": {
+          "b2b8": {
+            "h8h7": {
+              "h6f4": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 159,
+  "enabled": true
+}

@@ -1,0 +1,24 @@
+{
+  "id": 110302,
+  "rating": 1655,
+  "attempts": 7179,
+  "fen": "r2qk2r/p3bpp1/1p1p1n1p/2n1p2P/4P3/2P2N1R/PP1N1PP1/R1BQ1K2 b kq - 3 14",
+  "color": "white",
+  "initialPly": 28,
+  "gameId": "NhpniCiE",
+  "lines": {
+    "d2e4": {
+      "f6e4": {
+        "d1a4": {
+          "d8d7": {
+            "a4e4": {
+              "a8c8": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 165,
+  "enabled": true
+}

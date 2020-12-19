@@ -1,0 +1,24 @@
+{
+  "id": 123869,
+  "rating": 1566,
+  "attempts": 7075,
+  "fen": "5rk1/5q2/p1Np2p1/1p1Ppr1p/nP6/3Q1P1P/P2R2P1/5R1K b - - 1 26",
+  "color": "white",
+  "initialPly": 52,
+  "gameId": "DGUw161x",
+  "lines": {
+    "d3f5": {
+      "f7f5": {
+        "c6e7": {
+          "g8g7": {
+            "e7f5": {
+              "f8f5": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 135,
+  "enabled": true
+}

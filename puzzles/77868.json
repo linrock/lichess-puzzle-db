@@ -1,0 +1,24 @@
+{
+  "id": 77868,
+  "rating": 1122,
+  "attempts": 76661,
+  "fen": "2r2k2/pp3ppp/8/2pN4/8/3bR3/Pb1B2PP/7K b - - 4 25",
+  "color": "white",
+  "initialPly": 50,
+  "gameId": "winwcTAM",
+  "lines": {
+    "d2b4": {
+      "f8g8": {
+        "d5e7": {
+          "g8h8": {
+            "e7c8": {
+              "h7h5": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 122,
+  "enabled": true
+}

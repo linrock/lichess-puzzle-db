@@ -1,0 +1,28 @@
+{
+  "id": 75799,
+  "rating": 1961,
+  "attempts": 26004,
+  "fen": "6k1/1b2r2p/pbn1q1pB/1p2ppQ1/4p2N/1NP1P2P/PP3PP1/3R2K1 b - - 0 32",
+  "color": "white",
+  "initialPly": 64,
+  "gameId": "2D777WrP",
+  "lines": {
+    "b3c5": {
+      "e7d7": {
+        "d1d7": {
+          "e6d7": {
+            "c5d7": {
+              "d8g5": {
+                "h6g5": {
+                  "b7c8": "win"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 353,
+  "enabled": true
+}

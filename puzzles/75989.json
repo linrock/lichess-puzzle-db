@@ -1,0 +1,24 @@
+{
+  "id": 75989,
+  "rating": 1172,
+  "attempts": 4220,
+  "fen": "r1bq2nr/pp2kBpp/1b1p4/n7/3P4/BQ3N2/P4PPP/RN2K2R w KQ - 0 13",
+  "color": "black",
+  "initialPly": 25,
+  "gameId": "iSsaaMbc",
+  "lines": {
+    "g8f6": {
+      "a3d6": {
+        "d8d6": {
+          "d5d6": {
+            "e7d6": {
+              "e1g1": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 31,
+  "enabled": true
+}

@@ -1,0 +1,24 @@
+{
+  "id": 107074,
+  "rating": 1547,
+  "attempts": 7369,
+  "fen": "6k1/6p1/8/2q5/7p/P7/7P/3RR2K w - - 0 33",
+  "color": "black",
+  "initialPly": 65,
+  "gameId": "wV94SBx4",
+  "lines": {
+    "c5c6": {
+      "h1g1": {
+        "c6g6": {
+          "g1f2": {
+            "g6d3": {
+              "e1e8": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 173,
+  "enabled": true
+}

@@ -1,0 +1,20 @@
+{
+  "id": 71674,
+  "rating": 1498,
+  "attempts": 20535,
+  "fen": "1rb1k1nr/p1p2ppp/1p2p3/2b1P3/8/2PB4/PP3PPP/RNB2RK1 b k - 0 12",
+  "color": "white",
+  "initialPly": 24,
+  "gameId": "IS30Enzy",
+  "lines": {
+    "b2b4": {
+      "c5b4": {
+        "c3b4": {
+          "e7c6": "win"
+        }
+      }
+    }
+  },
+  "vote": 248,
+  "enabled": true
+}

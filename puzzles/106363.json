@@ -1,0 +1,24 @@
+{
+  "id": 106363,
+  "rating": 1616,
+  "attempts": 7660,
+  "fen": "rn1q1rk1/ppp1bppp/3p1nb1/3Pp3/2B1P1PN/2N4P/PPP2P2/R1BQR1K1 b - - 4 11",
+  "color": "white",
+  "initialPly": 22,
+  "gameId": "WiVKvely",
+  "lines": {
+    "h4g6": {
+      "d5c3": {
+        "g6e7": {
+          "d8e7": {
+            "b2c3": {
+              "b8d7": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 165,
+  "enabled": true
+}

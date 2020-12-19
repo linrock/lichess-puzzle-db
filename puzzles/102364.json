@@ -1,0 +1,28 @@
+{
+  "id": 102364,
+  "rating": 1447,
+  "attempts": 8492,
+  "fen": "r4r2/pp3kpQ/2n2q2/2pR4/5p2/2P1P3/PP3PP1/2K4R b - - 0 21",
+  "color": "white",
+  "initialPly": 42,
+  "gameId": "SEdiJUtP",
+  "lines": {
+    "d5f5": {
+      "f8h8": {
+        "f5f6": {
+          "f7f6": {
+            "h7h8": {
+              "d8h8": {
+                "h1h8": {
+                  "f4e3": "win"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 214,
+  "enabled": true
+}

@@ -1,0 +1,28 @@
+{
+  "id": 98509,
+  "rating": 2057,
+  "attempts": 6111,
+  "fen": "r1bq1rk1/pp1nbppp/2pBpn2/4N3/2NP4/6P1/PPP1BP1P/R2QK2R w KQ - 7 15",
+  "color": "black",
+  "initialPly": 29,
+  "gameId": "WviCfvm4",
+  "lines": {
+    "e7d6": {
+      "c4d6": {
+        "d8a5": {
+          "c2c3": {
+            "a5d5": {
+              "e2f3": {
+                "d5d6": {
+                  "d1e2": "win"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 248,
+  "enabled": true
+}

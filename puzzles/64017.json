@@ -1,0 +1,24 @@
+{
+  "id": 64017,
+  "rating": 1370,
+  "attempts": 83512,
+  "fen": "1r4k1/5pp1/2Bq3p/pQpPp3/4P3/1PR2P2/P2b2PP/6K1 w - - 0 32",
+  "color": "black",
+  "initialPly": 63,
+  "gameId": "aLTbcXL4",
+  "lines": {
+    "d6c5": {
+      "c3c5": {
+        "d2e3": {
+          "g1f1": {
+            "e3c5": {
+              "f1e2": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 1250,
+  "enabled": true
+}

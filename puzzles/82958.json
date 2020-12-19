@@ -1,0 +1,44 @@
+{
+  "id": 82958,
+  "rating": 2822,
+  "attempts": 237,
+  "fen": "2r5/1bq4p/pk1pQ3/3P4/2p4N/6rP/1B4P1/5RK1 b - - 0 34",
+  "color": "white",
+  "initialPly": 68,
+  "gameId": "PtZ9BSVm",
+  "lines": {
+    "b2d4": {
+      "b6b5": {
+        "h4f5": {
+          "g3g2": {
+            "g1h1": {
+              "c4c3": {
+                "f1a1": {
+                  "g8g5": {
+                    "e6e8": {
+                      "b5c4": {
+                        "d4e3": {
+                          "g2g1": {
+                            "a1g1": {
+                              "g5g1": {
+                                "h1g1": {
+                                  "c4b4": "win"
+                                }
+                              }
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": -2,
+  "enabled": true
+}

@@ -1,0 +1,24 @@
+{
+  "id": 73803,
+  "rating": 1248,
+  "attempts": 10896,
+  "fen": "2brr1k1/1p3pb1/p5p1/3pq2p/3N3P/1P2P1P1/P1Q2PB1/2R1R1K1 w - - 0 27",
+  "color": "black",
+  "initialPly": 53,
+  "gameId": "TB2tcfrg",
+  "lines": {
+    "e5c7": {
+      "c1c7": {
+        "g7d4": {
+          "c7c8": {
+            "d8c8": {
+              "g2d5": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 74,
+  "enabled": true
+}

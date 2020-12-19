@@ -1,0 +1,24 @@
+{
+  "id": 76563,
+  "rating": 2356,
+  "attempts": 6241,
+  "fen": "3r2k1/1p1r1ppp/p7/2Pn4/1P5q/P2B1P2/2Q3PP/3R1R1K w - - 5 24",
+  "color": "black",
+  "initialPly": 47,
+  "gameId": "Gvp88hDg",
+  "lines": {
+    "d5e3": {
+      "d1d7": {
+        "d8d7": {
+          "c2e2": {
+            "e3f1": {
+              "e2f1": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": -8,
+  "enabled": true
+}

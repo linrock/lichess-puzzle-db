@@ -1,0 +1,24 @@
+{
+  "id": 80693,
+  "rating": 1582,
+  "attempts": 102608,
+  "fen": "r1bq1rk1/1p1nppbp/p2p1np1/2p5/2PPP3/2N1BP2/PP1QN1PP/R3KB1R w KQ - 0 9",
+  "color": "black",
+  "initialPly": 17,
+  "gameId": "azyxlSAP",
+  "lines": {
+    "c5d4": {
+      "e3d4": {
+        "e7e5": {
+          "d4e3": {
+            "e5f4": {
+              "e3f4": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 509,
+  "enabled": true
+}

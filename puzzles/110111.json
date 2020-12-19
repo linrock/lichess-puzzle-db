@@ -1,0 +1,20 @@
+{
+  "id": 110111,
+  "rating": 1336,
+  "attempts": 3496,
+  "fen": "r2qk1nr/ppp1bppp/3p4/2nPp2b/2B1P3/4Q2P/PPP2PPN/RNB2RK1 b kq - 4 10",
+  "color": "white",
+  "initialPly": 20,
+  "gameId": "EnZksr37",
+  "lines": {
+    "e3g5": {
+      "d8g5": {
+        "c1g5": {
+          "c5e4": "win"
+        }
+      }
+    }
+  },
+  "vote": 55,
+  "enabled": true
+}

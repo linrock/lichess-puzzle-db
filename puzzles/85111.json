@@ -1,0 +1,20 @@
+{
+  "id": 85111,
+  "rating": 1108,
+  "attempts": 1341,
+  "fen": "r1k4r/1pp1npp1/p5np/bN6/8/5BB1/PPP2PPP/2KR3R w - - 0 16",
+  "color": "black",
+  "initialPly": 31,
+  "gameId": "gpTApCPs",
+  "lines": {
+    "f7f5": {
+      "g4f5": {
+        "e7f5": {
+          "b5d4": "win"
+        }
+      }
+    }
+  },
+  "vote": 16,
+  "enabled": true
+}

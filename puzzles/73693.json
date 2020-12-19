@@ -1,0 +1,28 @@
+{
+  "id": 73693,
+  "rating": 2206,
+  "attempts": 11882,
+  "fen": "4r3/6pk/2R4p/2p2q2/2P5/2Q2PPP/7K/8 w - - 1 37",
+  "color": "black",
+  "initialPly": 73,
+  "gameId": "Wkv44Uru",
+  "lines": {
+    "f5f3": {
+      "c6h6": {
+        "h7g8": {
+          "h6d6": {
+            "e8e2": {
+              "d2e2": {
+                "f3e2": {
+                  "h2g1": "win"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 276,
+  "enabled": true
+}

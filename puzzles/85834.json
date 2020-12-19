@@ -1,0 +1,36 @@
+{
+  "id": 85834,
+  "rating": 2539,
+  "attempts": 1749,
+  "fen": "r4rk1/1b3ppp/p3p3/3pQ3/8/2N3R1/PqP2PPP/5R1K b - - 1 18",
+  "color": "white",
+  "initialPly": 36,
+  "gameId": "WjDEXS3L",
+  "lines": {
+    "e5e6": {
+      "g8h8": {
+        "e6d7": {
+          "g7g6": {
+            "f1b1": {
+              "b2c2": {
+                "d7b7": {
+                  "a8b8": {
+                    "b7b8": {
+                      "f8b8": {
+                        "b1b8": {
+                          "h8g7": "win"
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 18,
+  "enabled": true
+}

@@ -1,0 +1,32 @@
+{
+  "id": 118294,
+  "rating": 2900,
+  "attempts": 549,
+  "fen": "3r2k1/pp3p1p/2q3p1/4n3/4NQ2/3p3P/PP3PP1/4R1K1 b - - 11 33",
+  "color": "white",
+  "initialPly": 66,
+  "gameId": "TAkrVJQ3",
+  "lines": {
+    "e4f6": {
+      "g8g7": {
+        "f6h5": {
+          "g6h5": {
+            "f4g5": {
+              "c6g6": {
+                "g5d8": {
+                  "d3d2": {
+                    "d8d4": {
+                      "g6f6": "win"
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": -2,
+  "enabled": true
+}

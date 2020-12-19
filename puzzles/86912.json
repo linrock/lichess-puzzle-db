@@ -1,0 +1,28 @@
+{
+  "id": 86912,
+  "rating": 2124,
+  "attempts": 10877,
+  "fen": "2rq1rk1/5pp1/Q6p/3bP3/P1p2Bn1/2P4P/5P2/RB1R2K1 b - - 1 26",
+  "color": "white",
+  "initialPly": 52,
+  "gameId": "Bw6owDsc",
+  "lines": {
+    "f4g3": {
+      "h4h3": {
+        "d1d5": {
+          "g4e3": {
+            "b1e4": {
+              "e3d5": {
+                "e4d5": {
+                  "h3f5": "win"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 300,
+  "enabled": true
+}

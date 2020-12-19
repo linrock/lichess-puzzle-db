@@ -1,0 +1,32 @@
+{
+  "id": 63575,
+  "rating": 2020,
+  "attempts": 118308,
+  "fen": "5k2/pp6/3N4/3P4/1p3ppP/1P6/P4P1P/1B2nb1K w - - 1 35",
+  "color": "black",
+  "initialPly": 69,
+  "gameId": "DI50kMII",
+  "lines": {
+    "f1g2": {
+      "h1g1": {
+        "g2d5": {
+          "g1f1": {
+            "e1f3": {
+              "b7c5": {
+                "f3d2": {
+                  "f1e1": {
+                    "d2b1": {
+                      "c5d3": "win"
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 2237,
+  "enabled": true
+}

@@ -1,0 +1,24 @@
+{
+  "id": 95465,
+  "rating": 1844,
+  "attempts": 42621,
+  "fen": "rnb2rk1/p4pp1/1pp5/3p2q1/3PP3/2N2Q2/PP3P2/R1B1K2R b KQ - 0 15",
+  "color": "white",
+  "initialPly": 30,
+  "gameId": "TiWG1KW1",
+  "lines": {
+    "h1h8": {
+      "g8h8": {
+        "f3h1": {
+          "h8g8": {
+            "c1g5": {
+              "c8e6": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 376,
+  "enabled": true
+}

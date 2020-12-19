@@ -1,0 +1,24 @@
+{
+  "id": 80014,
+  "rating": 1903,
+  "attempts": 16237,
+  "fen": "4r1k1/3n1p1p/pp4p1/3Qn3/2PB1q2/3BR2P/P5P1/7K b - - 8 33",
+  "color": "white",
+  "initialPly": 66,
+  "gameId": "ELxVVCPB",
+  "lines": {
+    "e3e5": {
+      "e8e5": {
+        "d5e5": {
+          "f4e5": {
+            "d4e5": {
+              "f6d7": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 452,
+  "enabled": true
+}

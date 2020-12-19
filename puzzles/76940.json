@@ -1,0 +1,24 @@
+{
+  "id": 76940,
+  "rating": 1406,
+  "attempts": 41142,
+  "fen": "7N/3k2pp/1rq1p3/p3PnP1/P2p1R1P/1pP5/1P2QP2/2K4R w - - 0 29",
+  "color": "black",
+  "initialPly": 57,
+  "gameId": "OlYeBUni",
+  "lines": {
+    "c6h1": {
+      "e2d1": {
+        "h1d1": {
+          "c1d1": {
+            "e6f5": {
+              "d1d2": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 347,
+  "enabled": true
+}

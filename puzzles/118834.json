@@ -1,0 +1,24 @@
+{
+  "id": 118834,
+  "rating": 1479,
+  "attempts": 8530,
+  "fen": "2r2rk1/2qn1pp1/4p2p/p1b1P3/1p1N1P2/1P1PB1PP/6Q1/R4RK1 w - - 0 23",
+  "color": "black",
+  "initialPly": 45,
+  "gameId": "sEgyRZ2t",
+  "lines": {
+    "c5d4": {
+      "c1c7": {
+        "d4e3": {
+          "g1h1": {
+            "c8c7": {
+              "a1a5": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 34,
+  "enabled": true
+}

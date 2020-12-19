@@ -1,0 +1,24 @@
+{
+  "id": 110904,
+  "rating": 1079,
+  "attempts": 1663,
+  "fen": "6Q1/2k3p1/2r2p1p/4p3/4P3/5P2/2p3PP/5K2 w - - 3 63",
+  "color": "black",
+  "initialPly": 125,
+  "gameId": "FCmxmgm2",
+  "lines": {
+    "c7b6": {
+      "g7h6": {
+        "c2c1q": {
+          "h6c1": {
+            "c6c1": {
+              "f1f2": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 42,
+  "enabled": true
+}

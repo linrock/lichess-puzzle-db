@@ -1,0 +1,32 @@
+{
+  "id": 100596,
+  "rating": 2018,
+  "attempts": 8920,
+  "fen": "5rk1/p1r3b1/1p5p/4pP1Q/1q1pB2B/4n1P1/PP3R1P/1R4K1 b - - 11 28",
+  "color": "white",
+  "initialPly": 56,
+  "gameId": "RWrqoGf7",
+  "lines": {
+    "f5f6": {
+      "g7f6": {
+        "h5g6": {
+          "c7g7": {
+            "f2f6": {
+              "g7g6": {
+                "f6g6": {
+                  "d6g6": {
+                    "e4g6": {
+                      "g8g7": "win"
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 269,
+  "enabled": true
+}

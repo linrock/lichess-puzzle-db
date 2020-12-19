@@ -1,0 +1,28 @@
+{
+  "id": 89091,
+  "rating": 1778,
+  "attempts": 13165,
+  "fen": "5r1k/pp5p/2p2q2/3b4/3n4/P2BN2P/1P1Q1PP1/4R1K1 b - - 19 39",
+  "color": "white",
+  "initialPly": 78,
+  "gameId": "BEfyvCoe",
+  "lines": {
+    "g2f3": {
+      "f6f3": {
+        "e3d5": {
+          "f8g8": {
+            "g1f1": {
+              "f3h3": {
+                "f1e2": {
+                  "h3h5": "win"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 163,
+  "enabled": true
+}

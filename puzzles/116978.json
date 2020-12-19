@@ -1,0 +1,28 @@
+{
+  "id": 116978,
+  "rating": 1899,
+  "attempts": 8423,
+  "fen": "r2qk2r/pp2bppp/1nppbn2/4p3/3PP3/1NN1BP2/PPPQ2PP/R3KB1R b KQkq - 5 9",
+  "color": "white",
+  "initialPly": 18,
+  "gameId": "DrNItCwl",
+  "lines": {
+    "d4e5": {
+      "d6e5": {
+        "d2d8": {
+          "e7d8": {
+            "e3b6": {
+              "c4f1": {
+                "b6d8": {
+                  "f1g2": "win"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 170,
+  "enabled": true
+}

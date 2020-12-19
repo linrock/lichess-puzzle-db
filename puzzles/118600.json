@@ -1,0 +1,24 @@
+{
+  "id": 118600,
+  "rating": 1576,
+  "attempts": 7984,
+  "fen": "3r1rk1/p1q1b2p/Q3p1pP/3Pp3/2p5/PB6/1P1B2P1/1NK4R w - - 0 22",
+  "color": "black",
+  "initialPly": 43,
+  "gameId": "geX3Comk",
+  "lines": {
+    "c7c4": {
+      "b3c4": {
+        "d8c8": {
+          "b1c3": {
+            "c8c4": {
+              "d5e6": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 149,
+  "enabled": true
+}

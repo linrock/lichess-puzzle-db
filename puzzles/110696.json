@@ -1,0 +1,24 @@
+{
+  "id": 110696,
+  "rating": 1652,
+  "attempts": 7277,
+  "fen": "rn2k2r/ppb2ppp/2p1pqn1/2Pp1b2/3PP3/P1NB1N1P/1P3PP1/R1BQK2R b KQkq - 0 10",
+  "color": "white",
+  "initialPly": 20,
+  "gameId": "OZ3SuMI7",
+  "lines": {
+    "c1g5": {
+      "g6e5": {
+        "g5f6": {
+          "e5d3": {
+            "e1f1": {
+              "e4f3": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 105,
+  "enabled": true
+}

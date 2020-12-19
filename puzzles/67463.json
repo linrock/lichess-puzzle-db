@@ -1,0 +1,20 @@
+{
+  "id": 67463,
+  "rating": 1250,
+  "attempts": 20787,
+  "fen": "rnbq3k/3p1ppB/p7/1ppP3Q/2P2b2/2N1r3/PP4PP/2KR2NR w - - 2 15",
+  "color": "black",
+  "initialPly": 29,
+  "gameId": "GcABTp95",
+  "lines": {
+    "f4h6": {
+      "c1b1": {
+        "f7g6": {
+          "h5g6": "win"
+        }
+      }
+    }
+  },
+  "vote": 249,
+  "enabled": true
+}

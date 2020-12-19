@@ -1,0 +1,24 @@
+{
+  "id": 101114,
+  "rating": 1373,
+  "attempts": 8281,
+  "fen": "8/8/1p1k4/p1pp4/2PPn3/1P1K4/P3N3/8 b - - 4 39",
+  "color": "white",
+  "initialPly": 78,
+  "gameId": "KHp84sEu",
+  "lines": {
+    "c4d5": {
+      "c6d5": {
+        "e2f4": {
+          "d5d6": {
+            "d3e4": {
+              "c5d4": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 113,
+  "enabled": true
+}

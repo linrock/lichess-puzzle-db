@@ -1,0 +1,28 @@
+{
+  "id": 103851,
+  "rating": 1557,
+  "attempts": 7371,
+  "fen": "4r1k1/p1RR1pp1/1p6/8/1P3P1p/P4P1P/6PK/r7 w - - 3 32",
+  "color": "black",
+  "initialPly": 63,
+  "gameId": "LSfSPZc2",
+  "lines": {
+    "e8e1": {
+      "f7g7": {
+        "g8f8": {
+          "c7f7": {
+            "f8e8": {
+              "f7e7": {
+                "e1e7": {
+                  "g7g8": "win"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 181,
+  "enabled": true
+}

@@ -1,0 +1,24 @@
+{
+  "id": 74188,
+  "rating": 1926,
+  "attempts": 24516,
+  "fen": "r1b2rk1/ppp2pp1/2nq3p/3N4/1bBP4/P4N2/1P3PPP/R2Q1RK1 b - - 0 14",
+  "color": "white",
+  "initialPly": 28,
+  "gameId": "PG81iXMa",
+  "lines": {
+    "d5e3": {
+      "e6c4": {
+        "e3c4": {
+          "d6e7": {
+            "a3b4": {
+              "e7b4": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 432,
+  "enabled": true
+}

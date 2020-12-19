@@ -1,0 +1,20 @@
+{
+  "id": 80547,
+  "rating": 1216,
+  "attempts": 6893,
+  "fen": "4r1k1/ppp1rpp1/1n1p1q1p/3P2B1/1P1P2QP/5PP1/P3R3/4RK2 b - - 6 27",
+  "color": "white",
+  "initialPly": 54,
+  "gameId": "DGbtCyOh",
+  "lines": {
+    "e1e2": {
+      "f6g6": {
+        "e2e8": {
+          "g8h7": "win"
+        }
+      }
+    }
+  },
+  "vote": 112,
+  "enabled": true
+}

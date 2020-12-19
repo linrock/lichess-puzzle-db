@@ -1,0 +1,24 @@
+{
+  "id": 108487,
+  "rating": 1136,
+  "attempts": 1617,
+  "fen": "2k5/1pp5/p7/3pPp2/1q1P1Pp1/b5P1/P1Q5/R3K3 w Q - 2 31",
+  "color": "black",
+  "initialPly": 61,
+  "gameId": "Wvcp41mT",
+  "lines": {
+    "b4d4": {
+      "f2g2": {
+        "d4a1": {
+          "c2f5": {
+            "c8b8": {
+              "f5g4": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 48,
+  "enabled": true
+}

@@ -1,0 +1,26 @@
+{
+  "id": 122409,
+  "rating": 1823,
+  "attempts": 216990,
+  "fen": "5rk1/1p1R1ppp/p7/2b1p3/2P1P3/1B3Q1P/1PP2PPK/4q3 b - - 6 26",
+  "color": "white",
+  "initialPly": 52,
+  "gameId": "NfzBetIA",
+  "lines": {
+    "f3f7": {
+      "f8f7": {
+        "d7d8": {
+          "f7f8": {
+            "c4c5": {
+              "g8h8": {
+                "d8f8": "win"
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 2635,
+  "enabled": true
+}

@@ -1,0 +1,24 @@
+{
+  "id": 77724,
+  "rating": 1408,
+  "attempts": 11948,
+  "fen": "r3k2r/pp1q1ppp/2p1b3/3n4/Pb1P4/2NBB3/1P3PPP/R2QR1K1 w kq - 3 14",
+  "color": "black",
+  "initialPly": 27,
+  "gameId": "YpQrMxTV",
+  "lines": {
+    "b4c3": {
+      "b2c3": {
+        "d5c3": {
+          "d1f1": {
+            "c3e2": {
+              "f1e2": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 303,
+  "enabled": true
+}

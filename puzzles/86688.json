@@ -1,0 +1,24 @@
+{
+  "id": 86688,
+  "rating": 2022,
+  "attempts": 10690,
+  "fen": "6k1/p1p4p/1p4p1/3P4/1PPr4/P3Q1NP/6PK/q7 b - - 2 29",
+  "color": "white",
+  "initialPly": 58,
+  "gameId": "lqC56mim",
+  "lines": {
+    "e3e6": {
+      "g8f8": {
+        "d5d6": {
+          "c7d6": {
+            "e6c4": {
+              "a1e5": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 212,
+  "enabled": true
+}

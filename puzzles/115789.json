@@ -1,0 +1,20 @@
+{
+  "id": 115789,
+  "rating": 1198,
+  "attempts": 3175,
+  "fen": "2r3k1/p1r1pp1p/3p2p1/1B1P4/8/7P/P2B1PP1/2bQ2K1 b - - 0 25",
+  "color": "white",
+  "initialPly": 50,
+  "gameId": "OLcwpmdQ",
+  "lines": {
+    "d1d2": {
+      "c7c1": {
+        "g1h2": {
+          "c1c7": "win"
+        }
+      }
+    }
+  },
+  "vote": 40,
+  "enabled": true
+}

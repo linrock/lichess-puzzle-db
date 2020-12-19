@@ -1,0 +1,28 @@
+{
+  "id": 116733,
+  "rating": 1435,
+  "attempts": 7413,
+  "fen": "r2qr1k1/ppp1nppp/3b4/5b2/1P1PN3/P2B4/5PPP/R1BQ1RK1 w - - 1 15",
+  "color": "black",
+  "initialPly": 29,
+  "gameId": "TXs80dPw",
+  "lines": {
+    "g7f6": {
+      "d3f5": {
+        "e7f5": {
+          "d1g4": {
+            "f5g7": {
+              "c1h6": {
+                "d6f8": {
+                  "g4f3": "win"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 148,
+  "enabled": true
+}

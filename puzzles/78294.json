@@ -1,0 +1,28 @@
+{
+  "id": 78294,
+  "rating": 1147,
+  "attempts": 5569,
+  "fen": "1r2r1k1/1pn2ppp/1p1p1n2/1Pp5/2P3q1/P1Q1PNPb/1B1P3P/R3R1KB w - - 3 22",
+  "color": "black",
+  "initialPly": 43,
+  "gameId": "ArceLRuM",
+  "lines": {
+    "f6e4": {
+      "c3g7": {
+        "g4g7": {
+          "b2g7": {
+            "g8g7": {
+              "d2d3": {
+                "e4f6": {
+                  "a3a4": "win"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": -87,
+  "enabled": true
+}

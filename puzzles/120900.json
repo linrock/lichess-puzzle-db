@@ -1,0 +1,24 @@
+{
+  "id": 120900,
+  "rating": 1596,
+  "attempts": 8986,
+  "fen": "1r1r2k1/5pbp/2QN2p1/pn2p3/1q2P3/1R4P1/PP3PBP/3R2K1 b - - 2 24",
+  "color": "white",
+  "initialPly": 48,
+  "gameId": "TbCvXyJS",
+  "lines": {
+    "d1d6": {
+      "b4d6": {
+        "c6d6": {
+          "b5d6": {
+            "b3b8": {
+              "g7f8": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 151,
+  "enabled": true
+}

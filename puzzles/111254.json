@@ -1,0 +1,24 @@
+{
+  "id": 111254,
+  "rating": 1292,
+  "attempts": 2018,
+  "fen": "3r2k1/6R1/p4r2/1p3P2/2p1p3/1P2K3/P2p4/6R1 b - - 0 43",
+  "color": "white",
+  "initialPly": 86,
+  "gameId": "uGXi3I77",
+  "lines": {
+    "g7g8": {
+      "f8e7": {
+        "g1g7": {
+          "e7d6": {
+            "g8d8": {
+              "d6e5": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 61,
+  "enabled": true
+}

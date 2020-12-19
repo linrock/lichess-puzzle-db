@@ -1,0 +1,28 @@
+{
+  "id": 106362,
+  "rating": 1356,
+  "attempts": 4553,
+  "fen": "r2qk1nr/pbppbpp1/1p2p3/6p1/4P2P/P1NPBN2/1PP1QP2/R3K2R w KQkq - 0 12",
+  "color": "black",
+  "initialPly": 23,
+  "gameId": "V599pTTL",
+  "lines": {
+    "e7g5": {
+      "f3g5": {
+        "d8g5": {
+          "h4g5": {
+            "h8h1": {
+              "e1d2": {
+                "h1a1": {
+                  "c3b5": "win"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 124,
+  "enabled": true
+}

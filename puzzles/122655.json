@@ -1,0 +1,24 @@
+{
+  "id": 122655,
+  "rating": 1672,
+  "attempts": 9720,
+  "fen": "3r1rk1/1p3p1p/p1p1bQp1/4R3/2q1B2P/8/1P3PP1/5RK1 b - - 0 24",
+  "color": "white",
+  "initialPly": 48,
+  "gameId": "EaTHBvej",
+  "lines": {
+    "h4h5": {
+      "c4f1": {
+        "g1f1": {
+          "d8d1": {
+            "f1e2": {
+              "d1h1": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 99,
+  "enabled": true
+}

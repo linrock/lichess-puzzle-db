@@ -1,0 +1,40 @@
+{
+  "id": 105263,
+  "rating": 2513,
+  "attempts": 1426,
+  "fen": "5r1k/ppp3pp/2pr4/6q1/3Pp1b1/1QP5/PP2NPPP/R4RK1 w - - 3 17",
+  "color": "black",
+  "initialPly": 33,
+  "gameId": "9INZeLUO",
+  "lines": {
+    "d6h6": {
+      "b3b4": {
+        "h8g8": {
+          "f1e1": {
+            "g5h4": {
+              "h2h3": {
+                "g4h3": {
+                  "e1e4": {
+                    "h3g4": {
+                      "b4c4": {
+                        "g8h8": {
+                          "e4g4": {
+                            "h4g4": {
+                              "a1e1": "win"
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 5,
+  "enabled": true
+}

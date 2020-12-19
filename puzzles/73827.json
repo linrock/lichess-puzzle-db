@@ -1,0 +1,19 @@
+{
+  "id": 73827,
+  "rating": 1500,
+  "attempts": 4,
+  "fen": "8/6k1/7p/5P2/3R1KP1/1r6/p7/8 w - - 0 51",
+  "color": "black",
+  "initialPly": 101,
+  "gameId": "LM24rHDs",
+  "lines": {
+    "b3b4": {
+      "a4b4": {
+        "a2a1q": {
+          "b4e4": "win"
+        }
+      }
+    }
+  },
+  "vote": -9000
+}

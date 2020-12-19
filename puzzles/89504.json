@@ -1,0 +1,24 @@
+{
+  "id": 89504,
+  "rating": 1666,
+  "attempts": 16066,
+  "fen": "5k2/p7/1p2rpp1/2p4p/5QPn/2B1PP1q/PPP4P/6RK w - - 3 30",
+  "color": "black",
+  "initialPly": 59,
+  "gameId": "ELKPUSQB",
+  "lines": {
+    "h3f3": {
+      "f4f3": {
+        "h4f3": {
+          "f6c3": {
+            "f3g1": {
+              "h1g1": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 268,
+  "enabled": true
+}

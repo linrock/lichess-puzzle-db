@@ -1,0 +1,28 @@
+{
+  "id": 125199,
+  "rating": 2140,
+  "attempts": 7917,
+  "fen": "2r2rk1/1b1n3p/p3p1p1/1p1pPpP1/1n1B1P2/2N1P3/PP4P1/2R1KB1R b K - 9 19",
+  "color": "white",
+  "initialPly": 38,
+  "gameId": "RMTzspSG",
+  "lines": {
+    "d4c5": {
+      "c8c5": {
+        "a2a3": {
+          "b4c6": {
+            "b2b4": {
+              "c5c3": {
+                "c1c3": {
+                  "f8f7": "win"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 139,
+  "enabled": true
+}

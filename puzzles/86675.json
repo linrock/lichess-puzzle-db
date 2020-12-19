@@ -1,0 +1,28 @@
+{
+  "id": 86675,
+  "rating": 1435,
+  "attempts": 8863,
+  "fen": "2kr1b1r/pppb2pp/2n2n2/4p3/4B3/2P1BN2/PPK2PPP/RN5R w - - 1 11",
+  "color": "black",
+  "initialPly": 21,
+  "gameId": "terTIAKu",
+  "lines": {
+    "f6e4": {
+      "d2e4": {
+        "d7f5": {
+          "f3d2": {
+            "d8d2": {
+              "c2d2": {
+                "f5e4": {
+                  "f2f3": "win"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": -209,
+  "enabled": true
+}

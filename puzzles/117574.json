@@ -1,0 +1,24 @@
+{
+  "id": 117574,
+  "rating": 2901,
+  "attempts": 490,
+  "fen": "2r3k1/3b1pb1/3p2p1/1P1Pp1P1/2q1P2p/r1N1QN1P/p4P1K/R1R5 w - - 2 31",
+  "color": "black",
+  "initialPly": 61,
+  "gameId": "AUyfBOY5",
+  "lines": {
+    "c4b4": {
+      "c3a2": {
+        "c8c1": {
+          "a1c1": {
+            "a3a2": {
+              "b5b6": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": -5,
+  "enabled": true
+}

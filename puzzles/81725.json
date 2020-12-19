@@ -1,0 +1,28 @@
+{
+  "id": 81725,
+  "rating": 2097,
+  "attempts": 10532,
+  "fen": "7r/3k1pp1/pp2q2r/1p2R3/3P1Q2/8/PP3PP1/R5K1 w - - 0 27",
+  "color": "black",
+  "initialPly": 53,
+  "gameId": "DavakJyw",
+  "lines": {
+    "h6h1": {
+      "g1g2": {
+        "e6h3": {
+          "g2f3": {
+            "h1a1": {
+              "f4f7": {
+                "d7c8": {
+                  "a2a3": "win"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 223,
+  "enabled": true
+}

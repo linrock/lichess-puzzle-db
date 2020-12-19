@@ -1,0 +1,24 @@
+{
+  "id": 69443,
+  "rating": 1444,
+  "attempts": 26040,
+  "fen": "8/6bk/1R6/5pPp/5P2/6B1/r5P1/6K1 w - - 4 37",
+  "color": "black",
+  "initialPly": 73,
+  "gameId": "SpllWWyc",
+  "lines": {
+    "a2f2": {
+      "g1f2": {
+        "g7d4": {
+          "f2g3": {
+            "d4b6": {
+              "g3h3": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 491,
+  "enabled": true
+}

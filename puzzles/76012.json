@@ -1,0 +1,24 @@
+{
+  "id": 76012,
+  "rating": 1742,
+  "attempts": 39690,
+  "fen": "8/1p6/pB6/5n1P/PP2kP2/6p1/2PK4/8 b - - 0 47",
+  "color": "white",
+  "initialPly": 94,
+  "gameId": "lcLIGLyg",
+  "lines": {
+    "h5h6": {
+      "f5h6": {
+        "b6e3": {
+          "f4e5": {
+            "e3h6": {
+              "e5d4": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 569,
+  "enabled": true
+}

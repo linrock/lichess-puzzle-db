@@ -1,0 +1,20 @@
+{
+  "id": 110903,
+  "rating": 1602,
+  "attempts": 7212,
+  "fen": "r3r1k1/5ppp/3b1q2/2pQ4/3p4/pP5P/P1PB1PP1/4RRK1 b - - 5 23",
+  "color": "white",
+  "initialPly": 46,
+  "gameId": "EU60Xmea",
+  "lines": {
+    "d2g5": {
+      "f6g6": {
+        "g5d8": {
+          "e8d8": "win"
+        }
+      }
+    }
+  },
+  "vote": 135,
+  "enabled": true
+}

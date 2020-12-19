@@ -1,0 +1,28 @@
+{
+  "id": 113047,
+  "rating": 2330,
+  "attempts": 3648,
+  "fen": "2r3k1/pb3p1p/1pq3p1/3p1PQ1/2rP4/P4PN1/7P/4RRK1 b - - 2 36",
+  "color": "white",
+  "initialPly": 72,
+  "gameId": "VRg1Inzy",
+  "lines": {
+    "g3h5": {
+      "c4d4": {
+        "g5h6": {
+          "d4g4": {
+            "f3g4": {
+              "g6h5": {
+                "f5f6": {
+                  "c6c5": "win"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 92,
+  "enabled": true
+}

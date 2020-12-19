@@ -1,0 +1,28 @@
+{
+  "id": 98321,
+  "rating": 1846,
+  "attempts": 97897,
+  "fen": "2kr1br1/Rppq2p1/6Qp/3p4/1n2pB2/4P1P1/1PPN1P1P/4K2R b K - 0 19",
+  "color": "white",
+  "initialPly": 38,
+  "gameId": "JRF18jwY",
+  "lines": {
+    "g6b6": {
+      "d7c6": {
+        "f4c7": {
+          "c6c7": {
+            "a7a8": {
+              "b8a8": {
+                "b6c7": {
+                  "f8d6": "win"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 402,
+  "enabled": true
+}

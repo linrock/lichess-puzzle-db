@@ -1,0 +1,24 @@
+{
+  "id": 90164,
+  "rating": 1943,
+  "attempts": 11743,
+  "fen": "8/3n1pbk/bp2p1pp/p2pP3/P2P1QN1/1Pr3NP/1q3PP1/1B1R2K1 b - - 7 27",
+  "color": "white",
+  "initialPly": 54,
+  "gameId": "mlinWCDu",
+  "lines": {
+    "f4f7": {
+      "b3d1": {
+        "g1h2": {
+          "d1g4": {
+            "h3g4": {
+              "a6d3": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 173,
+  "enabled": true
+}

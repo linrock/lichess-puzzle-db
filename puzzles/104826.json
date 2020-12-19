@@ -1,0 +1,24 @@
+{
+  "id": 104826,
+  "rating": 2654,
+  "attempts": 372,
+  "fen": "5r2/1ppq1p1k/3p1np1/p6P/4r3/4B3/PPPQ4/2K3RR b - - 0 26",
+  "color": "white",
+  "initialPly": 52,
+  "gameId": "mWGtXLOW",
+  "lines": {
+    "d2d1": {
+      "e4e5": {
+        "e3g5": {
+          "d7f5": {
+            "h1h5": {
+              "h7g8": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": -1,
+  "enabled": true
+}

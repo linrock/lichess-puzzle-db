@@ -1,0 +1,24 @@
+{
+  "id": 61584,
+  "rating": 1910,
+  "attempts": 320731,
+  "fen": "rnb1k2r/ppq2ppp/5n2/3P4/1bP1p3/2N5/PP2B1PP/R1BQK1NR b KQkq - 1 10",
+  "color": "white",
+  "initialPly": 20,
+  "gameId": "Y17MSkLD",
+  "lines": {
+    "d1a4": {
+      "b8c6": {
+        "d5c6": {
+          "b4c3": {
+            "b2c3": {
+              "b7c6": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 4890,
+  "enabled": true
+}

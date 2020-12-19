@@ -1,0 +1,24 @@
+{
+  "id": 67330,
+  "rating": 1825,
+  "attempts": 61156,
+  "fen": "5nk1/6p1/1p2pPqp/p2pP3/3P2PP/3n1Q2/PPr5/R4RK1 b - - 4 25",
+  "color": "white",
+  "initialPly": 50,
+  "gameId": "nhoVDCdi",
+  "lines": {
+    "f6g7": {
+      "e4f3": {
+        "f1f3": {
+          "f8g6": {
+            "f3d3": {
+              "g6f4": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 860,
+  "enabled": true
+}

@@ -1,0 +1,20 @@
+{
+  "id": 83522,
+  "rating": 1011,
+  "attempts": 1680,
+  "fen": "4r1k1/7p/p1r1p1p1/1p1nR3/3B4/2P4P/PP4P1/4R1K1 b - - 8 26",
+  "color": "white",
+  "initialPly": 52,
+  "gameId": "ANzvLURG",
+  "lines": {
+    "e5d5": {
+      "e6d5": {
+        "e1e8": {
+          "g8f7": "win"
+        }
+      }
+    }
+  },
+  "vote": 33,
+  "enabled": true
+}

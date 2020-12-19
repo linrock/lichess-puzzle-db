@@ -1,0 +1,28 @@
+{
+  "id": 81700,
+  "rating": 1846,
+  "attempts": 22666,
+  "fen": "2r2rk1/p4ppp/2B1bq2/3p4/8/5P2/PPP3PP/R2Q1RK1 w - - 1 17",
+  "color": "black",
+  "initialPly": 33,
+  "gameId": "ZvCc4grR",
+  "lines": {
+    "f8d8": {
+      "c2c4": {
+        "c8c4": {
+          "d5c4": {
+            "d8d1": {
+              "a1d1": {
+                "e6c4": {
+                  "f1e1": "win"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 407,
+  "enabled": true
+}

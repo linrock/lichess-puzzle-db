@@ -1,0 +1,24 @@
+{
+  "id": 100902,
+  "rating": 1387,
+  "attempts": 66384,
+  "fen": "8/pp1kb1pp/2qp4/4p2n/4P3/2PPB2P/PPQ3PK/RN3r2 w - - 2 21",
+  "color": "black",
+  "initialPly": 41,
+  "gameId": "bcmeraFy",
+  "lines": {
+    "f1h1": {
+      "h2h1": {
+        "h5g3": {
+          "h1h2": {
+            "g3e2": {
+              "c3c4": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 218,
+  "enabled": true
+}

@@ -1,0 +1,28 @@
+{
+  "id": 74453,
+  "rating": 1394,
+  "attempts": 16934,
+  "fen": "r4rk1/p1qbbppp/2pppn2/6B1/4PP2/2N5/PPP1B1PP/1R1Q1R1K b - - 2 12",
+  "color": "white",
+  "initialPly": 24,
+  "gameId": "pmkrMyx4",
+  "lines": {
+    "e4e5": {
+      "d6e5": {
+        "f4e5": {
+          "c7e5": {
+            "g5f6": {
+              "e7f6": {
+                "d1d7": {
+                  "a5a4": "win"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 366,
+  "enabled": true
+}

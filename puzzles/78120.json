@@ -1,0 +1,24 @@
+{
+  "id": 78120,
+  "rating": 1055,
+  "attempts": 31459,
+  "fen": "r3kb1r/pp3R1p/4p3/q2p2PB/3n4/2N5/PP4PP/R1B4K b kq - 2 17",
+  "color": "white",
+  "initialPly": 34,
+  "gameId": "ks883BL6",
+  "lines": {
+    "f7h7": {
+      "e8d8": {
+        "h7h8": {
+          "d8c7": {
+            "h8a8": {
+              "d4c2": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 148,
+  "enabled": true
+}

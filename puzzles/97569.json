@@ -1,0 +1,24 @@
+{
+  "id": 97569,
+  "rating": 1159,
+  "attempts": 1405,
+  "fen": "2k3r1/1pqr1p2/p3p3/2P1n3/1Pn1BNP1/2P4P/P4R2/R1Q3K1 b - - 0 27",
+  "color": "white",
+  "initialPly": 54,
+  "gameId": "Nt43Fgor",
+  "lines": {
+    "f4e6": {
+      "e5g4": {
+        "e6c7": {
+          "g4f2": {
+            "g1f2": {
+              "f5e4": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 11,
+  "enabled": true
+}

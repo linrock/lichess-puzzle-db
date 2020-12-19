@@ -1,0 +1,24 @@
+{
+  "id": 113012,
+  "rating": 1585,
+  "attempts": 8521,
+  "fen": "r4rk1/1pp1nppp/p7/4n3/3qN3/1B4Q1/PP3PPP/R3R1K1 b - - 4 18",
+  "color": "white",
+  "initialPly": 36,
+  "gameId": "LehonsgQ",
+  "lines": {
+    "e4f6": {
+      "g8h8": {
+        "g3e5": {
+          "d4e5": {
+            "e1e5": {
+              "f5d4": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 137,
+  "enabled": true
+}

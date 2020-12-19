@@ -1,0 +1,24 @@
+{
+  "id": 106193,
+  "rating": 1991,
+  "attempts": 6702,
+  "fen": "3r1rk1/pB3ppp/1b2q3/8/5Q2/2Pn2P1/PP2NP1P/3R1RK1 w - - 1 19",
+  "color": "black",
+  "initialPly": 37,
+  "gameId": "KeusscI1",
+  "lines": {
+    "d3f2": {
+      "e4e6": {
+        "f2d1": {
+          "e6b6": {
+            "a7b6": {
+              "e2f4": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 158,
+  "enabled": true
+}

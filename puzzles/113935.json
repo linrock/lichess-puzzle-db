@@ -1,0 +1,24 @@
+{
+  "id": 113935,
+  "rating": 1032,
+  "attempts": 1849,
+  "fen": "5r2/pp2kpp1/4p2p/4N3/P2P4/3Q2P1/1qr2PP1/R3K2R w KQ - 4 25",
+  "color": "black",
+  "initialPly": 49,
+  "gameId": "GARZ1rUa",
+  "lines": {
+    "b2a3": {
+      "a1a3": {
+        "c2c1": {
+          "e1e2": {
+            "c1h1": {
+              "a3b3": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 53,
+  "enabled": true
+}

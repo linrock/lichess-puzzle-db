@@ -1,0 +1,20 @@
+{
+  "id": 73873,
+  "rating": 711,
+  "attempts": 405,
+  "fen": "7k/6R1/7P/4p3/4P2P/5P2/p6K/r7 w - - 31 63",
+  "color": "black",
+  "initialPly": 125,
+  "gameId": "LZyRGuMS",
+  "lines": {
+    "a1h1": {
+      "h2h1": {
+        "a2a1q": {
+          "h1h2": "win"
+        }
+      }
+    }
+  },
+  "vote": 6,
+  "enabled": true
+}

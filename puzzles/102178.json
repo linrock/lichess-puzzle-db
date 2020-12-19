@@ -1,0 +1,24 @@
+{
+  "id": 102178,
+  "rating": 1945,
+  "attempts": 9033,
+  "fen": "r4rk1/ppp2ppp/8/2p4n/4P2q/1P3PNP/P1P2P1K/R2Q1R2 w - - 0 17",
+  "color": "black",
+  "initialPly": 33,
+  "gameId": "Upvp3NvM",
+  "lines": {
+    "h5f4": {
+      "d5f5": {
+        "h7h5": {
+          "g3h5": {
+            "f4h5": {
+              "f5g4": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 168,
+  "enabled": true
+}

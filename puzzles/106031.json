@@ -1,0 +1,36 @@
+{
+  "id": 106031,
+  "rating": 2619,
+  "attempts": 336,
+  "fen": "4r1k1/ppq2ppp/5n2/2prNR2/3P4/2P3Q1/PP4PP/5RK1 b - - 1 23",
+  "color": "white",
+  "initialPly": 46,
+  "gameId": "karPDSjx",
+  "lines": {
+    "g3f3": {
+      "c5d4": {
+        "c3d4": {
+          "c7b6": {
+            "f3e4": {
+              "d5d4": {
+                "e4e3": {
+                  "f7f6": {
+                    "e3f2": {
+                      "d4d2": {
+                        "f2b6": {
+                          "a7b6": "win"
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": -1,
+  "enabled": true
+}

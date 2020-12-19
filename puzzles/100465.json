@@ -1,0 +1,20 @@
+{
+  "id": 100465,
+  "rating": 1233,
+  "attempts": 3087,
+  "fen": "4k3/2pR3p/4B1p1/1P2Pn2/2P1KP2/8/1r5P/8 w - - 1 51",
+  "color": "black",
+  "initialPly": 101,
+  "gameId": "gvCuruBT",
+  "lines": {
+    "g6f5": {
+      "e4f5": {
+        "e8d7": {
+          "f5f6": "win"
+        }
+      }
+    }
+  },
+  "vote": 55,
+  "enabled": true
+}

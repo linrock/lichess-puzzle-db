@@ -1,0 +1,28 @@
+{
+  "id": 122238,
+  "rating": 2900,
+  "attempts": 834,
+  "fen": "r1bq1r2/pp1nk1pQ/2n1p3/2bp4/5B2/2N4N/PPP2PPP/R4RK1 b - - 3 15",
+  "color": "white",
+  "initialPly": 30,
+  "gameId": "VLcHVNnE",
+  "lines": {
+    "c3d5": {
+      "e6d5": {
+        "a1e1": {
+          "d7e5": {
+            "f4g5": {
+              "e7d6": {
+                "g5d8": {
+                  "c8f5": "win"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 7,
+  "enabled": true
+}

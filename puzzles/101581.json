@@ -1,0 +1,36 @@
+{
+  "id": 101581,
+  "rating": 2743,
+  "attempts": 343,
+  "fen": "r4rk1/p3q1p1/n1p4p/1p1p1p2/3Pn1bR/P1NBPNP1/1PQ2PP1/2K4R b - - 1 16",
+  "color": "white",
+  "initialPly": 32,
+  "gameId": "FdgPhsib",
+  "lines": {
+    "c3e4": {
+      "f5e4": {
+        "h4g4": {
+          "b4a3": {
+            "d3a6": {
+              "a3a2": {
+                "c2a4": {
+                  "e4f3": {
+                    "g2f3": {
+                      "f8f3": {
+                        "a4a2": {
+                          "f3f2": "win"
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 0,
+  "enabled": true
+}

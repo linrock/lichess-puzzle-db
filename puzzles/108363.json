@@ -1,0 +1,20 @@
+{
+  "id": 108363,
+  "rating": 907,
+  "attempts": 294,
+  "fen": "8/b2k2p1/3p1p2/1P1Np2p/2K1P3/5P2/7P/8 b - - 0 42",
+  "color": "white",
+  "initialPly": 84,
+  "gameId": "IKDR1mcr",
+  "lines": {
+    "b5b6": {
+      "a7b6": {
+        "d5b6": {
+          "d7e6": "win"
+        }
+      }
+    }
+  },
+  "vote": 20,
+  "enabled": true
+}

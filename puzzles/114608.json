@@ -1,0 +1,24 @@
+{
+  "id": 114608,
+  "rating": 1868,
+  "attempts": 10933,
+  "fen": "r1b2rk1/1p3ppp/p4n2/2bp1P2/2qN4/P1N3Q1/1PP3PP/3R1RBK b - - 0 19",
+  "color": "white",
+  "initialPly": 38,
+  "gameId": "LlTxlDD8",
+  "lines": {
+    "b2b3": {
+      "c5d6": {
+        "b3c4": {
+          "d6g3": {
+            "h2g3": {
+              "d5c4": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 181,
+  "enabled": true
+}

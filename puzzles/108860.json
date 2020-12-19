@@ -1,0 +1,28 @@
+{
+  "id": 108860,
+  "rating": 1981,
+  "attempts": 7744,
+  "fen": "6rr/4k3/p3pp2/1p1B3p/1P1p3Q/8/P1q2PPP/4R1K1 b - - 0 23",
+  "color": "white",
+  "initialPly": 46,
+  "gameId": "gbsyat2x",
+  "lines": {
+    "e1e5": {
+      "e7d7": {
+        "d5e6": {
+          "d7c7": {
+            "e5c5": {
+              "c2c5": {
+                "b4c5": {
+                  "g8g5": "win"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 207,
+  "enabled": true
+}

@@ -1,0 +1,20 @@
+{
+  "id": 111911,
+  "rating": 765,
+  "attempts": 117,
+  "fen": "6k1/7p/6p1/pp6/2p1b1N1/6PP/PP3K2/8 b - - 3 33",
+  "color": "white",
+  "initialPly": 66,
+  "gameId": "KIsolxan",
+  "lines": {
+    "g4f6": {
+      "g8f7": {
+        "f6e4": {
+          "f7e6": "win"
+        }
+      }
+    }
+  },
+  "vote": 8,
+  "enabled": true
+}

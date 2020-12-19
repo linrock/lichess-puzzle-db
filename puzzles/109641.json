@@ -1,0 +1,24 @@
+{
+  "id": 109641,
+  "rating": 1714,
+  "attempts": 7430,
+  "fen": "r3kbnr/ppp1pppp/2n1q3/8/3P4/2N2P2/PPP1BP1P/R1BQK2R b KQkq - 0 7",
+  "color": "white",
+  "initialPly": 14,
+  "gameId": "OhyKGiye",
+  "lines": {
+    "d4d5": {
+      "f6d5": {
+        "d1d5": {
+          "e6d5": {
+            "c3d5": {
+              "e8c8": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 69,
+  "enabled": true
+}

@@ -1,0 +1,32 @@
+{
+  "id": 103801,
+  "rating": 2066,
+  "attempts": 5384,
+  "fen": "r2qr1k1/b2b1ppp/pp6/3nN3/1PBN1n2/2P5/1BQ2PPP/4RRK1 b - - 1 21",
+  "color": "white",
+  "initialPly": 42,
+  "gameId": "Nt20uMO9",
+  "lines": {
+    "c4d5": {
+      "g2e1": {
+        "f1e1": {
+          "d8g5": {
+            "g1h1": {
+              "e8e5": {
+                "e1e5": {
+                  "g5e5": {
+                    "d5a8": {
+                      "a6a5": "win"
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 100,
+  "enabled": true
+}

@@ -1,0 +1,23 @@
+{
+  "id": 62329,
+  "rating": 2393,
+  "attempts": 17494,
+  "fen": "4kb1r/Qp1q1p2/3p2p1/3Pp3/1Pr1b1R1/P3B1NP/5P2/R3K3 b Qk - 1 23",
+  "color": "white",
+  "initialPly": 46,
+  "gameId": "KiobW3Qz",
+  "lines": {
+    "g4e4": {
+      "c4c8": {
+        "a1c1": {
+          "c8c1": {
+            "e3c1": {
+              "d7c8": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": -9000
+}

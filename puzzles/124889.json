@@ -1,0 +1,22 @@
+{
+  "id": 124889,
+  "rating": 1697,
+  "attempts": 45190,
+  "fen": "r2q1k1r/pp1nb1p1/2n1pPQ1/3p4/PPpP1B2/2P2N2/5PP1/R3KBR1 b Q - 0 18",
+  "color": "white",
+  "initialPly": 36,
+  "gameId": "ntt87VbT",
+  "lines": {
+    "f3g5": {
+      "d8e8": {
+        "g5e6": {
+          "f8g8": {
+            "g6g7": "win"
+          }
+        }
+      }
+    }
+  },
+  "vote": 178,
+  "enabled": true
+}

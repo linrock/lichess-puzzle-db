@@ -1,0 +1,20 @@
+{
+  "id": 100690,
+  "rating": 1234,
+  "attempts": 2825,
+  "fen": "5rk1/3p1pbp/6pn/3r4/R2pN3/8/1P3PPP/2B2RK1 b - - 0 23",
+  "color": "white",
+  "initialPly": 46,
+  "gameId": "sGlewzpy",
+  "lines": {
+    "c1h6": {
+      "f7f5": {
+        "h6g7": {
+          "g8g7": "win"
+        }
+      }
+    }
+  },
+  "vote": -22,
+  "enabled": true
+}

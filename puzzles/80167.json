@@ -1,0 +1,28 @@
+{
+  "id": 80167,
+  "rating": 1622,
+  "attempts": 114303,
+  "fen": "r4kr1/1p3p2/p1bp1q2/2p1nPpQ/4P3/2PPB2B/PP5K/3R2R1 w - - 0 28",
+  "color": "black",
+  "initialPly": 55,
+  "gameId": "wA9598Sy",
+  "lines": {
+    "g8g5": {
+      "g1g5": {
+        "f6g5": {
+          "h5g5": {
+            "e5f3": {
+              "h2g3": {
+                "f3g5": {
+                  "h3g2": "win"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 634,
+  "enabled": true
+}

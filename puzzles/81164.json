@@ -1,0 +1,28 @@
+{
+  "id": 81164,
+  "rating": 1700,
+  "attempts": 115298,
+  "fen": "r1q4r/ppp2bp1/2n3kp/2b2p2/2BNpP2/1PP5/PB2Q1PP/R4RK1 b - - 0 20",
+  "color": "white",
+  "initialPly": 40,
+  "gameId": "iSoPo75Z",
+  "lines": {
+    "c4f7": {
+      "g6f7": {
+        "e2c4": {
+          "f7g6": {
+            "c4c5": {
+              "c6d4": {
+                "c3d4": {
+                  "c7c6": "win"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 559,
+  "enabled": true
+}

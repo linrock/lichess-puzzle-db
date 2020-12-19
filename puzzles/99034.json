@@ -1,0 +1,24 @@
+{
+  "id": 99034,
+  "rating": 1951,
+  "attempts": 7377,
+  "fen": "r4rk1/p2Q2p1/4pq1p/2pp4/2nN4/2P5/P4PPP/2R2RK1 w - - 0 22",
+  "color": "black",
+  "initialPly": 43,
+  "gameId": "mxRSkz74",
+  "lines": {
+    "c4b6": {
+      "d7g7": {
+        "f6g7": {
+          "e6g7": {
+            "g8g7": {
+              "f2f3": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 98,
+  "enabled": true
+}

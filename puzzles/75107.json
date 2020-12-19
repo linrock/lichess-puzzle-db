@@ -1,0 +1,32 @@
+{
+  "id": 75107,
+  "rating": 2491,
+  "attempts": 1219,
+  "fen": "1k1r2nr/ppq2pb1/2p4p/2PpP1p1/1Q6/4BBP1/PPP5/2KR3R b - - 0 18",
+  "color": "white",
+  "initialPly": 36,
+  "gameId": "suomiHuj",
+  "lines": {
+    "e3d4": {
+      "e5g3": {
+        "d4g7": {
+          "h8h7": {
+            "b4g4": {
+              "g3g4": {
+                "g7e5": {
+                  "b8a8": {
+                    "f3g4": {
+                      "f7f6": "win"
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 44,
+  "enabled": true
+}

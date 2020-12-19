@@ -1,0 +1,32 @@
+{
+  "id": 89848,
+  "rating": 2696,
+  "attempts": 438,
+  "fen": "r2q1rk1/5ppp/3p4/ppp5/4PR2/P2P3Q/BbP3PP/5RK1 b - - 1 17",
+  "color": "white",
+  "initialPly": 34,
+  "gameId": "tanT4wfd",
+  "lines": {
+    "f4f6": {
+      "g7f6": {
+        "f1f4": {
+          "f6f5": {
+            "h3h6": {
+              "g8h8": {
+                "f4h4": {
+                  "d8h4": {
+                    "h6h4": {
+                      "f5e4": "win"
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 1,
+  "enabled": true
+}

@@ -1,0 +1,28 @@
+{
+  "id": 66587,
+  "rating": 2240,
+  "attempts": 32949,
+  "fen": "r1b1k2r/pp3ppp/2p1p3/q2n3n/PbpP4/2N1PP2/1PQ1NBPP/R3KB1R w KQkq - 7 12",
+  "color": "black",
+  "initialPly": 23,
+  "gameId": "SSOnvURM",
+  "lines": {
+    "h5f4": {
+      "e2f4": {
+        "d5c3": {
+          "b2c3": {
+            "b4c3": {
+              "e1d1": {
+                "c3a1": {
+                  "f1c4": "win"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 470,
+  "enabled": true
+}

@@ -1,0 +1,24 @@
+{
+  "id": 65340,
+  "rating": 2017,
+  "attempts": 77034,
+  "fen": "2kr3r/1pp2ppp/p1p1bnq1/2b5/5P2/2NPN3/PPP3PP/R1BQ1R1K b - - 0 12",
+  "color": "white",
+  "initialPly": 24,
+  "gameId": "RxPRY0re",
+  "lines": {
+    "f4f5": {
+      "d5e3": {
+        "c1e3": {
+          "e6f5": {
+            "e3c5": {
+              "f5e6": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 1385,
+  "enabled": true
+}

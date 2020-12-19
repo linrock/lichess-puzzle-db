@@ -1,0 +1,28 @@
+{
+  "id": 92091,
+  "rating": 2157,
+  "attempts": 7612,
+  "fen": "r3k3/pp3p2/2p5/4pR1q/4P2r/4Q3/PPP1b1P1/3R2K1 b q - 1 27",
+  "color": "white",
+  "initialPly": 54,
+  "gameId": "BJrholVI",
+  "lines": {
+    "f5e5": {
+      "e8f8": {
+        "e3c5": {
+          "f8g7": {
+            "e5g5": {
+              "g7h7": {
+                "g5g4": {
+                  "e2g4": "win"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 251,
+  "enabled": true
+}

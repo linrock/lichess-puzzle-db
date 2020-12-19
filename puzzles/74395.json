@@ -1,0 +1,28 @@
+{
+  "id": 74395,
+  "rating": 1265,
+  "attempts": 12931,
+  "fen": "8/7k/6Rp/3p3P/2pPp3/2r5/r4P1R/1K6 b - - 1 42",
+  "color": "white",
+  "initialPly": 84,
+  "gameId": "mxKR1ErD",
+  "lines": {
+    "h2g2": {
+      "d2d1": {
+        "b1b2": {
+          "c3b3": {
+            "b2c2": {
+              "b3b7": {
+                "c2d1": {
+                  "b7a7": "win"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 165,
+  "enabled": true
+}

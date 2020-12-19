@@ -1,0 +1,24 @@
+{
+  "id": 62592,
+  "rating": 2451,
+  "attempts": 72856,
+  "fen": "rn2qrk1/3bbppp/1p2p3/pP1pPP2/3P2P1/2PB4/7P/RNBQ1R1K b - - 0 16",
+  "color": "white",
+  "initialPly": 32,
+  "gameId": "RKRbmTrx",
+  "lines": {
+    "f5f6": {
+      "b5d3": {
+        "d1d3": {
+          "e7f6": {
+            "e5f6": {
+              "g7f6": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 447,
+  "enabled": true
+}

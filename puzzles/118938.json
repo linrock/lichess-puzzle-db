@@ -1,0 +1,24 @@
+{
+  "id": 118938,
+  "rating": 1355,
+  "attempts": 4784,
+  "fen": "r4rk1/pp3p1p/4p1p1/5n2/2Bqb3/2PP1Q2/PP4PP/R4R1K w - - 0 18",
+  "color": "black",
+  "initialPly": 35,
+  "gameId": "NLc084be",
+  "lines": {
+    "d4e4": {
+      "d3e4": {
+        "f5e3": {
+          "c4b3": {
+            "e3f1": {
+              "a1f1": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 87,
+  "enabled": true
+}

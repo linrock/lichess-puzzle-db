@@ -1,0 +1,24 @@
+{
+  "id": 67002,
+  "rating": 1659,
+  "attempts": 54048,
+  "fen": "r1bqr1k1/1pp2pbp/3p1np1/p1n3B1/2PNP3/2N3P1/PP1Q1PBP/3R1RK1 b - - 3 12",
+  "color": "white",
+  "initialPly": 24,
+  "gameId": "dc4gVMEX",
+  "lines": {
+    "c3e4": {
+      "c5e4": {
+        "g2e4": {
+          "g7f6": {
+            "g5f6": {
+              "d8f6": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 418,
+  "enabled": true
+}

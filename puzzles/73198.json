@@ -1,0 +1,24 @@
+{
+  "id": 73198,
+  "rating": 1058,
+  "attempts": 8148,
+  "fen": "4r2k/2p1q1pp/1p3r2/p1n5/2P1pP2/PNP1R1PP/2Q3K1/4R3 b - - 3 32",
+  "color": "white",
+  "initialPly": 64,
+  "gameId": "QODOcTkQ",
+  "lines": {
+    "e3e4": {
+      "e7e4": {
+        "e1e4": {
+          "e8e4": {
+            "c2e4": {
+              "h7h6": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 160,
+  "enabled": true
+}

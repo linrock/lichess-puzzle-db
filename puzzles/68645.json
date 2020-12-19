@@ -1,0 +1,28 @@
+{
+  "id": 68645,
+  "rating": 1356,
+  "attempts": 156732,
+  "fen": "r1bqkbnr/ppppp1pp/2n5/5P2/2B5/8/PPPP1PPP/RNBQK1NR b KQkq - 0 3",
+  "color": "white",
+  "initialPly": 6,
+  "gameId": "KEhenMfm",
+  "lines": {
+    "d1h5": {
+      "g7g6": {
+        "f5g6": {
+          "g8f6": {
+            "g6g7": {
+              "f6h5": {
+                "g7h8q": {
+                  "d5c4": "win"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 2536,
+  "enabled": true
+}

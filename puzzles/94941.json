@@ -1,0 +1,28 @@
+{
+  "id": 94941,
+  "rating": 2235,
+  "attempts": 4721,
+  "fen": "6k1/p7/3q2pp/1p1PRn2/1Pr4P/PQ4P1/1B4K1/8 b - - 0 34",
+  "color": "white",
+  "initialPly": 68,
+  "gameId": "SBmtF08w",
+  "lines": {
+    "e5e8": {
+      "g8f7": {
+        "b2e5": {
+          "g4g3": {
+            "e5g3": {
+              "d6g3": {
+                "b3g3": {
+                  "f5g3": "win"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 122,
+  "enabled": true
+}

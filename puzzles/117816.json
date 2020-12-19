@@ -1,0 +1,20 @@
+{
+  "id": 117816,
+  "rating": 1341,
+  "attempts": 3999,
+  "fen": "r1b1r1k1/ppppqppp/2n2n2/8/1b1P4/1PN2N2/PBP1BPPP/R2QK2R w KQ - 7 10",
+  "color": "black",
+  "initialPly": 19,
+  "gameId": "APGCGvfm",
+  "lines": {
+    "b4c3": {
+      "b2c3": {
+        "e7e2": {
+          "d4d5": "win"
+        }
+      }
+    }
+  },
+  "vote": 60,
+  "enabled": true
+}

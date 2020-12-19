@@ -1,0 +1,24 @@
+{
+  "id": 100049,
+  "rating": 1798,
+  "attempts": 10028,
+  "fen": "rn4k1/pbp1q2p/1p4p1/3p4/3rN3/1P1B1P2/P1Q3PP/3R1RK1 w - - 0 18",
+  "color": "black",
+  "initialPly": 35,
+  "gameId": "PiLw39XQ",
+  "lines": {
+    "d4d3": {
+      "e4f6": {
+        "g8f7": {
+          "d1d3": {
+            "e7f6": {
+              "b2d2": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 116,
+  "enabled": true
+}

@@ -1,0 +1,24 @@
+{
+  "id": 86317,
+  "rating": 1347,
+  "attempts": 6095,
+  "fen": "rnbq1rk1/pp2ppbp/2pp1np1/8/2B1P3/P1NPB3/1PP2PPP/R2QK1NR w KQ - 0 7",
+  "color": "black",
+  "initialPly": 13,
+  "gameId": "n255SyFi",
+  "lines": {
+    "d6d5": {
+      "c4b3": {
+        "d5d4": {
+          "e3d4": {
+            "d8d4": {
+              "f2f4": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 147,
+  "enabled": true
+}

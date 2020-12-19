@@ -1,0 +1,24 @@
+{
+  "id": 108358,
+  "rating": 1776,
+  "attempts": 8869,
+  "fen": "1r1b2k1/p2qBbpp/2p2p2/5N2/4Q3/2P3P1/5P1P/4R1K1 b - - 7 25",
+  "color": "white",
+  "initialPly": 50,
+  "gameId": "EuDzRBaM",
+  "lines": {
+    "e4g4": {
+      "b6f2": {
+        "g1f2": {
+          "d7d2": {
+            "e1e2": {
+              "d2g5": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 167,
+  "enabled": true
+}

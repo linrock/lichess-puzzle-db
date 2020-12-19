@@ -1,0 +1,24 @@
+{
+  "id": 103041,
+  "rating": 1919,
+  "attempts": 8030,
+  "fen": "3qkbnr/pp1b2pp/2r1p3/3pp3/3P4/P1N2N2/5PPP/R1BQ1RK1 w k - 0 12",
+  "color": "black",
+  "initialPly": 23,
+  "gameId": "ekResTBb",
+  "lines": {
+    "c6c3": {
+      "d1h5": {
+        "g7g6": {
+          "e5g6": {
+            "g8f6": {
+              "h5h4": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 178,
+  "enabled": true
+}

@@ -1,0 +1,28 @@
+{
+  "id": 70338,
+  "rating": 2043,
+  "attempts": 25302,
+  "fen": "1r3rk1/5p2/b1p2qpp/p2p1N1Q/P5R1/1n4PN/1P3P1P/R5K1 w - - 0 29",
+  "color": "black",
+  "initialPly": 57,
+  "gameId": "Cf30K7Dz",
+  "lines": {
+    "g8h7": {
+      "h3g5": {
+        "h7g7": {
+          "h6f5": {
+            "f6f5": {
+              "h5h7": {
+                "g7f6": {
+                  "g4f4": "win"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 245,
+  "enabled": true
+}

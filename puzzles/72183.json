@@ -1,0 +1,24 @@
+{
+  "id": 72183,
+  "rating": 1411,
+  "attempts": 34151,
+  "fen": "r5k1/p6p/1p2prp1/nN6/8/3B1P1n/PPP2PRP/4R2K b - - 1 24",
+  "color": "white",
+  "initialPly": 48,
+  "gameId": "lGSGSdPr",
+  "lines": {
+    "d3e4": {
+      "h3f2": {
+        "g2f2": {
+          "f3f2": {
+            "e4a8": {
+              "f2c2": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 377,
+  "enabled": true
+}

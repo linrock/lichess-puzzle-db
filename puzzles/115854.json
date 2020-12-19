@@ -1,0 +1,24 @@
+{
+  "id": 115854,
+  "rating": 2149,
+  "attempts": 6764,
+  "fen": "r1b2rk1/pp1p1p1p/2p4p/b3q3/2B1P3/1QP1R3/P4PPP/RN4K1 b - - 1 13",
+  "color": "white",
+  "initialPly": 26,
+  "gameId": "yRITXTak",
+  "lines": {
+    "e3g3": {
+      "g8h8": {
+        "b3a3": {
+          "f8e8": {
+            "a3a5": {
+              "b7b6": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 178,
+  "enabled": true
+}

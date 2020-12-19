@@ -1,0 +1,44 @@
+{
+  "id": 82888,
+  "rating": 2504,
+  "attempts": 1989,
+  "fen": "r2r2k1/1b4pp/pp1q1p2/3Pp3/8/1QR2B2/PP3PPP/2R3K1 b - - 1 23",
+  "color": "white",
+  "initialPly": 46,
+  "gameId": "AHPx4COB",
+  "lines": {
+    "c3c6": {
+      "a8c8": {
+        "c1d1": {
+          "d6d7": {
+            "d5d6": {
+              "g8f8": {
+                "c6c7": {
+                  "c8c7": {
+                    "d6c7": {
+                      "d7c7": {
+                        "d1d8": {
+                          "c7d8": {
+                            "f3b7": {
+                              "d8c7": {
+                                "b7f3": {
+                                  "f6f5": "win"
+                                }
+                              }
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 39,
+  "enabled": true
+}

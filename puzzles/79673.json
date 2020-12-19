@@ -1,0 +1,24 @@
+{
+  "id": 79673,
+  "rating": 1373,
+  "attempts": 89003,
+  "fen": "r4rk1/1ppbb1pp/2n1pn1q/1pPp1p2/3P1P2/P1N1PN1P/1BQ1B1PK/R4R2 w - - 0 18",
+  "color": "black",
+  "initialPly": 35,
+  "gameId": "FfFg10VR",
+  "lines": {
+    "f6g4": {
+      "h2g1": {
+        "g4e3": {
+          "c2d2": {
+            "e3f1": {
+              "a1f1": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 249,
+  "enabled": true
+}

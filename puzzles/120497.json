@@ -1,0 +1,20 @@
+{
+  "id": 120497,
+  "rating": 746,
+  "attempts": 127,
+  "fen": "8/6k1/6p1/5p1p/2B1nP2/1P3KP1/8/8 w - - 0 51",
+  "color": "black",
+  "initialPly": 101,
+  "gameId": "fmpet88i",
+  "lines": {
+    "e4d2": {
+      "f3e2": {
+        "d2c4": {
+          "e2f3": "win"
+        }
+      }
+    }
+  },
+  "vote": 4,
+  "enabled": true
+}

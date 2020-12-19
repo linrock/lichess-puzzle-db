@@ -1,0 +1,24 @@
+{
+  "id": 87969,
+  "rating": 1180,
+  "attempts": 2015,
+  "fen": "8/8/k1p5/6N1/1p3pP1/2n2P1P/5K2/8 w - - 0 52",
+  "color": "black",
+  "initialPly": 103,
+  "gameId": "ASbmTRlV",
+  "lines": {
+    "b4b3": {
+      "e1d2": {
+        "b3b2": {
+          "d2c3": {
+            "b2b1q": {
+              "h3h4": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 47,
+  "enabled": true
+}

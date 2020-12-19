@@ -1,0 +1,20 @@
+{
+  "id": 105000,
+  "rating": 1613,
+  "attempts": 10530,
+  "fen": "5k2/pp4p1/4p1pp/P1Ppr3/8/6P1/1P4PP/2R3K1 b - - 0 30",
+  "color": "white",
+  "initialPly": 60,
+  "gameId": "LGNMiNak",
+  "lines": {
+    "a5a6": {
+      "e5c5": {
+        "c1c5": {
+          "b7a6": "win"
+        }
+      }
+    }
+  },
+  "vote": 208,
+  "enabled": true
+}

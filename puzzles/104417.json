@@ -1,0 +1,24 @@
+{
+  "id": 104417,
+  "rating": 1806,
+  "attempts": 9773,
+  "fen": "3r1rk1/pbq1bp1p/1pn3p1/4p3/3P4/2PQ1N2/PP4PP/RBB2RK1 w - - 0 17",
+  "color": "black",
+  "initialPly": 33,
+  "gameId": "AUMtniOi",
+  "lines": {
+    "e5e4": {
+      "d3e4": {
+        "c6d4": {
+          "c3d4": {
+            "b7e4": {
+              "b1e4": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": -182,
+  "enabled": true
+}

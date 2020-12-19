@@ -1,0 +1,27 @@
+{
+  "id": 64294,
+  "rating": 2228,
+  "attempts": 23507,
+  "fen": "2r3k1/2r2p1p/p4p2/1p1P4/8/q1P2Q2/5PPP/2R1R1K1 b - - 1 25",
+  "color": "white",
+  "initialPly": 50,
+  "gameId": "Dta9bjm3",
+  "lines": {
+    "f3g4": {
+      "g8f8": {
+        "g4c8": {
+          "c3c8": {
+            "c1c8": {
+              "f8g7": {
+                "e1d1": {
+                  "b5b4": "win"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": -9001
+}

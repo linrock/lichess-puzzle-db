@@ -1,0 +1,24 @@
+{
+  "id": 118797,
+  "rating": 2246,
+  "attempts": 4083,
+  "fen": "4rb1k/2q2ppp/2p1np2/pp1r4/3PN1Q1/2P1B2P/PP1R1PP1/4R1K1 w - - 6 22",
+  "color": "black",
+  "initialPly": 43,
+  "gameId": "gV386tin",
+  "lines": {
+    "f6f5": {
+      "e4g3": {
+        "e6g5": {
+          "e3g5": {
+            "e8e1": {
+              "g3f1": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 73,
+  "enabled": true
+}

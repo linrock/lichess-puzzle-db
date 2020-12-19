@@ -1,0 +1,24 @@
+{
+  "id": 76156,
+  "rating": 1553,
+  "attempts": 65110,
+  "fen": "r1b1k2b/pp2p2p/3p2p1/4P3/5Pn1/1BN5/PP3qPP/R1BQ3K w q - 1 16",
+  "color": "black",
+  "initialPly": 31,
+  "gameId": "khoATE58",
+  "lines": {
+    "f2h4": {
+      "h2h3": {
+        "g4f2": {
+          "h1h2": {
+            "f2d1": {
+              "a1d1": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 551,
+  "enabled": true
+}

@@ -1,0 +1,24 @@
+{
+  "id": 84913,
+  "rating": 1232,
+  "attempts": 24676,
+  "fen": "r6k/3pb1p1/p3p3/1p6/1P1B4/P4q2/6QP/2R4K b - - 1 25",
+  "color": "white",
+  "initialPly": 50,
+  "gameId": "SBfa50ET",
+  "lines": {
+    "d4g7": {
+      "h8g8": {
+        "g7f8": {
+          "f3g2": {
+            "h1g2": {
+              "g8f8": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 98,
+  "enabled": true
+}

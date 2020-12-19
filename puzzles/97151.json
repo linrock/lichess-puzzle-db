@@ -1,0 +1,24 @@
+{
+  "id": 97151,
+  "rating": 1785,
+  "attempts": 9919,
+  "fen": "2r1q1k1/2r2p1p/Q1bp2p1/1p6/4P3/1P3P1P/P1RN2P1/2R3K1 w - - 3 31",
+  "color": "black",
+  "initialPly": 61,
+  "gameId": "MkaTL6V7",
+  "lines": {
+    "c6b7": {
+      "a6b7": {
+        "c7c2": {
+          "c1c2": {
+            "c8c2": {
+              "d2f1": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 210,
+  "enabled": true
+}

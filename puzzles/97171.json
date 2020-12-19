@@ -1,0 +1,28 @@
+{
+  "id": 97171,
+  "rating": 2724,
+  "attempts": 308,
+  "fen": "r4rk1/1bp2pp1/p6p/1pqN4/2n1B3/2P2P2/P1Q3PP/3RR2K b - - 6 20",
+  "color": "white",
+  "initialPly": 40,
+  "gameId": "s72Lkget",
+  "lines": {
+    "d5e7": {
+      "g8h8": {
+        "e4b7": {
+          "c4e3": {
+            "d1d8": {
+              "f8d8": {
+                "c2c1": {
+                  "e3c4": "win"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 0,
+  "enabled": true
+}

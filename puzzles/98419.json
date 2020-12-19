@@ -1,0 +1,20 @@
+{
+  "id": 98419,
+  "rating": 877,
+  "attempts": 489,
+  "fen": "2rqkb1r/5ppp/pn2pn2/1p1p3b/3P2PN/1BN1PP2/PP1B3P/R2Q1RK1 b k - 0 14",
+  "color": "white",
+  "initialPly": 28,
+  "gameId": "GoPIgoUP",
+  "lines": {
+    "f3g4": {
+      "d8h4": {
+        "g4h5": {
+          "f8d6": "win"
+        }
+      }
+    }
+  },
+  "vote": 0,
+  "enabled": true
+}

@@ -1,0 +1,24 @@
+{
+  "id": 114717,
+  "rating": 1779,
+  "attempts": 66451,
+  "fen": "5r2/r5bk/3pb1pp/2p1p3/1pPn4/3P4/PP1NBPPP/R1BR2K1 w - - 5 22",
+  "color": "black",
+  "initialPly": 43,
+  "gameId": "JnkDSe83",
+  "lines": {
+    "d4c2": {
+      "a1b1": {
+        "c2e3": {
+          "f1g1": {
+            "e3d1": {
+              "e2d1": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 357,
+  "enabled": true
+}

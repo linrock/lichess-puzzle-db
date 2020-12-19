@@ -1,0 +1,24 @@
+{
+  "id": 115744,
+  "rating": 2900,
+  "attempts": 277,
+  "fen": "1r1r4/3Bp1kp/1q2PnP1/p7/P1p5/1P6/2PQ2P1/2KR3R b - - 0 24",
+  "color": "white",
+  "initialPly": 48,
+  "gameId": "nHoppptT",
+  "lines": {
+    "h1h7": {
+      "f6h7": {
+        "d1h1": {
+          "b6g1": {
+            "h1g1": {
+              "h7f6": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 6,
+  "enabled": true
+}

@@ -1,0 +1,24 @@
+{
+  "id": 121202,
+  "rating": 1542,
+  "attempts": 7758,
+  "fen": "r4rk1/pb2qppp/1p2p3/2n5/8/2R1PN2/PP1QBPPP/2R3K1 w - - 6 16",
+  "color": "black",
+  "initialPly": 31,
+  "gameId": "VFacULDy",
+  "lines": {
+    "c5e4": {
+      "c3c7": {
+        "e7c7": {
+          "c1c7": {
+            "e4d2": {
+              "c7b7": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 126,
+  "enabled": true
+}

@@ -1,0 +1,24 @@
+{
+  "id": 120999,
+  "rating": 1647,
+  "attempts": 8411,
+  "fen": "5rk1/pp1bq1pp/7n/2pQn3/8/N1P5/PP3PPP/R4RK1 b - - 0 16",
+  "color": "white",
+  "initialPly": 32,
+  "gameId": "HhPOAG45",
+  "lines": {
+    "d5e6": {
+      "d7e6": {
+        "f1e1": {
+          "e5f3": {
+            "g2f3": {
+              "f8f6": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": -70,
+  "enabled": true
+}

@@ -1,0 +1,28 @@
+{
+  "id": 118457,
+  "rating": 1874,
+  "attempts": 9086,
+  "fen": "r2qk1nr/ppp2ppp/2np4/2b1p3/B3P1b1/2P2N2/PP1P1PPP/RNBQ1RK1 b kq - 2 6",
+  "color": "white",
+  "initialPly": 12,
+  "gameId": "HWpnCby1",
+  "lines": {
+    "d2d4": {
+      "g4f3": {
+        "g2f3": {
+          "c5b6": {
+            "d4d5": {
+              "e8g8": {
+                "d5c6": {
+                  "e7c6": "win"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 116,
+  "enabled": true
+}

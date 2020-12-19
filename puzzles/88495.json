@@ -1,0 +1,24 @@
+{
+  "id": 88495,
+  "rating": 2039,
+  "attempts": 9728,
+  "fen": "4rrk1/2qn2pp/p1p2p2/4b3/3BP1Q1/1PNP3P/P5P1/3R1RK1 w - - 1 23",
+  "color": "black",
+  "initialPly": 45,
+  "gameId": "Hg1BGSET",
+  "lines": {
+    "e5d4": {
+      "e2d4": {
+        "c7a7": {
+          "g4h4": {
+            "a7d4": {
+              "h4f2": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 228,
+  "enabled": true
+}

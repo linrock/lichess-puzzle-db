@@ -1,0 +1,24 @@
+{
+  "id": 81206,
+  "rating": 1549,
+  "attempts": 18045,
+  "fen": "6R1/2r4p/p2q1p1k/1p4p1/3pQ3/2P4P/PP3PP1/6K1 w - - 0 32",
+  "color": "black",
+  "initialPly": 63,
+  "gameId": "PRRmMaT1",
+  "lines": {
+    "c7e7": {
+      "h4g5": {
+        "f6g5": {
+          "e4e7": {
+            "d6e7": {
+              "c3d4": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 214,
+  "enabled": true
+}

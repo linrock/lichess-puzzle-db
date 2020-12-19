@@ -1,0 +1,20 @@
+{
+  "id": 122538,
+  "rating": 1234,
+  "attempts": 2686,
+  "fen": "2r1k3/pp1bnpp1/1q2p1p1/3pP2r/1P1P1B2/P4N2/5PPP/R2QR1K1 b - - 2 16",
+  "color": "white",
+  "initialPly": 32,
+  "gameId": "OfgMGf2u",
+  "lines": {
+    "g2g4": {
+      "h5h8": {
+        "g4f5": {
+          "g6f5": "win"
+        }
+      }
+    }
+  },
+  "vote": 47,
+  "enabled": true
+}

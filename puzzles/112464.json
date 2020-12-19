@@ -1,0 +1,20 @@
+{
+  "id": 112464,
+  "rating": 1011,
+  "attempts": 1024,
+  "fen": "8/3k4/p7/1p6/5prP/6P1/PPP4K/4R3 w - - 0 34",
+  "color": "black",
+  "initialPly": 67,
+  "gameId": "8LAxeMar",
+  "lines": {
+    "f4g3": {
+      "h2g2": {
+        "g4e4": {
+          "g2g3": "win"
+        }
+      }
+    }
+  },
+  "vote": 34,
+  "enabled": true
+}

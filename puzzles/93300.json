@@ -1,0 +1,24 @@
+{
+  "id": 93300,
+  "rating": 1501,
+  "attempts": 7907,
+  "fen": "8/5ppp/P3p3/kPb5/r5P1/2K2P1P/8/1R6 b - - 0 40",
+  "color": "white",
+  "initialPly": 80,
+  "gameId": "gWm47DP5",
+  "lines": {
+    "b1b4": {
+      "a4b4": {
+        "a6a7": {
+          "a5b5": {
+            "a7a8q": {
+              "b4c4": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 197,
+  "enabled": true
+}

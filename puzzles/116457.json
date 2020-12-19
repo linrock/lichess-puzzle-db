@@ -1,0 +1,24 @@
+{
+  "id": 116457,
+  "rating": 1344,
+  "attempts": 6154,
+  "fen": "1r4k1/p1p2q2/2Qp1r1p/6p1/8/3B2BP/b1P2PP1/R5K1 b - - 0 22",
+  "color": "white",
+  "initialPly": 44,
+  "gameId": "10ntdFAS",
+  "lines": {
+    "a1a2": {
+      "f7a2": {
+        "d3c4": {
+          "a2c4": {
+            "c6c4": {
+              "f6f7": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 147,
+  "enabled": true
+}

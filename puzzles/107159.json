@@ -1,0 +1,28 @@
+{
+  "id": 107159,
+  "rating": 2456,
+  "attempts": 1742,
+  "fen": "3r3k/1p4pB/p3bb2/P3p3/RP1n1p2/2q2P2/3N2PP/1Q1R2K1 w - - 0 30",
+  "color": "black",
+  "initialPly": 59,
+  "gameId": "XEFKHMFu",
+  "lines": {
+    "c3b3": {
+      "a4a1": {
+        "b3b1": {
+          "a1b1": {
+            "h8h7": {
+              "e4f6": {
+                "g7f6": {
+                  "g1f2": "win"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 19,
+  "enabled": true
+}

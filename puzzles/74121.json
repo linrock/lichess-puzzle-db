@@ -1,0 +1,24 @@
+{
+  "id": 74121,
+  "rating": 1046,
+  "attempts": 20488,
+  "fen": "1r4k1/p3qppp/1pQ1p2b/3pP3/3P4/2N1P3/PP3KPP/2R5 w - - 5 24",
+  "color": "black",
+  "initialPly": 47,
+  "gameId": "LycF6KxJ",
+  "lines": {
+    "h6e3": {
+      "f2e3": {
+        "e7g5": {
+          "e3d3": {
+            "g5c1": {
+              "c6c7": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 75,
+  "enabled": true
+}

@@ -1,0 +1,20 @@
+{
+  "id": 75239,
+  "rating": 890,
+  "attempts": 1039,
+  "fen": "4r1k1/p5p1/B1p1Ppbp/2P5/8/6KP/P4RP1/8 b - - 0 35",
+  "color": "white",
+  "initialPly": 70,
+  "gameId": "icPFKAUS",
+  "lines": {
+    "a6c4": {
+      "g6f7": {
+        "c4e6": {
+          "f7e6": "win"
+        }
+      }
+    }
+  },
+  "vote": 25,
+  "enabled": true
+}

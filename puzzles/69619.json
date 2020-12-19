@@ -1,0 +1,28 @@
+{
+  "id": 69619,
+  "rating": 2550,
+  "attempts": 4597,
+  "fen": "8/5k2/5b2/p1pp2R1/P4p2/2P1p3/1PK5/8 w - - 1 51",
+  "color": "black",
+  "initialPly": 101,
+  "gameId": "OVAdmRiG",
+  "lines": {
+    "e3e2": {
+      "c2d2": {
+        "f7g6": {
+          "f5f4": {
+            "f6g5": {
+              "d2e2": {
+                "g5f4": {
+                  "e2d1": "win"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 118,
+  "enabled": true
+}

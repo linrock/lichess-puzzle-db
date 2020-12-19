@@ -1,0 +1,24 @@
+{
+  "id": 71048,
+  "rating": 1861,
+  "attempts": 34704,
+  "fen": "r2q1k2/p2Nn1p1/3bpp1r/3p1b1p/Q2P4/4P2P/PP1N1PP1/R1B2RK1 b - - 1 15",
+  "color": "white",
+  "initialPly": 30,
+  "gameId": "WPL5Y742",
+  "lines": {
+    "e3e4": {
+      "d5e4": {
+        "d2c4": {
+          "d6c7": {
+            "c1h6": {
+              "g7h6": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 673,
+  "enabled": true
+}

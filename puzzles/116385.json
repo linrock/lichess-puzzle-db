@@ -1,0 +1,28 @@
+{
+  "id": 116385,
+  "rating": 1261,
+  "attempts": 15450,
+  "fen": "r5k1/pp1b1rpp/2p1p3/3pPq2/2PPp3/P3P1R1/1P1NQ1PP/R5K1 b - - 5 18",
+  "color": "white",
+  "initialPly": 36,
+  "gameId": "mxMutrFR",
+  "lines": {
+    "a1f1": {
+      "f5f1": {
+        "d2f1": {
+          "f7f1": {
+            "e2f1": {
+              "f8f1": {
+                "g1f1": {
+                  "d7e8": "win"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 99,
+  "enabled": true
+}

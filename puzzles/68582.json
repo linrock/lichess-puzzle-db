@@ -1,0 +1,24 @@
+{
+  "id": 68582,
+  "rating": 1858,
+  "attempts": 44234,
+  "fen": "1r2k2r/1pqb2p1/pN2p3/2Ppbp1R/1P6/2PBPQ2/P2K2P1/5R2 b k - 0 20",
+  "color": "white",
+  "initialPly": 40,
+  "gameId": "FoaCmISm",
+  "lines": {
+    "h5f5": {
+      "e6f5": {
+        "b6d5": {
+          "e7d8": {
+            "d5c7": {
+              "d8c7": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 939,
+  "enabled": true
+}

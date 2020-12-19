@@ -1,0 +1,28 @@
+{
+  "id": 114600,
+  "rating": 1779,
+  "attempts": 18288,
+  "fen": "rn5R/pp3p2/6kp/8/q7/8/1B2PPPP/1K3B1R b - - 11 27",
+  "color": "white",
+  "initialPly": 54,
+  "gameId": "FK965Hbb",
+  "lines": {
+    "h8g8": {
+      "g6f5": {
+        "g2g4": {
+          "f5e6": {
+            "f1g2": {
+              "b8c6": {
+                "g8a8": {
+                  "c6e5": "win"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 343,
+  "enabled": true
+}

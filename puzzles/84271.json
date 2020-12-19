@@ -1,0 +1,24 @@
+{
+  "id": 84271,
+  "rating": 1180,
+  "attempts": 4090,
+  "fen": "r3k2r/1p1nbppp/p2p1n2/4p1B1/P7/2P2N2/1P3PPP/2KR1B1R w kq - 6 16",
+  "color": "black",
+  "initialPly": 31,
+  "gameId": "WBsaDo0s",
+  "lines": {
+    "e5e4": {
+      "d3e4": {
+        "f6e4": {
+          "g5e7": {
+            "e8e7": {
+              "h1e1": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": -144,
+  "enabled": true
+}

@@ -1,0 +1,24 @@
+{
+  "id": 115808,
+  "rating": 1705,
+  "attempts": 10671,
+  "fen": "r4rk1/pp2Bp1p/3p2p1/2p4n/2PbP1qP/1PN1Q3/P4PP1/1R3RK1 w - - 1 16",
+  "color": "black",
+  "initialPly": 31,
+  "gameId": "fsmmJudz",
+  "lines": {
+    "h5f4": {
+      "d3f3": {
+        "g4f3": {
+          "g2f3": {
+            "d4c3": {
+              "e7d6": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 68,
+  "enabled": true
+}

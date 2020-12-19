@@ -1,0 +1,24 @@
+{
+  "id": 69019,
+  "rating": 1149,
+  "attempts": 15823,
+  "fen": "r3r1k1/p1qn1pp1/2p1b2p/1p1p3n/PP1P1b2/2PBBN1P/3N1PP1/R2Q1R1K w - - 1 19",
+  "color": "black",
+  "initialPly": 37,
+  "gameId": "nALdyNju",
+  "lines": {
+    "f4e3": {
+      "f2e3": {
+        "h5g3": {
+          "h1g1": {
+            "g3f1": {
+              "d1f1": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 210,
+  "enabled": true
+}

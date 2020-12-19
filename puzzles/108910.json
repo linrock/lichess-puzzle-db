@@ -1,0 +1,24 @@
+{
+  "id": 108910,
+  "rating": 1087,
+  "attempts": 1423,
+  "fen": "rnb1k2r/1pqp1ppp/p3pn2/8/Pb1NP3/2N3P1/1PP2P1P/R1BQKB1R w KQkq - 1 8",
+  "color": "black",
+  "initialPly": 15,
+  "gameId": "OjvJCA12",
+  "lines": {
+    "b4c3": {
+      "b2c3": {
+        "c7c3": {
+          "c1d2": {
+            "c3d4": {
+              "e1g1": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 44,
+  "enabled": true
+}

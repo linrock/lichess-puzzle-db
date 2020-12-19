@@ -1,0 +1,24 @@
+{
+  "id": 66016,
+  "rating": 1295,
+  "attempts": 133495,
+  "fen": "5rk1/1p2bp2/1Bp1p1p1/4P2p/5P2/2P3P1/Pr5P/R4RK1 w - - 0 26",
+  "color": "black",
+  "initialPly": 51,
+  "gameId": "HyLyb084",
+  "lines": {
+    "b2b6": {
+      "b1b6": {
+        "e7c5": {
+          "g1f1": {
+            "c5b6": {
+              "a1b1": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 807,
+  "enabled": true
+}

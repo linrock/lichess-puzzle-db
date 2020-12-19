@@ -1,0 +1,20 @@
+{
+  "id": 103403,
+  "rating": 745,
+  "attempts": 79,
+  "fen": "8/8/2N1k3/1B1p2p1/1P1Pr3/6K1/8/8 w - - 4 50",
+  "color": "black",
+  "initialPly": 99,
+  "gameId": "xNFTJAR2",
+  "lines": {
+    "e4e3": {
+      "g3g4": {
+        "e3d3": {
+          "g4g5": "win"
+        }
+      }
+    }
+  },
+  "vote": 4,
+  "enabled": true
+}

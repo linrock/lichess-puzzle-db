@@ -1,0 +1,24 @@
+{
+  "id": 87097,
+  "rating": 1533,
+  "attempts": 10662,
+  "fen": "2rq1rk1/1p1bbppp/p3p3/n2pP3/3P4/P2QB3/1P1NBPPP/2R2RK1 w - - 0 18",
+  "color": "black",
+  "initialPly": 35,
+  "gameId": "HtLwgFTg",
+  "lines": {
+    "d7b5": {
+      "c1c8": {
+        "d8c8": {
+          "d3b1": {
+            "b5e2": {
+              "f1e1": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 279,
+  "enabled": true
+}

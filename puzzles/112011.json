@@ -1,0 +1,20 @@
+{
+  "id": 112011,
+  "rating": 1001,
+  "attempts": 866,
+  "fen": "r5k1/p1qb2pp/4p1r1/1p6/2pPQPB1/2P1P3/PP6/R3K1R1 b Q - 0 20",
+  "color": "white",
+  "initialPly": 40,
+  "gameId": "FNZE2Dyr",
+  "lines": {
+    "g4e6": {
+      "g6e6": {
+        "e4e6": {
+          "g8h8": "win"
+        }
+      }
+    }
+  },
+  "vote": 30,
+  "enabled": true
+}

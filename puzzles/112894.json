@@ -1,0 +1,28 @@
+{
+  "id": 112894,
+  "rating": 1039,
+  "attempts": 649,
+  "fen": "4r1k1/2n1q1pp/4Pr2/1p1p1p2/P7/8/B3QPPP/4RRK1 w - - 0 27",
+  "color": "black",
+  "initialPly": 53,
+  "gameId": "FTkyKCgy",
+  "lines": {
+    "f6e6": {
+      "a2d5": {
+        "c7d5": {
+          "e2e6": {
+            "e7e6": {
+              "e1e6": {
+                "e8e6": {
+                  "f2f3": "win"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 17,
+  "enabled": true
+}

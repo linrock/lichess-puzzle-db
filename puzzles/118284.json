@@ -1,0 +1,24 @@
+{
+  "id": 118284,
+  "rating": 1671,
+  "attempts": 9391,
+  "fen": "2qrr1k1/pp2Rp1p/2p2np1/8/PPP5/3N1P2/4Q1PP/4R1K1 w - - 5 30",
+  "color": "black",
+  "initialPly": 59,
+  "gameId": "MAV3DmZT",
+  "lines": {
+    "e8e7": {
+      "e2e7": {
+        "d8e8": {
+          "e7f6": {
+            "e8e1": {
+              "g1f2": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 197,
+  "enabled": true
+}

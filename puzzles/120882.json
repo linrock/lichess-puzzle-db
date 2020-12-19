@@ -1,0 +1,24 @@
+{
+  "id": 120882,
+  "rating": 1972,
+  "attempts": 7662,
+  "fen": "5r2/2R1Rbpk/pp4qp/1p6/6N1/P5BP/1P3P1K/8 b - - 2 36",
+  "color": "white",
+  "initialPly": 72,
+  "gameId": "mKRYYtel",
+  "lines": {
+    "g4e5": {
+      "g6f6": {
+        "e7f7": {
+          "f8f7": {
+            "c7f7": {
+              "f6d8": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 100,
+  "enabled": true
+}

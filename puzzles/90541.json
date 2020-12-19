@@ -1,0 +1,24 @@
+{
+  "id": 90541,
+  "rating": 1247,
+  "attempts": 20198,
+  "fen": "8/5ppp/5k2/3p4/3Pn3/1P6/5PPP/rN2R1K1 w - - 1 24",
+  "color": "black",
+  "initialPly": 47,
+  "gameId": "MSnXnKxW",
+  "lines": {
+    "a1b1": {
+      "e1b1": {
+        "e4d2": {
+          "f1e2": {
+            "d2b1": {
+              "h2h3": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 97,
+  "enabled": true
+}

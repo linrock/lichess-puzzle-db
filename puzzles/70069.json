@@ -1,0 +1,20 @@
+{
+  "id": 70069,
+  "rating": 600,
+  "attempts": 545,
+  "fen": "rnbqkbnr/pp1ppppp/8/8/3pP3/8/PPP2PPP/RNBQKBNR w KQkq - 0 3",
+  "color": "black",
+  "initialPly": 5,
+  "gameId": "tndUPpLt",
+  "lines": {
+    "d8a5": {
+      "c2c3": {
+        "a5b5": {
+          "c3d4": "win"
+        }
+      }
+    }
+  },
+  "vote": 11,
+  "enabled": true
+}

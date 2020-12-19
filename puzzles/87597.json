@@ -1,0 +1,28 @@
+{
+  "id": 87597,
+  "rating": 2704,
+  "attempts": 919,
+  "fen": "3r2k1/2pr1ppp/1pq3b1/p3pNP1/4P3/1P3K1Q/1PP2P2/3R3R b - - 8 26",
+  "color": "white",
+  "initialPly": 52,
+  "gameId": "re61Mmp8",
+  "lines": {
+    "d1d7": {
+      "d8d7": {
+        "f5e7": {
+          "g8f8": {
+            "e7g6": {
+              "f8e8": {
+                "g6e5": {
+                  "c2b3": "win"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 14,
+  "enabled": true
+}

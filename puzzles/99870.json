@@ -1,0 +1,23 @@
+{
+  "id": 99870,
+  "rating": 1500,
+  "attempts": 2,
+  "fen": "r4k2/5p2/5B2/8/3R2b1/8/6PK/8 b - - 1 42",
+  "color": "white",
+  "initialPly": 84,
+  "gameId": "lcRj2C49",
+  "lines": {
+    "d4h4": {
+      "f8e8": {
+        "h4h8": {
+          "e8d7": {
+            "h8a8": {
+              "f5c2": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": -9000
+}

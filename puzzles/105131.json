@@ -1,0 +1,20 @@
+{
+  "id": 105131,
+  "rating": 1048,
+  "attempts": 490,
+  "fen": "2br1k2/7p/2p3p1/p1Nr1p2/3P2P1/P1K4P/1P6/3R1R2 w - - 0 31",
+  "color": "black",
+  "initialPly": 61,
+  "gameId": "942Xafiz",
+  "lines": {
+    "d5c5": {
+      "d4c5": {
+        "d8d1": {
+          "g4g5": "win"
+        }
+      }
+    }
+  },
+  "vote": 14,
+  "enabled": true
+}

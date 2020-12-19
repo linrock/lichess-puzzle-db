@@ -1,0 +1,24 @@
+{
+  "id": 72783,
+  "rating": 1678,
+  "attempts": 28648,
+  "fen": "r1bq1rk1/ppp3pp/2nbp3/3pN3/3PpP2/2PBP2P/PP2Q1P1/R1B1K2R w KQ - 0 12",
+  "color": "black",
+  "initialPly": 23,
+  "gameId": "LKvecxQD",
+  "lines": {
+    "e4d3": {
+      "c6d8": {
+        "d3e2": {
+          "d8e6": {
+            "c8e6": {
+              "e1e2": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 384,
+  "enabled": true
+}

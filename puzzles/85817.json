@@ -1,0 +1,28 @@
+{
+  "id": 85817,
+  "rating": 2398,
+  "attempts": 3315,
+  "fen": "6k1/5r2/p1p1Q2P/2PpPp2/P3P1p1/8/3B4/3q2KR w - - 3 63",
+  "color": "black",
+  "initialPly": 125,
+  "gameId": "NGztsDW0",
+  "lines": {
+    "d1f3": {
+      "g2g1": {
+        "f3g3": {
+          "g1f1": {
+            "f5e4": {
+              "e6f7": {
+                "g8f7": {
+                  "d2e1": "win"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 81,
+  "enabled": true
+}

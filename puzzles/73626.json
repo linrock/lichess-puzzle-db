@@ -1,0 +1,26 @@
+{
+  "id": 73626,
+  "rating": 2269,
+  "attempts": 46478,
+  "fen": "3r1rk1/1b4p1/p4p2/1p1NnP1B/2pRp3/P7/1PP3K1/3R4 b - - 0 35",
+  "color": "white",
+  "initialPly": 70,
+  "gameId": "PiPLo8Y3",
+  "lines": {
+    "d1h1": {
+      "g7g6": {
+        "h5g6": {
+          "h7g8": {
+            "d5e7": {
+              "g8g7": {
+                "h1h7": "win"
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 230,
+  "enabled": true
+}

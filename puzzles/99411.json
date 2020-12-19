@@ -1,0 +1,24 @@
+{
+  "id": 99411,
+  "rating": 1467,
+  "attempts": 7883,
+  "fen": "r2q1rk1/1b3pp1/1p2pb2/2p3NQ/3P3P/pP6/P1P2P2/2K3RR b - - 3 20",
+  "color": "white",
+  "initialPly": 40,
+  "gameId": "euTgabg1",
+  "lines": {
+    "h4g5": {
+      "b7h1": {
+        "g1h1": {
+          "d8g5": {
+            "h5g5": {
+              "c5d4": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 174,
+  "enabled": true
+}

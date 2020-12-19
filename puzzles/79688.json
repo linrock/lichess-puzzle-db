@@ -1,0 +1,24 @@
+{
+  "id": 79688,
+  "rating": 1800,
+  "attempts": 19333,
+  "fen": "3r2rk/1p6/p1ppN3/4bP1P/P3P3/2P2Q2/1P2RKPq/3R4 w - - 5 33",
+  "color": "black",
+  "initialPly": 65,
+  "gameId": "RWalgeOw",
+  "lines": {
+    "g8g3": {
+      "f2f1": {
+        "g3f3": {
+          "g2f3": {
+            "h2h3": {
+              "f1e1": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 394,
+  "enabled": true
+}

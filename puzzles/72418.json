@@ -1,0 +1,24 @@
+{
+  "id": 72418,
+  "rating": 1064,
+  "attempts": 4118,
+  "fen": "8/4bBk1/3p4/p4Rp1/4P3/3P1K2/1PP5/r7 w - - 6 47",
+  "color": "black",
+  "initialPly": 93,
+  "gameId": "nBSvMkfh",
+  "lines": {
+    "a1f1": {
+      "f3g4": {
+        "f1f5": {
+          "g4f5": {
+            "g7f7": {
+              "d3d4": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 63,
+  "enabled": true
+}

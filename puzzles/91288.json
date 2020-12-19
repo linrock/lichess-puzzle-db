@@ -1,0 +1,24 @@
+{
+  "id": 91288,
+  "rating": 1414,
+  "attempts": 9079,
+  "fen": "7b/n7/P7/8/2kp1N2/6R1/1P6/1KB4r b - - 3 53",
+  "color": "white",
+  "initialPly": 106,
+  "gameId": "RSVA0XPF",
+  "lines": {
+    "b2b3": {
+      "c4b5": {
+        "g3g5": {
+          "b5a6": {
+            "g5e5": {
+              "a6b6": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 192,
+  "enabled": true
+}

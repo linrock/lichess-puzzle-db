@@ -1,0 +1,28 @@
+{
+  "id": 93419,
+  "rating": 2249,
+  "attempts": 5966,
+  "fen": "r3k1r1/ppp2p1p/2np4/1Qq5/2P1P3/P4B2/5PPP/R4K1R w q - 0 18",
+  "color": "black",
+  "initialPly": 35,
+  "gameId": "LWTgV95T",
+  "lines": {
+    "a8b8": {
+      "b7c7": {
+        "b8b2": {
+          "f3e2": {
+            "b2e2": {
+              "c7c8": {
+                "e8e7": {
+                  "c8b7": "win"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 115,
+  "enabled": true
+}

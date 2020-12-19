@@ -1,0 +1,28 @@
+{
+  "id": 89791,
+  "rating": 1949,
+  "attempts": 13139,
+  "fen": "1Rb2r2/5r1k/p2Rpqp1/P2p3p/2pPp3/2P1P1QP/4BPP1/6K1 w - - 3 39",
+  "color": "black",
+  "initialPly": 77,
+  "gameId": "MBAgQPtS",
+  "lines": {
+    "h5h4": {
+      "g3f4": {
+        "f6e7": {
+          "f4e5": {
+            "f7f5": {
+              "e2g4": {
+                "f5e5": {
+                  "d4e5": "win"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 242,
+  "enabled": true
+}

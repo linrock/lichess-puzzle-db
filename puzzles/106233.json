@@ -1,0 +1,24 @@
+{
+  "id": 106233,
+  "rating": 2283,
+  "attempts": 4235,
+  "fen": "rnbqr1k1/1p4bp/p2p2p1/2pP4/2P5/2NB1N2/PP1Q2PP/R4RK1 w - - 2 16",
+  "color": "black",
+  "initialPly": 31,
+  "gameId": "GdtJAteT",
+  "lines": {
+    "g7d4": {
+      "g1h1": {
+        "d4e3": {
+          "d2c2": {
+            "d8g5": {
+              "a1e1": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 83,
+  "enabled": true
+}

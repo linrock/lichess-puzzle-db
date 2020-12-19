@@ -1,0 +1,28 @@
+{
+  "id": 83494,
+  "rating": 1845,
+  "attempts": 16820,
+  "fen": "r3k1nr/1ppb1pp1/p3p2p/3Pb1q1/1PP1P3/P1N4R/1B2B1PP/R2Q2K1 w kq - 5 18",
+  "color": "black",
+  "initialPly": 35,
+  "gameId": "ceztSMkC",
+  "lines": {
+    "g5e3": {
+      "g1h1": {
+        "e5c3": {
+          "h5h3": {
+            "e3h3": {
+              "g2h3": {
+                "c3b2": {
+                  "a1b1": "win"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 71,
+  "enabled": true
+}

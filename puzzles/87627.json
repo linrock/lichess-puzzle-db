@@ -1,0 +1,28 @@
+{
+  "id": 87627,
+  "rating": 2315,
+  "attempts": 5903,
+  "fen": "5r2/pp5k/nqp1pP1p/5RpP/6P1/1P3Q2/P2r2B1/R6K w - - 0 29",
+  "color": "black",
+  "initialPly": 57,
+  "gameId": "iBOZuMBp",
+  "lines": {
+    "b6d4": {
+      "a1e1": {
+        "e6f5": {
+          "f3f5": {
+            "h7h8": {
+              "e1e8": {
+                "d2d1": {
+                  "g2f1": "win"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 83,
+  "enabled": true
+}

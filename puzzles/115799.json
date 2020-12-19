@@ -1,0 +1,24 @@
+{
+  "id": 115799,
+  "rating": 1505,
+  "attempts": 14250,
+  "fen": "1r1n1bk1/5p1p/R2Np1p1/3nP3/5P2/4B1PP/5K2/5B2 w - - 1 31",
+  "color": "black",
+  "initialPly": 61,
+  "gameId": "CBLmQShr",
+  "lines": {
+    "b8b2": {
+      "f2f3": {
+        "d5e3": {
+          "f3e3": {
+            "b2g2": {
+              "a6a8": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 226,
+  "enabled": true
+}

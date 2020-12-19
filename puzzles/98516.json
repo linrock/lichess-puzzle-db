@@ -1,0 +1,24 @@
+{
+  "id": 98516,
+  "rating": 1274,
+  "attempts": 3941,
+  "fen": "8/R5R1/4p2k/2P4p/P2P2p1/4P3/4rrPK/8 w - - 1 39",
+  "color": "black",
+  "initialPly": 77,
+  "gameId": "xgrA3NLC",
+  "lines": {
+    "h6g5": {
+      "a7g7": {
+        "g5h4": {
+          "g7g4": {
+            "h4g4": {
+              "h7g7": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": -115,
+  "enabled": true
+}

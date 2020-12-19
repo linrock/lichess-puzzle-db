@@ -1,0 +1,24 @@
+{
+  "id": 69180,
+  "rating": 1746,
+  "attempts": 43629,
+  "fen": "4r2k/6p1/6rp/1Q3p2/3BnP2/2P2qN1/1P5P/3RR1K1 b - - 6 32",
+  "color": "white",
+  "initialPly": 64,
+  "gameId": "TYvaSGdv",
+  "lines": {
+    "b5e8": {
+      "h8h7": {
+        "e8g6": {
+          "h7g6": {
+            "h2g3": {
+              "f3g3": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 608,
+  "enabled": true
+}

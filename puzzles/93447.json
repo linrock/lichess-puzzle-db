@@ -1,0 +1,28 @@
+{
+  "id": 93447,
+  "rating": 2019,
+  "attempts": 8756,
+  "fen": "r3k2r/3q1ppp/1p6/3pPpNP/2nP4/P4Q2/R4PP1/2R3K1 b k - 1 26",
+  "color": "white",
+  "initialPly": 52,
+  "gameId": "cHIinxqR",
+  "lines": {
+    "e5e6": {
+      "f7e6": {
+        "g5e6": {
+          "d7e6": {
+            "a2e2": {
+              "e6e2": {
+                "f3e2": {
+                  "e8f7": "win"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 207,
+  "enabled": true
+}

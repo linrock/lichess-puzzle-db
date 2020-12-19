@@ -1,0 +1,24 @@
+{
+  "id": 105239,
+  "rating": 2107,
+  "attempts": 5664,
+  "fen": "r4rk1/1q3ppp/1p2pn2/3n4/3Q2N1/P3P3/1B3PPP/2R2RK1 b - - 12 23",
+  "color": "white",
+  "initialPly": 46,
+  "gameId": "myzacWe9",
+  "lines": {
+    "e3e4": {
+      "h7h5": {
+        "g4h6": {
+          "g8h7": {
+            "e4d5": {
+              "d8d7": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": -66,
+  "enabled": true
+}

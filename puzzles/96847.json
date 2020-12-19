@@ -1,0 +1,24 @@
+{
+  "id": 96847,
+  "rating": 1591,
+  "attempts": 55701,
+  "fen": "r2r1k2/1pp4R/5p2/2Pn2P1/2BP4/8/p4K2/R7 b - - 0 36",
+  "color": "white",
+  "initialPly": 72,
+  "gameId": "myPJgrQ4",
+  "lines": {
+    "c4d5": {
+      "d8d5": {
+        "h7h8": {
+          "f8f7": {
+            "h8a8": {
+              "d5d4": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 273,
+  "enabled": true
+}

@@ -1,0 +1,20 @@
+{
+  "id": 83588,
+  "rating": 1169,
+  "attempts": 5496,
+  "fen": "r1r3k1/p2n1p1p/4p1p1/2PqP3/1R2N3/8/2Q2PPP/R5K1 b - - 0 25",
+  "color": "white",
+  "initialPly": 50,
+  "gameId": "tG1KRAMC",
+  "lines": {
+    "e4f6": {
+      "g8g7": {
+        "f6d5": {
+          "e6d5": "win"
+        }
+      }
+    }
+  },
+  "vote": 88,
+  "enabled": true
+}

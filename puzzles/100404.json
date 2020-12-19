@@ -1,0 +1,20 @@
+{
+  "id": 100404,
+  "rating": 1060,
+  "attempts": 1869,
+  "fen": "r4rk1/ppp2ppp/8/8/3bB3/3P2Pb/qBQ1PP1P/1RR3K1 b - - 2 16",
+  "color": "white",
+  "initialPly": 32,
+  "gameId": "cruDoKPB",
+  "lines": {
+    "b2d4": {
+      "a2c2": {
+        "c1c2": {
+          "h3c8": "win"
+        }
+      }
+    }
+  },
+  "vote": 24,
+  "enabled": true
+}

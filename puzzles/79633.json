@@ -1,0 +1,28 @@
+{
+  "id": 79633,
+  "rating": 1778,
+  "attempts": 18637,
+  "fen": "6k1/2p2pp1/2P4p/P3p3/1N2b3/2P1P3/P6r/2R2K2 w - - 0 31",
+  "color": "black",
+  "initialPly": 61,
+  "gameId": "WdbSDbga",
+  "lines": {
+    "h2h1": {
+      "f1e2": {
+        "h1c1": {
+          "a6a7": {
+            "e4c6": {
+              "b4c6": {
+                "c1c2": {
+                  "e2f3": "win"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 590,
+  "enabled": true
+}

@@ -1,0 +1,32 @@
+{
+  "id": 116743,
+  "rating": 1961,
+  "attempts": 8027,
+  "fen": "1r4R1/8/6b1/2Np2k1/3P4/4K2p/8/8 w - - 0 56",
+  "color": "black",
+  "initialPly": 111,
+  "gameId": "SNYIauuu",
+  "lines": {
+    "h3h2": {
+      "b8h8": {
+        "g6h5": {
+          "c5e6": {
+            "g5g4": {
+              "h8g8": {
+                "g4h4": {
+                  "e3f4": {
+                    "h2h1q": {
+                      "f4e5": "win"
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 172,
+  "enabled": true
+}

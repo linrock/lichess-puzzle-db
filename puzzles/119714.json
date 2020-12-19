@@ -1,0 +1,20 @@
+{
+  "id": 119714,
+  "rating": 1180,
+  "attempts": 1815,
+  "fen": "r2qnrk1/ppp2p1p/4pp1Q/3p2P1/b2P4/P1P2P1N/4P1BP/R4RK1 b - - 0 17",
+  "color": "white",
+  "initialPly": 34,
+  "gameId": "wbVDom2k",
+  "lines": {
+    "h3g5": {
+      "d8g5": {
+        "h6g5": {
+          "e8g7": "win"
+        }
+      }
+    }
+  },
+  "vote": 23,
+  "enabled": true
+}

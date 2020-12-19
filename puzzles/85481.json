@@ -1,0 +1,24 @@
+{
+  "id": 85481,
+  "rating": 1512,
+  "attempts": 10271,
+  "fen": "r1bqr1k1/p2n1pp1/1p5p/2bNN3/4Q3/8/PPP1BPPP/R4RK1 w - - 3 16",
+  "color": "black",
+  "initialPly": 31,
+  "gameId": "R345UMsT",
+  "lines": {
+    "e8e4": {
+      "f7d8": {
+        "e4e2": {
+          "d5c7": {
+            "a8b8": {
+              "d8c6": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 197,
+  "enabled": true
+}

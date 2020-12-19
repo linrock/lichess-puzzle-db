@@ -1,0 +1,24 @@
+{
+  "id": 101585,
+  "rating": 1242,
+  "attempts": 43394,
+  "fen": "8/pp3Qp1/5b1k/5qpP/2pP1P2/P1P3B1/1r4P1/5RK1 b - - 0 32",
+  "color": "white",
+  "initialPly": 64,
+  "gameId": "WwHZmcTO",
+  "lines": {
+    "c3d4": {
+      "f5f7": {
+        "f4g5": {
+          "h6h5": {
+            "f1f7": {
+              "h5g5": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 202,
+  "enabled": true
+}

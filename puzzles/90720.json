@@ -1,0 +1,22 @@
+{
+  "id": 90720,
+  "rating": 1611,
+  "attempts": 207365,
+  "fen": "3rr3/p4pk1/1p1p1b2/2qQ2p1/2P1PpK1/1P3P2/P1B3P1/3R3R b - - 5 31",
+  "color": "white",
+  "initialPly": 62,
+  "gameId": "lKwK21rd",
+  "lines": {
+    "h1h7": {
+      "g7h7": {
+        "d5f7": {
+          "f6g7": {
+            "d1h1": "win"
+          }
+        }
+      }
+    }
+  },
+  "vote": 2955,
+  "enabled": true
+}

@@ -1,0 +1,28 @@
+{
+  "id": 107228,
+  "rating": 992,
+  "attempts": 369,
+  "fen": "6k1/4qbpp/p1pr1p2/1p2p3/4P3/1P6/PBP1QPPP/3R2K1 w - - 2 21",
+  "color": "black",
+  "initialPly": 41,
+  "gameId": "FtLextdx",
+  "lines": {
+    "d6d1": {
+      "e2d1": {
+        "e7a3": {
+          "d1d8": {
+            "a3f8": {
+              "d8f8": {
+                "g8f8": {
+                  "a2a3": "win"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 10,
+  "enabled": true
+}

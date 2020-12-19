@@ -1,0 +1,24 @@
+{
+  "id": 109451,
+  "rating": 1629,
+  "attempts": 30185,
+  "fen": "2q1r1k1/1p3pb1/5Bp1/3pPpQR/p1nN1P2/P1P5/4K1P1/8 b - - 0 39",
+  "color": "white",
+  "initialPly": 78,
+  "gameId": "IscQezTp",
+  "lines": {
+    "g5f6": {
+      "g6h5": {
+        "d4f5": {
+          "c8f5": {
+            "f6f5": {
+              "c4a3": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 222,
+  "enabled": true
+}

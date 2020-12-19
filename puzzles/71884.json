@@ -1,0 +1,24 @@
+{
+  "id": 71884,
+  "rating": 2126,
+  "attempts": 115418,
+  "fen": "8/7k/1p3P2/2p3r1/Pp2R3/6P1/6P1/6K1 b - - 0 51",
+  "color": "white",
+  "initialPly": 102,
+  "gameId": "RupMWMiV",
+  "lines": {
+    "e4e8": {
+      "h7g6": {
+        "e8g8": {
+          "g6f6": {
+            "g8g3": {
+              "f6e5": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 519,
+  "enabled": true
+}

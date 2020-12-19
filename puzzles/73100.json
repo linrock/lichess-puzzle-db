@@ -1,0 +1,20 @@
+{
+  "id": 73100,
+  "rating": 1938,
+  "attempts": 21203,
+  "fen": "4k2r/5p2/p2Rp3/6Bb/2r5/6R1/PK5P/8 b k - 0 26",
+  "color": "white",
+  "initialPly": 52,
+  "gameId": "SFnBBCBn",
+  "lines": {
+    "g5f6": {
+      "h5g6": {
+        "f6h8": {
+          "e8e7": "win"
+        }
+      }
+    }
+  },
+  "vote": 179,
+  "enabled": true
+}

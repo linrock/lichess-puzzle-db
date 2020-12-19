@@ -1,0 +1,24 @@
+{
+  "id": 76270,
+  "rating": 987,
+  "attempts": 1175,
+  "fen": "6k1/p2q2p1/7p/4B3/4N3/8/2Pr3P/6QK b - - 2 35",
+  "color": "white",
+  "initialPly": 70,
+  "gameId": "gt5Sua30",
+  "lines": {
+    "e4f6": {
+      "g8f7": {
+        "f6d7": {
+          "d1g1": {
+            "h1g1": {
+              "g7g5": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 23,
+  "enabled": true
+}

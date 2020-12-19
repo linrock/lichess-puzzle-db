@@ -1,0 +1,24 @@
+{
+  "id": 67250,
+  "rating": 2648,
+  "attempts": 4991,
+  "fen": "4r1rk/1ppq3p/8/3pn1bP/3B2P1/pPPQ4/P2N4/2K1R1R1 b - - 3 27",
+  "color": "white",
+  "initialPly": 54,
+  "gameId": "FyjaalJE",
+  "lines": {
+    "d3f1": {
+      "g8f8": {
+        "e1e5": {
+          "f6e5": {
+            "d4e5": {
+              "h8g8": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 121,
+  "enabled": true
+}

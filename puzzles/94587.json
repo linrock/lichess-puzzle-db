@@ -1,0 +1,24 @@
+{
+  "id": 94587,
+  "rating": 1760,
+  "attempts": 11969,
+  "fen": "5bk1/1p3p2/p2p4/2q2bNp/P1p4P/2N1r3/1PP2QP1/R6K w - - 0 26",
+  "color": "black",
+  "initialPly": 51,
+  "gameId": "85NFLZSB",
+  "lines": {
+    "e3e4": {
+      "g5e4": {
+        "f5e4": {
+          "f2c5": {
+            "d6c5": {
+              "c2c3": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 184,
+  "enabled": true
+}

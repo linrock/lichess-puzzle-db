@@ -1,0 +1,28 @@
+{
+  "id": 115876,
+  "rating": 2268,
+  "attempts": 3411,
+  "fen": "5rk1/5pp1/Q7/3N2q1/4P1bp/3R2P1/P1r2P2/4R1K1 w - - 0 27",
+  "color": "black",
+  "initialPly": 53,
+  "gameId": "gDxs16Vl",
+  "lines": {
+    "c2e2": {
+      "e3g2": {
+        "e2e1": {
+          "g2e1": {
+            "g4e2": {
+              "a6a3": {
+                "e2d3": {
+                  "a3d3": "win"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 38,
+  "enabled": true
+}

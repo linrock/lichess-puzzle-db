@@ -1,0 +1,24 @@
+{
+  "id": 70873,
+  "rating": 1874,
+  "attempts": 29501,
+  "fen": "r4q2/pp3ppk/2p4p/2P1r3/2n1R3/2P2QP1/P4P1P/2BR2K1 b - - 0 26",
+  "color": "white",
+  "initialPly": 52,
+  "gameId": "RtEMQNDC",
+  "lines": {
+    "e4c4": {
+      "e5e1": {
+        "g1g2": {
+          "e1d1": {
+            "f3d1": {
+              "e8d8": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 478,
+  "enabled": true
+}

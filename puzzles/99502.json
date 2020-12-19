@@ -1,0 +1,20 @@
+{
+  "id": 99502,
+  "rating": 1261,
+  "attempts": 4508,
+  "fen": "r4rk1/p2bppbp/1qpp1np1/6B1/3NP3/2N5/PPPQ1PPP/R3R1K1 w - - 2 12",
+  "color": "black",
+  "initialPly": 23,
+  "gameId": "JAu236PM",
+  "lines": {
+    "g7h6": {
+      "d2h6": {
+        "b6d4": {
+          "h6e3": "win"
+        }
+      }
+    }
+  },
+  "vote": 84,
+  "enabled": true
+}

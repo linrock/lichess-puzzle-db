@@ -1,0 +1,20 @@
+{
+  "id": 102403,
+  "rating": 1722,
+  "attempts": 10001,
+  "fen": "r2q2k1/pp4p1/2n5/2ppp1P1/3P4/2P5/PPQN1r2/R3K2R b KQ - 0 18",
+  "color": "white",
+  "initialPly": 36,
+  "gameId": "xG3FTlot",
+  "lines": {
+    "e1f2": {
+      "d8g5": {
+        "a1g1": {
+          "a8f8": "win"
+        }
+      }
+    }
+  },
+  "vote": 111,
+  "enabled": true
+}

@@ -1,0 +1,24 @@
+{
+  "id": 82641,
+  "rating": 859,
+  "attempts": 243,
+  "fen": "r3k2r/3qnppp/p1np4/4p1B1/Q3P3/N1P2P2/PP3P1P/R4RK1 b kq - 3 13",
+  "color": "white",
+  "initialPly": 26,
+  "gameId": "LMXD8b2V",
+  "lines": {
+    "g5e7": {
+      "d7e7": {
+        "a4c6": {
+          "e7g5": {
+            "g1h1": {
+              "g5f4": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 14,
+  "enabled": true
+}

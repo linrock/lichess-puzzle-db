@@ -1,0 +1,20 @@
+{
+  "id": 100323,
+  "rating": 1339,
+  "attempts": 10371,
+  "fen": "8/5p2/p2R1bkp/1p4p1/6N1/1r4P1/5P1P/6K1 b - - 1 29",
+  "color": "white",
+  "initialPly": 58,
+  "gameId": "CkopTime",
+  "lines": {
+    "g4e5": {
+      "g6f5": {
+        "e5f3": {
+          "f6c3": "win"
+        }
+      }
+    }
+  },
+  "vote": 110,
+  "enabled": true
+}

@@ -1,0 +1,30 @@
+{
+  "id": 70791,
+  "rating": 1723,
+  "attempts": 140729,
+  "fen": "4R3/pp3pk1/2p4p/2Pp1Qp1/8/6PP/q2r1PK1/8 b - - 7 36",
+  "color": "white",
+  "initialPly": 72,
+  "gameId": "ktkErD8I",
+  "lines": {
+    "f5e5": {
+      "f7f6": {
+        "e5e7": {
+          "g7g6": {
+            "e8g8": {
+              "g6f5": {
+                "g3g4": {
+                  "f5f4": {
+                    "e7e3": "win"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 1095,
+  "enabled": true
+}

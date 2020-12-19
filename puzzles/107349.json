@@ -1,0 +1,24 @@
+{
+  "id": 107349,
+  "rating": 1783,
+  "attempts": 7255,
+  "fen": "r3r3/p4pk1/2p3b1/1p1pP2p/3Q1PpR/2P1P1P1/P1q1BKP1/7R w - - 6 27",
+  "color": "black",
+  "initialPly": 53,
+  "gameId": "XnybitRB",
+  "lines": {
+    "f7f6": {
+      "h4h5": {
+        "g6h5": {
+          "h1h5": {
+            "e8e6": {
+              "h5h4": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 62,
+  "enabled": true
+}

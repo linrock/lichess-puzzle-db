@@ -1,0 +1,24 @@
+{
+  "id": 91464,
+  "rating": 1840,
+  "attempts": 14695,
+  "fen": "r2q1rk1/1pp2pp1/p2p3p/P1bPp3/2P1PnQn/2N4P/1PB2PP1/R1B2RK1 w - - 6 16",
+  "color": "black",
+  "initialPly": 31,
+  "gameId": "ccgoRYRa",
+  "lines": {
+    "h6h5": {
+      "g4h4": {
+        "g7g5": {
+          "g3f4": {
+            "g5h4": {
+              "f4f5": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 368,
+  "enabled": true
+}

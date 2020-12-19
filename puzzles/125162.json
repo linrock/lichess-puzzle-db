@@ -1,0 +1,20 @@
+{
+  "id": 125162,
+  "rating": 1455,
+  "attempts": 4275,
+  "fen": "r1b1k2r/1p1p1pp1/p1n4p/3Pp3/4q3/2P5/PP2BPPP/R1BQK2R b KQkq - 2 13",
+  "color": "white",
+  "initialPly": 26,
+  "gameId": "WHMCTNlz",
+  "lines": {
+    "e2f3": {
+      "g2g6": {
+        "d5c6": {
+          "d7c6": "win"
+        }
+      }
+    }
+  },
+  "vote": 28,
+  "enabled": true
+}

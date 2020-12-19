@@ -1,0 +1,24 @@
+{
+  "id": 90639,
+  "rating": 2052,
+  "attempts": 7763,
+  "fen": "6r1/5prk/2b1p2p/3pPp2/1p1P3R/3B2P1/PP5P/2R4K b - - 1 30",
+  "color": "white",
+  "initialPly": 60,
+  "gameId": "KZNJgC40",
+  "lines": {
+    "d3a6": {
+      "c6b7": {
+        "c1c8": {
+          "b7c8": {
+            "a6c8": {
+              "g7g8": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 190,
+  "enabled": true
+}

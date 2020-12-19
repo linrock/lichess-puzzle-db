@@ -1,0 +1,24 @@
+{
+  "id": 66159,
+  "rating": 996,
+  "attempts": 98691,
+  "fen": "4r1k1/5pp1/2p4p/8/P1PQ4/1P3Pq1/2P5/5R1K b - - 1 29",
+  "color": "white",
+  "initialPly": 58,
+  "gameId": "Maf1kAFa",
+  "lines": {
+    "d4d8": {
+      "g8h7": {
+        "d8d3": {
+          "g7g6": {
+            "d3e2": {
+              "g3h4": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 276,
+  "enabled": true
+}

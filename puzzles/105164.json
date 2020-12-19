@@ -1,0 +1,20 @@
+{
+  "id": 105164,
+  "rating": 1234,
+  "attempts": 1341,
+  "fen": "r1bq1rk1/p3bppp/2p1p3/8/5n2/1BP3Q1/PP3PPP/RN1R2K1 w - - 0 16",
+  "color": "black",
+  "initialPly": 31,
+  "gameId": "JoCVok4X",
+  "lines": {
+    "f4e2": {
+      "g1f1": {
+        "e2g3": {
+          "f1e1": "win"
+        }
+      }
+    }
+  },
+  "vote": 33,
+  "enabled": true
+}

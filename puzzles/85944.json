@@ -1,0 +1,20 @@
+{
+  "id": 85944,
+  "rating": 1336,
+  "attempts": 6400,
+  "fen": "r3r1k1/1p2bppp/p1nq4/3p4/3P2b1/P2QBN2/1P2BPPP/R4RK1 b - - 2 15",
+  "color": "white",
+  "initialPly": 30,
+  "gameId": "WnzaTuop",
+  "lines": {
+    "f3g5": {
+      "f7f5": {
+        "e2g4": {
+          "h7h6": "win"
+        }
+      }
+    }
+  },
+  "vote": 128,
+  "enabled": true
+}

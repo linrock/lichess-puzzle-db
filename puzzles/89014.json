@@ -1,0 +1,24 @@
+{
+  "id": 89014,
+  "rating": 2033,
+  "attempts": 10435,
+  "fen": "r1b2rk1/ppp2p1p/1nnb2pB/8/8/1B1NRN2/P1P2PPP/1R4K1 b - - 7 19",
+  "color": "white",
+  "initialPly": 38,
+  "gameId": "GJesyaUF",
+  "lines": {
+    "f3g5": {
+      "d6f8": {
+        "g5f7": {
+          "f8h6": {
+            "f7d8": {
+              "g8g7": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 206,
+  "enabled": true
+}

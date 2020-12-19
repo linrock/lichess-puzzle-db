@@ -1,0 +1,28 @@
+{
+  "id": 84702,
+  "rating": 1695,
+  "attempts": 25032,
+  "fen": "r4rk1/1p1q1ppp/p1n5/4pb2/1b6/2N2B2/PPPB1PPP/R2Q1RK1 w - - 7 14",
+  "color": "black",
+  "initialPly": 27,
+  "gameId": "erpen678",
+  "lines": {
+    "f5e4": {
+      "d2b4": {
+        "d7d1": {
+          "f1d1": {
+            "e4f3": {
+              "b4f8": {
+                "f3d1": {
+                  "f8g7": "win"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 394,
+  "enabled": true
+}

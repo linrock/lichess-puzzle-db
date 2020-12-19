@@ -1,0 +1,24 @@
+{
+  "id": 85162,
+  "rating": 989,
+  "attempts": 938,
+  "fen": "8/5pp1/p7/4p2p/1PR3kP/P5P1/2Bq1P2/6K1 b - - 2 31",
+  "color": "white",
+  "initialPly": 62,
+  "gameId": "JeMztyYe",
+  "lines": {
+    "c2e4": {
+      "f3e2": {
+        "c4c2": {
+          "d2c2": {
+            "e4c2": {
+              "e2d2": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 32,
+  "enabled": true
+}

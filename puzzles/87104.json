@@ -1,0 +1,24 @@
+{
+  "id": 87104,
+  "rating": 2329,
+  "attempts": 3857,
+  "fen": "4rr2/ppp2pkp/3p2p1/P2P1PQ1/q1PbP3/3B3P/P5P1/2B2R1K b - - 4 22",
+  "color": "white",
+  "initialPly": 44,
+  "gameId": "sp2Sny49",
+  "lines": {
+    "g5h6": {
+      "g7g8": {
+        "f5f6": {
+          "d4f6": {
+            "f1f6": {
+              "a2a1": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 36,
+  "enabled": true
+}

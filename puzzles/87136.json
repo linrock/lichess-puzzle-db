@@ -1,0 +1,24 @@
+{
+  "id": 87136,
+  "rating": 1988,
+  "attempts": 10933,
+  "fen": "1r4k1/p5pp/1r6/3qp3/2RPR3/2PQ4/P5PP/K7 w - - 5 31",
+  "color": "black",
+  "initialPly": 61,
+  "gameId": "CnBJCVr9",
+  "lines": {
+    "b6b1": {
+      "d3b1": {
+        "b8b1": {
+          "a1b1": {
+            "d5c4": {
+              "b1b2": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 188,
+  "enabled": true
+}

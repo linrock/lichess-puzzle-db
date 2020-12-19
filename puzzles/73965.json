@@ -1,0 +1,24 @@
+{
+  "id": 73965,
+  "rating": 1155,
+  "attempts": 45961,
+  "fen": "5k2/7R/6p1/5p2/5Q1P/6P1/2q2P2/3r2K1 w - - 1 44",
+  "color": "black",
+  "initialPly": 87,
+  "gameId": "PhBsNCws",
+  "lines": {
+    "c2c6": {
+      "f4f3": {
+        "d1g1": {
+          "g2g1": {
+            "c6f3": {
+              "h7h8": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 191,
+  "enabled": true
+}

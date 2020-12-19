@@ -1,0 +1,28 @@
+{
+  "id": 65331,
+  "rating": 1697,
+  "attempts": 76282,
+  "fen": "3r1rk1/p1q2pp1/3bp2B/1p6/3Pp3/2P2Q1P/PP3PP1/R3R1K1 w - - 0 21",
+  "color": "black",
+  "initialPly": 41,
+  "gameId": "ND39DKHs",
+  "lines": {
+    "f7f5": {
+      "g4g6": {
+        "f8f6": {
+          "g6g7": {
+            "c7g7": {
+              "h6g7": {
+                "g8g7": {
+                  "e1e2": "win"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 1111,
+  "enabled": true
+}

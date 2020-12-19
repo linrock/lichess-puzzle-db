@@ -1,0 +1,32 @@
+{
+  "id": 101246,
+  "rating": 1440,
+  "attempts": 7522,
+  "fen": "8/8/1p6/5p1B/1kPn1PpP/8/5K2/8 b - - 0 61",
+  "color": "white",
+  "initialPly": 122,
+  "gameId": "WoyEX0lW",
+  "lines": {
+    "h5f7": {
+      "c4c5": {
+        "h4h5": {
+          "c5d6": {
+            "h5h6": {
+              "d6e7": {
+                "h6h7": {
+                  "e7f7": {
+                    "h7h8q": {
+                      "d4c6": "win"
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 188,
+  "enabled": true
+}

@@ -1,0 +1,32 @@
+{
+  "id": 97343,
+  "rating": 2207,
+  "attempts": 54780,
+  "fen": "4q1k1/2r4p/6p1/3B1p2/1Q6/2pp2PP/1b3P1K/1R6 b - - 1 37",
+  "color": "white",
+  "initialPly": 74,
+  "gameId": "JROfHRLF",
+  "lines": {
+    "b1e1": {
+      "e8d8": {
+        "b4d4": {
+          "c7g7": {
+            "d5f7": {
+              "d8a8": {
+                "e1e8": {
+                  "a8e8": {
+                    "f7e8": {
+                      "d3d2": "win"
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 195,
+  "enabled": true
+}

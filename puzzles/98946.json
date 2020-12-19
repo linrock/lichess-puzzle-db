@@ -1,0 +1,24 @@
+{
+  "id": 98946,
+  "rating": 1936,
+  "attempts": 8441,
+  "fen": "r4rk1/2Q1Rp1p/2p4b/5p2/ppq1P3/6RP/1P4P1/7K b - - 1 29",
+  "color": "white",
+  "initialPly": 58,
+  "gameId": "UEKZ62HL",
+  "lines": {
+    "c7e5": {
+      "f7f6": {
+        "e5c7": {
+          "c4g8": {
+            "g3g8": {
+              "h8g8": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 203,
+  "enabled": true
+}

@@ -1,0 +1,28 @@
+{
+  "id": 100864,
+  "rating": 1880,
+  "attempts": 19811,
+  "fen": "r1b1r1k1/ppppqppp/2n2n2/6N1/2P5/2P2pP1/P1QPP1BP/R1B2RK1 w - - 0 11",
+  "color": "black",
+  "initialPly": 21,
+  "gameId": "BOzyKuPw",
+  "lines": {
+    "e7c5": {
+      "d2d4": {
+        "c6d4": {
+          "c3d4": {
+            "c5d4": {
+              "g1h1": {
+                "d4a1": {
+                  "f3f4": "win"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 332,
+  "enabled": true
+}

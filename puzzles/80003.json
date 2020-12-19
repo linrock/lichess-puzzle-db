@@ -1,0 +1,20 @@
+{
+  "id": 80003,
+  "rating": 812,
+  "attempts": 286,
+  "fen": "8/6k1/p1n3p1/1p1qpr1p/3pN3/P2P3P/1PP1Q1P1/4R1K1 b - - 3 27",
+  "color": "white",
+  "initialPly": 54,
+  "gameId": "rgSrk6TV",
+  "lines": {
+    "e4d6": {
+      "f7d7": {
+        "d6f5": {
+          "d7f5": "win"
+        }
+      }
+    }
+  },
+  "vote": 6,
+  "enabled": true
+}

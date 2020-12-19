@@ -1,0 +1,24 @@
+{
+  "id": 92340,
+  "rating": 1181,
+  "attempts": 23147,
+  "fen": "4rnk1/N6p/5p2/3p4/3P1n2/P3PNq1/4Q1P1/2R2K2 w - - 2 33",
+  "color": "black",
+  "initialPly": 65,
+  "gameId": "Opv675Ut",
+  "lines": {
+    "g3f2": {
+      "f1f2": {
+        "f4d3": {
+          "f2e2": {
+            "d3c1": {
+              "e2d2": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 132,
+  "enabled": true
+}

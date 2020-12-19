@@ -1,0 +1,28 @@
+{
+  "id": 88197,
+  "rating": 1958,
+  "attempts": 92023,
+  "fen": "4r1k1/1R4p1/5p1p/8/3r4/1Q3R1P/4q1P1/7K b - - 3 44",
+  "color": "white",
+  "initialPly": 88,
+  "gameId": "LWi2pfEi",
+  "lines": {
+    "f3e3": {
+      "d4d1": {
+        "h1h2": {
+          "e6b3": {
+            "e3e8": {
+              "g8h7": {
+                "b7b3": {
+                  "d1d7": "win"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 520,
+  "enabled": true
+}

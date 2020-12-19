@@ -1,0 +1,20 @@
+{
+  "id": 100030,
+  "rating": 1042,
+  "attempts": 1608,
+  "fen": "8/8/1R5p/3kpN2/1P2n3/K6P/6r1/8 b - - 1 51",
+  "color": "white",
+  "initialPly": 102,
+  "gameId": "FD5FocS2",
+  "lines": {
+    "f5e3": {
+      "d5d4": {
+        "e3g2": {
+          "d4d5": "win"
+        }
+      }
+    }
+  },
+  "vote": 34,
+  "enabled": true
+}

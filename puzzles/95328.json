@@ -1,0 +1,24 @@
+{
+  "id": 95328,
+  "rating": 2025,
+  "attempts": 7779,
+  "fen": "8/1p3R2/p2pB3/4kP2/4b3/8/PP3KrP/8 w - - 3 33",
+  "color": "black",
+  "initialPly": 65,
+  "gameId": "09S20AVz",
+  "lines": {
+    "d6d5": {
+      "f7d7": {
+        "g2h2": {
+          "f5f6": {
+            "e5e6": {
+              "f6f7": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 141,
+  "enabled": true
+}

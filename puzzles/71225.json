@@ -1,0 +1,24 @@
+{
+  "id": 71225,
+  "rating": 1067,
+  "attempts": 25394,
+  "fen": "1r4k1/p4pp1/6qp/Rr1pQ1N1/2pP4/2P4P/5PP1/5RK1 b - - 0 27",
+  "color": "white",
+  "initialPly": 54,
+  "gameId": "OpOvgBFX",
+  "lines": {
+    "a5b5": {
+      "b8b5": {
+        "e5e8": {
+          "g8h7": {
+            "e8b5": {
+              "g6e4": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 88,
+  "enabled": true
+}

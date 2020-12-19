@@ -1,0 +1,28 @@
+{
+  "id": 103104,
+  "rating": 1576,
+  "attempts": 9753,
+  "fen": "r4rk1/ppq2pp1/3bbn1p/3pN3/3P1B2/2PB1Q2/PP3PPP/R4RK1 w - - 2 15",
+  "color": "black",
+  "initialPly": 29,
+  "gameId": "ZeHEWUOn",
+  "lines": {
+    "f6h5": {
+      "g3e3": {
+        "h5f4": {
+          "e3f4": {
+            "f7f6": {
+              "f4e3": {
+                "f6e5": {
+                  "d4e5": "win"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 240,
+  "enabled": true
+}

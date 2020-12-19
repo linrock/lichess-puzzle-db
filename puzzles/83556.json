@@ -1,0 +1,24 @@
+{
+  "id": 83556,
+  "rating": 1653,
+  "attempts": 43593,
+  "fen": "r1b1kbnr/ppq2ppp/2npp3/4P3/3Q1P2/5N2/PPP3PP/RNB1KB1R w KQkq - 1 7",
+  "color": "black",
+  "initialPly": 13,
+  "gameId": "GTKH7ino",
+  "lines": {
+    "c6d4": {
+      "d6c7": {
+        "d4c2": {
+          "e1d1": {
+            "c2a1": {
+              "b1c3": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 393,
+  "enabled": true
+}

@@ -1,0 +1,24 @@
+{
+  "id": 95725,
+  "rating": 1259,
+  "attempts": 3433,
+  "fen": "1R6/8/8/p1rp4/P5Bk/1Pb2K1P/8/8 b - - 1 51",
+  "color": "white",
+  "initialPly": 102,
+  "gameId": "RUPMhDzU",
+  "lines": {
+    "b8h8": {
+      "h4g5": {
+        "h8h5": {
+          "g5f6": {
+            "h5c5": {
+              "c3d2": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 115,
+  "enabled": true
+}

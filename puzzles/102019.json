@@ -1,0 +1,24 @@
+{
+  "id": 102019,
+  "rating": 1098,
+  "attempts": 4924,
+  "fen": "r1b1k2r/pp1nbpp1/2p4p/4N3/4P3/3QB2q/PPP1BP1P/2KR3R w kq - 1 15",
+  "color": "black",
+  "initialPly": 29,
+  "gameId": "O43NsI03",
+  "lines": {
+    "d7e5": {
+      "g4h3": {
+        "e5d3": {
+          "d1d3": {
+            "c8h3": {
+              "h1g1": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 52,
+  "enabled": true
+}

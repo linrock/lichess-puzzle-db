@@ -1,0 +1,24 @@
+{
+  "id": 71588,
+  "rating": 1555,
+  "attempts": 35389,
+  "fen": "7k/5P1p/p2p2p1/2pP2q1/2P3B1/7K/PP4Q1/4r3 b - - 0 41",
+  "color": "white",
+  "initialPly": 82,
+  "gameId": "vgujervl",
+  "lines": {
+    "f7f8q": {
+      "g7f8": {
+        "g2f2": {
+          "f8g7": {
+            "f2e1": {
+              "g5f4": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 446,
+  "enabled": true
+}

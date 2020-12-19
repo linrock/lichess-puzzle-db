@@ -1,0 +1,24 @@
+{
+  "id": 75513,
+  "rating": 1437,
+  "attempts": 19476,
+  "fen": "r4rk1/6pp/p1q1pp2/2b1B3/5P2/2PQ4/1P4PP/R2R3K w - - 0 23",
+  "color": "black",
+  "initialPly": 45,
+  "gameId": "PvSVm8VY",
+  "lines": {
+    "f8d8": {
+      "d3c4": {
+        "d8d6": {
+          "d1d6": {
+            "c6d6": {
+              "f4f5": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 343,
+  "enabled": true
+}

@@ -1,0 +1,28 @@
+{
+  "id": 110490,
+  "rating": 1841,
+  "attempts": 39407,
+  "fen": "3r1rk1/ppp1bppp/2n5/8/2Pq4/3B1Q2/P4PPP/1RB2RK1 w - - 2 15",
+  "color": "black",
+  "initialPly": 29,
+  "gameId": "MPEcSlf0",
+  "lines": {
+    "c6e5": {
+      "d3h7": {
+        "g8h8": {
+          "d1d4": {
+            "e5f3": {
+              "g2f3": {
+                "d8d4": {
+                  "c1e3": "win"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 183,
+  "enabled": true
+}

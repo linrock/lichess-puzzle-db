@@ -1,0 +1,24 @@
+{
+  "id": 76076,
+  "rating": 1411,
+  "attempts": 121739,
+  "fen": "5r2/ppk3p1/2pp1bPr/8/P2P2p1/2P3B1/5PP1/R3R1K1 w - - 1 27",
+  "color": "black",
+  "initialPly": 53,
+  "gameId": "oDKDOM43",
+  "lines": {
+    "f8h8": {
+      "g1f1": {
+        "h6h1": {
+          "f1e2": {
+            "h1a1": {
+              "e6d6": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 396,
+  "enabled": true
+}

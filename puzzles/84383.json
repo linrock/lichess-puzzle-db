@@ -1,0 +1,28 @@
+{
+  "id": 84383,
+  "rating": 2296,
+  "attempts": 5129,
+  "fen": "r2q1r1k/pbn2ppp/1p3N2/1Pp1P3/2B5/P7/2P3PP/R2Q1RK1 w - - 3 20",
+  "color": "black",
+  "initialPly": 39,
+  "gameId": "RSKX4eo1",
+  "lines": {
+    "d8d4": {
+      "g1h1": {
+        "g7f6": {
+          "c4d3": {
+            "b7e4": {
+              "d3e4": {
+                "d4e4": {
+                  "f1f6": "win"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 105,
+  "enabled": true
+}

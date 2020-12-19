@@ -1,0 +1,20 @@
+{
+  "id": 89901,
+  "rating": 1494,
+  "attempts": 10695,
+  "fen": "2r1r1k1/5pp1/p2B3p/1p2N3/2q2Q2/P1n5/1P3PPP/3R2K1 w - - 0 25",
+  "color": "black",
+  "initialPly": 49,
+  "gameId": "IPSBdlsg",
+  "lines": {
+    "c3e2": {
+      "g1f1": {
+        "e2f4": {
+          "c4e3": "win"
+        }
+      }
+    }
+  },
+  "vote": 199,
+  "enabled": true
+}

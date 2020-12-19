@@ -1,0 +1,28 @@
+{
+  "id": 112193,
+  "rating": 2900,
+  "attempts": 233,
+  "fen": "2kr4/pp1q1p1p/2pb1p2/1R2r3/P7/1Q3BP1/1P3P1P/2R3K1 w - - 1 22",
+  "color": "black",
+  "initialPly": 43,
+  "gameId": "GYElKMAp",
+  "lines": {
+    "d7g4": {
+      "b5b7": {
+        "d8d7": {
+          "c1c6": {
+            "c8d8": {
+              "b7d7": {
+                "g4d7": {
+                  "b3c3": "win"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 6,
+  "enabled": true
+}

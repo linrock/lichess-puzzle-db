@@ -1,0 +1,24 @@
+{
+  "id": 81537,
+  "rating": 1465,
+  "attempts": 81000,
+  "fen": "r4rk1/1q3pbp/p2pb3/1p1Npp2/4P3/2P2Q2/PP3PPP/R3KB1R w KQ - 0 18",
+  "color": "black",
+  "initialPly": 35,
+  "gameId": "gZplmSMF",
+  "lines": {
+    "e6d5": {
+      "e4d5": {
+        "e5e4": {
+          "f3f5": {
+            "e4d3": {
+              "e1g1": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 279,
+  "enabled": true
+}

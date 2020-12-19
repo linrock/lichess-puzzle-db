@@ -1,0 +1,20 @@
+{
+  "id": 100537,
+  "rating": 811,
+  "attempts": 190,
+  "fen": "8/8/p7/6pk/1p1q4/1P5P/P3R1P1/5R1K w - - 0 51",
+  "color": "black",
+  "initialPly": 101,
+  "gameId": "ob7TaxM8",
+  "lines": {
+    "d4d1": {
+      "h1h2": {
+        "d1e2": {
+          "f5a5": "win"
+        }
+      }
+    }
+  },
+  "vote": 3,
+  "enabled": true
+}

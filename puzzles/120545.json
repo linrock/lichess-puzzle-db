@@ -1,0 +1,24 @@
+{
+  "id": 120545,
+  "rating": 1935,
+  "attempts": 12963,
+  "fen": "1r3qk1/3Q3p/6p1/4P3/3B1r1P/b2K4/2P5/3R2R1 w - - 3 33",
+  "color": "black",
+  "initialPly": 65,
+  "gameId": "FzLgos8F",
+  "lines": {
+    "f4d4": {
+      "d7d4": {
+        "b8d8": {
+          "d3e2": {
+            "d8d4": {
+              "d1d4": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 201,
+  "enabled": true
+}

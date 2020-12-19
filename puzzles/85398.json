@@ -1,0 +1,24 @@
+{
+  "id": 85398,
+  "rating": 1678,
+  "attempts": 16449,
+  "fen": "7r/4k3/1r2pp1p/pp1q1PpR/3P2P1/4Q3/PP4P1/1K5R b - - 2 30",
+  "color": "white",
+  "initialPly": 60,
+  "gameId": "VigoHrt2",
+  "lines": {
+    "d4d5": {
+      "g2d5": {
+        "e3b6": {
+          "d5d3": {
+            "b1a1": {
+              "d3d8": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 287,
+  "enabled": true
+}

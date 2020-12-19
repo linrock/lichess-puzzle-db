@@ -1,0 +1,28 @@
+{
+  "id": 61270,
+  "rating": 2075,
+  "attempts": 431560,
+  "fen": "1r3rk1/p1q2ppp/5b2/4p3/2Pn4/3P2P1/2QNPPKP/1RB2R2 w - - 1 19",
+  "color": "black",
+  "initialPly": 37,
+  "gameId": "jum28zsx",
+  "lines": {
+    "b8b1": {
+      "d2b1": {
+        "c7b7": {
+          "f2f3": {
+            "b7b1": {
+              "c1a3": {
+                "b1d1": {
+                  "f1d1": "win"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 9468,
+  "enabled": true
+}

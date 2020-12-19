@@ -1,0 +1,20 @@
+{
+  "id": 97356,
+  "rating": 1012,
+  "attempts": 1106,
+  "fen": "r3kbnr/pp1npbp1/2pq4/3p2Pp/3P3P/3B4/PPP2P2/RNBQK1NR b KQkq - 2 9",
+  "color": "white",
+  "initialPly": 18,
+  "gameId": "AshmEMFZ",
+  "lines": {
+    "g5g6": {
+      "e8c8": {
+        "g6f7": {
+          "g8h6": "win"
+        }
+      }
+    }
+  },
+  "vote": 17,
+  "enabled": true
+}

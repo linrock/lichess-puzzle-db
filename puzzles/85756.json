@@ -1,0 +1,20 @@
+{
+  "id": 85756,
+  "rating": 850,
+  "attempts": 289,
+  "fen": "1r2r1k1/2q1pp1p/3p2p1/3P1b2/3QN3/1P3P2/1P2R1PP/4R1K1 b - - 0 25",
+  "color": "white",
+  "initialPly": 50,
+  "gameId": "GsF90FOz",
+  "lines": {
+    "e4f6": {
+      "e7f6": {
+        "e2e8": {
+          "g8g7": "win"
+        }
+      }
+    }
+  },
+  "vote": 12,
+  "enabled": true
+}

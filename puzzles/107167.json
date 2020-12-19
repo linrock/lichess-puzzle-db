@@ -1,0 +1,28 @@
+{
+  "id": 107167,
+  "rating": 1409,
+  "attempts": 28809,
+  "fen": "r1bq1rk1/5pp1/p1p1pn1p/np2N3/1b1PP3/4B3/P1Q1BPPP/1NRR2K1 b - - 1 16",
+  "color": "white",
+  "initialPly": 32,
+  "gameId": "V9ayigva",
+  "lines": {
+    "e5c6": {
+      "a5c6": {
+        "c2c6": {
+          "a8b8": {
+            "e4e5": {
+              "d6e7": {
+                "e5f6": {
+                  "e7f6": "win"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 118,
+  "enabled": true
+}

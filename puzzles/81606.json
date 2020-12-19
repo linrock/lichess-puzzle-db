@@ -1,0 +1,24 @@
+{
+  "id": 81606,
+  "rating": 1724,
+  "attempts": 22174,
+  "fen": "r4rk1/pp3pp1/2n5/5P2/3pPq2/3P1NbP/PP4R1/2RQ1BK1 w - - 0 28",
+  "color": "black",
+  "initialPly": 55,
+  "gameId": "DiKSTtz7",
+  "lines": {
+    "f4f3": {
+      "f1e2": {
+        "f3f4": {
+          "d2f4": {
+            "g3f4": {
+              "c1c2": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 377,
+  "enabled": true
+}

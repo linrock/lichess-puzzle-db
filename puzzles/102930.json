@@ -1,0 +1,24 @@
+{
+  "id": 102930,
+  "rating": 1500,
+  "attempts": 7322,
+  "fen": "1k5r/p2Q4/Bpp5/6P1/3P4/5q1P/PPP5/R6K w - - 3 31",
+  "color": "black",
+  "initialPly": 61,
+  "gameId": "CiQ95GSD",
+  "lines": {
+    "f3g3": {
+      "g1h1": {
+        "h8h3": {
+          "d7h3": {
+            "g3h3": {
+              "h1g1": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 91,
+  "enabled": true
+}

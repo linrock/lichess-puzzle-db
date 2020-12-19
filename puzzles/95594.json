@@ -1,0 +1,20 @@
+{
+  "id": 95594,
+  "rating": 789,
+  "attempts": 219,
+  "fen": "r2qk2r/ppp3pp/3p1p2/3Pp3/2P1Pn1n/2P1BQ1P/P1B2PP1/R4RK1 w kq - 1 15",
+  "color": "black",
+  "initialPly": 29,
+  "gameId": "gdMC11GX",
+  "lines": {
+    "f4e2": {
+      "g1h2": {
+        "e2g3": {
+          "f2g3": "win"
+        }
+      }
+    }
+  },
+  "vote": 5,
+  "enabled": true
+}

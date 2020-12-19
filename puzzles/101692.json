@@ -1,0 +1,20 @@
+{
+  "id": 101692,
+  "rating": 889,
+  "attempts": 222,
+  "fen": "8/p1r2p2/1p2kp2/n7/3R4/P4N1P/2P2PP1/2K5 w - - 2 30",
+  "color": "black",
+  "initialPly": 59,
+  "gameId": "ftngPsbo",
+  "lines": {
+    "a5b3": {
+      "c1b2": {
+        "b3d4": {
+          "f3d4": "win"
+        }
+      }
+    }
+  },
+  "vote": 10,
+  "enabled": true
+}

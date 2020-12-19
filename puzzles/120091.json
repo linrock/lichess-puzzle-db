@@ -1,0 +1,24 @@
+{
+  "id": 120091,
+  "rating": 1966,
+  "attempts": 7191,
+  "fen": "r5k1/4q1rp/pp1pPnp1/2pNp3/P1P1P3/1P3P1R/3Q1K2/7R b - - 2 30",
+  "color": "white",
+  "initialPly": 60,
+  "gameId": "jkSFcStb",
+  "lines": {
+    "d5f6": {
+      "e6f6": {
+        "d2d5": {
+          "g7f7": {
+            "d5a8": {
+              "f7f8": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 169,
+  "enabled": true
+}

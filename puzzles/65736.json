@@ -1,0 +1,28 @@
+{
+  "id": 65736,
+  "rating": 2708,
+  "attempts": 4747,
+  "fen": "6k1/1p1r2p1/p2p4/5p2/2P4p/1PBpP1q1/P5B1/5Q1K b - - 3 40",
+  "color": "white",
+  "initialPly": 80,
+  "gameId": "Ds85cdny",
+  "lines": {
+    "f1f5": {
+      "d6d5": {
+        "g2d5": {
+          "d7d5": {
+            "f5d5": {
+              "g8h7": {
+                "d5h5": {
+                  "e3h6": "win"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 50,
+  "enabled": true
+}

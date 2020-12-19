@@ -1,0 +1,24 @@
+{
+  "id": 67155,
+  "rating": 1140,
+  "attempts": 49833,
+  "fen": "2rq1rk1/pp3pbp/1n1p2p1/3Pp3/2P1N3/1P1QnN2/P4PPP/2R2RK1 w - - 0 17",
+  "color": "black",
+  "initialPly": 33,
+  "gameId": "APKe1Xa6",
+  "lines": {
+    "f7f5": {
+      "e4c3": {
+        "e5e4": {
+          "c3e4": {
+            "f5e4": {
+              "d3e4": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 165,
+  "enabled": true
+}

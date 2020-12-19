@@ -1,0 +1,24 @@
+{
+  "id": 87487,
+  "rating": 2219,
+  "attempts": 6680,
+  "fen": "1r3rk1/1p4pp/p3b3/2pNp3/3qB2b/3P1PNP/PP1Q3K/R5R1 b - - 0 24",
+  "color": "white",
+  "initialPly": 48,
+  "gameId": "DjC7crHr",
+  "lines": {
+    "g3e2": {
+      "d4f2": {
+        "g1g2": {
+          "f2f3": {
+            "e4f3": {
+              "d5f3": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 95,
+  "enabled": true
+}

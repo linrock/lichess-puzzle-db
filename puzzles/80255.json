@@ -1,0 +1,20 @@
+{
+  "id": 80255,
+  "rating": 990,
+  "attempts": 1276,
+  "fen": "r4rk1/1pqn1ppp/2pb1n2/p2Ppb2/P7/1P1P1NP1/1B1NPPBP/R2Q1RK1 b - - 0 11",
+  "color": "white",
+  "initialPly": 22,
+  "gameId": "Rdx49Cer",
+  "lines": {
+    "e2e4": {
+      "f5e6": {
+        "e4d5": {
+          "e6d5": "win"
+        }
+      }
+    }
+  },
+  "vote": 37,
+  "enabled": true
+}

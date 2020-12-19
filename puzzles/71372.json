@@ -1,0 +1,24 @@
+{
+  "id": 71372,
+  "rating": 2021,
+  "attempts": 23813,
+  "fen": "r3Nrk1/pq1P1p1p/3R2p1/2p5/1p1n1n2/1P3N1P/PQ3PP1/4R1K1 w - - 9 31",
+  "color": "black",
+  "initialPly": 61,
+  "gameId": "ZuGL7L9r",
+  "lines": {
+    "d4f3": {
+      "g2f3": {
+        "b7f3": {
+          "d2f4": {
+            "f3f4": {
+              "d6c6": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 504,
+  "enabled": true
+}

@@ -1,0 +1,24 @@
+{
+  "id": 65321,
+  "rating": 1298,
+  "attempts": 31700,
+  "fen": "1k4r1/pp6/1b6/3pN2p/PP1P4/5N1n/5Pr1/3R1R1K w - - 1 35",
+  "color": "black",
+  "initialPly": 69,
+  "gameId": "chuCtl4l",
+  "lines": {
+    "h3f2": {
+      "f1f2": {
+        "g2f2": {
+          "e5d7": {
+            "b8a8": {
+              "d7e5": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 431,
+  "enabled": true
+}

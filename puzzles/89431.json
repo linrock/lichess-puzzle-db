@@ -1,0 +1,20 @@
+{
+  "id": 89431,
+  "rating": 1002,
+  "attempts": 797,
+  "fen": "8/p7/1p3pb1/1Pp1k1p1/2P3P1/1P2P1K1/8/3B4 b - - 2 42",
+  "color": "white",
+  "initialPly": 84,
+  "gameId": "hs7cGit3",
+  "lines": {
+    "d1c2": {
+      "e4e3": {
+        "c2g6": {
+          "e3e2": "win"
+        }
+      }
+    }
+  },
+  "vote": 27,
+  "enabled": true
+}

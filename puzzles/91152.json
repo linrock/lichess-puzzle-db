@@ -1,0 +1,24 @@
+{
+  "id": 91152,
+  "rating": 1201,
+  "attempts": 3799,
+  "fen": "r1r3k1/3nqpp1/p3p2p/1p6/3P1n2/1QN2N2/PPR2PPP/2R3K1 b - - 1 22",
+  "color": "white",
+  "initialPly": 44,
+  "gameId": "cwLBvMtG",
+  "lines": {
+    "c3d5": {
+      "f4d5": {
+        "c2c8": {
+          "a8c8": {
+            "c1c8": {
+              "d7f8": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 94,
+  "enabled": true
+}

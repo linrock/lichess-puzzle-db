@@ -1,0 +1,24 @@
+{
+  "id": 78601,
+  "rating": 725,
+  "attempts": 349,
+  "fen": "2r3k1/5pp1/7p/p7/R1P1q3/1Q4P1/P4P1P/6K1 b - - 1 30",
+  "color": "white",
+  "initialPly": 60,
+  "gameId": "NtkGU9kn",
+  "lines": {
+    "b3b8": {
+      "g8h7": {
+        "b8c7": {
+          "e4e1": {
+            "g1g2": {
+              "e1e4": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 11,
+  "enabled": true
+}

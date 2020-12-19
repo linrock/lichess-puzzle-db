@@ -1,0 +1,28 @@
+{
+  "id": 124307,
+  "rating": 2901,
+  "attempts": 291,
+  "fen": "2r1r3/pp2qkpp/5b2/3Q4/P7/5N2/5PPP/2R2RK1 b - - 2 21",
+  "color": "white",
+  "initialPly": 42,
+  "gameId": "A87GoQGL",
+  "lines": {
+    "f3g5": {
+      "f6g5": {
+        "c1c8": {
+          "e8c8": {
+            "d5f5": {
+              "g5f6": {
+                "f5c8": {
+                  "f8f7": "win"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 5,
+  "enabled": true
+}

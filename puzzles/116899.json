@@ -1,0 +1,24 @@
+{
+  "id": 116899,
+  "rating": 2055,
+  "attempts": 8218,
+  "fen": "6k1/5pp1/2N4p/5Pn1/6P1/P4rr1/4R2K/4R3 b - - 7 50",
+  "color": "white",
+  "initialPly": 100,
+  "gameId": "TWdN19HO",
+  "lines": {
+    "e2e8": {
+      "g8h7": {
+        "c6e5": {
+          "h3g5": {
+            "e5f3": {
+              "g3f3": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 132,
+  "enabled": true
+}

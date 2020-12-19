@@ -1,0 +1,24 @@
+{
+  "id": 70184,
+  "rating": 1454,
+  "attempts": 26924,
+  "fen": "rn1qkbnr/pp2pppp/2p5/3pPb2/3P3P/8/PPP2PP1/RNBQKBNR b KQkq - 0 4",
+  "color": "white",
+  "initialPly": 8,
+  "gameId": "PYVmds48",
+  "lines": {
+    "g2g4": {
+      "f5e4": {
+        "f2f3": {
+          "e4c2": {
+            "d1c2": {
+              "b8d7": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 314,
+  "enabled": true
+}

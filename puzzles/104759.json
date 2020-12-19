@@ -1,0 +1,28 @@
+{
+  "id": 104759,
+  "rating": 1580,
+  "attempts": 9019,
+  "fen": "3r1rk1/p4ppp/2p1p3/4P3/2RP4/P1nQ4/1q1N1PPP/5RK1 b - - 2 25",
+  "color": "white",
+  "initialPly": 50,
+  "gameId": "sQBCsPR3",
+  "lines": {
+    "f1b1": {
+      "b2a2": {
+        "c4c2": {
+          "d5f4": {
+            "d3e4": {
+              "a2a3": {
+                "e4f4": {
+                  "a3d3": "win"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 177,
+  "enabled": true
+}

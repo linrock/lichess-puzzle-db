@@ -1,0 +1,28 @@
+{
+  "id": 93043,
+  "rating": 2673,
+  "attempts": 447,
+  "fen": "8/1br3pk/p3pr1p/1p2Np2/1PpPqP2/P1R1P2P/4QRP1/6K1 w - - 7 25",
+  "color": "black",
+  "initialPly": 49,
+  "gameId": "RnwnMnBx",
+  "lines": {
+    "e4b1": {
+      "g1h2": {
+        "b1a1": {
+          "f2c2": {
+            "b7e4": {
+              "h5e2": {
+                "e4c2": {
+                  "e2c2": "win"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 2,
+  "enabled": true
+}

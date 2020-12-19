@@ -1,0 +1,24 @@
+{
+  "id": 65370,
+  "rating": 923,
+  "attempts": 6296,
+  "fen": "r4rk1/1pqn1p1p/2pbppb1/p7/P2P3N/1QP4P/1P1BBPP1/2KR3R w - - 3 15",
+  "color": "black",
+  "initialPly": 29,
+  "gameId": "v40rEvat",
+  "lines": {
+    "d6f4": {
+      "h6f4": {
+        "c7f4": {
+          "d1d2": {
+            "f4h4": {
+              "b3d1": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 112,
+  "enabled": true
+}

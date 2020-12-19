@@ -1,0 +1,28 @@
+{
+  "id": 69136,
+  "rating": 1836,
+  "attempts": 33396,
+  "fen": "5rk1/PR3p1p/6p1/q7/8/4P3/3Q4/3K4 b - - 0 46",
+  "color": "white",
+  "initialPly": 92,
+  "gameId": "kJSE8MgB",
+  "lines": {
+    "d2d8": {
+      "a5d8": {
+        "d1e2": {
+          "g8g7": {
+            "b7b8": {
+              "d8c7": {
+                "a7a8q": {
+                  "c7c2": "win"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 578,
+  "enabled": true
+}

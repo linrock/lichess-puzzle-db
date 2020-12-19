@@ -1,0 +1,23 @@
+{
+  "id": 65606,
+  "rating": 1928,
+  "attempts": 5911,
+  "fen": "r1b2rk1/pp3p1p/2n3p1/2pNb1Bn/4N2q/3P3P/PPP3B1/R2Q1RK1 b - - 11 20",
+  "color": "white",
+  "initialPly": 40,
+  "gameId": "iGdyBoM7",
+  "lines": {
+    "g1h1": {
+      "h4g5": {
+        "e4g5": {
+          "h5g3": {
+            "h1h2": {
+              "d4e5": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": -9000
+}

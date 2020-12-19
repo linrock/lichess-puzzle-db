@@ -1,0 +1,24 @@
+{
+  "id": 105636,
+  "rating": 1304,
+  "attempts": 9421,
+  "fen": "r3r1k1/ppp2ppp/2n5/8/2n1N3/2P3B1/PP2KPPP/R3R3 w - - 3 16",
+  "color": "black",
+  "initialPly": 31,
+  "gameId": "b0z4Gaam",
+  "lines": {
+    "e8e4": {
+      "e1e4": {
+        "c4d2": {
+          "f1g1": {
+            "d2e4": {
+              "g3c7": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 96,
+  "enabled": true
+}

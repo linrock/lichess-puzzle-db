@@ -1,0 +1,23 @@
+{
+  "id": 78209,
+  "rating": 1500,
+  "attempts": 5,
+  "fen": "8/8/6PR/1brk4/p6P/8/1K6/8 b - - 0 56",
+  "color": "white",
+  "initialPly": 112,
+  "gameId": "Y33G5TBF",
+  "lines": {
+    "g6g7": {
+      "a4a3": {
+        "b2b3": {
+          "c6h6": {
+            "g7g8q": {
+              "h6e6": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": -9000
+}

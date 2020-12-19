@@ -1,0 +1,20 @@
+{
+  "id": 76199,
+  "rating": 1820,
+  "attempts": 19301,
+  "fen": "r3r1k1/1bq1bppp/p1nppn2/1p4B1/4P3/1BN2N1P/PP2QPP1/2RR2K1 w - - 9 15",
+  "color": "black",
+  "initialPly": 29,
+  "gameId": "DRGAIZQa",
+  "lines": {
+    "e6d5": {
+      "e4d5": {
+        "f6d5": {
+          "e2c2": "win"
+        }
+      }
+    }
+  },
+  "vote": 246,
+  "enabled": true
+}

@@ -1,0 +1,24 @@
+{
+  "id": 88588,
+  "rating": 2245,
+  "attempts": 5409,
+  "fen": "b2r2k1/B2nbppp/P2ppn2/N7/1P2P3/2N2P2/r3BQPP/7K b - - 1 26",
+  "color": "white",
+  "initialPly": 52,
+  "gameId": "NlcBlOvf",
+  "lines": {
+    "e2d1": {
+      "d6d5": {
+        "f2b2": {
+          "a1d1": {
+            "c3d1": {
+              "d5e4": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 121,
+  "enabled": true
+}

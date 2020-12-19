@@ -1,0 +1,24 @@
+{
+  "id": 97399,
+  "rating": 1809,
+  "attempts": 11210,
+  "fen": "r5k1/ppn1r1pp/2p2q2/5p2/3P4/1P3QP1/P2R1PBP/5RK1 w - - 1 22",
+  "color": "black",
+  "initialPly": 43,
+  "gameId": "LMkdCimV",
+  "lines": {
+    "f6h6": {
+      "d2e2": {
+        "e7e2": {
+          "f3e2": {
+            "h6h3": {
+              "e2e5": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 269,
+  "enabled": true
+}

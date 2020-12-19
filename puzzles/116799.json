@@ -1,0 +1,20 @@
+{
+  "id": 116799,
+  "rating": 895,
+  "attempts": 836,
+  "fen": "r6r/5kpp/p2Pp3/4PpP1/3n1B2/8/1P3P1P/R3K2R w KQ - 1 26",
+  "color": "black",
+  "initialPly": 51,
+  "gameId": "osAT19Gm",
+  "lines": {
+    "d4e2": {
+      "g1g2": {
+        "e2f4": {
+          "g2g3": "win"
+        }
+      }
+    }
+  },
+  "vote": 17,
+  "enabled": true
+}

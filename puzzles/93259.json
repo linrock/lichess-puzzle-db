@@ -1,0 +1,24 @@
+{
+  "id": 93259,
+  "rating": 1535,
+  "attempts": 9510,
+  "fen": "5r2/4pr1k/R7/3pKP2/8/3P4/2P4p/5R2 w - - 0 42",
+  "color": "black",
+  "initialPly": 83,
+  "gameId": "kClw14So",
+  "lines": {
+    "f7f5": {
+      "f1f5": {
+        "f8f5": {
+          "e5f5": {
+            "h2h1q": {
+              "f5e6": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 210,
+  "enabled": true
+}

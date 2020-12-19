@@ -1,0 +1,20 @@
+{
+  "id": 107852,
+  "rating": 1151,
+  "attempts": 928,
+  "fen": "r1b2rk1/pp2qpp1/4p2p/3n4/3P4/P1P2N2/2B2PPP/R2Q1RK1 b - - 1 15",
+  "color": "white",
+  "initialPly": 30,
+  "gameId": "WCluvZEg",
+  "lines": {
+    "d1d3": {
+      "g7g6": {
+        "d3c3": {
+          "b7b6": "win"
+        }
+      }
+    }
+  },
+  "vote": 21,
+  "enabled": true
+}

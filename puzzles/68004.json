@@ -1,0 +1,24 @@
+{
+  "id": 68004,
+  "rating": 1622,
+  "attempts": 147546,
+  "fen": "4r1k1/1ppq4/np4r1/6np/8/B5Q1/PP3PBN/R1R3K1 w - - 0 31",
+  "color": "black",
+  "initialPly": 61,
+  "gameId": "GNdSPWd6",
+  "lines": {
+    "g5h3": {
+      "g2h3": {
+        "g6g3": {
+          "f2g3": {
+            "d7h3": {
+              "c1c2": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 1011,
+  "enabled": true
+}

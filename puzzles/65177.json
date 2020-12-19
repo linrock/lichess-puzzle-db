@@ -1,0 +1,24 @@
+{
+  "id": 65177,
+  "rating": 2412,
+  "attempts": 22975,
+  "fen": "rn2r1k1/ppp2ppp/8/4N3/2bPBQ2/7P/Pq1N1PP1/R3K2R w KQ - 0 15",
+  "color": "black",
+  "initialPly": 29,
+  "gameId": "necblcYa",
+  "lines": {
+    "b2a1": {
+      "e1e2": {
+        "a1h1": {
+          "c4e5": {
+            "e8e5": {
+              "d4e5": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 113,
+  "enabled": true
+}

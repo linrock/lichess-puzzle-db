@@ -1,0 +1,24 @@
+{
+  "id": 118805,
+  "rating": 1636,
+  "attempts": 9356,
+  "fen": "5rk1/p4pbp/2p3p1/1q2rp2/4N3/3P1Q1P/PPP2PP1/1R2R1K1 w - - 0 21",
+  "color": "black",
+  "initialPly": 41,
+  "gameId": "LYNKelax",
+  "lines": {
+    "e5e1": {
+      "b1e1": {
+        "b5b4": {
+          "f3e3": {
+            "b4d6": {
+              "e3c1": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 200,
+  "enabled": true
+}

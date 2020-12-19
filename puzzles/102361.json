@@ -1,0 +1,26 @@
+{
+  "id": 102361,
+  "rating": 1839,
+  "attempts": 40391,
+  "fen": "6k1/1p3p2/p1q1b1pR/3p4/2rB2P1/2PQ1P2/6K1/8 b - - 9 48",
+  "color": "white",
+  "initialPly": 96,
+  "gameId": "AK32Uqlb",
+  "lines": {
+    "d3d4": {
+      "g8f8": {
+        "d4f6": {
+          "f8e8": {
+            "h6h8": {
+              "e8d7": {
+                "f6d8": "win"
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 408,
+  "enabled": true
+}

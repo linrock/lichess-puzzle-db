@@ -1,0 +1,32 @@
+{
+  "id": 93142,
+  "rating": 2394,
+  "attempts": 2399,
+  "fen": "2r3k1/3bpp2/3p2p1/q1rP4/p1nR2P1/P1N2P2/1PQ1N3/2K4R b - - 0 26",
+  "color": "white",
+  "initialPly": 52,
+  "gameId": "dENoxIqL",
+  "lines": {
+    "c2d2": {
+      "a5b6": {
+        "d2h6": {
+          "c5c3": {
+            "b2c3": {
+              "c8c3": {
+                "e2c3": {
+                  "b6d4": {
+                    "h6h7": {
+                      "g8f8": "win"
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 49,
+  "enabled": true
+}

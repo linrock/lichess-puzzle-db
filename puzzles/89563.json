@@ -1,0 +1,24 @@
+{
+  "id": 89563,
+  "rating": 1055,
+  "attempts": 1092,
+  "fen": "r2q1rk1/pp4pp/5bb1/3P1p2/1nN1p3/1PN1B2P/2P2PP1/R2Q1RK1 w - - 3 19",
+  "color": "black",
+  "initialPly": 37,
+  "gameId": "AyyiNXKY",
+  "lines": {
+    "f6d4": {
+      "d1d4": {
+        "b4c2": {
+          "d4d2": {
+            "c2a1": {
+              "f1a1": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 38,
+  "enabled": true
+}

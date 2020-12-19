@@ -1,0 +1,24 @@
+{
+  "id": 123933,
+  "rating": 1947,
+  "attempts": 6951,
+  "fen": "4rk2/p1R1Npp1/1p3n1p/1P1p4/q7/3QP2P/5PP1/6K1 w - - 2 26",
+  "color": "black",
+  "initialPly": 51,
+  "gameId": "5OBMfPS4",
+  "lines": {
+    "a4a1": {
+      "d3f1": {
+        "a1f1": {
+          "g1f1": {
+            "f6d5": {
+              "c7a7": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 101,
+  "enabled": true
+}

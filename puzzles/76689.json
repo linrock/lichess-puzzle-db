@@ -1,0 +1,24 @@
+{
+  "id": 76689,
+  "rating": 1401,
+  "attempts": 100411,
+  "fen": "1b1r1rk1/4n3/pN2b2p/P3pp2/4P3/2Rp1NPP/3R1PBK/8 w - - 0 33",
+  "color": "black",
+  "initialPly": 65,
+  "gameId": "ElAMv12L",
+  "lines": {
+    "d8d3": {
+      "d2d3": {
+        "f5e4": {
+          "d3e3": {
+            "e4f3": {
+              "e3f3": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 288,
+  "enabled": true
+}

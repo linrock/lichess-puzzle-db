@@ -1,0 +1,24 @@
+{
+  "id": 124349,
+  "rating": 1014,
+  "attempts": 150,
+  "fen": "8/p7/1b1k1ppp/3B4/4K1P1/P7/1P5P/8 w - - 2 37",
+  "color": "black",
+  "initialPly": 73,
+  "gameId": "ez1IVIvs",
+  "lines": {
+    "f6f5": {
+      "g4f5": {
+        "g6f5": {
+          "e4f5": {
+            "d6d5": {
+              "b2b3": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 5,
+  "enabled": true
+}

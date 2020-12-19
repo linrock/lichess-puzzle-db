@@ -1,0 +1,24 @@
+{
+  "id": 108755,
+  "rating": 1658,
+  "attempts": 33337,
+  "fen": "3r4/pk1q1p2/2pbbp2/5Q2/1p4P1/5pN1/PPP2P2/3R1BK1 w - - 4 31",
+  "color": "black",
+  "initialPly": 61,
+  "gameId": "HBSOIUm3",
+  "lines": {
+    "e6g4": {
+      "d1d6": {
+        "g4f3": {
+          "d6d7": {
+            "d8d7": {
+              "f1d3": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 161,
+  "enabled": true
+}

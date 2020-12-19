@@ -1,0 +1,24 @@
+{
+  "id": 77307,
+  "rating": 997,
+  "attempts": 33580,
+  "fen": "1b4k1/8/p1p1N2p/3n4/3BKp2/1P5P/8/8 b - - 3 37",
+  "color": "white",
+  "initialPly": 74,
+  "gameId": "TPILeVdm",
+  "lines": {
+    "e6d8": {
+      "f7e8": {
+        "d8c6": {
+          "b8d6": {
+            "e4d5": {
+              "d6c7": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 90,
+  "enabled": true
+}

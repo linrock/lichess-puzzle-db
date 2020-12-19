@@ -1,0 +1,24 @@
+{
+  "id": 73329,
+  "rating": 1587,
+  "attempts": 24176,
+  "fen": "4r1k1/qp3pp1/p4bbp/2Np4/3P4/5PN1/PP1Q2PP/2R3K1 w - - 0 27",
+  "color": "black",
+  "initialPly": 53,
+  "gameId": "cAKSTLdZ",
+  "lines": {
+    "e8e2": {
+      "d2e2": {
+        "f6d4": {
+          "g1h1": {
+            "d4c5": {
+              "e2e5": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 291,
+  "enabled": true
+}

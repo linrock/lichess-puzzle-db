@@ -1,0 +1,24 @@
+{
+  "id": 112058,
+  "rating": 1747,
+  "attempts": 8401,
+  "fen": "r4rk1/1Q3pp1/q1p1p2p/3pP3/n2P4/5N2/5PPP/RR4K1 b - - 0 19",
+  "color": "white",
+  "initialPly": 38,
+  "gameId": "NOirQKNx",
+  "lines": {
+    "b7b8": {
+      "a8b8": {
+        "b1b8": {
+          "g8h7": {
+            "b8b4": {
+              "g7g5": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 135,
+  "enabled": true
+}

@@ -1,0 +1,24 @@
+{
+  "id": 119931,
+  "rating": 1049,
+  "attempts": 351,
+  "fen": "8/4k3/6B1/4K2p/p4P1P/1b3P2/8/8 w - - 0 52",
+  "color": "black",
+  "initialPly": 103,
+  "gameId": "lwLNrrGt",
+  "lines": {
+    "a4a3": {
+      "e5d4": {
+        "a3a2": {
+          "d4c3": {
+            "a2a1q": {
+              "c3b3": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 6,
+  "enabled": true
+}

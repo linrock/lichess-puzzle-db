@@ -1,0 +1,24 @@
+{
+  "id": 112794,
+  "rating": 1615,
+  "attempts": 8591,
+  "fen": "r2q1rk1/1p1n1pp1/2p1p2p/p5bP/2NPQB2/1PP4R/P4PP1/2KR4 w - - 5 21",
+  "color": "black",
+  "initialPly": 41,
+  "gameId": "MFMIFtoM",
+  "lines": {
+    "d7f6": {
+      "f4g5": {
+        "f6e4": {
+          "g5d8": {
+            "e4g3": {
+              "d8a5": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 173,
+  "enabled": true
+}

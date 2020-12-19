@@ -1,0 +1,24 @@
+{
+  "id": 65833,
+  "rating": 1532,
+  "attempts": 68121,
+  "fen": "3r1bk1/5pp1/p6p/3B4/2P5/2N3PP/P1b1RPK1/8 b - - 4 31",
+  "color": "white",
+  "initialPly": 62,
+  "gameId": "G5vzdACT",
+  "lines": {
+    "e2d2": {
+      "d3c4": {
+        "d5f7": {
+          "g8f7": {
+            "d2d8": {
+              "a6a5": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 761,
+  "enabled": true
+}

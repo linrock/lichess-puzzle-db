@@ -1,0 +1,28 @@
+{
+  "id": 65149,
+  "rating": 2322,
+  "attempts": 34402,
+  "fen": "R7/P4ppk/7p/2b2N2/7P/6P1/1r2rP2/5RK1 b - - 0 30",
+  "color": "white",
+  "initialPly": 60,
+  "gameId": "woBE7TOD",
+  "lines": {
+    "f1f2": {
+      "e2f2": {
+        "a8h8": {
+          "h7h8": {
+            "a7a8q": {
+              "h8h7": {
+                "f5e7": {
+                  "f2g2": "win"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 633,
+  "enabled": true
+}

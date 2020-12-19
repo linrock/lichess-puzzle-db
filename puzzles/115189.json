@@ -1,0 +1,24 @@
+{
+  "id": 115189,
+  "rating": 2145,
+  "attempts": 7218,
+  "fen": "1r4k1/pp3R2/2pr2pp/2N1b3/1nP3B1/8/PP4PP/5R1K b - - 2 21",
+  "color": "white",
+  "initialPly": 42,
+  "gameId": "mVazDnbI",
+  "lines": {
+    "c5d7": {
+      "c2e3": {
+        "d7b8": {
+          "e3f1": {
+            "f7f1": {
+              "h6h5": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 87,
+  "enabled": true
+}

@@ -1,0 +1,24 @@
+{
+  "id": 73348,
+  "rating": 1245,
+  "attempts": 9173,
+  "fen": "r3k2r/pp1bn2p/1q2pbPQ/1N1p4/3N4/8/PPP2PP1/2KR1B1R b kq - 0 16",
+  "color": "white",
+  "initialPly": 32,
+  "gameId": "FalREc1j",
+  "lines": {
+    "h6h8": {
+      "f6h8": {
+        "h1h8": {
+          "e8f7": {
+            "h8a8": {
+              "e6e5": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 113,
+  "enabled": true
+}

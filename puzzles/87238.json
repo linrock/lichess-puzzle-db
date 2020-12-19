@@ -1,0 +1,24 @@
+{
+  "id": 87238,
+  "rating": 1811,
+  "attempts": 14702,
+  "fen": "8/1p3p2/p4k2/1n1P4/4P3/P4K2/3B4/8 b - - 0 34",
+  "color": "white",
+  "initialPly": 68,
+  "gameId": "uTCSm02g",
+  "lines": {
+    "d2c3": {
+      "f6e7": {
+        "c3b4": {
+          "e7d8": {
+            "b4a3": {
+              "d8c7": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 311,
+  "enabled": true
+}

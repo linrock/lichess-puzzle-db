@@ -1,0 +1,24 @@
+{
+  "id": 100314,
+  "rating": 1711,
+  "attempts": 11278,
+  "fen": "r5k1/1p3rp1/4bn1p/1NRp1p2/8/P3PB2/5PPP/2R3K1 b - - 2 21",
+  "color": "white",
+  "initialPly": 42,
+  "gameId": "alkBiwwr",
+  "lines": {
+    "f3e4": {
+      "d5e4": {
+        "b5c7": {
+          "f7c7": {
+            "c5c7": {
+              "e6d5": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 265,
+  "enabled": true
+}

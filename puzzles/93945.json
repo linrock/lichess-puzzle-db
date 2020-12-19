@@ -1,0 +1,24 @@
+{
+  "id": 93945,
+  "rating": 1950,
+  "attempts": 9299,
+  "fen": "5Q2/3R2r1/5ppk/2p5/2P1p3/7P/5KP1/2q5 b - - 13 45",
+  "color": "white",
+  "initialPly": 90,
+  "gameId": "amCZo06b",
+  "lines": {
+    "f2g3": {
+      "c1e1": {
+        "g3h2": {
+          "e1f2": {
+            "f8g7": {
+              "h6g5": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 154,
+  "enabled": true
+}

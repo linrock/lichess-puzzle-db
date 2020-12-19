@@ -1,0 +1,24 @@
+{
+  "id": 70695,
+  "rating": 2398,
+  "attempts": 7550,
+  "fen": "3r2k1/1b2bp2/pp2pnpp/2q1B3/2P4N/1P6/P4PPP/1B1QR1K1 w - - 1 22",
+  "color": "black",
+  "initialPly": 43,
+  "gameId": "AddbDfrB",
+  "lines": {
+    "f6e4": {
+      "h4f3": {
+        "d8d2": {
+          "c2d2": {
+            "e4d2": {
+              "f3d2": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 206,
+  "enabled": true
+}

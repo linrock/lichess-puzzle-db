@@ -1,0 +1,24 @@
+{
+  "id": 82718,
+  "rating": 1627,
+  "attempts": 66087,
+  "fen": "6k1/pp3pbp/6p1/5b2/4N3/2P2B1P/PP2RPPK/3r4 b - - 6 22",
+  "color": "white",
+  "initialPly": 44,
+  "gameId": "kfmcSCBP",
+  "lines": {
+    "e4f6": {
+      "g7f6": {
+        "e2e8": {
+          "g8g7": {
+            "f3d1": {
+              "f5d3": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 483,
+  "enabled": true
+}

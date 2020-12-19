@@ -1,0 +1,24 @@
+{
+  "id": 97649,
+  "rating": 1336,
+  "attempts": 5913,
+  "fen": "r5k1/5ppp/1pn5/pN1R4/2n3P1/P4N2/1P3P1P/2K5 b - - 0 26",
+  "color": "white",
+  "initialPly": 52,
+  "gameId": "FNLNolqg",
+  "lines": {
+    "d5d8": {
+      "c6d8": {
+        "b2b3": {
+          "c4a3": {
+            "b5a3": {
+              "d8e6": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 99,
+  "enabled": true
+}

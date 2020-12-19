@@ -1,0 +1,24 @@
+{
+  "id": 68402,
+  "rating": 2200,
+  "attempts": 15269,
+  "fen": "3R4/2Q2ppk/1p5p/4p2q/1PP5/2P3Nb/r4PP1/6K1 b - - 1 24",
+  "color": "white",
+  "initialPly": 48,
+  "gameId": "YzRow78M",
+  "lines": {
+    "g1h2": {
+      "h5g5": {
+        "g2h3": {
+          "a1a2": {
+            "c7b6": {
+              "h6h5": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 169,
+  "enabled": true
+}

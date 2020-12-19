@@ -1,0 +1,24 @@
+{
+  "id": 91113,
+  "rating": 1986,
+  "attempts": 11804,
+  "fen": "3r1rk1/5ppp/pp6/4qb2/4Nn2/5B2/PP1Q1PPP/4RRK1 w - - 1 20",
+  "color": "black",
+  "initialPly": 39,
+  "gameId": "RtGEStxT",
+  "lines": {
+    "f4d3": {
+      "b4c3": {
+        "e5c3": {
+          "e4c3": {
+            "d3e1": {
+              "f1e1": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 234,
+  "enabled": true
+}

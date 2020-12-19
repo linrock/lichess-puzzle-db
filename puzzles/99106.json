@@ -1,0 +1,28 @@
+{
+  "id": 99106,
+  "rating": 1855,
+  "attempts": 13247,
+  "fen": "3r1rk1/2q1bppp/1pn5/p1pn4/3P4/P2QB1NP/1P1N1PP1/R4RK1 w - - 0 16",
+  "color": "black",
+  "initialPly": 31,
+  "gameId": "N57edNyc",
+  "lines": {
+    "d5e3": {
+      "d3e3": {
+        "e7c5": {
+          "e3c3": {
+            "d8d2": {
+              "c3d2": {
+                "c7g3": {
+                  "a1d1": "win"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 319,
+  "enabled": true
+}

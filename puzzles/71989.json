@@ -1,0 +1,40 @@
+{
+  "id": 71989,
+  "rating": 2752,
+  "attempts": 358,
+  "fen": "8/4B1pk/1pQ1n1qp/1P6/5rP1/r4p2/P1P3P1/R2R2K1 w - - 0 28",
+  "color": "black",
+  "initialPly": 55,
+  "gameId": "sHsdmSZ6",
+  "lines": {
+    "g6g4": {
+      "d1d2": {
+        "e6g5": {
+          "a3d6": {
+            "f4d4": {
+              "d2f2": {
+                "g5h3": {
+                  "g1h2": {
+                    "h3f2": {
+                      "c6f3": {
+                        "g4f3": {
+                          "g2f3": {
+                            "d4d6": {
+                              "c2c4": "win"
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 7,
+  "enabled": true
+}

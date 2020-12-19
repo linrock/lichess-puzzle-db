@@ -1,0 +1,28 @@
+{
+  "id": 108598,
+  "rating": 1827,
+  "attempts": 7359,
+  "fen": "1k4rr/1p2Rpq1/p1p5/2Pp1Q2/3P2pp/6P1/PP3PP1/R5K1 b - - 2 26",
+  "color": "white",
+  "initialPly": 52,
+  "gameId": "yeeSgU62",
+  "lines": {
+    "f5d7": {
+      "h8h1": {
+        "g1h1": {
+          "g7h7": {
+            "h1g1": {
+              "g3f2": {
+                "g1f2": {
+                  "h7c2": "win"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 78,
+  "enabled": true
+}

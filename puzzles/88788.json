@@ -1,0 +1,24 @@
+{
+  "id": 88788,
+  "rating": 1597,
+  "attempts": 12732,
+  "fen": "2r5/r2b2R1/3p3k/p2P1q2/3R1p2/1P1Q4/1PP5/2K5 w - - 0 32",
+  "color": "black",
+  "initialPly": 63,
+  "gameId": "ELCBGptN",
+  "lines": {
+    "f5d3": {
+      "d7d6": {
+        "d3g6": {
+          "d6g6": {
+            "h6g6": {
+              "d4f4": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 213,
+  "enabled": true
+}

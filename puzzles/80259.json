@@ -1,0 +1,24 @@
+{
+  "id": 80259,
+  "rating": 1288,
+  "attempts": 7493,
+  "fen": "2kr1br1/pp2p1pp/2p5/8/2n5/1PN5/P1P2PPP/R1B2RK1 b - - 0 13",
+  "color": "white",
+  "initialPly": 26,
+  "gameId": "Cd1Hvi44",
+  "lines": {
+    "f1d1": {
+      "d2f3": {
+        "g2f3": {
+          "d8d1": {
+            "c3d1": {
+              "g7g6": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 120,
+  "enabled": true
+}

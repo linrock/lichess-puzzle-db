@@ -1,0 +1,24 @@
+{
+  "id": 62116,
+  "rating": 1884,
+  "attempts": 190756,
+  "fen": "r4rk1/1b3ppp/4p3/1p2p3/1P2P3/2q2B2/2P1QPPP/2R2RK1 w - - 1 20",
+  "color": "black",
+  "initialPly": 39,
+  "gameId": "gwitKMPB",
+  "lines": {
+    "b7a6": {
+      "b5c5": {
+        "c3c5": {
+          "b4c5": {
+            "a6f1": {
+              "c1f1": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 3218,
+  "enabled": true
+}

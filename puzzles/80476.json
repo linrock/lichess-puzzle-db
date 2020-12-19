@@ -1,0 +1,24 @@
+{
+  "id": 80476,
+  "rating": 1759,
+  "attempts": 26740,
+  "fen": "4bnk1/2r1r2p/p3p1p1/1p1Pq2P/1P4P1/P1NQ3K/8/1BR2R2 b - - 0 30",
+  "color": "white",
+  "initialPly": 60,
+  "gameId": "GoaW6rRJ",
+  "lines": {
+    "c3d5": {
+      "c7c1": {
+        "d5e7": {
+          "e5e7": {
+            "f1c1": {
+              "g6h5": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 442,
+  "enabled": true
+}

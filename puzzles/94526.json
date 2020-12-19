@@ -1,0 +1,20 @@
+{
+  "id": 94526,
+  "rating": 874,
+  "attempts": 253,
+  "fen": "2r3k1/2rp1ppp/p4n2/2PNp3/1p2P3/5P2/PPR3PP/2KR4 b - - 5 24",
+  "color": "white",
+  "initialPly": 48,
+  "gameId": "AiAivoON",
+  "lines": {
+    "d5e7": {
+      "g8f8": {
+        "e7c8": {
+          "c5b5": "win"
+        }
+      }
+    }
+  },
+  "vote": 9,
+  "enabled": true
+}

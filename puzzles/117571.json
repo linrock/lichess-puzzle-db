@@ -1,0 +1,28 @@
+{
+  "id": 117571,
+  "rating": 1417,
+  "attempts": 6912,
+  "fen": "8/p7/1b6/pP2p1K1/k3Np1P/5P2/8/8 b - - 0 57",
+  "color": "white",
+  "initialPly": 114,
+  "gameId": "78Mjtgda",
+  "lines": {
+    "h4h5": {
+      "b6d4": {
+        "h5h6": {
+          "a5a4": {
+            "h6h7": {
+              "a4a3": {
+                "h7h8q": {
+                  "a3a2": "win"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 92,
+  "enabled": true
+}

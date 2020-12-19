@@ -1,0 +1,28 @@
+{
+  "id": 85606,
+  "rating": 1726,
+  "attempts": 16671,
+  "fen": "5r2/2p3kp/6p1/p2PP3/6R1/PP2Kr1P/8/4R3 w - - 1 45",
+  "color": "black",
+  "initialPly": 89,
+  "gameId": "DVORgPTK",
+  "lines": {
+    "h7h5": {
+      "g4h4": {
+        "g6g5": {
+          "e1g1": {
+            "g7h6": {
+              "g1c1": {
+                "g5h4": {
+                  "e5e6": "win"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 404,
+  "enabled": true
+}

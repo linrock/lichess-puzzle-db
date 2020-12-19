@@ -1,0 +1,24 @@
+{
+  "id": 93406,
+  "rating": 1746,
+  "attempts": 11700,
+  "fen": "3r2k1/p2r2bp/6p1/2BP1p2/4qP2/8/PP2RQ1P/3R2K1 b - - 6 27",
+  "color": "white",
+  "initialPly": 54,
+  "gameId": "nndDR3Ne",
+  "lines": {
+    "e2e4": {
+      "d5d1": {
+        "e4e1": {
+          "g7d4": {
+            "c5d4": {
+              "d1d4": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 262,
+  "enabled": true
+}

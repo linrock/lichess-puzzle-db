@@ -1,0 +1,32 @@
+{
+  "id": 86297,
+  "rating": 1897,
+  "attempts": 17235,
+  "fen": "r3kbnr/pbpq1ppp/1pn1p3/8/Q1pP4/2N2NP1/PP2PPBP/R1B2RK1 b kq - 3 8",
+  "color": "white",
+  "initialPly": 16,
+  "gameId": "QCR769l6",
+  "lines": {
+    "f3e5": {
+      "c6e5": {
+        "g2b7": {
+          "d7a4": {
+            "c3a4": {
+              "a8b8": {
+                "d4e5": {
+                  "b8b7": {
+                    "e5f6": {
+                      "g7f6": "win"
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 393,
+  "enabled": true
+}

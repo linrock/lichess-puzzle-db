@@ -1,0 +1,28 @@
+{
+  "id": 109847,
+  "rating": 2090,
+  "attempts": 5005,
+  "fen": "r2q1rk1/ppp1bppn/7B/4p3/2B1P3/2NP2QR/PP4PP/n5K1 b - - 2 15",
+  "color": "white",
+  "initialPly": 30,
+  "gameId": "OTTWIMBt",
+  "lines": {
+    "g3g6": {
+      "d8d4": {
+        "h6e3": {
+          "h7g5": {
+            "e3d4": {
+              "g5h3": {
+                "g2h3": {
+                  "b7b5": "win"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 129,
+  "enabled": true
+}

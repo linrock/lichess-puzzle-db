@@ -1,0 +1,24 @@
+{
+  "id": 68828,
+  "rating": 1726,
+  "attempts": 46276,
+  "fen": "2rq1rk1/pb1n1ppp/1p2p3/n2pP3/3P1P2/P1PB1N2/3B2PP/R2Q1RK1 b - - 4 15",
+  "color": "white",
+  "initialPly": 30,
+  "gameId": "VL1680sE",
+  "lines": {
+    "d3h7": {
+      "g8h7": {
+        "f3g5": {
+          "d8g5": {
+            "f4g5": {
+              "g7g6": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 622,
+  "enabled": true
+}

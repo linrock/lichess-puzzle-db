@@ -1,0 +1,24 @@
+{
+  "id": 74471,
+  "rating": 831,
+  "attempts": 380,
+  "fen": "2k1r3/pp6/3Pr3/P3Bp2/1RP2Pn1/6Pp/7P/2R4K w - - 1 41",
+  "color": "black",
+  "initialPly": 81,
+  "gameId": "OyymnazJ",
+  "lines": {
+    "g4f2": {
+      "h1g1": {
+        "f2d1": {
+          "d6d7": {
+            "c8d7": {
+              "b4b7": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 23,
+  "enabled": true
+}

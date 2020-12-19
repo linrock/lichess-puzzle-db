@@ -1,0 +1,24 @@
+{
+  "id": 105542,
+  "rating": 1452,
+  "attempts": 9588,
+  "fen": "r3k2r/p2q1p1p/1p2pp2/1N1p4/1Q1Pb3/8/PP3PPP/2R1K2R b K - 5 17",
+  "color": "white",
+  "initialPly": 34,
+  "gameId": "TXOVI8iN",
+  "lines": {
+    "b5c7": {
+      "e8d8": {
+        "b4e7": {
+          "d8e7": {
+            "c7a8": {
+              "h8a8": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 148,
+  "enabled": true
+}

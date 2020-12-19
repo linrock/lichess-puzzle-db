@@ -1,0 +1,24 @@
+{
+  "id": 64365,
+  "rating": 1330,
+  "attempts": 48291,
+  "fen": "3rr1k1/1p3pp1/p1n2q1p/8/2R5/5N1P/PPQ2PP1/2R3K1 w - - 0 23",
+  "color": "black",
+  "initialPly": 45,
+  "gameId": "BNyzokpe",
+  "lines": {
+    "c6a5": {
+      "b3c3": {
+        "a5c4": {
+          "c3f6": {
+            "g7f6": {
+              "c1c4": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 585,
+  "enabled": true
+}

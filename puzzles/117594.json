@@ -1,0 +1,24 @@
+{
+  "id": 117594,
+  "rating": 1704,
+  "attempts": 12562,
+  "fen": "rn2kbnr/pp2pppp/2p5/8/2P3N1/2N5/P2PPPPP/q1BQKB1R b Kkq - 1 7",
+  "color": "white",
+  "initialPly": 14,
+  "gameId": "UGdkAKE2",
+  "lines": {
+    "g4e3": {
+      "f8b4": {
+        "e3c2": {
+          "b4c3": {
+            "c2a1": {
+              "c3a1": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 206,
+  "enabled": true
+}

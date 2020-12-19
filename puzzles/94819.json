@@ -1,0 +1,24 @@
+{
+  "id": 94819,
+  "rating": 2332,
+  "attempts": 3328,
+  "fen": "r3r1k1/ppp2ppp/1bn5/3b2q1/4p1P1/1PQ4P/PBPPNPB1/2KR3R w - - 8 19",
+  "color": "black",
+  "initialPly": 37,
+  "gameId": "CZYCcDeA",
+  "lines": {
+    "c6d4": {
+      "f4d5": {
+        "d4e2": {
+          "c1b1": {
+            "e2c3": {
+              "d5c3": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 88,
+  "enabled": true
+}

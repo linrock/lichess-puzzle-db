@@ -1,0 +1,28 @@
+{
+  "id": 94549,
+  "rating": 2195,
+  "attempts": 6435,
+  "fen": "2r3k1/1b3ppp/p7/1p3QN1/8/4q3/6PP/5R1K b - - 1 28",
+  "color": "white",
+  "initialPly": 56,
+  "gameId": "sHurcOgn",
+  "lines": {
+    "f5h7": {
+      "g8f8": {
+        "h7h8": {
+          "f8e7": {
+            "h8g7": {
+              "e7d6": {
+                "g7b7": {
+                  "c8c1": "win"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 89,
+  "enabled": true
+}

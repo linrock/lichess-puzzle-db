@@ -1,0 +1,28 @@
+{
+  "id": 99565,
+  "rating": 1179,
+  "attempts": 4651,
+  "fen": "7k/4p1bp/1pp1qBp1/8/1P3P2/3QP2P/r3B1P1/5RK1 b - - 0 29",
+  "color": "white",
+  "initialPly": 58,
+  "gameId": "SRTKpgcD",
+  "lines": {
+    "d3d8": {
+      "e6g8": {
+        "d8g8": {
+          "h8g8": {
+            "e2c4": {
+              "g8f8": {
+                "c4a2": {
+                  "f8e8": "win"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 130,
+  "enabled": true
+}

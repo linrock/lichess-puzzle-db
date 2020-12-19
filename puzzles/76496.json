@@ -1,0 +1,20 @@
+{
+  "id": 76496,
+  "rating": 1233,
+  "attempts": 7875,
+  "fen": "6r1/2k2p2/2p5/ppPrpp2/3P4/PPK2R1P/4R1P1/8 w - - 0 38",
+  "color": "black",
+  "initialPly": 75,
+  "gameId": "Aic2tcmC",
+  "lines": {
+    "e5d4": {
+      "c3d3": {
+        "d5f5": {
+          "d3d4": "win"
+        }
+      }
+    }
+  },
+  "vote": 187,
+  "enabled": true
+}

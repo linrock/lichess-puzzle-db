@@ -1,0 +1,28 @@
+{
+  "id": 110587,
+  "rating": 1805,
+  "attempts": 8205,
+  "fen": "6k1/5pp1/1q2p3/3pNnP1/3P4/5P1K/rP1Q3R/8 w - - 0 39",
+  "color": "black",
+  "initialPly": 77,
+  "gameId": "zmngDlRD",
+  "lines": {
+    "b6d4": {
+      "c2c8": {
+        "g8h7": {
+          "h3g2": {
+            "f5h4": {
+              "h2h4": {
+                "d4h4": {
+                  "c8c1": "win"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 193,
+  "enabled": true
+}

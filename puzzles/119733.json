@@ -1,0 +1,24 @@
+{
+  "id": 119733,
+  "rating": 1399,
+  "attempts": 4107,
+  "fen": "rnbqk2r/ppp2ppp/3bp3/3pN3/3Pn3/4P1B1/PPP2PPP/RN1QKB1R b KQkq - 4 6",
+  "color": "white",
+  "initialPly": 12,
+  "gameId": "RKZMAGIH",
+  "lines": {
+    "d1h5": {
+      "g7g6": {
+        "e5g6": {
+          "h7g6": {
+            "h5h8": {
+              "e8d7": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 83,
+  "enabled": true
+}

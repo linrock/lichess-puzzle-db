@@ -1,0 +1,24 @@
+{
+  "id": 110821,
+  "rating": 1347,
+  "attempts": 4153,
+  "fen": "r5kr/1p3bpp/5q2/2B1n3/1bB5/5N2/P1Q2PPP/R4K1R w - - 0 22",
+  "color": "black",
+  "initialPly": 43,
+  "gameId": "KDCAGebr",
+  "lines": {
+    "f7c4": {
+      "c2c4": {
+        "e5c4": {
+          "d4f6": {
+            "g7f6": {
+              "g2g3": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 105,
+  "enabled": true
+}

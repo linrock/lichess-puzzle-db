@@ -1,0 +1,20 @@
+{
+  "id": 115021,
+  "rating": 960,
+  "attempts": 575,
+  "fen": "r2qr1k1/1ppb1pp1/2n4p/1B1p4/p2Pn3/P3PN1P/1PQ2PP1/R3BRK1 b - - 2 15",
+  "color": "white",
+  "initialPly": 30,
+  "gameId": "NG635WPh",
+  "lines": {
+    "b5c6": {
+      "d7c6": {
+        "c2c6": {
+          "e8e6": "win"
+        }
+      }
+    }
+  },
+  "vote": 13,
+  "enabled": true
+}

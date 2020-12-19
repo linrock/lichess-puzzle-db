@@ -1,0 +1,24 @@
+{
+  "id": 81844,
+  "rating": 1456,
+  "attempts": 9742,
+  "fen": "r3kb1r/p1qbpppp/8/8/2BP4/Q1P1P3/5PPP/R3K1NR w KQkq - 0 15",
+  "color": "black",
+  "initialPly": 29,
+  "gameId": "Tx67aSBS",
+  "lines": {
+    "e7e6": {
+      "a3a5": {
+        "c7a5": {
+          "a1a5": {
+            "e6d5": {
+              "g1f3": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 172,
+  "enabled": true
+}

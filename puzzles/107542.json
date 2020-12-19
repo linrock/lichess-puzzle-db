@@ -1,0 +1,24 @@
+{
+  "id": 107542,
+  "rating": 1799,
+  "attempts": 7802,
+  "fen": "r1b2r2/pp2qpbk/2p1p1Bp/3nN3/3P2PP/2P1B3/PPQ2P2/R4RK1 b - - 0 18",
+  "color": "white",
+  "initialPly": 36,
+  "gameId": "LytBeXEl",
+  "lines": {
+    "e5g6": {
+      "e7f6": {
+        "g6f8": {
+          "h7g8": {
+            "f8g6": {
+              "e6e5": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 153,
+  "enabled": true
+}

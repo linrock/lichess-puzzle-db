@@ -1,0 +1,24 @@
+{
+  "id": 85789,
+  "rating": 1252,
+  "attempts": 4322,
+  "fen": "3q1rk1/1b2npbp/p3p1p1/1p1pP3/2r2PP1/P1N1BB2/1PP2Q1P/R4RK1 w - - 5 18",
+  "color": "black",
+  "initialPly": 35,
+  "gameId": "DoOGAymC",
+  "lines": {
+    "d5d4": {
+      "e2c4": {
+        "d4e3": {
+          "f2e3": {
+            "b5c4": {
+              "a1d1": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 112,
+  "enabled": true
+}

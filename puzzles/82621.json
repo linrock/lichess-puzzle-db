@@ -1,0 +1,24 @@
+{
+  "id": 82621,
+  "rating": 1508,
+  "attempts": 13531,
+  "fen": "2kr1b2/1ppq2p1/p6p/4r2P/1P1p2b1/P5P1/1BPQB3/2K1R2R b - - 1 24",
+  "color": "white",
+  "initialPly": 48,
+  "gameId": "SHMO2NG8",
+  "lines": {
+    "e2g4": {
+      "e5e1": {
+        "h1e1": {
+          "d7g4": {
+            "e1e7": {
+              "g4g3": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 285,
+  "enabled": true
+}

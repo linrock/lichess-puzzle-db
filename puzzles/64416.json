@@ -1,0 +1,24 @@
+{
+  "id": 64416,
+  "rating": 1476,
+  "attempts": 163111,
+  "fen": "r1bq1rk1/3n1pbp/2n1p1p1/1Npp2PP/4PP2/3PB3/PP2B3/R2QK1NR w KQ - 0 14",
+  "color": "black",
+  "initialPly": 27,
+  "gameId": "RLMB4bXW",
+  "lines": {
+    "d8a5": {
+      "b5c3": {
+        "d5d4": {
+          "e3d2": {
+            "d4c3": {
+              "b2c3": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 2366,
+  "enabled": true
+}

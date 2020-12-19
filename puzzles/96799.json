@@ -1,0 +1,24 @@
+{
+  "id": 96799,
+  "rating": 1172,
+  "attempts": 2686,
+  "fen": "1r1q3r/4bkp1/2B2n1p/1p1ppP2/8/1Q1P3P/PP3P2/R1B1K2R w KQ - 0 21",
+  "color": "black",
+  "initialPly": 41,
+  "gameId": "MtnkDgH5",
+  "lines": {
+    "d8a5": {
+      "c1d2": {
+        "a5b5": {
+          "b3b5": {
+            "b8b5": {
+              "b2b3": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 74,
+  "enabled": true
+}

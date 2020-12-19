@@ -1,0 +1,20 @@
+{
+  "id": 100210,
+  "rating": 762,
+  "attempts": 145,
+  "fen": "7r/p6r/Pp3pk1/6p1/3R4/2n1P1P1/6NP/5RK1 w - - 7 43",
+  "color": "black",
+  "initialPly": 85,
+  "gameId": "CDXcNN8H",
+  "lines": {
+    "c3e2": {
+      "g1f2": {
+        "e2d4": {
+          "e3d4": "win"
+        }
+      }
+    }
+  },
+  "vote": -3,
+  "enabled": true
+}

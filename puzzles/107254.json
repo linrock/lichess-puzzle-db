@@ -1,0 +1,24 @@
+{
+  "id": 107254,
+  "rating": 2260,
+  "attempts": 3464,
+  "fen": "r4rk1/5p2/p3b1pp/1p1R4/3PQ3/P5BP/1q3PP1/RB4K1 w - - 0 24",
+  "color": "black",
+  "initialPly": 47,
+  "gameId": "HpprIL36",
+  "lines": {
+    "e6f5": {
+      "a1a2": {
+        "b2c1": {
+          "g1h2": {
+            "f5e4": {
+              "b1e4": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 95,
+  "enabled": true
+}

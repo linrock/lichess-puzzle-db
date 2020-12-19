@@ -1,0 +1,28 @@
+{
+  "id": 100285,
+  "rating": 1871,
+  "attempts": 8982,
+  "fen": "r3k1r1/pR2pp1p/2p5/2p1P3/8/8/P1bB2PP/5RK1 w q - 2 17",
+  "color": "black",
+  "initialPly": 33,
+  "gameId": "gGOmGViz",
+  "lines": {
+    "e8c8": {
+      "b7a7": {
+        "c8b8": {
+          "a7e7": {
+            "d8d2": {
+              "f1f7": {
+                "d2d1": {
+                  "g1f2": "win"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": -55,
+  "enabled": true
+}

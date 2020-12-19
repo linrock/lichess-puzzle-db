@@ -1,0 +1,20 @@
+{
+  "id": 98808,
+  "rating": 985,
+  "attempts": 425,
+  "fen": "4k3/3RP2p/6pN/6n1/6P1/4b3/K7/8 w - - 1 42",
+  "color": "black",
+  "initialPly": 83,
+  "gameId": "luAINKaI",
+  "lines": {
+    "e8d7": {
+      "g8f6": {
+        "d7e7": {
+          "f6d5": "win"
+        }
+      }
+    }
+  },
+  "vote": 6,
+  "enabled": true
+}

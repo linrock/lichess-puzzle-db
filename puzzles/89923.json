@@ -1,0 +1,24 @@
+{
+  "id": 89923,
+  "rating": 1967,
+  "attempts": 10954,
+  "fen": "rn2k1nr/pp2qpbp/2p3p1/3p4/8/1BNPBb2/PPP1QPPP/R3K2R w KQkq - 0 10",
+  "color": "black",
+  "initialPly": 19,
+  "gameId": "sTLss0PC",
+  "lines": {
+    "d5d4": {
+      "e3g5": {
+        "f7f6": {
+          "c3e4": {
+            "f6g5": {
+              "e4g5": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 197,
+  "enabled": true
+}

@@ -1,0 +1,24 @@
+{
+  "id": 108053,
+  "rating": 1722,
+  "attempts": 7102,
+  "fen": "3r1rk1/1b3p2/pq1bpn1p/1p4p1/5N2/2N2BQP/PPP2PP1/3R1R1K w - - 0 22",
+  "color": "black",
+  "initialPly": 43,
+  "gameId": "PtFah3Fx",
+  "lines": {
+    "b6d6": {
+      "f3b7": {
+        "d6f4": {
+          "g3f4": {
+            "g5f4": {
+              "b7a6": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 46,
+  "enabled": true
+}

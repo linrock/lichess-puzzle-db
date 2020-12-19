@@ -1,0 +1,24 @@
+{
+  "id": 114784,
+  "rating": 1956,
+  "attempts": 8698,
+  "fen": "1r4k1/6bp/p5p1/1ppPP1qP/P7/1P5b/1B2N1B1/R4QK1 w - - 0 24",
+  "color": "black",
+  "initialPly": 47,
+  "gameId": "ZVSVCBfk",
+  "lines": {
+    "b8f8": {
+      "g6h7": {
+        "g8h8": {
+          "f1f8": {
+            "g7f8": {
+              "e2f4": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 51,
+  "enabled": true
+}

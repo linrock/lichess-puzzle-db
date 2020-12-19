@@ -1,0 +1,28 @@
+{
+  "id": 122230,
+  "rating": 1786,
+  "attempts": 6847,
+  "fen": "8/4k3/4b1R1/3p2P1/3P4/1p2K3/1r2B3/8 w - - 0 53",
+  "color": "black",
+  "initialPly": 105,
+  "gameId": "pkK12Vog",
+  "lines": {
+    "b2e2": {
+      "e3e2": {
+        "b3b2": {
+          "h6h7": {
+            "e6f7": {
+              "g5g6": {
+                "b2b1q": {
+                  "h7f7": "win"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 120,
+  "enabled": true
+}

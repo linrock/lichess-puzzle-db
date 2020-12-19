@@ -1,0 +1,24 @@
+{
+  "id": 102812,
+  "rating": 1847,
+  "attempts": 8992,
+  "fen": "1b5k/6rp/p2P1N2/1b6/7p/5BPK/P1r2P2/R2R4 b - - 2 37",
+  "color": "white",
+  "initialPly": 74,
+  "gameId": "dMRTLrew",
+  "lines": {
+    "d6d7": {
+      "b5d7": {
+        "d1d7": {
+          "g7d7": {
+            "f6d7": {
+              "c2f2": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 114,
+  "enabled": true
+}

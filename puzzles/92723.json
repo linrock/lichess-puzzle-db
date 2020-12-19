@@ -1,0 +1,24 @@
+{
+  "id": 92723,
+  "rating": 1823,
+  "attempts": 13601,
+  "fen": "r4rk1/pp2qppp/1np5/3n4/2BPN3/8/PP3PPP/R2QR1K1 w - - 1 16",
+  "color": "black",
+  "initialPly": 31,
+  "gameId": "KHaB6Can",
+  "lines": {
+    "b6c4": {
+      "e4g5": {
+        "d5f6": {
+          "e1e7": {
+            "f6h5": {
+              "e7b7": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 352,
+  "enabled": true
+}

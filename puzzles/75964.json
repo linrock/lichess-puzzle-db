@@ -1,0 +1,28 @@
+{
+  "id": 75964,
+  "rating": 1277,
+  "attempts": 7197,
+  "fen": "5rk1/1p3p1p/p4Qp1/2bB1b2/1q3P2/4B3/1P4PP/3R3K w - - 4 28",
+  "color": "black",
+  "initialPly": 55,
+  "gameId": "PMgUe4er",
+  "lines": {
+    "f8f7": {
+      "e3c5": {
+        "b4c5": {
+          "d1d8": {
+            "f7f8": {
+              "d8f8": {
+                "c5f8": {
+                  "f6d4": "win"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 97,
+  "enabled": true
+}

@@ -1,0 +1,28 @@
+{
+  "id": 121050,
+  "rating": 2900,
+  "attempts": 510,
+  "fen": "r4k2/p2R2p1/3q4/1Q1p2p1/3ppbPr/2P4P/P1P2PK1/1R6 b - - 1 27",
+  "color": "white",
+  "initialPly": 54,
+  "gameId": "acmMRGNA",
+  "lines": {
+    "b5c5": {
+      "f8g8": {
+        "c5d5": {
+          "g8h7": {
+            "d5e4": {
+              "h6g6": {
+                "e4a8": {
+                  "h4h6": "win"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 6,
+  "enabled": true
+}

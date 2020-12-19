@@ -1,0 +1,36 @@
+{
+  "id": 78153,
+  "rating": 2244,
+  "attempts": 12487,
+  "fen": "rnb1k1nr/pq3ppp/4p3/2P1N3/1p2P3/1Pp5/5PPP/R1BQKB1R b KQkq - 0 12",
+  "color": "white",
+  "initialPly": 24,
+  "gameId": "7ynxLeaP",
+  "lines": {
+    "f1a6": {
+      "b7c7": {
+        "a6b5": {
+          "g8e7": {
+            "d1d6": {
+              "c7d6": {
+                "c5d6": {
+                  "c8d7": {
+                    "e5d7": {
+                      "e8d7": {
+                        "d6e7": {
+                          "a7a6": "win"
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 327,
+  "enabled": true
+}

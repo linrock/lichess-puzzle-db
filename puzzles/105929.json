@@ -1,0 +1,28 @@
+{
+  "id": 105929,
+  "rating": 2121,
+  "attempts": 4735,
+  "fen": "r3n2r/2p2k2/pp1p1p1p/3Pp2N/1PP4Q/P2b4/7K/5R2 b - - 7 33",
+  "color": "white",
+  "initialPly": 66,
+  "gameId": "CRBYamJm",
+  "lines": {
+    "f1g1": {
+      "h8g8": {
+        "g1g8": {
+          "f7g8": {
+            "h4g3": {
+              "g8f7": {
+                "g3d3": {
+                  "f7g6": "win"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 54,
+  "enabled": true
+}

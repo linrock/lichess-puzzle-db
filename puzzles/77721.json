@@ -1,0 +1,24 @@
+{
+  "id": 77721,
+  "rating": 1834,
+  "attempts": 20781,
+  "fen": "rnb1kb1r/1pp1qppp/p7/3n4/2BQ4/2P2N2/PP3PPP/RNBK3R b kq - 3 8",
+  "color": "white",
+  "initialPly": 16,
+  "gameId": "Ndlbr4su",
+  "lines": {
+    "d4d5": {
+      "c8e6": {
+        "d5e4": {
+          "e6c4": {
+            "e4c4": {
+              "e8c8": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 240,
+  "enabled": true
+}

@@ -1,0 +1,28 @@
+{
+  "id": 83409,
+  "rating": 2069,
+  "attempts": 11435,
+  "fen": "r4rk1/2p2ppp/1p6/pP6/P1qPQ3/4P2P/1K1B4/7R b - - 2 27",
+  "color": "white",
+  "initialPly": 54,
+  "gameId": "dWPW718K",
+  "lines": {
+    "e4c6": {
+      "a8e8": {
+        "h1a1": {
+          "e8e6": {
+            "a1a4": {
+              "e6c6": {
+                "b5c6": {
+                  "f7f5": "win"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 295,
+  "enabled": true
+}

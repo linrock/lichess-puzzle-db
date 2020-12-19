@@ -1,0 +1,24 @@
+{
+  "id": 80505,
+  "rating": 1967,
+  "attempts": 13500,
+  "fen": "5r2/1p5k/1p2q2p/2pp1np1/5Q2/P1NP3P/1PP3PK/5R2 w - - 0 30",
+  "color": "black",
+  "initialPly": 59,
+  "gameId": "Nqb80imk",
+  "lines": {
+    "e6d6": {
+      "h2g1": {
+        "f5e3": {
+          "g4d7": {
+            "d6d7": {
+              "f1f8": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 281,
+  "enabled": true
+}

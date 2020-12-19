@@ -1,0 +1,24 @@
+{
+  "id": 114959,
+  "rating": 2171,
+  "attempts": 5978,
+  "fen": "3r2k1/p4ppp/q1p3b1/6N1/1P6/PQRn2P1/5PBP/4rRK1 w - - 9 29",
+  "color": "black",
+  "initialPly": 57,
+  "gameId": "rOTAbCRX",
+  "lines": {
+    "e1f1": {
+      "g1f1": {
+        "a6b5": {
+          "f1g1": {
+            "b5g5": {
+              "b3c3": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 104,
+  "enabled": true
+}

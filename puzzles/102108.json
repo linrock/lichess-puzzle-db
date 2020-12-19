@@ -1,0 +1,24 @@
+{
+  "id": 102108,
+  "rating": 1302,
+  "attempts": 5098,
+  "fen": "6k1/1R1brp2/6p1/pp6/4B3/P4P2/1P4KP/8 w - - 3 35",
+  "color": "black",
+  "initialPly": 69,
+  "gameId": "xGsBK23B",
+  "lines": {
+    "e7e2": {
+      "g2f1": {
+        "d7c6": {
+          "b7b8": {
+            "e2e8": {
+              "b8b6": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 134,
+  "enabled": true
+}

@@ -1,0 +1,28 @@
+{
+  "id": 93173,
+  "rating": 1763,
+  "attempts": 12844,
+  "fen": "8/4B3/3P3p/1p6/p3n1P1/P1k2p2/8/4K3 b - - 0 44",
+  "color": "white",
+  "initialPly": 88,
+  "gameId": "RaLmbFUr",
+  "lines": {
+    "d6d7": {
+      "f3f2": {
+        "e1f1": {
+          "d3e3": {
+            "e7c5": {
+              "e4c5": {
+                "d7d8q": {
+                  "c5e4": "win"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 343,
+  "enabled": true
+}

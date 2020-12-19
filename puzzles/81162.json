@@ -1,0 +1,24 @@
+{
+  "id": 81162,
+  "rating": 2186,
+  "attempts": 9833,
+  "fen": "5rk1/5r1p/2nb2p1/3q4/2p3RN/2BpQ1P1/PP3P1P/R5K1 b - - 1 23",
+  "color": "white",
+  "initialPly": 46,
+  "gameId": "OqodeBsM",
+  "lines": {
+    "g4d4": {
+      "d5e6": {
+        "d4d6": {
+          "e6d6": {
+            "c3e5": {
+              "d6d5": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 58,
+  "enabled": true
+}

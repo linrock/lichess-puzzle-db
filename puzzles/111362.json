@@ -1,0 +1,28 @@
+{
+  "id": 111362,
+  "rating": 1605,
+  "attempts": 72337,
+  "fen": "2r1r2k/1p3p1p/5p2/p2Pnp2/3N1q2/P6P/1P3PP1/R2QR1K1 w - - 4 23",
+  "color": "black",
+  "initialPly": 45,
+  "gameId": "xihnegvC",
+  "lines": {
+    "f4d4": {
+      "d1d4": {
+        "e5f3": {
+          "g1g2": {
+            "f3d4": {
+              "e1e8": {
+                "c8e8": {
+                  "a1d1": "win"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 212,
+  "enabled": true
+}

@@ -1,0 +1,24 @@
+{
+  "id": 101124,
+  "rating": 1608,
+  "attempts": 27773,
+  "fen": "8/1p6/p1b1kp1p/3n2p1/PP6/1B3PPP/1B3K2/8 b - - 0 34",
+  "color": "white",
+  "initialPly": 68,
+  "gameId": "DuSme2XQ",
+  "lines": {
+    "b4b5": {
+      "a6b5": {
+        "a4b5": {
+          "c6b5": {
+            "b3d5": {
+              "f5g6": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 265,
+  "enabled": true
+}

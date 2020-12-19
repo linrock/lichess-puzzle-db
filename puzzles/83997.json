@@ -1,0 +1,24 @@
+{
+  "id": 83997,
+  "rating": 2805,
+  "attempts": 382,
+  "fen": "7Q/p1qkbp2/4p1b1/2pp4/6P1/1R6/PPP2P2/6K1 b - - 0 41",
+  "color": "white",
+  "initialPly": 82,
+  "gameId": "ZEN9OflQ",
+  "lines": {
+    "h8a8": {
+      "d7d6": {
+        "a8g8": {
+          "f5g4": {
+            "g8g6": {
+              "e7d8": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 10,
+  "enabled": true
+}

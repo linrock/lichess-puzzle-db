@@ -1,0 +1,20 @@
+{
+  "id": 86615,
+  "rating": 1681,
+  "attempts": 15342,
+  "fen": "1qr2rk1/pb2bpp1/1p2p2p/1N1n4/3P4/P2BB3/1P2QPPP/2R2RK1 w - - 11 20",
+  "color": "black",
+  "initialPly": 39,
+  "gameId": "DvBocKmO",
+  "lines": {
+    "g7h6": {
+      "e2e4": {
+        "d5f6": {
+          "e4e5": "win"
+        }
+      }
+    }
+  },
+  "vote": 250,
+  "enabled": true
+}

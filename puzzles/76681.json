@@ -1,0 +1,28 @@
+{
+  "id": 76681,
+  "rating": 1666,
+  "attempts": 26846,
+  "fen": "5b2/p7/3Pb1kp/2p5/1r2N1p1/4B1P1/P1RK1P2/8 w - - 1 36",
+  "color": "black",
+  "initialPly": 71,
+  "gameId": "DLmiWfha",
+  "lines": {
+    "b4e4": {
+      "d6d7": {
+        "f8c5": {
+          "d7d8q": {
+            "e4d4": {
+              "d8d4": {
+                "c5d4": {
+                  "d2e2": "win"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 580,
+  "enabled": true
+}

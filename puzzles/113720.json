@@ -1,0 +1,28 @@
+{
+  "id": 113720,
+  "rating": 2248,
+  "attempts": 4587,
+  "fen": "8/R3n3/1pB1k3/1P2P1K1/2P5/8/7r/8 b - - 0 52",
+  "color": "white",
+  "initialPly": 104,
+  "gameId": "aMKM52AR",
+  "lines": {
+    "c6d7": {
+      "e6e5": {
+        "d7g4": {
+          "e7g8": {
+            "a7g7": {
+              "c2c4": {
+                "g7g8": {
+                  "c4b4": "win"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 66,
+  "enabled": true
+}

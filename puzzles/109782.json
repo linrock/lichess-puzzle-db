@@ -1,0 +1,28 @@
+{
+  "id": 109782,
+  "rating": 2478,
+  "attempts": 844,
+  "fen": "3rq1k1/4b1Bp/4Ppp1/2ppnN2/1p5P/6Q1/2P2PP1/3R2K1 w - - 5 29",
+  "color": "black",
+  "initialPly": 57,
+  "gameId": "wmv58xzm",
+  "lines": {
+    "g6f5": {
+      "f4e5": {
+        "f5f4": {
+          "g3f4": {
+            "g8g7": {
+              "d1f1": {
+                "f6f5": {
+                  "g2g4": "win"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 3,
+  "enabled": true
+}

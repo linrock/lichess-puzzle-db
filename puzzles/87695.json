@@ -1,0 +1,20 @@
+{
+  "id": 87695,
+  "rating": 685,
+  "attempts": 153,
+  "fen": "4r1k1/R5p1/2p4p/2p2n2/3p4/1P1P3P/P1P3P1/2B3K1 w - - 3 28",
+  "color": "black",
+  "initialPly": 55,
+  "gameId": "1DGTvKox",
+  "lines": {
+    "e8e1": {
+      "g1f2": {
+        "e1c1": {
+          "f2f3": "win"
+        }
+      }
+    }
+  },
+  "vote": 7,
+  "enabled": true
+}

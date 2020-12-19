@@ -1,0 +1,36 @@
+{
+  "id": 108698,
+  "rating": 1795,
+  "attempts": 6916,
+  "fen": "8/p3N3/2p1K3/2P3pk/7r/8/7p/7R w - - 4 58",
+  "color": "black",
+  "initialPly": 115,
+  "gameId": "nfvIA43u",
+  "lines": {
+    "g5g4": {
+      "c6e5": {
+        "g4g3": {
+          "c5c6": {
+            "g3g2": {
+              "h1h2": {
+                "h4h2": {
+                  "c6c7": {
+                    "g2g1q": {
+                      "c7c8q": {
+                        "g1b6": {
+                          "c8c6": "win"
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 71,
+  "enabled": true
+}

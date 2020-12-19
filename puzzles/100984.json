@@ -1,0 +1,24 @@
+{
+  "id": 100984,
+  "rating": 1992,
+  "attempts": 10295,
+  "fen": "r4r1k/pp4p1/2p1Bn1p/4P3/3q4/2N2QP1/PPb3KP/4RR2 b - - 2 22",
+  "color": "white",
+  "initialPly": 44,
+  "gameId": "INLdAzgr",
+  "lines": {
+    "f3f8": {
+      "a8f8": {
+        "f1f8": {
+          "h8h7": {
+            "e6g8": {
+              "h7g6": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": -434,
+  "enabled": true
+}

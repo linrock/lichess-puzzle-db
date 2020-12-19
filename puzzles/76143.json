@@ -1,0 +1,28 @@
+{
+  "id": 76143,
+  "rating": 1321,
+  "attempts": 15735,
+  "fen": "r2qk2r/4b1pp/2n3b1/1NPn4/PPQ1p1P1/3pP2P/3B2B1/R3K1NR b KQkq - 2 18",
+  "color": "white",
+  "initialPly": 36,
+  "gameId": "ZQL9GBRU",
+  "lines": {
+    "c4d5": {
+      "e7h4": {
+        "e1d1": {
+          "d8d5": {
+            "b5c7": {
+              "e8d7": {
+                "c7d5": {
+                  "e5c4": "win"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 207,
+  "enabled": true
+}

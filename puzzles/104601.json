@@ -1,0 +1,24 @@
+{
+  "id": 104601,
+  "rating": 1034,
+  "attempts": 734,
+  "fen": "2r3k1/R4p1p/6p1/1P6/P7/2p2P2/1r4PP/2R3K1 w - - 0 28",
+  "color": "black",
+  "initialPly": 55,
+  "gameId": "DRsLpJa6",
+  "lines": {
+    "c3c2": {
+      "g1f2": {
+        "b2b1": {
+          "c1c2": {
+            "c8c2": {
+              "f2g3": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 23,
+  "enabled": true
+}

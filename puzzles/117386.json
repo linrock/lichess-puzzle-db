@@ -1,0 +1,28 @@
+{
+  "id": 117386,
+  "rating": 1648,
+  "attempts": 9529,
+  "fen": "r2qr1k1/1p2bppp/2bppn2/1N6/4P3/P1N1BP2/1P4PP/2RQR1K1 w - - 1 19",
+  "color": "black",
+  "initialPly": 37,
+  "gameId": "UFC3PpEp",
+  "lines": {
+    "c6b5": {
+      "c3b5": {
+        "d8b6": {
+          "b5d4": {
+            "e6e5": {
+              "g5e3": {
+                "e5d4": {
+                  "e3d4": "win"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 199,
+  "enabled": true
+}

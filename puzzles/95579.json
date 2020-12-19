@@ -1,0 +1,20 @@
+{
+  "id": 95579,
+  "rating": 1149,
+  "attempts": 2632,
+  "fen": "r3kb2/1p1b1p2/1q2pQ2/p2pn1p1/P2P4/2PB4/1P4Pr/R1B2RK1 w q - 0 17",
+  "color": "black",
+  "initialPly": 33,
+  "gameId": "LncCA4ab",
+  "lines": {
+    "e5g4": {
+      "h2g1": {
+        "g4f6": {
+          "f1f6": "win"
+        }
+      }
+    }
+  },
+  "vote": 70,
+  "enabled": true
+}

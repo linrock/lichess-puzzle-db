@@ -1,0 +1,24 @@
+{
+  "id": 122450,
+  "rating": 1780,
+  "attempts": 10912,
+  "fen": "2kr3r/ppp2ppp/2n3q1/3b4/Q7/5N2/PPP2PPP/RN2R1K1 w - - 3 15",
+  "color": "black",
+  "initialPly": 29,
+  "gameId": "Ze802wWI",
+  "lines": {
+    "c6d4": {
+      "a4d4": {
+        "d5f3": {
+          "d2f3": {
+            "d8d4": {
+              "f3d4": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 216,
+  "enabled": true
+}

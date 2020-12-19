@@ -1,0 +1,24 @@
+{
+  "id": 93358,
+  "rating": 2197,
+  "attempts": 5397,
+  "fen": "3r4/8/7r/2qk1p2/Q2pp3/8/P1P2PP1/R2R2K1 w - - 7 35",
+  "color": "black",
+  "initialPly": 69,
+  "gameId": "SASddzdD",
+  "lines": {
+    "d4d3": {
+      "a1b1": {
+        "d8h8": {
+          "d1d3": {
+            "e4d3": {
+              "a4d7": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 79,
+  "enabled": true
+}

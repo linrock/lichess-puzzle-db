@@ -1,0 +1,24 @@
+{
+  "id": 116285,
+  "rating": 2161,
+  "attempts": 5274,
+  "fen": "2r1kb1r/1p2nppp/p1n1p3/3pP3/3P1P1N/3QB3/q1N3PP/1R3RK1 w k - 0 16",
+  "color": "black",
+  "initialPly": 31,
+  "gameId": "DzWmLtUT",
+  "lines": {
+    "c6d8": {
+      "f1a1": {
+        "a2c2": {
+          "d3c2": {
+            "c8c2": {
+              "b7b1": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 105,
+  "enabled": true
+}

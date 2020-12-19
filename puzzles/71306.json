@@ -1,0 +1,24 @@
+{
+  "id": 71306,
+  "rating": 2025,
+  "attempts": 84832,
+  "fen": "3r4/p2rn3/2p5/N2nk1pp/1PB1p3/P3P1PP/3R4/3R2K1 w - - 1 33",
+  "color": "black",
+  "initialPly": 65,
+  "gameId": "FTaiahoD",
+  "lines": {
+    "d5c3": {
+      "d2d7": {
+        "c3d1": {
+          "d7d1": {
+            "d8d1": {
+              "c4e2": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 569,
+  "enabled": true
+}

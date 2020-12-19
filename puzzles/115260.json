@@ -1,0 +1,28 @@
+{
+  "id": 115260,
+  "rating": 1824,
+  "attempts": 10531,
+  "fen": "8/N7/5k2/P3p1np/3pP1p1/3P2P1/8/5K2 b - - 0 41",
+  "color": "white",
+  "initialPly": 82,
+  "gameId": "BIClfEtE",
+  "lines": {
+    "a7b5": {
+      "e6c5": {
+        "b5c7": {
+          "f6e7": {
+            "a5a6": {
+              "c5a6": {
+                "c7a6": {
+                  "e7e6": "win"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 239,
+  "enabled": true
+}

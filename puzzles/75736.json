@@ -1,0 +1,24 @@
+{
+  "id": 75736,
+  "rating": 1809,
+  "attempts": 21805,
+  "fen": "2kr3r/ppp2ppp/2n1qn2/2B5/3PP3/2P2B2/PP2Q2R/R3K3 b Q - 0 16",
+  "color": "white",
+  "initialPly": 32,
+  "gameId": "gKoTroIw",
+  "lines": {
+    "e2e4": {
+      "e6e4": {
+        "f3e4": {
+          "d8e8": {
+            "h2e2": {
+              "c8d7": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 200,
+  "enabled": true
+}

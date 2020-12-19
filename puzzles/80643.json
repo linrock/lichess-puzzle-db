@@ -1,0 +1,24 @@
+{
+  "id": 80643,
+  "rating": 1267,
+  "attempts": 8262,
+  "fen": "rq3rk1/p2bbppp/2p1p3/3p3Q/3B1P2/3B4/PP4PP/2R2RK1 b - - 3 19",
+  "color": "white",
+  "initialPly": 38,
+  "gameId": "marOFG5p",
+  "lines": {
+    "h5h6": {
+      "e6e5": {
+        "d4e5": {
+          "b8e5": {
+            "f4e5": {
+              "a8b8": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 166,
+  "enabled": true
+}

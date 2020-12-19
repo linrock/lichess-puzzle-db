@@ -1,0 +1,24 @@
+{
+  "id": 99658,
+  "rating": 844,
+  "attempts": 313,
+  "fen": "8/3r4/5kp1/p1P2p1p/1bB1pP1P/2n1B1P1/5P2/2R3K1 b - - 0 53",
+  "color": "white",
+  "initialPly": 106,
+  "gameId": "NE55uv44",
+  "lines": {
+    "e3d4": {
+      "f6e7": {
+        "d4c3": {
+          "b4c3": {
+            "c1c3": {
+              "c7c5": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": -4,
+  "enabled": true
+}

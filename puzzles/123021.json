@@ -1,0 +1,20 @@
+{
+  "id": 123021,
+  "rating": 1110,
+  "attempts": 2305,
+  "fen": "4r1k1/1b4bp/6p1/1Pq5/4p3/2BQ4/2P1R1PP/4R2K w - - 0 34",
+  "color": "black",
+  "initialPly": 67,
+  "gameId": "lnkIn8co",
+  "lines": {
+    "e4d3": {
+      "e2e8": {
+        "g8g7": {
+          "c2d3": "win"
+        }
+      }
+    }
+  },
+  "vote": 27,
+  "enabled": true
+}

@@ -1,0 +1,24 @@
+{
+  "id": 69388,
+  "rating": 1302,
+  "attempts": 29205,
+  "fen": "4r1k1/ppp2pp1/2n4p/8/3P4/1QP2N2/PP2q1PP/5RK1 b - - 5 19",
+  "color": "white",
+  "initialPly": 38,
+  "gameId": "j21QUOBO",
+  "lines": {
+    "f1e1": {
+      "e2e1": {
+        "f3e1": {
+          "e8e1": {
+            "g1f2": {
+              "e1e6": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 389,
+  "enabled": true
+}

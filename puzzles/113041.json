@@ -1,0 +1,24 @@
+{
+  "id": 113041,
+  "rating": 1120,
+  "attempts": 3042,
+  "fen": "2rqr1k1/pb3p2/1p5p/3p2p1/3Q4/2PR2P1/P4PBP/5RK1 b - - 4 24",
+  "color": "white",
+  "initialPly": 48,
+  "gameId": "CJUPajNa",
+  "lines": {
+    "d4c4": {
+      "d5c4": {
+        "d3d8": {
+          "e8d8": {
+            "g2b7": {
+              "d8d2": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 62,
+  "enabled": true
+}

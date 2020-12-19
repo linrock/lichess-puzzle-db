@@ -1,0 +1,24 @@
+{
+  "id": 102157,
+  "rating": 1520,
+  "attempts": 8251,
+  "fen": "1r4k1/p2r1p2/5Bbp/8/6PP/P2p1B2/1n3P2/1R3RK1 b - - 1 24",
+  "color": "white",
+  "initialPly": 48,
+  "gameId": "luGuLBUE",
+  "lines": {
+    "b1b2": {
+      "b8b2": {
+        "f6b2": {
+          "g6c2": {
+            "f3d1": {
+              "c2d3": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 216,
+  "enabled": true
+}

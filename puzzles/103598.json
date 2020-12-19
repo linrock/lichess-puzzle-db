@@ -1,0 +1,24 @@
+{
+  "id": 103598,
+  "rating": 1292,
+  "attempts": 5092,
+  "fen": "rnbqk2r/ppp1bppp/8/3n4/2B2p2/5N2/PPPPQ1PP/RNB2RK1 b kq - 3 7",
+  "color": "white",
+  "initialPly": 14,
+  "gameId": "AA2lMohs",
+  "lines": {
+    "c4d5": {
+      "e7c5": {
+        "d2d4": {
+          "d8d5": {
+            "d4c5": {
+              "d5c5": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 92,
+  "enabled": true
+}

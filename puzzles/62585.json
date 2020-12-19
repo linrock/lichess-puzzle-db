@@ -1,0 +1,24 @@
+{
+  "id": 62585,
+  "rating": 1558,
+  "attempts": 139511,
+  "fen": "r1b2rk1/p5pp/2pbp3/8/3P3q/3B2N1/PP3PP1/R2Q1RK1 w - - 2 19",
+  "color": "black",
+  "initialPly": 37,
+  "gameId": "LENvBfGb",
+  "lines": {
+    "d6g3": {
+      "d3h7": {
+        "g8h8": {
+          "h7g6": {
+            "h4h5": {
+              "g6h5": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": -3689,
+  "enabled": true
+}

@@ -1,0 +1,24 @@
+{
+  "id": 78335,
+  "rating": 1133,
+  "attempts": 51414,
+  "fen": "2r5/p4k1p/1p2p3/3pP1B1/3P4/2Pb1p2/P5PP/2R3K1 w - - 0 33",
+  "color": "black",
+  "initialPly": 65,
+  "gameId": "GoL81riP",
+  "lines": {
+    "c8g8": {
+      "h2h4": {
+        "h7h6": {
+          "g1f2": {
+            "h6g5": {
+              "h4g5": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 118,
+  "enabled": true
+}

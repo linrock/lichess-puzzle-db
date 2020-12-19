@@ -1,0 +1,20 @@
+{
+  "id": 86999,
+  "rating": 798,
+  "attempts": 254,
+  "fen": "4r1k1/3b2pp/2p5/3p1pq1/3PnN1r/3BPQ1P/5PP1/R1R2K2 w - - 4 28",
+  "color": "black",
+  "initialPly": 55,
+  "gameId": "jvASlena",
+  "lines": {
+    "e4d2": {
+      "f1e2": {
+        "d2f3": {
+          "e2f3": "win"
+        }
+      }
+    }
+  },
+  "vote": 14,
+  "enabled": true
+}

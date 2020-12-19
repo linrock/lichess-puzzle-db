@@ -1,0 +1,20 @@
+{
+  "id": 63578,
+  "rating": 1523,
+  "attempts": 115274,
+  "fen": "r2q1rk1/pp1n2pp/2n1pb2/3p4/3P2P1/P3Q2P/1P2NPB1/R1B1K2R b KQ - 1 15",
+  "color": "white",
+  "initialPly": 30,
+  "gameId": "GTctA4Rd",
+  "lines": {
+    "g4g5": {
+      "f6g5": {
+        "e3g5": {
+          "f8f6": "win"
+        }
+      }
+    }
+  },
+  "vote": 1232,
+  "enabled": true
+}

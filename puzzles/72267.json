@@ -1,0 +1,24 @@
+{
+  "id": 72267,
+  "rating": 732,
+  "attempts": 367,
+  "fen": "r3r2k/ppp2Bpp/1b1n4/4Nb2/3P4/1KP4P/PP3qP1/RN1Q3R b - - 4 18",
+  "color": "white",
+  "initialPly": 36,
+  "gameId": "ONVxpDAS",
+  "lines": {
+    "d1c2": {
+      "f2c2": {
+        "b3c2": {
+          "e8e5": {
+            "d4e5": {
+              "d6f7": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": -11,
+  "enabled": true
+}

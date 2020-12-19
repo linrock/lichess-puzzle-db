@@ -1,0 +1,28 @@
+{
+  "id": 61142,
+  "rating": 2499,
+  "attempts": 312256,
+  "fen": "5r2/pkpr2p1/2b2n1p/4p3/1PB1P3/P4PP1/3BNb1P/2KR3R b - - 0 22",
+  "color": "white",
+  "initialPly": 44,
+  "gameId": "sCKOEcCm",
+  "lines": {
+    "b4b5": {
+      "c6e4": {
+        "f3e4": {
+          "d7d2": {
+            "d1d2": {
+              "f2e3": {
+                "c4d5": {
+                  "b7b6": "win"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 3845,
+  "enabled": true
+}

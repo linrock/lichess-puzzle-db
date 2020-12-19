@@ -1,0 +1,24 @@
+{
+  "id": 84217,
+  "rating": 2000,
+  "attempts": 11688,
+  "fen": "r2qk2r/1pp1n3/p4p2/3Ppb2/5N1p/2P1Q3/P1P1BPP1/R3K2R w KQkq - 1 20",
+  "color": "black",
+  "initialPly": 39,
+  "gameId": "vKdv42We",
+  "lines": {
+    "e8f8": {
+      "f4e6": {
+        "f5e6": {
+          "d5e6": {
+            "h8h5": {
+              "e3f3": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 151,
+  "enabled": true
+}

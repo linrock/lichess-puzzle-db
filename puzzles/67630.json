@@ -1,0 +1,24 @@
+{
+  "id": 67630,
+  "rating": 2287,
+  "attempts": 23040,
+  "fen": "8/5qkp/6p1/PQ3p2/1p2p3/4b1PP/1R5K/1Nr2B2 b - - 3 40",
+  "color": "white",
+  "initialPly": 80,
+  "gameId": "GmB20Tyo",
+  "lines": {
+    "b5e5": {
+      "g7h6": {
+        "b2b1": {
+          "f7a2": {
+            "e5b2": {
+              "a2a5": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 299,
+  "enabled": true
+}

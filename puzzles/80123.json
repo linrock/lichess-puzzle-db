@@ -1,0 +1,20 @@
+{
+  "id": 80123,
+  "rating": 945,
+  "attempts": 1323,
+  "fen": "r2q1rk1/pp2bppp/2nppnb1/8/1PPP4/P1NB2N1/5PPP/R1BQ1RK1 b - - 0 11",
+  "color": "white",
+  "initialPly": 22,
+  "gameId": "19AIMezC",
+  "lines": {
+    "d3g6": {
+      "h7g6": {
+        "d1d4": {
+          "a8c8": "win"
+        }
+      }
+    }
+  },
+  "vote": 30,
+  "enabled": true
+}

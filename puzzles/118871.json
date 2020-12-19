@@ -1,0 +1,24 @@
+{
+  "id": 118871,
+  "rating": 1738,
+  "attempts": 9107,
+  "fen": "3r4/p3R2p/1p1Nn1k1/4B1p1/3p2P1/3n1P2/PP3K1P/8 w - - 5 31",
+  "color": "black",
+  "initialPly": 61,
+  "gameId": "Opr27Kme",
+  "lines": {
+    "e6f4": {
+      "e5f4": {
+        "d3f4": {
+          "e2d1": {
+            "d8d6": {
+              "e7a7": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 132,
+  "enabled": true
+}

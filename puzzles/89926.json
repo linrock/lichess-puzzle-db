@@ -1,0 +1,24 @@
+{
+  "id": 89926,
+  "rating": 2136,
+  "attempts": 7836,
+  "fen": "6k1/7p/3R2p1/2pN1p2/P1P3nP/1P3KP1/2r5/8 w - - 6 39",
+  "color": "black",
+  "initialPly": 77,
+  "gameId": "retYoTNd",
+  "lines": {
+    "g8g7": {
+      "d6d7": {
+        "g7h6": {
+          "d7h7": {
+            "h6h7": {
+              "f4g5": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 241,
+  "enabled": true
+}

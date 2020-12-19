@@ -1,0 +1,24 @@
+{
+  "id": 106750,
+  "rating": 1634,
+  "attempts": 7623,
+  "fen": "8/8/p7/7P/2k5/2pp4/P1R2K2/8 w - - 0 42",
+  "color": "black",
+  "initialPly": 83,
+  "gameId": "AZoNhctW",
+  "lines": {
+    "d3d2": {
+      "c1d1": {
+        "c3c2": {
+          "f2e2": {
+            "c2c1q": {
+              "h5h6": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 152,
+  "enabled": true
+}

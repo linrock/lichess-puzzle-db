@@ -1,0 +1,24 @@
+{
+  "id": 85652,
+  "rating": 1348,
+  "attempts": 3890,
+  "fen": "5rk1/R4pb1/4p1pp/3nq3/1p1N2P1/3P3P/1PP2Q2/R5K1 w - - 2 29",
+  "color": "black",
+  "initialPly": 57,
+  "gameId": "Nnhaz7ob",
+  "lines": {
+    "e5d4": {
+      "a8f8": {
+        "g8f8": {
+          "f2d4": {
+            "g7d4": {
+              "g1f1": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 78,
+  "enabled": true
+}

@@ -1,0 +1,28 @@
+{
+  "id": 122972,
+  "rating": 1552,
+  "attempts": 8051,
+  "fen": "7k/6p1/pR1b4/1p1B3p/3K1P2/1P4P1/1r6/8 b - - 1 34",
+  "color": "white",
+  "initialPly": 68,
+  "gameId": "PDxtMmkV",
+  "lines": {
+    "b6b8": {
+      "h8h7": {
+        "d5e4": {
+          "g7g6": {
+            "b8b7": {
+              "h7h6": {
+                "b7e7": {
+                  "b2b3": "win"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 148,
+  "enabled": true
+}

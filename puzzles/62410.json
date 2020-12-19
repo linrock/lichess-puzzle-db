@@ -1,0 +1,24 @@
+{
+  "id": 62410,
+  "rating": 2652,
+  "attempts": 102928,
+  "fen": "2r2bk1/pq3ppp/1p1pn3/8/4N1Q1/1P4P1/PB3P1P/4R1K1 b - - 7 22",
+  "color": "white",
+  "initialPly": 44,
+  "gameId": "luameLSd",
+  "lines": {
+    "e4f6": {
+      "g8h8": {
+        "g4f5": {
+          "e7f6": {
+            "b2f6": {
+              "c8c5": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 1413,
+  "enabled": true
+}

@@ -1,0 +1,24 @@
+{
+  "id": 102277,
+  "rating": 2156,
+  "attempts": 3752,
+  "fen": "6k1/3nrpp1/7p/pp1BPP1q/2rB4/P1PQ3P/8/4R1K1 b - - 4 29",
+  "color": "white",
+  "initialPly": 58,
+  "gameId": "shfiZId5",
+  "lines": {
+    "d3g3": {
+      "h5f5": {
+        "d5c4": {
+          "b5c4": {
+            "d4c5": {
+              "e7e6": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 34,
+  "enabled": true
+}

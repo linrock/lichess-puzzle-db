@@ -1,0 +1,24 @@
+{
+  "id": 122019,
+  "rating": 1974,
+  "attempts": 6840,
+  "fen": "1k1r3r/p2nqpb1/P1p2npp/1p2p3/NPB1P3/4BQ2/2P2PPP/RR4K1 w - - 0 17",
+  "color": "black",
+  "initialPly": 33,
+  "gameId": "SoXixRGv",
+  "lines": {
+    "b8a7": {
+      "f3e3": {
+        "a7a8": {
+          "a4b6": {
+            "d7b6": {
+              "e3b6": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 66,
+  "enabled": true
+}

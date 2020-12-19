@@ -1,0 +1,32 @@
+{
+  "id": 105779,
+  "rating": 2467,
+  "attempts": 2022,
+  "fen": "5rk1/5ppp/1q6/3PQ3/4n3/6P1/P6P/R2R2K1 w - - 2 33",
+  "color": "black",
+  "initialPly": 65,
+  "gameId": "ObjtidmS",
+  "lines": {
+    "b6f2": {
+      "g2h3": {
+        "f2e3": {
+          "e5f4": {
+            "e4f2": {
+              "h3g2": {
+                "f2d1": {
+                  "f4e3": {
+                    "d1e3": {
+                      "g2f3": "win"
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 31,
+  "enabled": true
+}

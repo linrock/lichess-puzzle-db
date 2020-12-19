@@ -1,0 +1,28 @@
+{
+  "id": 102351,
+  "rating": 2203,
+  "attempts": 3870,
+  "fen": "8/p6N/2k3p1/1p2p1P1/1P2Pp1P/1K2nP2/8/8 b - - 2 54",
+  "color": "white",
+  "initialPly": 108,
+  "gameId": "NMWtiafG",
+  "lines": {
+    "h4h5": {
+      "g2h4": {
+        "h7f8": {
+          "g6h5": {
+            "g5g6": {
+              "h4g6": {
+                "f8g6": {
+                  "c6b6": "win"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 87,
+  "enabled": true
+}

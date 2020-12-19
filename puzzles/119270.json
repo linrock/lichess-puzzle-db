@@ -1,0 +1,24 @@
+{
+  "id": 119270,
+  "rating": 1596,
+  "attempts": 7946,
+  "fen": "r2qr1k1/pp3p1p/2pp2p1/6B1/5Q2/1BP2n2/PPP2P1P/2KR3R b - - 0 17",
+  "color": "white",
+  "initialPly": 34,
+  "gameId": "ZhiNYGyA",
+  "lines": {
+    "b3f7": {
+      "g8f8": {
+        "f4g5": {
+          "f3g5": {
+            "f7e8": {
+              "a8e8": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 166,
+  "enabled": true
+}

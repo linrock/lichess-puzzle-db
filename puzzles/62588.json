@@ -1,0 +1,24 @@
+{
+  "id": 62588,
+  "rating": 1999,
+  "attempts": 156914,
+  "fen": "4r2k/1p1n1p1p/p1p2q2/2Pp4/1P1PrNP1/3Q1pP1/P1R2P2/5RK1 w - - 2 31",
+  "color": "black",
+  "initialPly": 61,
+  "gameId": "TUhgLBNv",
+  "lines": {
+    "e4f4": {
+      "g3f4": {
+        "f6f4": {
+          "d3f5": {
+            "f4d2": {
+              "f5f7": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 1956,
+  "enabled": true
+}

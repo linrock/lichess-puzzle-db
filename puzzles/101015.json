@@ -1,0 +1,24 @@
+{
+  "id": 101015,
+  "rating": 1241,
+  "attempts": 5058,
+  "fen": "8/1R6/PN3k2/2b3pp/4r1p1/5pP1/7P/5K2 b - - 0 40",
+  "color": "white",
+  "initialPly": 80,
+  "gameId": "HenZTiyv",
+  "lines": {
+    "b6d7": {
+      "f6f5": {
+        "d7c5": {
+          "e4e1": {
+            "f1f2": {
+              "e1a1": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 120,
+  "enabled": true
+}

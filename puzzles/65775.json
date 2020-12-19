@@ -1,0 +1,24 @@
+{
+  "id": 65775,
+  "rating": 2273,
+  "attempts": 29483,
+  "fen": "5r2/pp2qp1k/2p2R1p/6n1/1PB5/P3r2P/3Q2P1/5RK1 b - - 2 30",
+  "color": "white",
+  "initialPly": 60,
+  "gameId": "UoPlPkNy",
+  "lines": {
+    "g2h3": {
+      "f8g8": {
+        "g1h2": {
+          "e7e5": {
+            "f1f4": {
+              "g8g7": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 284,
+  "enabled": true
+}

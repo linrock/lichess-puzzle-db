@@ -1,0 +1,28 @@
+{
+  "id": 70837,
+  "rating": 1430,
+  "attempts": 24847,
+  "fen": "r3k2r/5p2/p7/1ppRn1q1/P1p1Q3/6P1/1P5P/5R1K b kq - 1 28",
+  "color": "white",
+  "initialPly": 56,
+  "gameId": "HSSOnRXg",
+  "lines": {
+    "d5e5": {
+      "g5e5": {
+        "e4a8": {
+          "e8f7": {
+            "a8h8": {
+              "e5e4": {
+                "h1g1": {
+                  "e4e3": "win"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 491,
+  "enabled": true
+}

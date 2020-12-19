@@ -1,0 +1,24 @@
+{
+  "id": 61706,
+  "rating": 2127,
+  "attempts": 237158,
+  "fen": "2r2k1r/pp2bpN1/1q1p1R2/4p1Q1/7p/P6P/1P4PK/R1B5 b - - 0 22",
+  "color": "white",
+  "initialPly": 44,
+  "gameId": "lbJAVaON",
+  "lines": {
+    "g5f6": {
+      "d6d5": {
+        "g7e6": {
+          "b6e6": {
+            "f6h8": {
+              "f8e7": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 4027,
+  "enabled": true
+}

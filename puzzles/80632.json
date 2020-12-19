@@ -1,0 +1,24 @@
+{
+  "id": 80632,
+  "rating": 1374,
+  "attempts": 10289,
+  "fen": "r6r/ppp3pk/7p/2pQ4/3nPB2/P2q4/1P3PPP/1R3RK1 w - - 6 21",
+  "color": "black",
+  "initialPly": 41,
+  "gameId": "XoWEBmOh",
+  "lines": {
+    "d4e2": {
+      "g1h1": {
+        "d3d5": {
+          "d1d5": {
+            "e2f4": {
+              "d5c5": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 256,
+  "enabled": true
+}

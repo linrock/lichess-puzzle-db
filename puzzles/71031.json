@@ -1,0 +1,23 @@
+{
+  "id": 71031,
+  "rating": 1175,
+  "attempts": 3459,
+  "fen": "1r2r1k1/3n1pbp/1q1p1np1/2pP4/Q3PP2/2N3N1/1P1B2PP/3R1RK1 b - - 2 20",
+  "color": "white",
+  "initialPly": 40,
+  "gameId": "A3BtTA4l",
+  "lines": {
+    "a4d7": {
+      "g7d4": {
+        "g1h1": {
+          "g4f2": {
+            "f1f2": {
+              "d4f2": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": -85
+}

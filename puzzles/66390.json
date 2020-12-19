@@ -1,0 +1,23 @@
+{
+  "id": 66390,
+  "rating": 2116,
+  "attempts": 23,
+  "fen": "8/P1P2k2/8/2K5/8/7b/1r5p/7R b - - 2 62",
+  "color": "white",
+  "initialPly": 124,
+  "gameId": "sgxxnkMA",
+  "lines": {
+    "c5b4": {
+      "c2a2": {
+        "h1h2": {
+          "a2h2": {
+            "a7a8q": {
+              "h3e6": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": -9000
+}

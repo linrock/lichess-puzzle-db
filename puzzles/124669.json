@@ -1,0 +1,28 @@
+{
+  "id": 124669,
+  "rating": 2901,
+  "attempts": 86,
+  "fen": "r2q1rk1/p2b1pp1/2nbpn2/3pN1P1/1ppP4/2P1PQ2/PPBN3P/R1B2RK1 b - - 0 14",
+  "color": "white",
+  "initialPly": 28,
+  "gameId": "RFX4B5Z8",
+  "lines": {
+    "e5d7": {
+      "d8g5": {
+        "f3g2": {
+          "g5g2": {
+            "g1g2": {
+              "e4d2": {
+                "c1d2": {
+                  "f8d8": "win"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 0,
+  "enabled": true
+}

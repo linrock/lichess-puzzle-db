@@ -1,0 +1,24 @@
+{
+  "id": 68576,
+  "rating": 1390,
+  "attempts": 173013,
+  "fen": "3R1b2/6kp/6p1/4Np2/p2Bn3/7P/P5PK/2r5 b - - 11 44",
+  "color": "white",
+  "initialPly": 88,
+  "gameId": "LvTiFRuz",
+  "lines": {
+    "d8d6": {
+      "e4d6": {
+        "e5d3": {
+          "g7f7": {
+            "d3c1": {
+              "f7e6": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 2087,
+  "enabled": true
+}

@@ -1,0 +1,28 @@
+{
+  "id": 108196,
+  "rating": 2677,
+  "attempts": 347,
+  "fen": "r3r1k1/pp1q1pbp/2p2np1/3p2B1/3P1Q2/2N3Pb/PP2PP1P/3RR1KB b - - 5 18",
+  "color": "white",
+  "initialPly": 36,
+  "gameId": "NKGWyD95",
+  "lines": {
+    "g5f6": {
+      "g7f6": {
+        "g3g4": {
+          "f5c2": {
+            "d1c1": {
+              "c2e4": {
+                "h1e4": {
+                  "d7e7": "win"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": -6,
+  "enabled": true
+}

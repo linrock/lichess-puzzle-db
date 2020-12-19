@@ -1,0 +1,24 @@
+{
+  "id": 94267,
+  "rating": 2239,
+  "attempts": 4321,
+  "fen": "r1b3kr/ppp2p2/3p2p1/3Pn1q1/1PP1PRPn/2N3N1/P3B2P/R4Q1K w - - 5 22",
+  "color": "black",
+  "initialPly": 43,
+  "gameId": "SmAtTcAy",
+  "lines": {
+    "c8g4": {
+      "f4g4": {
+        "e5g4": {
+          "e2g4": {
+            "g5g4": {
+              "b5d4": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": -19,
+  "enabled": true
+}

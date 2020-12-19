@@ -1,0 +1,20 @@
+{
+  "id": 62696,
+  "rating": 1655,
+  "attempts": 148684,
+  "fen": "5rk1/5ppp/1n2p3/3pP3/3P4/2Pq2P1/1P3Q1P/2B2RK1 b - - 5 25",
+  "color": "white",
+  "initialPly": 50,
+  "gameId": "MezAoCgk",
+  "lines": {
+    "b2b3": {
+      "d3c3": {
+        "b3c4": {
+          "d5c4": "win"
+        }
+      }
+    }
+  },
+  "vote": -3006,
+  "enabled": true
+}

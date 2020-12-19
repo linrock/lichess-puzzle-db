@@ -1,0 +1,24 @@
+{
+  "id": 110842,
+  "rating": 1947,
+  "attempts": 6626,
+  "fen": "2r2rk1/p4p1p/2b2Qp1/2q1p3/4P3/1BP5/P5PP/2RR3K b - - 2 29",
+  "color": "white",
+  "initialPly": 58,
+  "gameId": "FiHMbyGw",
+  "lines": {
+    "d1d7": {
+      "e4g2": {
+        "h1g2": {
+          "c5c6": {
+            "f6c6": {
+              "c8c6": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 90,
+  "enabled": true
+}

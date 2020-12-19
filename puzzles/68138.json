@@ -1,0 +1,28 @@
+{
+  "id": 68138,
+  "rating": 2394,
+  "attempts": 12508,
+  "fen": "7k/1B4pp/P3r1n1/1Q6/8/4p1P1/3q3P/5RK1 b - - 3 38",
+  "color": "white",
+  "initialPly": 76,
+  "gameId": "mmo3sSuF",
+  "lines": {
+    "a6a7": {
+      "e3e2": {
+        "a7a8q": {
+          "h8h7": {
+            "b7g2": {
+              "e2f1q": {
+                "g2f1": {
+                  "d2e3": "win"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 160,
+  "enabled": true
+}

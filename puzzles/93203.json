@@ -1,0 +1,24 @@
+{
+  "id": 93203,
+  "rating": 1786,
+  "attempts": 13357,
+  "fen": "r1bq1rk1/3pb1pp/pp2pn2/2p3B1/2P5/P1NQPN2/1P3PPP/2KR3R b - - 1 12",
+  "color": "white",
+  "initialPly": 24,
+  "gameId": "Byn55waX",
+  "lines": {
+    "g5e7": {
+      "d8e7": {
+        "d3e4": {
+          "g4f2": {
+            "e4a8": {
+              "b6b5": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 194,
+  "enabled": true
+}

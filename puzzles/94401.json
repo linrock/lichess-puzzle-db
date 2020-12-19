@@ -1,0 +1,28 @@
+{
+  "id": 94401,
+  "rating": 2323,
+  "attempts": 3452,
+  "fen": "8/p1k1r2p/2p1Prp1/2p5/2P2n2/P5N1/1P5P/2KRR3 w - - 1 27",
+  "color": "black",
+  "initialPly": 53,
+  "gameId": "DMFew2my",
+  "lines": {
+    "e7d7": {
+      "e6e7": {
+        "f4d3": {
+          "c1b1": {
+            "d3e1": {
+              "e7e8q": {
+                "e1d3": {
+                  "e8a8": "win"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": -119,
+  "enabled": true
+}

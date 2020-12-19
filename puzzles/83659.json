@@ -1,0 +1,24 @@
+{
+  "id": 83659,
+  "rating": 1141,
+  "attempts": 3731,
+  "fen": "r1bqkbnr/1p1npppp/p2p4/1Bp1P3/8/5N2/PPPP1PPP/RNBQK2R w KQkq - 0 5",
+  "color": "black",
+  "initialPly": 9,
+  "gameId": "126LaWKt",
+  "lines": {
+    "b7b5": {
+      "a4b3": {
+        "c5c4": {
+          "b3c4": {
+            "b5c4": {
+              "e5d6": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 115,
+  "enabled": true
+}

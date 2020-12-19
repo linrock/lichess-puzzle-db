@@ -1,0 +1,24 @@
+{
+  "id": 79248,
+  "rating": 1596,
+  "attempts": 37280,
+  "fen": "r3r1k1/p2N1pp1/1pp4p/8/3qN3/3B1K1P/PPPQ4/7R b - - 0 26",
+  "color": "white",
+  "initialPly": 52,
+  "gameId": "epSunB74",
+  "lines": {
+    "e4f6": {
+      "g7f6": {
+        "d3h7": {
+          "g8h7": {
+            "d2d7": {
+              "e8g8": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 535,
+  "enabled": true
+}

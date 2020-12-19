@@ -1,0 +1,24 @@
+{
+  "id": 66336,
+  "rating": 1837,
+  "attempts": 59619,
+  "fen": "4rbk1/q2b1p1p/r5p1/p1R3Q1/P1Np1P2/B2P3P/P1P3P1/5RK1 w - - 3 24",
+  "color": "black",
+  "initialPly": 47,
+  "gameId": "CGCreaEx",
+  "lines": {
+    "a6a5": {
+      "g5a5": {
+        "a7a5": {
+          "c4a5": {
+            "f8a3": {
+              "a5c4": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 624,
+  "enabled": true
+}

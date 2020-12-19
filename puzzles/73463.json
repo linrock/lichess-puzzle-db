@@ -1,0 +1,28 @@
+{
+  "id": 73463,
+  "rating": 2030,
+  "attempts": 108794,
+  "fen": "r2q1rk1/4bppp/b1n1p3/2pnN3/1p6/1P1P2P1/1BPNQPBP/R4RK1 b - - 1 14",
+  "color": "white",
+  "initialPly": 28,
+  "gameId": "RKBlmJBP",
+  "lines": {
+    "a1a8": {
+      "d8a8": {
+        "g2d5": {
+          "e6d5": {
+            "e5c6": {
+              "a8c6": {
+                "e2e7": {
+                  "f7f6": "win"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 588,
+  "enabled": true
+}

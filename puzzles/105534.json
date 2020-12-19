@@ -1,0 +1,20 @@
+{
+  "id": 105534,
+  "rating": 1544,
+  "attempts": 6379,
+  "fen": "r2q1rk1/3bbppp/p1p2n2/1p1Pp1B1/4P3/2NQ1P2/PPB3PP/R4RK1 b - - 1 15",
+  "color": "white",
+  "initialPly": 30,
+  "gameId": "OTort790",
+  "lines": {
+    "d5d6": {
+      "c5c4": {
+        "d6e7": {
+          "d8e7": "win"
+        }
+      }
+    }
+  },
+  "vote": 105,
+  "enabled": true
+}

@@ -1,0 +1,24 @@
+{
+  "id": 121963,
+  "rating": 2903,
+  "attempts": 120,
+  "fen": "r6r/2pqnpk1/p2p3R/1p6/3PP3/P3Q1K1/1PB5/7R b - - 4 26",
+  "color": "white",
+  "initialPly": 52,
+  "gameId": "FUH5cfgo",
+  "lines": {
+    "e3g5": {
+      "e7g6": {
+        "e4e5": {
+          "g7f8": {
+            "h6g6": {
+              "d7e7": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 0,
+  "enabled": true
+}

@@ -1,0 +1,20 @@
+{
+  "id": 100973,
+  "rating": 1446,
+  "attempts": 4336,
+  "fen": "rnb2rk1/ppp1nppp/3p1q2/2b5/2BNP3/2N1B3/PPP2PPP/R2QK2R w KQ - 5 8",
+  "color": "black",
+  "initialPly": 15,
+  "gameId": "yohrkKli",
+  "lines": {
+    "c5d4": {
+      "f3f6": {
+        "d4f6": {
+          "c3b5": "win"
+        }
+      }
+    }
+  },
+  "vote": 93,
+  "enabled": true
+}

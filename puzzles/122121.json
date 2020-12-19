@@ -1,0 +1,24 @@
+{
+  "id": 122121,
+  "rating": 1705,
+  "attempts": 23087,
+  "fen": "2r3k1/7p/4p1p1/p2p4/Pp1Pq3/1P1Qb1P1/K3R2P/1N6 w - - 2 34",
+  "color": "black",
+  "initialPly": 67,
+  "gameId": "ZidxRUVe",
+  "lines": {
+    "c8c2": {
+      "a2a1": {
+        "e4g2": {
+          "d3c2": {
+            "g2c2": {
+              "h2h3": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 217,
+  "enabled": true
+}

@@ -1,0 +1,20 @@
+{
+  "id": 70320,
+  "rating": 741,
+  "attempts": 1771,
+  "fen": "r1br2k1/1pp2ppp/p1p2n2/2b5/3NP3/2P1BP2/PP1N2PP/R3K2R b KQ - 0 11",
+  "color": "white",
+  "initialPly": 22,
+  "gameId": "PiChDl4m",
+  "lines": {
+    "d4e6": {
+      "c5e3": {
+        "e6d8": {
+          "e3d2": "win"
+        }
+      }
+    }
+  },
+  "vote": 20,
+  "enabled": true
+}

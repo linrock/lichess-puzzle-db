@@ -1,0 +1,24 @@
+{
+  "id": 115465,
+  "rating": 1404,
+  "attempts": 6093,
+  "fen": "r2q1rk1/1p2bppp/p2p1nb1/2p1BN2/P3P3/2N2P2/BPP3PP/R2QR2K b - - 0 15",
+  "color": "white",
+  "initialPly": 30,
+  "gameId": "LTlguUpj",
+  "lines": {
+    "e5f6": {
+      "e7f6": {
+        "e4f5": {
+          "f6c3": {
+            "b2c3": {
+              "d8d7": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 57,
+  "enabled": true
+}

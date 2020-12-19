@@ -1,0 +1,24 @@
+{
+  "id": 63948,
+  "rating": 2012,
+  "attempts": 95626,
+  "fen": "2r2rk1/pbq1b2p/1p3np1/5p2/2N1p1PP/2B1P2Q/PP2BP2/1K1R3R b - - 0 22",
+  "color": "white",
+  "initialPly": 44,
+  "gameId": "FvgvbeyE",
+  "lines": {
+    "c3f6": {
+      "d5c4": {
+        "e2c4": {
+          "c7c4": {
+            "f6e7": {
+              "f5g4": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 1646,
+  "enabled": true
+}

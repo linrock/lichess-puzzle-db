@@ -1,0 +1,24 @@
+{
+  "id": 80656,
+  "rating": 1645,
+  "attempts": 19672,
+  "fen": "1R6/7p/6k1/1P1b1pP1/3R2K1/5r2/8/8 w - f6 0 43",
+  "color": "black",
+  "initialPly": 85,
+  "gameId": "AbbAguzu",
+  "lines": {
+    "h7h5": {
+      "g4h4": {
+        "d5e6": {
+          "b8g8": {
+            "e6g8": {
+              "d4d2": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 420,
+  "enabled": true
+}

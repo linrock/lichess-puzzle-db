@@ -1,0 +1,24 @@
+{
+  "id": 89282,
+  "rating": 2133,
+  "attempts": 8798,
+  "fen": "r3nrk1/pp2qpp1/2pn3p/P2p4/2P2B2/1R1Q1N2/5PPP/1R4K1 w - - 0 23",
+  "color": "black",
+  "initialPly": 45,
+  "gameId": "lwVveKpc",
+  "lines": {
+    "e7e1": {
+      "f3e1": {
+        "d5c4": {
+          "d3f3": {
+            "c4b3": {
+              "f3b3": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": -165,
+  "enabled": true
+}

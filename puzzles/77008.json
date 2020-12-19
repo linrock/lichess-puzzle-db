@@ -1,0 +1,28 @@
+{
+  "id": 77008,
+  "rating": 1533,
+  "attempts": 20731,
+  "fen": "r1bqkb1r/1p1pnpp1/p3p2p/8/3QP2B/2N5/PPP2PPP/R3KB1R w KQkq - 0 9",
+  "color": "black",
+  "initialPly": 17,
+  "gameId": "MX7MieOt",
+  "lines": {
+    "e7c6": {
+      "h4d8": {
+        "c6d4": {
+          "d8c7": {
+            "d4c2": {
+              "e1d2": {
+                "c2a1": {
+                  "e4e5": "win"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 424,
+  "enabled": true
+}

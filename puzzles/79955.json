@@ -1,0 +1,24 @@
+{
+  "id": 79955,
+  "rating": 1227,
+  "attempts": 11762,
+  "fen": "2r3k1/5pp1/p1nR1n1p/1p2pN2/2p1P2P/P1P2PP1/1PB2K2/8 b - - 0 28",
+  "color": "white",
+  "initialPly": 56,
+  "gameId": "OhdIXFAP",
+  "lines": {
+    "d6c6": {
+      "c8c6": {
+        "f5e7": {
+          "g8f8": {
+            "e7c6": {
+              "f7f6": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 203,
+  "enabled": true
+}

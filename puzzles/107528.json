@@ -1,0 +1,24 @@
+{
+  "id": 107528,
+  "rating": 2031,
+  "attempts": 10252,
+  "fen": "5rk1/ppp2ppp/8/8/2PP1nbq/1P4N1/P1Q2P1P/R4RK1 w - - 1 19",
+  "color": "black",
+  "initialPly": 37,
+  "gameId": "mabgFGpR",
+  "lines": {
+    "f4h3": {
+      "g1g2": {
+        "h3g5": {
+          "e4g4": {
+            "h4g4": {
+              "f2f3": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 184,
+  "enabled": true
+}

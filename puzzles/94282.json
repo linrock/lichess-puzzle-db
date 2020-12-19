@@ -1,0 +1,26 @@
+{
+  "id": 94282,
+  "rating": 1728,
+  "attempts": 202464,
+  "fen": "3r1r2/1kp5/1p2Q3/3n3p/1qP1N1p1/3P1b2/1P3P1P/R4KR1 b - - 0 26",
+  "color": "white",
+  "initialPly": 52,
+  "gameId": "VopirEN4",
+  "lines": {
+    "e4c5": {
+      "b7b8": {
+        "a1a8": {
+          "b8a8": {
+            "e6c6": {
+              "a8a7": {
+                "c6b7": "win"
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 3295,
+  "enabled": true
+}

@@ -1,0 +1,24 @@
+{
+  "id": 78832,
+  "rating": 1538,
+  "attempts": 119004,
+  "fen": "8/8/6R1/7r/8/2P1N3/1P1nkP2/6K1 w - - 3 50",
+  "color": "black",
+  "initialPly": 99,
+  "gameId": "OuidvCAT",
+  "lines": {
+    "d2f3": {
+      "g1g2": {
+        "f3h4": {
+          "g2h3": {
+            "h4g6": {
+              "h3g4": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 614,
+  "enabled": true
+}

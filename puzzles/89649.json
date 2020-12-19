@@ -1,0 +1,27 @@
+{
+  "id": 89649,
+  "rating": 1500,
+  "attempts": 6,
+  "fen": "8/8/8/8/5R2/P5pk/7r/4BK2 w - - 3 57",
+  "color": "black",
+  "initialPly": 113,
+  "gameId": "khd6aFDR",
+  "lines": {
+    "g3g2": {
+      "f1f2": {
+        "h2h1": {
+          "f2e2": {
+            "h1e1": {
+              "e2e1": {
+                "g2g1q": {
+                  "e1e2": "win"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": -9000
+}

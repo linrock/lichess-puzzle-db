@@ -1,0 +1,28 @@
+{
+  "id": 121999,
+  "rating": 2149,
+  "attempts": 4614,
+  "fen": "2kr3r/ppp2ppp/2nb4/3n4/2P1q1b1/4PN2/PP2BPPP/R1BQ1RK1 w - - 0 11",
+  "color": "black",
+  "initialPly": 21,
+  "gameId": "doi7Huma",
+  "lines": {
+    "d6h2": {
+      "f3h2": {
+        "d8d5": {
+          "e2g4": {
+            "d5d7": {
+              "g4d7": {
+                "c8d7": {
+                  "b2b3": "win"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 51,
+  "enabled": true
+}

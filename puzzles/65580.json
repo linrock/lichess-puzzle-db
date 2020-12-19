@@ -1,0 +1,24 @@
+{
+  "id": 65580,
+  "rating": 1624,
+  "attempts": 60860,
+  "fen": "rnb2rk1/ppp2ppp/3P4/6B1/2Bn4/2N4P/PPP3P1/R4RK1 b - - 0 15",
+  "color": "white",
+  "initialPly": 30,
+  "gameId": "rbScpXHk",
+  "lines": {
+    "g5e7": {
+      "c8e6": {
+        "c4e6": {
+          "d4e6": {
+            "e7f8": {
+              "g8f8": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 447,
+  "enabled": true
+}

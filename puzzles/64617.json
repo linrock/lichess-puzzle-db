@@ -1,0 +1,24 @@
+{
+  "id": 64617,
+  "rating": 1694,
+  "attempts": 89370,
+  "fen": "3r1b2/pk3p1r/4b3/2Pp2pp/1P1QP3/q1N2PP1/P5P1/R3K1NR w KQ - 0 17",
+  "color": "black",
+  "initialPly": 33,
+  "gameId": "DkPxavIT",
+  "lines": {
+    "f8g7": {
+      "c3b5": {
+        "g7d4": {
+          "b5a3": {
+            "d4a1": {
+              "d5e6": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 1247,
+  "enabled": true
+}

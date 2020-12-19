@@ -1,0 +1,24 @@
+{
+  "id": 64139,
+  "rating": 1565,
+  "attempts": 97387,
+  "fen": "r3kbnr/ppp2ppp/3p4/4p3/3nPP2/3P1BPq/PPP1Q2P/RNB1K2R w KQkq - 3 9",
+  "color": "black",
+  "initialPly": 17,
+  "gameId": "ExerNUOb",
+  "lines": {
+    "h3g2": {
+      "f3g2": {
+        "d4c2": {
+          "e1d1": {
+            "c2a1": {
+              "c1e3": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 1291,
+  "enabled": true
+}

@@ -1,0 +1,24 @@
+{
+  "id": 86152,
+  "rating": 1924,
+  "attempts": 118647,
+  "fen": "2r2rk1/pp1b1p2/4pp2/8/8/4PR2/PPP3PK/R7 b - - 0 21",
+  "color": "white",
+  "initialPly": 42,
+  "gameId": "ShSQofsp",
+  "lines": {
+    "f3g3": {
+      "g8h7": {
+        "a1h1": {
+          "c2c1": {
+            "h1c1": {
+              "f8g8": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 438,
+  "enabled": true
+}

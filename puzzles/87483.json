@@ -1,0 +1,24 @@
+{
+  "id": 87483,
+  "rating": 1827,
+  "attempts": 106762,
+  "fen": "8/4r1pp/8/1kp1Pp2/5P1P/6P1/R1P2K2/4B2r b - - 2 45",
+  "color": "white",
+  "initialPly": 90,
+  "gameId": "OFAaDmna",
+  "lines": {
+    "f2g1": {
+      "h2e2": {
+        "c2c4": {
+          "b5c4": {
+            "a2e2": {
+              "e7e6": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 475,
+  "enabled": true
+}

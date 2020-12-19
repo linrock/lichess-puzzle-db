@@ -1,0 +1,20 @@
+{
+  "id": 67318,
+  "rating": 1143,
+  "attempts": 12934,
+  "fen": "3R1bk1/p1r1pp1p/Bp2b1p1/6N1/8/5P1P/PPP3P1/1K6 b - - 6 21",
+  "color": "white",
+  "initialPly": 42,
+  "gameId": "wdoptSO3",
+  "lines": {
+    "g5e6": {
+      "d7d8": {
+        "e6d8": {
+          "e7e6": "win"
+        }
+      }
+    }
+  },
+  "vote": 205,
+  "enabled": true
+}

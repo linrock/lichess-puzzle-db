@@ -1,0 +1,28 @@
+{
+  "id": 97041,
+  "rating": 1447,
+  "attempts": 9584,
+  "fen": "5R2/6pp/5pk1/1r6/p3b3/P1B4P/5PP1/6K1 w - - 0 31",
+  "color": "black",
+  "initialPly": 61,
+  "gameId": "JKs3kUs7",
+  "lines": {
+    "b5b4": {
+      "a3b4": {
+        "a4a3": {
+          "f8e8": {
+            "a3a2": {
+              "e8e4": {
+                "a2a1q": {
+                  "g1h2": "win"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 135,
+  "enabled": true
+}

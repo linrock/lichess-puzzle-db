@@ -1,0 +1,24 @@
+{
+  "id": 73594,
+  "rating": 2102,
+  "attempts": 14635,
+  "fen": "8/3b4/6p1/1p6/2pK1P1P/1kP1N3/8/8 b - - 3 55",
+  "color": "white",
+  "initialPly": 110,
+  "gameId": "4XGcLMvc",
+  "lines": {
+    "h4h5": {
+      "g6h5": {
+        "e3f5": {
+          "b5b4": {
+            "c3b4": {
+              "h5h4": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 210,
+  "enabled": true
+}

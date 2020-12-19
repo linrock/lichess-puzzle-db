@@ -1,0 +1,28 @@
+{
+  "id": 111453,
+  "rating": 1891,
+  "attempts": 6892,
+  "fen": "4r1k1/ppn1r2p/2ppq3/4bp2/1P4p1/P1PQN1P1/4RP1P/4R1NK b - - 2 24",
+  "color": "white",
+  "initialPly": 48,
+  "gameId": "Tka6SpTv",
+  "lines": {
+    "g3f4": {
+      "e5f6": {
+        "e3f5": {
+          "e6d5": {
+            "d3d5": {
+              "c7d5": {
+                "f5e7": {
+                  "e8e7": "win"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 165,
+  "enabled": true
+}

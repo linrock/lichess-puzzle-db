@@ -1,0 +1,28 @@
+{
+  "id": 110126,
+  "rating": 2029,
+  "attempts": 5895,
+  "fen": "3n4/3q2pk/2p2p1p/pp2pN2/4Pn2/1BP1Q2P/PP3PPK/8 w - - 4 29",
+  "color": "black",
+  "initialPly": 57,
+  "gameId": "cbkMHmNp",
+  "lines": {
+    "a5a4": {
+      "c5f8": {
+        "a4b3": {
+          "f5e7": {
+            "d7e6": {
+              "a2b3": {
+                "d8b7": {
+                  "e7f5": "win"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 67,
+  "enabled": true
+}

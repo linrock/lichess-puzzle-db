@@ -1,0 +1,28 @@
+{
+  "id": 115163,
+  "rating": 2204,
+  "attempts": 7558,
+  "fen": "4rrk1/bB1q1pp1/2p4p/1P2n3/2Pp4/6PP/2QBPP2/1R3RK1 w - - 0 20",
+  "color": "black",
+  "initialPly": 39,
+  "gameId": "NBakBALY",
+  "lines": {
+    "d7h3": {
+      "c2e4": {
+        "e5c4": {
+          "e4g2": {
+            "h3g2": {
+              "g1g2": {
+                "c4d2": {
+                  "c6c7": "win"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 72,
+  "enabled": true
+}

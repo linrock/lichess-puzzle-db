@@ -1,0 +1,24 @@
+{
+  "id": 122855,
+  "rating": 1924,
+  "attempts": 6777,
+  "fen": "r2q1rk1/2pnbpp1/p2p1nb1/1p1Pp2p/PP2P1PN/2P4P/2BN1P2/R1BQR1K1 b - - 1 17",
+  "color": "white",
+  "initialPly": 34,
+  "gameId": "FRyaBVST",
+  "lines": {
+    "h4g6": {
+      "f7g6": {
+        "h3g4": {
+          "e7h4": {
+            "e1f1": {
+              "d8g5": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 103,
+  "enabled": true
+}

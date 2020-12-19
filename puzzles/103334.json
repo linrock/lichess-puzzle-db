@@ -1,0 +1,28 @@
+{
+  "id": 103334,
+  "rating": 1270,
+  "attempts": 3686,
+  "fen": "rn1r2k1/pp3pbp/1n4p1/4pb2/2P5/1PN2N2/PB2BPPP/R3K2R w KQ - 0 13",
+  "color": "black",
+  "initialPly": 25,
+  "gameId": "pbTFlZEs",
+  "lines": {
+    "e5e4": {
+      "a1d1": {
+        "d8d1": {
+          "f1d1": {
+            "e4f3": {
+              "d1d8": {
+                "g7f8": {
+                  "c3d5": "win"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 77,
+  "enabled": true
+}

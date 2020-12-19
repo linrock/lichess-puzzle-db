@@ -1,0 +1,20 @@
+{
+  "id": 110578,
+  "rating": 1001,
+  "attempts": 537,
+  "fen": "2rq1r2/4Npk1/p2pb2p/1pn3p1/2PpPPP1/PP1B2QP/3N3K/R4R2 b - - 0 23",
+  "color": "white",
+  "initialPly": 46,
+  "gameId": "WigXILy5",
+  "lines": {
+    "f4f5": {
+      "e7f6": {
+        "f5e6": {
+          "f6e5": "win"
+        }
+      }
+    }
+  },
+  "vote": 20,
+  "enabled": true
+}

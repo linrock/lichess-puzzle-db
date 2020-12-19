@@ -1,0 +1,24 @@
+{
+  "id": 71870,
+  "rating": 1487,
+  "attempts": 22272,
+  "fen": "rn1qk2r/p4ppp/2p1p1b1/1p6/1bBPPN2/5P2/PP3KPP/R1BQ3R w kq - 0 12",
+  "color": "black",
+  "initialPly": 23,
+  "gameId": "nCS316NU",
+  "lines": {
+    "d8d4": {
+      "c1e3": {
+        "d4c4": {
+          "b3c4": {
+            "b5c4": {
+              "a1c1": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 258,
+  "enabled": true
+}

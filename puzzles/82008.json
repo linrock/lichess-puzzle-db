@@ -1,0 +1,24 @@
+{
+  "id": 82008,
+  "rating": 1849,
+  "attempts": 14403,
+  "fen": "r1b2rk1/ppp1b1pp/2np1q2/8/2BP1p2/2P2N2/PP4PP/R1BQ1RK1 b - - 2 11",
+  "color": "white",
+  "initialPly": 22,
+  "gameId": "K70gOlaN",
+  "lines": {
+    "c4e6": {
+      "f6e6": {
+        "d4d5": {
+          "e6d7": {
+            "d5c6": {
+              "d7c6": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 321,
+  "enabled": true
+}

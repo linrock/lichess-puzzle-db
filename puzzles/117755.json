@@ -1,0 +1,24 @@
+{
+  "id": 117755,
+  "rating": 1755,
+  "attempts": 10440,
+  "fen": "2r2rk1/1b1qppb1/p5p1/nppP3p/4N2B/PP3B2/2P3PP/2QR1RK1 b - - 0 20",
+  "color": "white",
+  "initialPly": 40,
+  "gameId": "UHDl4J19",
+  "lines": {
+    "d1d5": {
+      "d7d5": {
+        "e4f6": {
+          "g7f6": {
+            "f3d5": {
+              "f6h4": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 254,
+  "enabled": true
+}

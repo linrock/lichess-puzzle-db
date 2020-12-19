@@ -1,0 +1,24 @@
+{
+  "id": 73949,
+  "rating": 1824,
+  "attempts": 22225,
+  "fen": "r4rk1/ppN3pp/3p4/6p1/4P1n1/3P1R2/PPP3P1/5RK1 b - - 0 19",
+  "color": "white",
+  "initialPly": 38,
+  "gameId": "pvCOKOt3",
+  "lines": {
+    "g2f3": {
+      "a8c8": {
+        "c7d5": {
+          "c8c2": {
+            "f3g4": {
+              "g7g6": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 264,
+  "enabled": true
+}

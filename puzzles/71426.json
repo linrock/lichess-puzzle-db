@@ -1,0 +1,24 @@
+{
+  "id": 71426,
+  "rating": 1362,
+  "attempts": 18547,
+  "fen": "1k5r/1pp1qpr1/p1np1n2/4pQ1p/4P3/1BPP1R1P/PP3PPN/R5K1 b - - 4 23",
+  "color": "white",
+  "initialPly": 46,
+  "gameId": "FItiCIk0",
+  "lines": {
+    "f5f6": {
+      "e7f6": {
+        "f3f6": {
+          "g7g2": {
+            "g1h1": {
+              "g2g7": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 171,
+  "enabled": true
+}

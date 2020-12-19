@@ -1,0 +1,36 @@
+{
+  "id": 73694,
+  "rating": 2748,
+  "attempts": 299,
+  "fen": "3R4/pb2r1pk/7p/5p2/2B1p3/4Q1PP/Pq3P2/6K1 w - - 2 29",
+  "color": "black",
+  "initialPly": 57,
+  "gameId": "kbt7zSP2",
+  "lines": {
+    "b2c1": {
+      "g1h2": {
+        "e7f7": {
+          "d8d7": {
+            "e4e3": {
+              "d7b7": {
+                "e3f2": {
+                  "c5f2": {
+                    "f7b7": {
+                      "f2f5": {
+                        "g7g6": {
+                          "f5e6": "win"
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 9,
+  "enabled": true
+}

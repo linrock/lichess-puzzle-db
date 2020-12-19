@@ -1,0 +1,28 @@
+{
+  "id": 123923,
+  "rating": 2029,
+  "attempts": 14059,
+  "fen": "3r1rk1/p4ppp/1p2p1q1/1Bb5/1n2b3/1P2PN2/1B2QPPP/R2R2K1 w - - 2 19",
+  "color": "black",
+  "initialPly": 37,
+  "gameId": "vxrocsPW",
+  "lines": {
+    "d8d1": {
+      "e2d1": {
+        "e4f3": {
+          "d1f3": {
+            "g6b1": {
+              "b5f1": {
+                "b1b2": {
+                  "f3d1": "win"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 210,
+  "enabled": true
+}

@@ -1,0 +1,19 @@
+{
+  "id": 78855,
+  "rating": 1500,
+  "attempts": 4,
+  "fen": "5k2/1R6/6P1/5K2/1p2B3/2b5/8/4r3 w - - 11 55",
+  "color": "black",
+  "initialPly": 109,
+  "gameId": "GAVERET4",
+  "lines": {
+    "e1e5": {
+      "f5g4": {
+        "e5d5": {
+          "b7f7": "win"
+        }
+      }
+    }
+  },
+  "vote": -9000
+}

@@ -1,0 +1,24 @@
+{
+  "id": 96859,
+  "rating": 1383,
+  "attempts": 7064,
+  "fen": "3r1r1k/1p4pp/p1np1n2/4p3/1P4q1/P1N1P1Pb/1B1Q1PBP/R4RK1 w - - 4 18",
+  "color": "black",
+  "initialPly": 35,
+  "gameId": "MmsT3vYC",
+  "lines": {
+    "h3g2": {
+      "g1g2": {
+        "g4e4": {
+          "f2f3": {
+            "e4d5": {
+              "f1f2": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 146,
+  "enabled": true
+}

@@ -1,0 +1,24 @@
+{
+  "id": 61991,
+  "rating": 2217,
+  "attempts": 294233,
+  "fen": "r2q1rk1/p6p/2p1pnp1/3pp1B1/4P3/2P2Q2/P1P2PPP/1R1R2K1 b - - 1 16",
+  "color": "white",
+  "initialPly": 32,
+  "gameId": "LBTPLztB",
+  "lines": {
+    "d1d8": {
+      "e4f3": {
+        "d8a8": {
+          "f8a8": {
+            "g5f6": {
+              "e5e4": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 4422,
+  "enabled": true
+}

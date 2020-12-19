@@ -1,0 +1,24 @@
+{
+  "id": 117497,
+  "rating": 2020,
+  "attempts": 8813,
+  "fen": "6k1/5pp1/5b1p/8/1BP1QP2/Pq4P1/1r5P/4R2K w - - 3 45",
+  "color": "black",
+  "initialPly": 89,
+  "gameId": "b6BllTnY",
+  "lines": {
+    "b3d1": {
+      "e2e1": {
+        "d1h5": {
+          "e4g2": {
+            "b2g2": {
+              "h1g2": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 236,
+  "enabled": true
+}

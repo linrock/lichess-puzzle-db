@@ -1,0 +1,28 @@
+{
+  "id": 107413,
+  "rating": 1434,
+  "attempts": 5535,
+  "fen": "6rk/pp6/5pr1/3P4/7p/2Q1R1Pq/PP3P2/4R1K1 w - - 0 29",
+  "color": "black",
+  "initialPly": 57,
+  "gameId": "zmk143Ol",
+  "lines": {
+    "h4g3": {
+      "f2g3": {
+        "g6g3": {
+          "e3g3": {
+            "g8g3": {
+              "c3g3": {
+                "h3g3": {
+                  "g1f1": "win"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 117,
+  "enabled": true
+}

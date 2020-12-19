@@ -1,0 +1,28 @@
+{
+  "id": 100311,
+  "rating": 1894,
+  "attempts": 39058,
+  "fen": "2r1r1k1/1p3pb1/p1np1ppp/3N4/P3PP2/1P3B2/1q3RPP/2RQ3K b - - 1 19",
+  "color": "white",
+  "initialPly": 38,
+  "gameId": "FuItBU87",
+  "lines": {
+    "d1d4": {
+      "c6d4": {
+        "c1c8": {
+          "e8c8": {
+            "d5e7": {
+              "g8f8": {
+                "e7c8": {
+                  "h6h5": "win"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 376,
+  "enabled": true
+}

@@ -1,0 +1,24 @@
+{
+  "id": 86582,
+  "rating": 2191,
+  "attempts": 7551,
+  "fen": "2r2rk1/6pp/5p2/p2R4/2nB4/7P/P1R2PP1/6K1 b - - 1 35",
+  "color": "white",
+  "initialPly": 70,
+  "gameId": "s47KLPOg",
+  "lines": {
+    "d5c5": {
+      "c7c5": {
+        "d4c5": {
+          "c4d6": {
+            "c5d6": {
+              "f8a8": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 194,
+  "enabled": true
+}

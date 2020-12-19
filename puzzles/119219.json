@@ -1,0 +1,20 @@
+{
+  "id": 119219,
+  "rating": 1629,
+  "attempts": 8015,
+  "fen": "rn1q1rk1/pppn1ppp/4b3/3pP3/5P2/3B3P/PPP3P1/RNBQ1RK1 b - - 0 10",
+  "color": "white",
+  "initialPly": 20,
+  "gameId": "LDBep3ck",
+  "lines": {
+    "f4f5": {
+      "d7e5": {
+        "f5e6": {
+          "d8e7": "win"
+        }
+      }
+    }
+  },
+  "vote": 152,
+  "enabled": true
+}

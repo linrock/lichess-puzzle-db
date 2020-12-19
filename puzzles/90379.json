@@ -1,0 +1,28 @@
+{
+  "id": 90379,
+  "rating": 2397,
+  "attempts": 1297,
+  "fen": "4r1k1/p1p2ppp/3q4/nP1n4/1P1p1Pb1/P2PrNP1/3NB2P/R2QR1K1 w - - 1 18",
+  "color": "black",
+  "initialPly": 35,
+  "gameId": "jmovuTnw",
+  "lines": {
+    "d5c3": {
+      "d2c4": {
+        "d6e7": {
+          "c4e3": {
+            "e7e3": {
+              "g1g2": {
+                "c3d1": {
+                  "a1d1": "win"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 33,
+  "enabled": true
+}

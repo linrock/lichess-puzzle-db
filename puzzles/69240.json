@@ -1,0 +1,24 @@
+{
+  "id": 69240,
+  "rating": 600,
+  "attempts": 513,
+  "fen": "8/7k/3p2rp/2p2R2/4rp2/1P1B3P/5PP1/6K1 b - - 0 38",
+  "color": "white",
+  "initialPly": 76,
+  "gameId": "nFLbRAIj",
+  "lines": {
+    "f5f7": {
+      "h7g8": {
+        "d3g6": {
+          "d4d1": {
+            "g1h2": {
+              "d1d4": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 11,
+  "enabled": true
+}

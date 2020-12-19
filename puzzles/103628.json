@@ -1,0 +1,36 @@
+{
+  "id": 103628,
+  "rating": 2619,
+  "attempts": 575,
+  "fen": "r2qkb1r/5pp1/p1n1p2p/1p1nP3/2P2P2/2P2N2/PBQ1B1PP/R4RK1 b kq - 0 15",
+  "color": "white",
+  "initialPly": 30,
+  "gameId": "PLEkGFOp",
+  "lines": {
+    "c2e4": {
+      "d8b6": {
+        "c4b5": {
+          "e3f1": {
+            "g1f1": {
+              "a6b5": {
+                "f3d4": {
+                  "a8a4": {
+                    "e4c6": {
+                      "b6c6": {
+                        "d4c6": {
+                          "f8a3": "win"
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": -9,
+  "enabled": true
+}

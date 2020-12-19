@@ -1,0 +1,24 @@
+{
+  "id": 88147,
+  "rating": 1400,
+  "attempts": 5581,
+  "fen": "r2r4/p1p1k3/1p5p/1Pn5/2PRp1p1/4P3/P3B2P/3R2K1 w - - 0 28",
+  "color": "black",
+  "initialPly": 55,
+  "gameId": "deuKHD76",
+  "lines": {
+    "d8g8": {
+      "h2h3": {
+        "h6h5": {
+          "d4d5": {
+            "h5g4": {
+              "h3h4": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 137,
+  "enabled": true
+}

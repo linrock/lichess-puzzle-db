@@ -1,0 +1,32 @@
+{
+  "id": 87301,
+  "rating": 1891,
+  "attempts": 17910,
+  "fen": "2r3k1/ppp3pp/1n6/3pR3/3P4/2P1B3/PPr3PP/3R2K1 w - - 0 20",
+  "color": "black",
+  "initialPly": 39,
+  "gameId": "tmCpvaDa",
+  "lines": {
+    "c2c1": {
+      "g1f2": {
+        "b6c4": {
+          "d2e2": {
+            "c4e5": {
+              "e3c1": {
+                "e5d3": {
+                  "f2g3": {
+                    "d3c1": {
+                      "e2c2": "win"
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 362,
+  "enabled": true
+}

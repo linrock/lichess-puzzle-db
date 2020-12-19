@@ -1,0 +1,22 @@
+{
+  "id": 105634,
+  "rating": 1713,
+  "attempts": 211704,
+  "fen": "r4r2/1p2ppk1/q2p2p1/1R5P/3P2P1/3Q4/8/5RK1 b - - 0 27",
+  "color": "white",
+  "initialPly": 54,
+  "gameId": "FwNYsNxz",
+  "lines": {
+    "f1f7": {
+      "g7f7": {
+        "d3g6": {
+          "f7f8": {
+            "b5f5": "win"
+          }
+        }
+      }
+    }
+  },
+  "vote": 2016,
+  "enabled": true
+}

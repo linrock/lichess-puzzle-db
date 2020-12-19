@@ -1,0 +1,24 @@
+{
+  "id": 87373,
+  "rating": 1445,
+  "attempts": 8200,
+  "fen": "r3k2r/8/p1b1B3/2N1bp1p/1p2p3/8/PPP3PP/3RR1K1 b kq - 3 24",
+  "color": "white",
+  "initialPly": 48,
+  "gameId": "HpgeXIgr",
+  "lines": {
+    "e6d7": {
+      "c6d7": {
+        "c5d7": {
+          "e5b2": {
+            "d7f8": {
+              "e8f8": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 159,
+  "enabled": true
+}

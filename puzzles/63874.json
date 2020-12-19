@@ -1,0 +1,28 @@
+{
+  "id": 63874,
+  "rating": 2618,
+  "attempts": 30373,
+  "fen": "r3kb1r/ppp1nppp/3p1q2/4p3/3nP1b1/2NP1N2/PPP1BPPP/R1BQ1RK1 w kq - 1 8",
+  "color": "black",
+  "initialPly": 15,
+  "gameId": "jRod0ENV",
+  "lines": {
+    "d4e2": {
+      "d1e2": {
+        "g4f3": {
+          "g5f6": {
+            "f3e2": {
+              "f6e7": {
+                "e2f1": {
+                  "e7f8": "win"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 395,
+  "enabled": true
+}

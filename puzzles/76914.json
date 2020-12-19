@@ -1,0 +1,24 @@
+{
+  "id": 76914,
+  "rating": 1861,
+  "attempts": 20767,
+  "fen": "2r4k/R7/1p5p/5p1N/8/4P2P/6P1/1b4K1 b - - 2 31",
+  "color": "white",
+  "initialPly": 62,
+  "gameId": "Peex7ZLP",
+  "lines": {
+    "h5f6": {
+      "f5f4": {
+        "e3e4": {
+          "b1e4": {
+            "f6e4": {
+              "c8c6": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 602,
+  "enabled": true
+}

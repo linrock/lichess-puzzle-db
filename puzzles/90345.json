@@ -1,0 +1,24 @@
+{
+  "id": 90345,
+  "rating": 1077,
+  "attempts": 1547,
+  "fen": "6k1/1prb2pp/p2Qnb2/8/P7/1P2R2P/6P1/7K b - - 1 35",
+  "color": "white",
+  "initialPly": 70,
+  "gameId": "ioGAxFPP",
+  "lines": {
+    "h1h2": {
+      "d7c8": {
+        "e3e6": {
+          "c8e6": {
+            "d6e6": {
+              "g8f8": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 31,
+  "enabled": true
+}

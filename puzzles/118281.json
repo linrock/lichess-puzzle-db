@@ -1,0 +1,28 @@
+{
+  "id": 118281,
+  "rating": 2901,
+  "attempts": 309,
+  "fen": "4k3/pp3pp1/2p1p1p1/2P5/3R1qP1/2P4r/PP2QP2/1K6 b - - 1 24",
+  "color": "white",
+  "initialPly": 48,
+  "gameId": "zNrcykro",
+  "lines": {
+    "e2e5": {
+      "h3h1": {
+        "b1c2": {
+          "f3f2": {
+            "d4d2": {
+              "f2d2": {
+                "c2d2": {
+                  "g6g5": "win"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 5,
+  "enabled": true
+}

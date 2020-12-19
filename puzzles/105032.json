@@ -1,0 +1,24 @@
+{
+  "id": 105032,
+  "rating": 1059,
+  "attempts": 1094,
+  "fen": "3Q4/6r1/8/5pk1/4qp2/4p2P/P3R3/5K2 b - - 7 53",
+  "color": "white",
+  "initialPly": 106,
+  "gameId": "sizPfGFp",
+  "lines": {
+    "d8h8": {
+      "h5g6": {
+        "e2g2": {
+          "e4g2": {
+            "f1g2": {
+              "g7e7": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 41,
+  "enabled": true
+}

@@ -1,0 +1,20 @@
+{
+  "id": 113202,
+  "rating": 1058,
+  "attempts": 575,
+  "fen": "rnbq1rk1/1p2bppp/p4n2/2pP4/P1B5/2N5/1P2NPPP/R1BQ1RK1 b - - 0 10",
+  "color": "white",
+  "initialPly": 20,
+  "gameId": "kDBGoRMt",
+  "lines": {
+    "d5d6": {
+      "d7e5": {
+        "d6e7": {
+          "d8e7": "win"
+        }
+      }
+    }
+  },
+  "vote": 13,
+  "enabled": true
+}

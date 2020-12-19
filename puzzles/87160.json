@@ -1,0 +1,20 @@
+{
+  "id": 87160,
+  "rating": 1024,
+  "attempts": 1162,
+  "fen": "r1b1r1k1/p6p/1p1pqppB/2P1p3/1P1nP3/P2B4/3Q1PPP/2R2RK1 b - - 0 23",
+  "color": "white",
+  "initialPly": 46,
+  "gameId": "WiDjvsbq",
+  "lines": {
+    "d3c4": {
+      "e6c4": {
+        "c1c4": {
+          "e8d8": "win"
+        }
+      }
+    }
+  },
+  "vote": 35,
+  "enabled": true
+}

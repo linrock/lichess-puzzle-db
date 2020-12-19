@@ -1,0 +1,24 @@
+{
+  "id": 106491,
+  "rating": 1551,
+  "attempts": 7018,
+  "fen": "2r3rk/pp1b3p/4p3/3pPpq1/3n4/2P3PP/PPQN3K/3BR1R1 w - - 0 23",
+  "color": "black",
+  "initialPly": 45,
+  "gameId": "CpSUR5Fx",
+  "lines": {
+    "d4c2": {
+      "f3g5": {
+        "c2e1": {
+          "g5f7": {
+            "h8g7": {
+              "f7d6": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 108,
+  "enabled": true
+}

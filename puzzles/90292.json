@@ -1,0 +1,24 @@
+{
+  "id": 90292,
+  "rating": 2302,
+  "attempts": 4282,
+  "fen": "1r3bk1/7p/6p1/R7/3BP3/2P4P/p5P1/1r3RK1 w - - 4 43",
+  "color": "black",
+  "initialPly": 85,
+  "gameId": "UnKLNVlw",
+  "lines": {
+    "b8d8": {
+      "a5a2": {
+        "b1f1": {
+          "g1f1": {
+            "d8d4": {
+              "f1e2": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 107,
+  "enabled": true
+}

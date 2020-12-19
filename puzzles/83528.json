@@ -1,0 +1,28 @@
+{
+  "id": 83528,
+  "rating": 2165,
+  "attempts": 9254,
+  "fen": "2r1r1k1/pp4bp/1q4p1/3P1p2/3pP3/3Q3P/PP2N1P1/1R1R3K w - - 0 23",
+  "color": "black",
+  "initialPly": 45,
+  "gameId": "sVJ50919",
+  "lines": {
+    "e8e3": {
+      "d3d2": {
+        "g7h6": {
+          "d2d4": {
+            "e3e2": {
+              "d4b6": {
+                "a7b6": {
+                  "f5g6": "win"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 193,
+  "enabled": true
+}

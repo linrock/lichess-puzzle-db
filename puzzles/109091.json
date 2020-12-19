@@ -1,0 +1,24 @@
+{
+  "id": 109091,
+  "rating": 1997,
+  "attempts": 6098,
+  "fen": "r2q4/1pb1k1p1/p1p1p3/3pNnQ1/3P1P1p/2P1B2P/PPb3P1/5RK1 b - - 2 24",
+  "color": "white",
+  "initialPly": 48,
+  "gameId": "UHi93bsd",
+  "lines": {
+    "e5f7": {
+      "d6d7": {
+        "f7d8": {
+          "c7d8": {
+            "g5h5": {
+              "d8e7": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": -43,
+  "enabled": true
+}

@@ -1,0 +1,24 @@
+{
+  "id": 100737,
+  "rating": 1468,
+  "attempts": 7243,
+  "fen": "r1bqk2r/5pp1/5b2/p1p1pP1p/1n1pP2P/3P2P1/1PP1B3/R2QKNNR w KQkq - 0 17",
+  "color": "black",
+  "initialPly": 33,
+  "gameId": "BHWPOP05",
+  "lines": {
+    "h8h5": {
+      "d1h5": {
+        "b4c2": {
+          "e1f2": {
+            "c2a1": {
+              "h5d1": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 184,
+  "enabled": true
+}

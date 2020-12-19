@@ -1,0 +1,28 @@
+{
+  "id": 75507,
+  "rating": 2212,
+  "attempts": 9978,
+  "fen": "r5k1/bppq1pp1/p2p1n1p/3P1N2/1PP1r3/P3B3/2Q1RPPP/4R1K1 w - - 5 20",
+  "color": "black",
+  "initialPly": 39,
+  "gameId": "46VizR93",
+  "lines": {
+    "a7e3": {
+      "e2e3": {
+        "e4e3": {
+          "e1e3": {
+            "g8g7": {
+              "e3g3": {
+                "g7f8": {
+                  "h2h3": "win"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 138,
+  "enabled": true
+}

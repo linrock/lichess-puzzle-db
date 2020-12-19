@@ -1,0 +1,24 @@
+{
+  "id": 71010,
+  "rating": 1827,
+  "attempts": 154970,
+  "fen": "r4rk1/3b1p1p/1q4p1/pp2b3/1B1N4/1Q2P3/4BPPP/R1R3K1 b - - 0 22",
+  "color": "white",
+  "initialPly": 44,
+  "gameId": "otn3AdSP",
+  "lines": {
+    "a1a8": {
+      "f8a8": {
+        "b3d5": {
+          "b6b8": {
+            "d5d7": {
+              "e5h2": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 818,
+  "enabled": true
+}

@@ -1,0 +1,24 @@
+{
+  "id": 115493,
+  "rating": 1001,
+  "attempts": 1109,
+  "fen": "5rk1/1n2bppp/pBb5/1p3N2/2p1P3/P4P2/1r4PP/RB3RK1 b - - 1 24",
+  "color": "white",
+  "initialPly": 48,
+  "gameId": "DTOUmJID",
+  "lines": {
+    "b6c5": {
+      "b7c5": {
+        "f5e7": {
+          "g8h8": {
+            "e7c6": {
+              "g7g6": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 41,
+  "enabled": true
+}

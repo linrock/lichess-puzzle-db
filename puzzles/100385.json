@@ -1,0 +1,24 @@
+{
+  "id": 100385,
+  "rating": 1526,
+  "attempts": 8524,
+  "fen": "r1b2rk1/ppp3bp/8/2pPp3/2P1Np2/2NQ3P/PP3Pq1/1K1R3R b - - 1 18",
+  "color": "white",
+  "initialPly": 36,
+  "gameId": "GCTVLBiV",
+  "lines": {
+    "d1g1": {
+      "g2f2": {
+        "e4f2": {
+          "f5d3": {
+            "f2d3": {
+              "b7b6": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 199,
+  "enabled": true
+}

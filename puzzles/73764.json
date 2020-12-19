@@ -1,0 +1,20 @@
+{
+  "id": 73764,
+  "rating": 977,
+  "attempts": 2021,
+  "fen": "rn2kbnr/ppp2ppp/3p1q2/4p1B1/2B1P3/3P1b2/PPP2PPP/RN1QK2R w KQkq - 0 6",
+  "color": "black",
+  "initialPly": 11,
+  "gameId": "NnJkcaiu",
+  "lines": {
+    "f3d1": {
+      "f6g7": {
+        "f8g7": {
+          "e1d1": "win"
+        }
+      }
+    }
+  },
+  "vote": -29,
+  "enabled": true
+}

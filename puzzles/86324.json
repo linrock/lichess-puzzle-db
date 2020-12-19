@@ -1,0 +1,24 @@
+{
+  "id": 86324,
+  "rating": 1730,
+  "attempts": 15130,
+  "fen": "4r1k1/p2q1pbp/2p1r1p1/2P5/1P1pP3/P2Q4/1B4PP/3R1RK1 w - - 3 21",
+  "color": "black",
+  "initialPly": 41,
+  "gameId": "YNtz44CA",
+  "lines": {
+    "e8d8": {
+      "d4g7": {
+        "d7d3": {
+          "d1d3": {
+            "d8d3": {
+              "g7f6": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 275,
+  "enabled": true
+}

@@ -1,0 +1,28 @@
+{
+  "id": 122183,
+  "rating": 1753,
+  "attempts": 7844,
+  "fen": "1kr1N3/pp6/n3bN2/8/1PP2R2/P1R4p/6KP/1r6 w - - 0 41",
+  "color": "black",
+  "initialPly": 81,
+  "gameId": "D3NNOBsT",
+  "lines": {
+    "b1b2": {
+      "g2g3": {
+        "b2b3": {
+          "f4f3": {
+            "b3f3": {
+              "g3f3": {
+                "e6h3": {
+                  "e8d6": "win"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 182,
+  "enabled": true
+}

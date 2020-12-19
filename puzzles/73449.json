@@ -1,0 +1,24 @@
+{
+  "id": 73449,
+  "rating": 1574,
+  "attempts": 28521,
+  "fen": "r4r1k/p5pp/2Q2b2/2N5/1B1p1R2/P2Pn1Pq/7P/4R1K1 w - - 3 26",
+  "color": "black",
+  "initialPly": 51,
+  "gameId": "vcnjsUik",
+  "lines": {
+    "a8c8": {
+      "c6f3": {
+        "c8c5": {
+          "d2e3": {
+            "d4e3": {
+              "f3e3": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 449,
+  "enabled": true
+}

@@ -1,0 +1,24 @@
+{
+  "id": 110666,
+  "rating": 1060,
+  "attempts": 1722,
+  "fen": "2kr3r/1ppqnBpp/p2p1b2/5P2/5P2/3QB3/PPP3PP/R4RK1 b - - 0 17",
+  "color": "white",
+  "initialPly": 34,
+  "gameId": "MszNdtRa",
+  "lines": {
+    "d3f5": {
+      "e7f5": {
+        "f7e6": {
+          "c8b8": {
+            "e6f5": {
+              "f6b2": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 51,
+  "enabled": true
+}

@@ -1,0 +1,28 @@
+{
+  "id": 68999,
+  "rating": 2814,
+  "attempts": 296,
+  "fen": "r4r2/p2kpBnp/b1pb2p1/B1P5/4N3/3R4/P5PP/5R1K w - - 1 27",
+  "color": "black",
+  "initialPly": 53,
+  "gameId": "BUgvGQz9",
+  "lines": {
+    "a6f1": {
+      "c5d6": {
+        "a8b8": {
+          "e4c5": {
+            "d7d6": {
+              "c5e4": {
+                "d6d7": {
+                  "e4c5": "win"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": -2,
+  "enabled": true
+}

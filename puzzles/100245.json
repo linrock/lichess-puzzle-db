@@ -1,0 +1,28 @@
+{
+  "id": 100245,
+  "rating": 2423,
+  "attempts": 1811,
+  "fen": "7k/4p1bp/p3Bnp1/1ppP2P1/3pP3/3P4/r3qPK1/1Q2B2R b - - 0 29",
+  "color": "white",
+  "initialPly": 58,
+  "gameId": "MK60VKzm",
+  "lines": {
+    "h1h5": {
+      "g6h5": {
+        "d5d6": {
+          "e7d6": {
+            "b1a2": {
+              "e2a2": {
+                "e6a2": {
+                  "h7h6": "win"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 17,
+  "enabled": true
+}

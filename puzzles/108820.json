@@ -1,0 +1,20 @@
+{
+  "id": 108820,
+  "rating": 1278,
+  "attempts": 2890,
+  "fen": "r1b1r1k1/pp1n1p1p/2pp1bp1/q4B2/3P1P2/2P2N2/PPQN1KPP/R6R w - - 0 15",
+  "color": "black",
+  "initialPly": 29,
+  "gameId": "JueyDoOi",
+  "lines": {
+    "a5f5": {
+      "c2f5": {
+        "g6f5": {
+          "h1e1": "win"
+        }
+      }
+    }
+  },
+  "vote": 50,
+  "enabled": true
+}

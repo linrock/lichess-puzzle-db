@@ -1,0 +1,28 @@
+{
+  "id": 114134,
+  "rating": 2351,
+  "attempts": 3437,
+  "fen": "5n2/ppk1q1pp/2p1B3/3p1Q2/7P/2P3P1/P1P2P2/6K1 w - - 1 27",
+  "color": "black",
+  "initialPly": 53,
+  "gameId": "TG85d0oL",
+  "lines": {
+    "c7b6": {
+      "e5e3": {
+        "d5d4": {
+          "e3d4": {
+            "c6c5": {
+              "d4d3": {
+                "f8e6": {
+                  "d3h7": "win"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 40,
+  "enabled": true
+}

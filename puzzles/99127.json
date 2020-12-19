@@ -1,0 +1,20 @@
+{
+  "id": 99127,
+  "rating": 752,
+  "attempts": 117,
+  "fen": "6r1/p7/1p2k3/2p1pn2/3pN2p/P2P1K2/1PP2P2/7R b - - 5 42",
+  "color": "white",
+  "initialPly": 84,
+  "gameId": "QrowRzRB",
+  "lines": {
+    "e4f6": {
+      "d5e6": {
+        "f6g8": {
+          "e6f7": "win"
+        }
+      }
+    }
+  },
+  "vote": 2,
+  "enabled": true
+}

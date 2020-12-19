@@ -1,0 +1,24 @@
+{
+  "id": 104288,
+  "rating": 1250,
+  "attempts": 2799,
+  "fen": "rn3rk1/p1pp1pp1/1p2pq2/6p1/3P4/2PB1P2/P1P1QP1P/R3K1R1 b Q - 2 12",
+  "color": "white",
+  "initialPly": 24,
+  "gameId": "GiypPTr6",
+  "lines": {
+    "e2e4": {
+      "f8d8": {
+        "e4a8": {
+          "b8c6": {
+            "a8b7": {
+              "c5d4": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 63,
+  "enabled": true
+}

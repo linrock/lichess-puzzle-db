@@ -1,0 +1,24 @@
+{
+  "id": 62224,
+  "rating": 2020,
+  "attempts": 187273,
+  "fen": "rnbqk2r/pp3p2/3bpn2/1B1pN2p/3P2p1/2P3B1/PP3PPP/RN1QK2R b KQkq - 1 11",
+  "color": "white",
+  "initialPly": 22,
+  "gameId": "mI7COPOc",
+  "lines": {
+    "e5d7": {
+      "b8d7": {
+        "g3d6": {
+          "d8b6": {
+            "b5d7": {
+              "f6d7": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 2691,
+  "enabled": true
+}

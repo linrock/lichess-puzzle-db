@@ -1,0 +1,24 @@
+{
+  "id": 81655,
+  "rating": 1669,
+  "attempts": 19502,
+  "fen": "6k1/1pp1r1b1/8/3Pp3/4NqP1/r7/P3Q1K1/R3R3 w - - 1 36",
+  "color": "black",
+  "initialPly": 71,
+  "gameId": "utiumi7V",
+  "lines": {
+    "a3e3": {
+      "f1f4": {
+        "e3e2": {
+          "f4f2": {
+            "e2e4": {
+              "g2f3": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 443,
+  "enabled": true
+}

@@ -1,0 +1,28 @@
+{
+  "id": 63706,
+  "rating": 2799,
+  "attempts": 7145,
+  "fen": "7k/5p1p/p1b2n2/1p3Nq1/2pBP3/P1P4P/1PBb4/1Q3K2 b - - 4 34",
+  "color": "white",
+  "initialPly": 68,
+  "gameId": "ADvMRw5K",
+  "lines": {
+    "b1d1": {
+      "g5f4": {
+        "f1g1": {
+          "h8h7": {
+            "d4f6": {
+              "d2e3": {
+                "f5e3": {
+                  "f4e3": "win"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 69,
+  "enabled": true
+}

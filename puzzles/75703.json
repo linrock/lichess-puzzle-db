@@ -1,0 +1,22 @@
+{
+  "id": 75703,
+  "rating": 1250,
+  "attempts": 152019,
+  "fen": "8/8/4R3/ppkp4/8/PPP5/2K1p3/5r2 b - - 4 51",
+  "color": "white",
+  "initialPly": 102,
+  "gameId": "n5BfsvsP",
+  "lines": {
+    "b3b4": {
+      "a5b4": {
+        "a3b4": {
+          "c5c4": {
+            "e6c6": "win"
+          }
+        }
+      }
+    }
+  },
+  "vote": 2443,
+  "enabled": true
+}

@@ -1,0 +1,24 @@
+{
+  "id": 84979,
+  "rating": 900,
+  "attempts": 478,
+  "fen": "1Q6/5k1p/p1r1pq2/1p3pp1/3P4/PP4PP/4R1K1/8 b - - 2 42",
+  "color": "white",
+  "initialPly": 84,
+  "gameId": "QKsShp48",
+  "lines": {
+    "b8b7": {
+      "f7f6": {
+        "b7c6": {
+          "d4d5": {
+            "c6d5": {
+              "e6d5": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 15,
+  "enabled": true
+}

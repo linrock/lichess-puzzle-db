@@ -1,0 +1,28 @@
+{
+  "id": 79282,
+  "rating": 1409,
+  "attempts": 13006,
+  "fen": "r1bqr1k1/pp4pp/2n1pp2/3pn3/2p4P/2P1PNB1/PPB2PP1/R2QK2R w KQ - 0 14",
+  "color": "black",
+  "initialPly": 27,
+  "gameId": "LysoD6hl",
+  "lines": {
+    "g8h7": {
+      "g3e5": {
+        "c6e5": {
+          "f3e5": {
+            "f6e5": {
+              "d1h5": {
+                "h7g8": {
+                  "h5e5": "win"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": -605,
+  "enabled": true
+}

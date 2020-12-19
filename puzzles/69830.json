@@ -1,0 +1,28 @@
+{
+  "id": 69830,
+  "rating": 2319,
+  "attempts": 9468,
+  "fen": "r1b5/ppqn2p1/2p2rk1/4ppN1/3P2PP/2P2Q2/PP3P2/3R1RK1 b - - 0 19",
+  "color": "white",
+  "initialPly": 38,
+  "gameId": "LDepemXO",
+  "lines": {
+    "f3e4": {
+      "f6f5": {
+        "g5e6": {
+          "d7f6": {
+            "e4f5": {
+              "g6f5": {
+                "e6c7": {
+                  "a8b8": "win"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 118,
+  "enabled": true
+}

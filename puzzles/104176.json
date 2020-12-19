@@ -1,0 +1,24 @@
+{
+  "id": 104176,
+  "rating": 1030,
+  "attempts": 703,
+  "fen": "6k1/4n1p1/p3P3/3p2NP/1P5K/r5P1/8/3R4 w - - 0 45",
+  "color": "black",
+  "initialPly": 89,
+  "gameId": "sElrcp2D",
+  "lines": {
+    "e7f5": {
+      "h4g4": {
+        "f5d4": {
+          "e6e7": {
+            "a3e3": {
+              "g5h3": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 25,
+  "enabled": true
+}

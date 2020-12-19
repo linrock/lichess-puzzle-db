@@ -1,0 +1,32 @@
+{
+  "id": 86222,
+  "rating": 2457,
+  "attempts": 3099,
+  "fen": "1k4r1/1pp2p2/p7/2p2Qpp/4P3/2P2P1P/PP2q1P1/3R3K w - - 7 27",
+  "color": "black",
+  "initialPly": 53,
+  "gameId": "ANJoLCx4",
+  "lines": {
+    "e2e1": {
+      "h1h2": {
+        "g5g4": {
+          "f3g4": {
+            "h5g4": {
+              "h3g4": {
+                "g8h8": {
+                  "f5h5": {
+                    "h8h5": {
+                      "g4h5": "win"
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 82,
+  "enabled": true
+}

@@ -1,0 +1,24 @@
+{
+  "id": 73089,
+  "rating": 1194,
+  "attempts": 27426,
+  "fen": "2r2r1k/2B3p1/p4q1p/4p3/P3P3/8/1P4PP/R3QNK1 w - - 1 25",
+  "color": "black",
+  "initialPly": 49,
+  "gameId": "eGahsEny",
+  "lines": {
+    "c8c7": {
+      "c1c7": {
+        "f6b6": {
+          "f1e3": {
+            "b6c7": {
+              "h2h3": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 201,
+  "enabled": true
+}

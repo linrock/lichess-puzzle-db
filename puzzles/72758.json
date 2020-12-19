@@ -1,0 +1,24 @@
+{
+  "id": 72758,
+  "rating": 1668,
+  "attempts": 101357,
+  "fen": "rn1qkb1r/pp3ppp/2p1pn2/3p4/3Pb2N/4P3/PPP1BPPP/RNBQ1RK1 w kq - 4 7",
+  "color": "black",
+  "initialPly": 13,
+  "gameId": "ENNutcMi",
+  "lines": {
+    "g7g5": {
+      "f3e4": {
+        "d5e4": {
+          "h4f3": {
+            "e4f3": {
+              "d1f3": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 753,
+  "enabled": true
+}

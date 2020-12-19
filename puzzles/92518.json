@@ -1,0 +1,24 @@
+{
+  "id": 92518,
+  "rating": 1509,
+  "attempts": 10291,
+  "fen": "r3kn2/1pp1q3/p2p2p1/P2Pp2p/4P3/4B1bB/1PP3Q1/2KR4 b - - 1 30",
+  "color": "white",
+  "initialPly": 60,
+  "gameId": "HasTwiKA",
+  "lines": {
+    "d1h1": {
+      "g3f4": {
+        "h3d7": {
+          "e8d7": {
+            "h1h4": {
+              "f4e3": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 195,
+  "enabled": true
+}

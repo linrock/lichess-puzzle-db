@@ -1,0 +1,24 @@
+{
+  "id": 68357,
+  "rating": 1757,
+  "attempts": 43364,
+  "fen": "r4rk1/1p1qBpbp/1n1Pp1p1/n1p1P3/2P1Q1P1/pP3N2/P6P/1BKR3R b - - 6 23",
+  "color": "white",
+  "initialPly": 46,
+  "gameId": "dmxLdLCr",
+  "lines": {
+    "a2b3": {
+      "a3a2": {
+        "b1a2": {
+          "a8a2": {
+            "e7f8": {
+              "g8f8": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": -136,
+  "enabled": true
+}

@@ -1,0 +1,24 @@
+{
+  "id": 75397,
+  "rating": 1929,
+  "attempts": 18783,
+  "fen": "7r/1pk1qp2/1np1ppp1/1rN5/3P2P1/2P4P/Q2K1P2/1R5R b - - 9 30",
+  "color": "white",
+  "initialPly": 60,
+  "gameId": "ThrzSIlf",
+  "lines": {
+    "h1b1": {
+      "h8a8": {
+        "a2b3": {
+          "b6c4": {
+            "b3c4": {
+              "b7b5": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 284,
+  "enabled": true
+}

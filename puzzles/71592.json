@@ -1,0 +1,32 @@
+{
+  "id": 71592,
+  "rating": 2614,
+  "attempts": 565,
+  "fen": "4r1k1/2p5/1p1p4/p2P1pn1/P1PQ3p/1P4qP/6PN/R3rR1K w - - 0 41",
+  "color": "black",
+  "initialPly": 81,
+  "gameId": "ZBLOG5B1",
+  "lines": {
+    "g5e4": {
+      "f6f5": {
+        "g3g7": {
+          "a1e1": {
+            "e4g3": {
+              "h1g1": {
+                "e8e1": {
+                  "f5d3": {
+                    "g3f1": {
+                      "h2f1": "win"
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 5,
+  "enabled": true
+}

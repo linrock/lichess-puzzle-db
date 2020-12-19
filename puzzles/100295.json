@@ -1,0 +1,36 @@
+{
+  "id": 100295,
+  "rating": 2632,
+  "attempts": 550,
+  "fen": "1r2r3/bpk1nppp/p4q2/P1pPn3/5B2/8/1RNQB1PP/1R4K1 b - - 1 27",
+  "color": "white",
+  "initialPly": 54,
+  "gameId": "DuZVIBvs",
+  "lines": {
+    "d5d6": {
+      "f6d6": {
+        "b2b7": {
+          "c7c6": {
+            "f4e5": {
+              "g6e5": {
+                "d2d6": {
+                  "c6d6": {
+                    "b1d1": {
+                      "d6c6": {
+                        "b7a7": {
+                          "b8a8": "win"
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 0,
+  "enabled": true
+}

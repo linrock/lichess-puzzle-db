@@ -1,0 +1,28 @@
+{
+  "id": 114173,
+  "rating": 1628,
+  "attempts": 47268,
+  "fen": "r3nrk1/1p3ppp/p2p1q2/4p3/8/BP2P2P/P2Q1PP1/R2R2K1 w - - 5 20",
+  "color": "black",
+  "initialPly": 39,
+  "gameId": "ESqieFEg",
+  "lines": {
+    "a8d8": {
+      "d6e5": {
+        "d8d2": {
+          "e5f6": {
+            "d2d1": {
+              "a1d1": {
+                "e8f6": {
+                  "d1c1": "win"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 259,
+  "enabled": true
+}

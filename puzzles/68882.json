@@ -1,0 +1,28 @@
+{
+  "id": 68882,
+  "rating": 2495,
+  "attempts": 2736,
+  "fen": "3R4/2p2bpk/1p3p1p/4pPP1/r1P1P2P/4Q3/q5BK/8 b - - 0 34",
+  "color": "white",
+  "initialPly": 68,
+  "gameId": "mGHM4sA8",
+  "lines": {
+    "h4g5": {
+      "a4a3": {
+        "g5g6": {
+          "f7g6": {
+            "f5g6": {
+              "h7g6": {
+                "e3e1": {
+                  "a2b3": "win"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": -70,
+  "enabled": true
+}

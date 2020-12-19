@@ -1,0 +1,24 @@
+{
+  "id": 120259,
+  "rating": 1591,
+  "attempts": 10109,
+  "fen": "r3r1k1/p4ppp/2p1pq2/2P2n2/1R3BQ1/P7/1P3PPP/4R1K1 b - - 22 35",
+  "color": "white",
+  "initialPly": 70,
+  "gameId": "RD67IHBO",
+  "lines": {
+    "f4g5": {
+      "f6g6": {
+        "g5d8": {
+          "g6g4": {
+            "b4g4": {
+              "a8d8": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 171,
+  "enabled": true
+}

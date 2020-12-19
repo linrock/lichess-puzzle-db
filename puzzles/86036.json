@@ -1,0 +1,24 @@
+{
+  "id": 86036,
+  "rating": 1706,
+  "attempts": 18077,
+  "fen": "r2qkb1r/1p2pppp/p1b2n2/2p1N3/8/2P5/PP1P1PPP/RNBQR1K1 b kq - 0 9",
+  "color": "white",
+  "initialPly": 18,
+  "gameId": "mztvTSgp",
+  "lines": {
+    "e1e4": {
+      "f6e4": {
+        "d1a4": {
+          "b7b5": {
+            "a4e4": {
+              "d8c8": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 312,
+  "enabled": true
+}

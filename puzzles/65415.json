@@ -1,0 +1,24 @@
+{
+  "id": 65415,
+  "rating": 1822,
+  "attempts": 72931,
+  "fen": "5rk1/1p2q1p1/8/5p2/3R1Pp1/rp6/1Q3PK1/3R4 b - - 0 33",
+  "color": "white",
+  "initialPly": 66,
+  "gameId": "EGcLKnGC",
+  "lines": {
+    "d4d7": {
+      "e7e4": {
+        "g2g1": {
+          "f8f6": {
+            "b2a3": {
+              "e4f4": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 913,
+  "enabled": true
+}

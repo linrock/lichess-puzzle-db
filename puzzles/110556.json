@@ -1,0 +1,24 @@
+{
+  "id": 110556,
+  "rating": 2053,
+  "attempts": 6560,
+  "fen": "1r1q1rk1/1b3pb1/2n1p1pn/p1ppP3/1p3PNP/3P1N1B/PPP4K/R1BQ1R2 b - - 0 18",
+  "color": "white",
+  "initialPly": 36,
+  "gameId": "CwBDGJ75",
+  "lines": {
+    "g4h6": {
+      "g7h6": {
+        "f4f5": {
+          "e7f5": {
+            "h3f5": {
+              "h6g7": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": -118,
+  "enabled": true
+}

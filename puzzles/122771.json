@@ -1,0 +1,24 @@
+{
+  "id": 122771,
+  "rating": 2902,
+  "attempts": 61,
+  "fen": "2r1k1r1/p2p1p1N/4pQ2/4Pn2/4R3/q6P/P4PP1/R5K1 w - - 1 24",
+  "color": "black",
+  "initialPly": 47,
+  "gameId": "VGPgGkKP",
+  "lines": {
+    "a3f3": {
+      "e4g4": {
+        "f3d1": {
+          "g1h2": {
+            "g8f8": {
+              "g4f4": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": -1,
+  "enabled": true
+}

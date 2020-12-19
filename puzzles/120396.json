@@ -1,0 +1,24 @@
+{
+  "id": 120396,
+  "rating": 1434,
+  "attempts": 4485,
+  "fen": "2r1r1k1/p2b1ppp/1pnq1b2/3p4/3P4/1P1QBN2/P4PPP/R3NRK1 w - - 7 20",
+  "color": "black",
+  "initialPly": 39,
+  "gameId": "NeuQKrqe",
+  "lines": {
+    "c6b4": {
+      "c1c8": {
+        "b4d3": {
+          "c8e8": {
+            "d7e8": {
+              "e1d3": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 71,
+  "enabled": true
+}

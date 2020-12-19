@@ -1,0 +1,24 @@
+{
+  "id": 76750,
+  "rating": 2069,
+  "attempts": 15904,
+  "fen": "2rr4/1b3pkp/4pnp1/p2p1P2/3Q2Pq/1PN4P/P3P1B1/R4RK1 w - - 0 22",
+  "color": "black",
+  "initialPly": 43,
+  "gameId": "NsBg24Dt",
+  "lines": {
+    "e6e5": {
+      "d4e5": {
+        "d5d4": {
+          "f3f2": {
+            "b7g2": {
+              "f5g6": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 320,
+  "enabled": true
+}

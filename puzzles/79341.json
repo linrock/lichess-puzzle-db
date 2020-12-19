@@ -1,0 +1,28 @@
+{
+  "id": 79341,
+  "rating": 1747,
+  "attempts": 20286,
+  "fen": "3q1rk1/4pp1p/bn1p2p1/2pP4/2P5/6P1/Q2NPPBP/5RK1 b - - 4 20",
+  "color": "white",
+  "initialPly": 40,
+  "gameId": "E2So322G",
+  "lines": {
+    "f1a1": {
+      "a6c4": {
+        "a2a8": {
+          "f8a8": {
+            "a1a8": {
+              "b6a8": {
+                "d2c4": {
+                  "f7f5": "win"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 384,
+  "enabled": true
+}

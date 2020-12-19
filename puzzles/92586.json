@@ -1,0 +1,24 @@
+{
+  "id": 92586,
+  "rating": 1455,
+  "attempts": 12842,
+  "fen": "r2q1rk1/3bbppp/2nppn2/p2P4/1p2P3/5NN1/PP2BPPP/R1BQR1K1 b - - 0 13",
+  "color": "white",
+  "initialPly": 26,
+  "gameId": "bumdsS3I",
+  "lines": {
+    "f3e5": {
+      "d6e5": {
+        "d5d6": {
+          "d7c6": {
+            "d6e7": {
+              "d8e7": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 273,
+  "enabled": true
+}

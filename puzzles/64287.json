@@ -1,0 +1,24 @@
+{
+  "id": 64287,
+  "rating": 1844,
+  "attempts": 111282,
+  "fen": "3r2k1/pppq1pp1/2nbr3/4p2Q/4N3/1P1PR1P1/PBP2P1P/R5K1 b - - 2 17",
+  "color": "white",
+  "initialPly": 34,
+  "gameId": "F26Gevrt",
+  "lines": {
+    "h5h6": {
+      "g7h6": {
+        "e4f6": {
+          "g8g7": {
+            "f6d7": {
+              "d8d7": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 1511,
+  "enabled": true
+}

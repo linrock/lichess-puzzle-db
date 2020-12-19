@@ -1,0 +1,28 @@
+{
+  "id": 78842,
+  "rating": 2341,
+  "attempts": 6586,
+  "fen": "6Q1/p3p2r/2n1P2p/k2p4/8/B2q1p1P/1R4PK/8 w - - 2 37",
+  "color": "black",
+  "initialPly": 73,
+  "gameId": "Me90ELD9",
+  "lines": {
+    "d3a3": {
+      "a8b7": {
+        "a3d6": {
+          "g2g3": {
+            "c6b4": {
+              "b7a7": {
+                "a5b5": {
+                  "a7e3": "win"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 114,
+  "enabled": true
+}

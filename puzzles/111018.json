@@ -1,0 +1,22 @@
+{
+  "id": 111018,
+  "rating": 816,
+  "attempts": 201,
+  "fen": "1r4k1/p5pp/2q2p2/8/Q1bR4/2P2N2/P4PPP/6K1 w - - 1 30",
+  "color": "black",
+  "initialPly": 59,
+  "gameId": "vppmbCXb",
+  "lines": {
+    "b8b1": {
+      "d4d1": {
+        "b1d1": {
+          "f3e1": {
+            "d1e1": "win"
+          }
+        }
+      }
+    }
+  },
+  "vote": 9,
+  "enabled": true
+}

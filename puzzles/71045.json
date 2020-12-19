@@ -1,0 +1,28 @@
+{
+  "id": 71045,
+  "rating": 1372,
+  "attempts": 65244,
+  "fen": "6k1/6p1/7p/3pN3/3Pp1PP/R3P3/5q2/3K4 b - - 11 45",
+  "color": "white",
+  "initialPly": 90,
+  "gameId": "loGgtJLL",
+  "lines": {
+    "a3a8": {
+      "g8h7": {
+        "a8h8": {
+          "h7h8": {
+            "e5g6": {
+              "h8g8": {
+                "g6h4": {
+                  "g8f7": "win"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 504,
+  "enabled": true
+}

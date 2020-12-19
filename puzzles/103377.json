@@ -1,0 +1,20 @@
+{
+  "id": 103377,
+  "rating": 910,
+  "attempts": 105,
+  "fen": "3R4/4r1k1/4p1p1/pr5p/4R2P/1Pn2N2/P4PP1/6K1 w - - 11 36",
+  "color": "black",
+  "initialPly": 71,
+  "gameId": "nxJhMCAp",
+  "lines": {
+    "c3e2": {
+      "g1h2": {
+        "e2f4": {
+          "h2g3": "win"
+        }
+      }
+    }
+  },
+  "vote": 5,
+  "enabled": true
+}

@@ -1,0 +1,20 @@
+{
+  "id": 68622,
+  "rating": 1236,
+  "attempts": 63582,
+  "fen": "7k/7p/p2p1p1q/3P2p1/1Q5P/5PPK/PP2r3/R7 w - - 0 32",
+  "color": "black",
+  "initialPly": 63,
+  "gameId": "RBCVXPIX",
+  "lines": {
+    "g5g4": {
+      "b4g4": {
+        "h6c1": {
+          "g4f5": "win"
+        }
+      }
+    }
+  },
+  "vote": 354,
+  "enabled": true
+}

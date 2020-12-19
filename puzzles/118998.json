@@ -1,0 +1,24 @@
+{
+  "id": 118998,
+  "rating": 1998,
+  "attempts": 6125,
+  "fen": "B4k2/4Nppp/p2Pp3/2n1P3/5B2/8/2p2PPP/1r2R1K1 w - - 1 35",
+  "color": "black",
+  "initialPly": 69,
+  "gameId": "1OgamajQ",
+  "lines": {
+    "c5d3": {
+      "f1e2": {
+        "d3f4": {
+          "e2d2": {
+            "b1e1": {
+              "d2c2": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 122,
+  "enabled": true
+}

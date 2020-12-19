@@ -1,0 +1,32 @@
+{
+  "id": 76452,
+  "rating": 2585,
+  "attempts": 1576,
+  "fen": "5r1k/pp6/3R3p/4pr2/5ppq/2B2Q2/PP3P2/4RK2 w - - 0 27",
+  "color": "black",
+  "initialPly": 53,
+  "gameId": "LSPdvWqo",
+  "lines": {
+    "f4f3": {
+      "f1g1": {
+        "h4h3": {
+          "d6h6": {
+            "h3h6": {
+              "e1e5": {
+                "h6c1": {
+                  "d5d1": {
+                    "c1d1": {
+                      "e5e1": "win"
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 42,
+  "enabled": true
+}

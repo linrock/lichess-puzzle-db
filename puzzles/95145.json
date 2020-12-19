@@ -1,0 +1,28 @@
+{
+  "id": 95145,
+  "rating": 1834,
+  "attempts": 11050,
+  "fen": "r1b4r/pp3k1p/4p2b/2np4/3n1N2/8/PP1N1PPP/RBB2RK1 w - - 4 16",
+  "color": "black",
+  "initialPly": 31,
+  "gameId": "nWNawnGu",
+  "lines": {
+    "d4e2": {
+      "g1h1": {
+        "c5d3": {
+          "b1d3": {
+            "e2c1": {
+              "a1c1": {
+                "h6d2": {
+                  "c1d1": "win"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 269,
+  "enabled": true
+}

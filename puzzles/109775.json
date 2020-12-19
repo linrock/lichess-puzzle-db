@@ -1,0 +1,24 @@
+{
+  "id": 109775,
+  "rating": 1142,
+  "attempts": 1364,
+  "fen": "1r3rk1/pp3ppp/2n2q2/5B2/8/8/P1P2PPP/1R1QR1K1 w - - 0 17",
+  "color": "black",
+  "initialPly": 33,
+  "gameId": "KX35Luff",
+  "lines": {
+    "c6d4": {
+      "f5h7": {
+        "g8h7": {
+          "f3f6": {
+            "g7f6": {
+              "e1e7": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 36,
+  "enabled": true
+}

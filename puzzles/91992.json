@@ -1,0 +1,24 @@
+{
+  "id": 91992,
+  "rating": 2014,
+  "attempts": 98103,
+  "fen": "7k/6p1/q4p1p/p1r1p3/P7/2b2PB1/2Q2NPP/2R3K1 w - - 7 38",
+  "color": "black",
+  "initialPly": 75,
+  "gameId": "S5dMZRET",
+  "lines": {
+    "c3e1": {
+      "c2d3": {
+        "c5c1": {
+          "d3d8": {
+            "h8h7": {
+              "d8d3": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 434,
+  "enabled": true
+}

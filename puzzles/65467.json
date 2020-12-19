@@ -1,0 +1,24 @@
+{
+  "id": 65467,
+  "rating": 2105,
+  "attempts": 57892,
+  "fen": "2k2q2/p1prn1b1/1p1p2p1/6Bp/PPR1P3/3P3P/2Q1B1P1/7K b - - 0 26",
+  "color": "white",
+  "initialPly": 52,
+  "gameId": "sAmoRvEC",
+  "lines": {
+    "c4c7": {
+      "d7c7": {
+        "e2g4": {
+          "h5g4": {
+            "c2f2": {
+              "c8b8": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 893,
+  "enabled": true
+}

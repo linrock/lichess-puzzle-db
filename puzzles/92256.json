@@ -1,0 +1,20 @@
+{
+  "id": 92256,
+  "rating": 1371,
+  "attempts": 6110,
+  "fen": "2B5/5kb1/3p2p1/3N3p/P3P1n1/6K1/5P2/8 b - - 0 33",
+  "color": "white",
+  "initialPly": 66,
+  "gameId": "advPV86S",
+  "lines": {
+    "f2f4": {
+      "g6g5": {
+        "f4e5": {
+          "g4e5": "win"
+        }
+      }
+    }
+  },
+  "vote": 66,
+  "enabled": true
+}

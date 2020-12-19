@@ -1,0 +1,28 @@
+{
+  "id": 125220,
+  "rating": 2902,
+  "attempts": 343,
+  "fen": "qr1r1bk1/2R2ppp/2npp3/1N3P2/4N3/1P2Q1P1/P6P/5RK1 b - - 0 31",
+  "color": "white",
+  "initialPly": 62,
+  "gameId": "BJF12xnT",
+  "lines": {
+    "e3g5": {
+      "h7h6": {
+        "g5h5": {
+          "c6e7": {
+            "b5d6": {
+              "d8d6": {
+                "e4d6": {
+                  "f7f6": "win"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 8,
+  "enabled": true
+}

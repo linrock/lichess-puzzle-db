@@ -1,0 +1,24 @@
+{
+  "id": 64811,
+  "rating": 2129,
+  "attempts": 51878,
+  "fen": "2rq1rk1/p4ppp/1p2pb2/1Pp1n3/P1P1B3/1Q1PB3/5PPP/3R1RK1 b - - 2 18",
+  "color": "white",
+  "initialPly": 36,
+  "gameId": "MkGWQB37",
+  "lines": {
+    "e3g5": {
+      "d8g5": {
+        "f2f4": {
+          "g5h5": {
+            "f4e5": {
+              "h5e5": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 857,
+  "enabled": true
+}

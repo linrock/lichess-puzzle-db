@@ -1,0 +1,24 @@
+{
+  "id": 97181,
+  "rating": 2060,
+  "attempts": 4768,
+  "fen": "2rr2k1/1pNRbppp/p1n1p1n1/4P3/2P5/P4BB1/1P3PPP/R5K1 w - - 1 18",
+  "color": "black",
+  "initialPly": 35,
+  "gameId": "faKl4Jep",
+  "lines": {
+    "d8d7": {
+      "d1d7": {
+        "g6f8": {
+          "d7d1": {
+            "c8c7": {
+              "b2b4": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 128,
+  "enabled": true
+}

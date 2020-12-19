@@ -1,0 +1,24 @@
+{
+  "id": 83839,
+  "rating": 2093,
+  "attempts": 11854,
+  "fen": "8/5qkp/3n2p1/p1pP2P1/Pp1r4/6QB/7P/4R1K1 b - - 2 32",
+  "color": "white",
+  "initialPly": 64,
+  "gameId": "TL88PlVp",
+  "lines": {
+    "h3e6": {
+      "d4d3": {
+        "e6d5": {
+          "d3g3": {
+            "h2g3": {
+              "c5c4": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 214,
+  "enabled": true
+}

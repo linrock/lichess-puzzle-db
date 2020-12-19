@@ -1,0 +1,23 @@
+{
+  "id": 65397,
+  "rating": 1400,
+  "attempts": 36461,
+  "fen": "r1bqk2r/ppp1bpp1/2np3p/4p3/4n2N/2NP4/PPP1BPPP/R1BQ1RK1 w kq - 0 8",
+  "color": "black",
+  "initialPly": 15,
+  "gameId": "ys7666tG",
+  "lines": {
+    "e4c3": {
+      "f5g7": {
+        "e8f8": {
+          "b2c3": {
+            "f8g7": {
+              "f2f4": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": -979
+}

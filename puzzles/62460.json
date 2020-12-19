@@ -1,0 +1,28 @@
+{
+  "id": 62460,
+  "rating": 2069,
+  "attempts": 158629,
+  "fen": "1rb2rk1/5pp1/p5np/1p1Pq3/4P3/3BQ2P/3N1PP1/RR4K1 b - - 1 25",
+  "color": "white",
+  "initialPly": 50,
+  "gameId": "UMHdelFF",
+  "lines": {
+    "d2f3": {
+      "e5d6": {
+        "e4e5": {
+          "d6d5": {
+            "d3e4": {
+              "f4h3": {
+                "g2h3": {
+                  "d5e6": "win"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 2887,
+  "enabled": true
+}

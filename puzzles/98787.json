@@ -1,0 +1,24 @@
+{
+  "id": 98787,
+  "rating": 922,
+  "attempts": 173,
+  "fen": "2N2k2/6p1/2N1Pn1p/1p6/2p4P/3n1PP1/rPR3K1/8 w - - 1 44",
+  "color": "black",
+  "initialPly": 87,
+  "gameId": "BGWTxcve",
+  "lines": {
+    "d3e1": {
+      "g2h3": {
+        "e1c2": {
+          "e6e7": {
+            "f8g8": {
+              "g3g4": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 7,
+  "enabled": true
+}

@@ -1,0 +1,24 @@
+{
+  "id": 95345,
+  "rating": 2280,
+  "attempts": 4141,
+  "fen": "7R/6R1/4kp2/4p3/7P/3r2PK/8/5r2 w - - 2 45",
+  "color": "black",
+  "initialPly": 89,
+  "gameId": "VrEYROjG",
+  "lines": {
+    "e6f5": {
+      "h8f8": {
+        "d3d2": {
+          "f8f6": {
+            "f5f6": {
+              "g7g6": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 76,
+  "enabled": true
+}

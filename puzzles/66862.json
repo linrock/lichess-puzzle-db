@@ -1,0 +1,24 @@
+{
+  "id": 66862,
+  "rating": 1447,
+  "attempts": 34029,
+  "fen": "r1b2rk1/2qpbpp1/p1n2n1p/1p2p3/3NPB2/P1N5/1PPQBPPP/3R1RK1 w - - 0 13",
+  "color": "black",
+  "initialPly": 25,
+  "gameId": "TX8ksFIl",
+  "lines": {
+    "c6d4": {
+      "d2d4": {
+        "e5d4": {
+          "g3c7": {
+            "d4c3": {
+              "e4e5": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 336,
+  "enabled": true
+}

@@ -1,0 +1,24 @@
+{
+  "id": 112316,
+  "rating": 1423,
+  "attempts": 25014,
+  "fen": "r6r/2k1bppp/ppb1pn2/4R1B1/P1B5/2N5/1PP2PPP/3R2K1 b - - 0 15",
+  "color": "white",
+  "initialPly": 30,
+  "gameId": "YajDPhlw",
+  "lines": {
+    "g5e7": {
+      "g4e5": {
+        "e7d6": {
+          "c7b7": {
+            "d6e5": {
+              "f7f6": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 142,
+  "enabled": true
+}

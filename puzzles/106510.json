@@ -1,0 +1,24 @@
+{
+  "id": 106510,
+  "rating": 1646,
+  "attempts": 27482,
+  "fen": "4N3/5p2/1rp1p1n1/p2pPk1p/P2P1P2/1P1R1K2/7P/8 b - - 9 44",
+  "color": "white",
+  "initialPly": 88,
+  "gameId": "DSEZp0Rt",
+  "lines": {
+    "e8d6": {
+      "f5g5": {
+        "h2h4": {
+          "g5h4": {
+            "f3f4": {
+              "b6b8": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 196,
+  "enabled": true
+}

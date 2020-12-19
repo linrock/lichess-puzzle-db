@@ -1,0 +1,24 @@
+{
+  "id": 111069,
+  "rating": 2476,
+  "attempts": 1087,
+  "fen": "2r3k1/5p2/p2pqp2/1p1P3Q/8/5P2/1r3BPP/5RK1 b - - 0 34",
+  "color": "white",
+  "initialPly": 68,
+  "gameId": "xKE32jef",
+  "lines": {
+    "f2d4": {
+      "c8c2": {
+        "g1h1": {
+          "c2g2": {
+            "d4b2": {
+              "g2g5": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 30,
+  "enabled": true
+}

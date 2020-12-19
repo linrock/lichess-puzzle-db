@@ -1,0 +1,24 @@
+{
+  "id": 83318,
+  "rating": 924,
+  "attempts": 761,
+  "fen": "3r2k1/3qbppp/pQ1B4/1p6/4r3/P2R3P/1P3PP1/3R2K1 b - - 0 20",
+  "color": "white",
+  "initialPly": 40,
+  "gameId": "Nw3Nboai",
+  "lines": {
+    "d3d6": {
+      "d7d6": {
+        "d1d6": {
+          "e4e1": {
+            "g1h2": {
+              "d8e8": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 29,
+  "enabled": true
+}

@@ -1,0 +1,28 @@
+{
+  "id": 63217,
+  "rating": 1884,
+  "attempts": 125004,
+  "fen": "2r5/5pk1/4p1p1/8/2P2bR1/4NP2/Pq3P2/3Q1K2 b - - 3 40",
+  "color": "white",
+  "initialPly": 80,
+  "gameId": "JEvuWeVc",
+  "lines": {
+    "e3f5": {
+      "g7f6": {
+        "d1d6": {
+          "f6f5": {
+            "d6d7": {
+              "f5f6": {
+                "d7c8": {
+                  "g6g5": "win"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 2502,
+  "enabled": true
+}

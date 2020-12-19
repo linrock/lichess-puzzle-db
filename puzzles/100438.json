@@ -1,0 +1,24 @@
+{
+  "id": 100438,
+  "rating": 1846,
+  "attempts": 10132,
+  "fen": "5rk1/4pp2/1r1p3p/3P2pn/1qR5/4P1B1/1n1N1PPP/1RQ3K1 b - - 0 27",
+  "color": "white",
+  "initialPly": 54,
+  "gameId": "NSQgvndi",
+  "lines": {
+    "c4c3": {
+      "a3a8": {
+        "b1b2": {
+          "b6b2": {
+            "c1b2": {
+              "f8b8": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 109,
+  "enabled": true
+}

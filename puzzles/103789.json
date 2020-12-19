@@ -1,0 +1,24 @@
+{
+  "id": 103789,
+  "rating": 1414,
+  "attempts": 6300,
+  "fen": "1r4k1/1p1nb1pp/1q2p2r/p1p1Np2/PnP2P2/1P1P4/1B2QNPP/R3R2K b - - 4 19",
+  "color": "white",
+  "initialPly": 38,
+  "gameId": "Jw04JOIf",
+  "lines": {
+    "e2e5": {
+      "h6f6": {
+        "e5b8": {
+          "f6f8": {
+            "b8e5": {
+              "f8f6": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 150,
+  "enabled": true
+}

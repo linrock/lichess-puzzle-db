@@ -1,0 +1,24 @@
+{
+  "id": 105429,
+  "rating": 1953,
+  "attempts": 6824,
+  "fen": "r2b1r1k/3b3p/2p3q1/p1p1pp1R/P2pP2Q/1P1P3P/2PB2PN/5RK1 w - - 0 32",
+  "color": "black",
+  "initialPly": 63,
+  "gameId": "lceCps2d",
+  "lines": {
+    "f8f5": {
+      "h5h7": {
+        "g6h7": {
+          "h4h7": {
+            "h8h7": {
+              "h2f3": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 93,
+  "enabled": true
+}

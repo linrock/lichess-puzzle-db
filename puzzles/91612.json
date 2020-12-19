@@ -1,0 +1,24 @@
+{
+  "id": 91612,
+  "rating": 1370,
+  "attempts": 7556,
+  "fen": "r7/1bq2kpp/p3n3/1pp2QbP/4P3/P1N5/1PP2P2/R4K1R b - - 3 27",
+  "color": "white",
+  "initialPly": 54,
+  "gameId": "JSST2ffD",
+  "lines": {
+    "c3d5": {
+      "b7d5": {
+        "e4d5": {
+          "c7f4": {
+            "f5e6": {
+              "e7f8": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 169,
+  "enabled": true
+}

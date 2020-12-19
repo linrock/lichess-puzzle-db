@@ -1,0 +1,28 @@
+{
+  "id": 71313,
+  "rating": 2143,
+  "attempts": 125821,
+  "fen": "8/8/1p2PR1R/k5K1/8/4rP2/6r1/8 w - - 11 52",
+  "color": "black",
+  "initialPly": 103,
+  "gameId": "FheyaGkz",
+  "lines": {
+    "e3e1": {
+      "f6f4": {
+        "e1e5": {
+          "h5h4": {
+            "g2h2": {
+              "h4g3": {
+                "h2h6": {
+                  "e6e7": "win"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 499,
+  "enabled": true
+}

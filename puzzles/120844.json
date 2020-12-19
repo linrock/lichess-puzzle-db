@@ -1,0 +1,24 @@
+{
+  "id": 120844,
+  "rating": 1420,
+  "attempts": 16215,
+  "fen": "r2r2k1/3bnppp/p3p3/1q1pP3/N2Q2P1/1P3N1P/P4P2/4RRK1 w - - 1 19",
+  "color": "black",
+  "initialPly": 37,
+  "gameId": "BGvEoRNE",
+  "lines": {
+    "e7c6": {
+      "d4e3": {
+        "d5d4": {
+          "e3e4": {
+            "b5b6": {
+              "f3g5": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 125,
+  "enabled": true
+}

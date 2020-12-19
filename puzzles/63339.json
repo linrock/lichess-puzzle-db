@@ -1,0 +1,28 @@
+{
+  "id": 63339,
+  "rating": 1819,
+  "attempts": 146163,
+  "fen": "r4rk1/pp2q1p1/2b1p2p/4Q3/2pP4/2P5/PP1B2PP/4RRK1 b - - 2 23",
+  "color": "white",
+  "initialPly": 46,
+  "gameId": "XLDG5QGY",
+  "lines": {
+    "e5d5": {
+      "f8f1": {
+        "g1f1": {
+          "e7f7": {
+            "d5f3": {
+              "f7f3": {
+                "g2f3": {
+                  "g8f7": "win"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 2400,
+  "enabled": true
+}

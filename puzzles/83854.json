@@ -1,0 +1,28 @@
+{
+  "id": 83854,
+  "rating": 2008,
+  "attempts": 15507,
+  "fen": "r2qk3/ppp2pp1/2np1nb1/2b1p1B1/2B1P1N1/2NP3r/PPP2P2/R2Q1RK1 w q - 0 12",
+  "color": "black",
+  "initialPly": 23,
+  "gameId": "KNdaeEur",
+  "lines": {
+    "h3g3": {
+      "g1h2": {
+        "g3g4": {
+          "d5f6": {
+            "g7f6": {
+              "d1g4": {
+                "f6g5": {
+                  "h2g2": "win"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 343,
+  "enabled": true
+}

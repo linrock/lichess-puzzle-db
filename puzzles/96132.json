@@ -1,0 +1,28 @@
+{
+  "id": 96132,
+  "rating": 1330,
+  "attempts": 5790,
+  "fen": "r1b1k2r/ppp2ppp/8/q2Pp3/1bPn4/8/PP1B1PPP/R2QKBNR w KQkq - 1 10",
+  "color": "black",
+  "initialPly": 19,
+  "gameId": "EaS2KrsS",
+  "lines": {
+    "a5b4": {
+      "d1d2": {
+        "d4c2": {
+          "e1d1": {
+            "b4d2": {
+              "d1d2": {
+                "c2a1": {
+                  "g1f3": "win"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 197,
+  "enabled": true
+}

@@ -1,0 +1,40 @@
+{
+  "id": 120793,
+  "rating": 2901,
+  "attempts": 91,
+  "fen": "4nrk1/6p1/3q1pQ1/1p1Pb2R/1p2P2B/2pB3P/1r4P1/3R3K b - - 1 27",
+  "color": "white",
+  "initialPly": 54,
+  "gameId": "EzPvPU7H",
+  "lines": {
+    "g6h7": {
+      "g8f7": {
+        "h5e5": {
+          "c3c2": {
+            "d3c2": {
+              "c5c2": {
+                "d1g1": {
+                  "b2b1": {
+                    "h7h5": {
+                      "f7g8": {
+                        "e5e8": {
+                          "b1g1": {
+                            "h1g1": {
+                              "b4b3": "win"
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 0,
+  "enabled": true
+}

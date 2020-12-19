@@ -1,0 +1,24 @@
+{
+  "id": 64303,
+  "rating": 1172,
+  "attempts": 39452,
+  "fen": "k1rr4/p1q1bpp1/1Pp1p1p1/B2n4/3P1PP1/Q6P/PP4B1/1K1R3R b - - 0 24",
+  "color": "white",
+  "initialPly": 48,
+  "gameId": "JFixsa1e",
+  "lines": {
+    "a5b6": {
+      "e7a3": {
+        "b6c7": {
+          "c8c7": {
+            "b2a3": {
+              "a8b7": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 295,
+  "enabled": true
+}

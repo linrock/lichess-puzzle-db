@@ -1,0 +1,24 @@
+{
+  "id": 90074,
+  "rating": 2122,
+  "attempts": 7731,
+  "fen": "6k1/2qnbppp/4p3/2p1P3/2PpBQ1P/3P1NP1/2b2PK1/1rB1R3 b - - 7 30",
+  "color": "white",
+  "initialPly": 60,
+  "gameId": "wikzMe8c",
+  "lines": {
+    "f4d2": {
+      "c2b1": {
+        "c1b2": {
+          "b1d3": {
+            "e4d3": {
+              "c7b7": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 164,
+  "enabled": true
+}

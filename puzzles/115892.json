@@ -1,0 +1,24 @@
+{
+  "id": 115892,
+  "rating": 1758,
+  "attempts": 11003,
+  "fen": "4r1k1/1p5p/p4Qb1/4p3/1P1n1P2/P5PP/q2r2BK/B3R1R1 w - - 3 30",
+  "color": "black",
+  "initialPly": 59,
+  "gameId": "Tn27SEAI",
+  "lines": {
+    "e8f8": {
+      "a1d4": {
+        "f8f6": {
+          "e5f6": {
+            "d2d4": {
+              "h2h1": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 211,
+  "enabled": true
+}

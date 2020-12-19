@@ -1,0 +1,36 @@
+{
+  "id": 85993,
+  "rating": 2329,
+  "attempts": 4688,
+  "fen": "5rk1/3PR1pp/p4p2/3r4/3p4/5P2/K5PP/3R4 b - - 0 30",
+  "color": "white",
+  "initialPly": 60,
+  "gameId": "HTWFLZ67",
+  "lines": {
+    "d1c1": {
+      "d4d3": {
+        "c1c8": {
+          "d3d2": {
+            "e7e8": {
+              "g8f7": {
+                "e8f8": {
+                  "f7g6": {
+                    "d7d8q": {
+                      "d2d1q": {
+                        "d8e8": {
+                          "g6g5": "win"
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 126,
+  "enabled": true
+}

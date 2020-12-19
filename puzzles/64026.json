@@ -1,0 +1,24 @@
+{
+  "id": 64026,
+  "rating": 2110,
+  "attempts": 143254,
+  "fen": "q4r1k/4p1bp/pp1pQn2/4n3/2P5/PP2B2P/4BPP1/2RR2K1 w - - 3 27",
+  "color": "black",
+  "initialPly": 53,
+  "gameId": "ecV63BAN",
+  "lines": {
+    "a8e4": {
+      "e3b6": {
+        "e5f3": {
+          "e2f3": {
+            "e4e6": {
+              "d1e1": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 1934,
+  "enabled": true
+}

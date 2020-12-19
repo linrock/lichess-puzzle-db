@@ -1,0 +1,20 @@
+{
+  "id": 80857,
+  "rating": 1091,
+  "attempts": 3667,
+  "fen": "r1bq1r1k/pp1n3p/2p1P3/3p2p1/4pB2/1Q4P1/PP2PPBP/R4RK1 b - - 0 15",
+  "color": "white",
+  "initialPly": 30,
+  "gameId": "7kbBoerr",
+  "lines": {
+    "b3c3": {
+      "h8g8": {
+        "c3c5": {
+          "c8e6": "win"
+        }
+      }
+    }
+  },
+  "vote": 93,
+  "enabled": true
+}

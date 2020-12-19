@@ -1,0 +1,24 @@
+{
+  "id": 72448,
+  "rating": 1444,
+  "attempts": 69732,
+  "fen": "8/4k3/8/3PpBp1/2P2nPp/5P2/1r1p3P/R5K1 w - - 0 43",
+  "color": "black",
+  "initialPly": 85,
+  "gameId": "PzlTmdn5",
+  "lines": {
+    "f4e2": {
+      "g1f1": {
+        "e2c3": {
+          "d1d2": {
+            "b2d2": {
+              "c4c5": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 380,
+  "enabled": true
+}

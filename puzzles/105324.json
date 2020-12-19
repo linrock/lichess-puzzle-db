@@ -1,0 +1,20 @@
+{
+  "id": 105324,
+  "rating": 1020,
+  "attempts": 495,
+  "fen": "r1bq1rk1/2p1bpp1/p1np1n1p/1p2p3/3PP3/1BP2N1P/PP3PP1/RNBQR1K1 b - - 1 10",
+  "color": "white",
+  "initialPly": 20,
+  "gameId": "e5GYLoil",
+  "lines": {
+    "d4d5": {
+      "e6d7": {
+        "d5c6": {
+          "d7c6": "win"
+        }
+      }
+    }
+  },
+  "vote": 19,
+  "enabled": true
+}

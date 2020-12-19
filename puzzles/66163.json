@@ -1,0 +1,32 @@
+{
+  "id": 66163,
+  "rating": 2014,
+  "attempts": 54331,
+  "fen": "r2r1b2/2R4p/1p2p1k1/1p3pN1/5P2/3B1nPP/PP6/1K5R w - - 2 29",
+  "color": "black",
+  "initialPly": 57,
+  "gameId": "CxHDvhi3",
+  "lines": {
+    "f3d2": {
+      "b1c1": {
+        "a8a2": {
+          "g5e6": {
+            "a2a1": {
+              "c2b1": {
+                "a1b1": {
+                  "c1c2": {
+                    "b1h1": {
+                      "e6d8": "win"
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 886,
+  "enabled": true
+}

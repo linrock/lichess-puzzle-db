@@ -1,0 +1,24 @@
+{
+  "id": 103219,
+  "rating": 1025,
+  "attempts": 1134,
+  "fen": "8/7k/R5bp/4B1p1/p5P1/P2r3P/5P2/6K1 b - - 4 41",
+  "color": "white",
+  "initialPly": 82,
+  "gameId": "24DM6ups",
+  "lines": {
+    "a6a7": {
+      "h7g8": {
+        "a7g7": {
+          "g8f8": {
+            "g7g6": {
+              "a3h3": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 48,
+  "enabled": true
+}

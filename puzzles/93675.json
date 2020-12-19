@@ -1,0 +1,24 @@
+{
+  "id": 93675,
+  "rating": 1861,
+  "attempts": 12623,
+  "fen": "6k1/5ppp/b1N1p3/p2pP1P1/1p3P2/3PQ3/PPK4q/8 w - - 0 26",
+  "color": "black",
+  "initialPly": 51,
+  "gameId": "UsBnBdUN",
+  "lines": {
+    "a5a4": {
+      "b3a4": {
+        "h2c2": {
+          "b2b3": {
+            "c2c6": {
+              "a4b4": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 309,
+  "enabled": true
+}

@@ -1,0 +1,20 @@
+{
+  "id": 71233,
+  "rating": 785,
+  "attempts": 545,
+  "fen": "r2qr1k1/ppp1bp2/2bp3p/3N2p1/3QP3/5NP1/PPP2PP1/3RR1K1 b - - 0 15",
+  "color": "white",
+  "initialPly": 30,
+  "gameId": "MQZlkjsr",
+  "lines": {
+    "d5f6": {
+      "d8f6": {
+        "d4f6": {
+          "c6e4": "win"
+        }
+      }
+    }
+  },
+  "vote": 8,
+  "enabled": true
+}

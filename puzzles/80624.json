@@ -1,0 +1,20 @@
+{
+  "id": 80624,
+  "rating": 1363,
+  "attempts": 10389,
+  "fen": "r3k2r/1bq1bppp/p2ppn2/1p6/1n2PP2/1N1BBN2/PPP1Q1PP/R4RK1 w kq - 6 13",
+  "color": "black",
+  "initialPly": 25,
+  "gameId": "XGTFMTXL",
+  "lines": {
+    "a6b5": {
+      "e2b5": {
+        "b4c6": {
+          "e3b6": "win"
+        }
+      }
+    }
+  },
+  "vote": 158,
+  "enabled": true
+}

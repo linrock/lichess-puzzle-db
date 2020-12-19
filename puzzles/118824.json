@@ -1,0 +1,24 @@
+{
+  "id": 118824,
+  "rating": 1678,
+  "attempts": 9138,
+  "fen": "3br1k1/p4p2/2p1q2p/3p4/4n2N/2PQBpP1/PP4KP/5R2 w - - 0 28",
+  "color": "black",
+  "initialPly": 55,
+  "gameId": "L29NeBtX",
+  "lines": {
+    "d8h4": {
+      "g3h4": {
+        "e6g4": {
+          "f3g3": {
+            "e4g3": {
+              "h2g3": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 172,
+  "enabled": true
+}

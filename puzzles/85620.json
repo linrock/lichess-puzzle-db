@@ -1,0 +1,22 @@
+{
+  "id": 85620,
+  "rating": 987,
+  "attempts": 704,
+  "fen": "5r1k/1p1PR3/p6p/5r2/6n1/PPR2BP1/8/6K1 w - - 1 39",
+  "color": "black",
+  "initialPly": 77,
+  "gameId": "cLdepSPT",
+  "lines": {
+    "f5f1": {
+      "g1h2": {
+        "f8f2": {
+          "h2h3": {
+            "f1h1": "win"
+          }
+        }
+      }
+    }
+  },
+  "vote": 25,
+  "enabled": true
+}

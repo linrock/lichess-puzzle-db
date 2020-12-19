@@ -1,0 +1,24 @@
+{
+  "id": 98212,
+  "rating": 1830,
+  "attempts": 10156,
+  "fen": "r1q1rbk1/p2npp1p/1p4p1/8/8/QNP1B1P1/P3PPKP/R2R4 b - - 1 20",
+  "color": "white",
+  "initialPly": 40,
+  "gameId": "sERecOjy",
+  "lines": {
+    "a1c1": {
+      "c3e5": {
+        "d1d7": {
+          "e5e4": {
+            "g2g1": {
+              "a7a5": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 213,
+  "enabled": true
+}

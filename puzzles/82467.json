@@ -1,0 +1,24 @@
+{
+  "id": 82467,
+  "rating": 1506,
+  "attempts": 14654,
+  "fen": "r1b2r2/pp4kp/3pppp1/2p5/3nP3/2NP2P1/PqPQ1PBP/R1R3K1 w - - 0 17",
+  "color": "black",
+  "initialPly": 33,
+  "gameId": "JnzPCpiR",
+  "lines": {
+    "b2c3": {
+      "d2c3": {
+        "d4e2": {
+          "g1f1": {
+            "e2c3": {
+              "b1b3": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 292,
+  "enabled": true
+}

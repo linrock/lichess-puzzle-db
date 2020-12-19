@@ -1,0 +1,24 @@
+{
+  "id": 97091,
+  "rating": 1182,
+  "attempts": 2492,
+  "fen": "1k1r3r/1p3ppp/pq6/2b1Pp2/5Q2/P1N5/1P3PPP/2R1R1K1 b - - 3 20",
+  "color": "white",
+  "initialPly": 40,
+  "gameId": "9Taeglhz",
+  "lines": {
+    "c3a4": {
+      "c5f2": {
+        "f4f2": {
+          "b6f2": {
+            "g1f2": {
+              "d8d2": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 44,
+  "enabled": true
+}

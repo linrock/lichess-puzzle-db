@@ -1,0 +1,24 @@
+{
+  "id": 98530,
+  "rating": 1231,
+  "attempts": 8652,
+  "fen": "r3k1r1/ppqb1p2/2n1p3/3pPn2/5PP1/P1pQ3P/2P1N3/R1B1KB1R b KQq - 0 14",
+  "color": "white",
+  "initialPly": 28,
+  "gameId": "ZdENN77L",
+  "lines": {
+    "d3h7": {
+      "h4f3": {
+        "e1f2": {
+          "e8c8": {
+            "f2f3": {
+              "d8f8": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 110,
+  "enabled": true
+}

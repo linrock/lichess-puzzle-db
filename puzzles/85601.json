@@ -1,0 +1,24 @@
+{
+  "id": 85601,
+  "rating": 1866,
+  "attempts": 29044,
+  "fen": "r7/1p3k1p/p1n1pp2/q1b4Q/5P2/P3B3/1P4PP/3R2K1 b - - 1 24",
+  "color": "white",
+  "initialPly": 48,
+  "gameId": "rdjbhf61",
+  "lines": {
+    "d1d7": {
+      "c5e7": {
+        "d7e7": {
+          "c6e7": {
+            "h5a5": {
+              "e7d5": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 381,
+  "enabled": true
+}

@@ -1,0 +1,28 @@
+{
+  "id": 95944,
+  "rating": 1257,
+  "attempts": 5041,
+  "fen": "1k1r4/ppprnppp/4p3/b3Pb2/4N3/2P1B1PP/PP2KPB1/R2R4 b - - 6 16",
+  "color": "white",
+  "initialPly": 32,
+  "gameId": "IMbeEWed",
+  "lines": {
+    "e4c5": {
+      "d5c3": {
+        "b2c3": {
+          "d7d1": {
+            "a1d1": {
+              "d8d1": {
+                "e2d1": {
+                  "a5c3": "win"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 82,
+  "enabled": true
+}

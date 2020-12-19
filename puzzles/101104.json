@@ -1,0 +1,28 @@
+{
+  "id": 101104,
+  "rating": 1224,
+  "attempts": 3284,
+  "fen": "1r4r1/ppqk1p2/2n1p2b/1QPpPp1p/3N1P2/6PP/1R3B1K/1R6 b - - 12 25",
+  "color": "white",
+  "initialPly": 50,
+  "gameId": "ZcicgMeL",
+  "lines": {
+    "d4c6": {
+      "c7c6": {
+        "b5c6": {
+          "b7c6": {
+            "b2b8": {
+              "g8b8": {
+                "b1b8": {
+                  "a7a5": "win"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 93,
+  "enabled": true
+}

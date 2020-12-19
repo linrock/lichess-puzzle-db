@@ -1,0 +1,28 @@
+{
+  "id": 74780,
+  "rating": 1916,
+  "attempts": 22736,
+  "fen": "2k4r/2p5/p7/P2PN3/5R2/4rN2/1K6/8 b - - 0 43",
+  "color": "white",
+  "initialPly": 86,
+  "gameId": "TzbzvWai",
+  "lines": {
+    "f4f8": {
+      "c8b7": {
+        "e5c6": {
+          "h5d5": {
+            "f3d4": {
+              "d5d4": {
+                "c6d4": {
+                  "e3g3": "win"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 499,
+  "enabled": true
+}

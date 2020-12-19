@@ -1,0 +1,23 @@
+{
+  "id": 72564,
+  "rating": 1500,
+  "attempts": 3,
+  "fen": "8/8/PR4p1/3r2Pk/8/8/4K3/8 b - - 0 58",
+  "color": "white",
+  "initialPly": 116,
+  "gameId": "WPhal1ng",
+  "lines": {
+    "a6a7": {
+      "d5a5": {
+        "b6b5": {
+          "a5b5": {
+            "a7a8q": {
+              "b5f5": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": -9000
+}

@@ -1,0 +1,24 @@
+{
+  "id": 118372,
+  "rating": 1485,
+  "attempts": 39008,
+  "fen": "2r3k1/1r3pp1/5b1p/p1Bp1b2/3P4/PP3N1P/1R3PP1/4R1K1 w - - 2 27",
+  "color": "black",
+  "initialPly": 53,
+  "gameId": "BYLjlmG1",
+  "lines": {
+    "c8c5": {
+      "d4c5": {
+        "f6b2": {
+          "e1e8": {
+            "g8h7": {
+              "b4a5": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 166,
+  "enabled": true
+}

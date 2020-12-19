@@ -1,0 +1,20 @@
+{
+  "id": 89095,
+  "rating": 1149,
+  "attempts": 1331,
+  "fen": "5r2/p5k1/3b3p/2p1p1pP/Pp1p1rP1/1P1P1P2/2P1R1K1/4R1N1 b - - 2 34",
+  "color": "white",
+  "initialPly": 68,
+  "gameId": "PeAcubUk",
+  "lines": {
+    "g1h3": {
+      "f6e6": {
+        "h3f4": {
+          "f8f4": "win"
+        }
+      }
+    }
+  },
+  "vote": 31,
+  "enabled": true
+}

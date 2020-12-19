@@ -1,0 +1,20 @@
+{
+  "id": 67773,
+  "rating": 600,
+  "attempts": 488,
+  "fen": "2r4r/4kpp1/4p1p1/1p1pP3/2nP2P1/P2R3P/1P2N3/1K5R w - - 0 27",
+  "color": "black",
+  "initialPly": 53,
+  "gameId": "HWFWE03z",
+  "lines": {
+    "c4d2": {
+      "b1a2": {
+        "d2b3": {
+          "a2b3": "win"
+        }
+      }
+    }
+  },
+  "vote": 15,
+  "enabled": true
+}

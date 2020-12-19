@@ -1,0 +1,32 @@
+{
+  "id": 119235,
+  "rating": 2102,
+  "attempts": 5768,
+  "fen": "2rq1rk1/p2nbppp/2B1p3/2P5/5B2/2N2Q2/P4PPP/3R2K1 b - - 0 17",
+  "color": "white",
+  "initialPly": 34,
+  "gameId": "GuZjitgu",
+  "lines": {
+    "f3c6": {
+      "d8a5": {
+        "c6d7": {
+          "f8d8": {
+            "f4c7": {
+              "d8d7": {
+                "c7a5": {
+                  "d7d1": {
+                    "c3d1": {
+                      "e7c5": "win"
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 165,
+  "enabled": true
+}

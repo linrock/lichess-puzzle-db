@@ -1,0 +1,24 @@
+{
+  "id": 65845,
+  "rating": 1913,
+  "attempts": 81851,
+  "fen": "rnbq1rk1/ppp2ppp/8/2b5/4PPn1/2NB4/PPP3PP/R1BQK1NR w KQ - 3 8",
+  "color": "black",
+  "initialPly": 15,
+  "gameId": "nmaOpisZ",
+  "lines": {
+    "d8h4": {
+      "e1f1": {
+        "g4f2": {
+          "d1e1": {
+            "c8h3": {
+              "c1e3": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 1280,
+  "enabled": true
+}

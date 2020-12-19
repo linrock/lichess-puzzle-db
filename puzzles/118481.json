@@ -1,0 +1,28 @@
+{
+  "id": 118481,
+  "rating": 2196,
+  "attempts": 4628,
+  "fen": "1r2k3/p4p2/5Pp1/3p4/8/2Pp3Q/Pq2r1PP/4RR1K b - - 1 35",
+  "color": "white",
+  "initialPly": 70,
+  "gameId": "Muhs80aM",
+  "lines": {
+    "e1c1": {
+      "e2c2": {
+        "c1c2": {
+          "c3c2": {
+            "h3h8": {
+              "e8d7": {
+                "h8b8": {
+                  "d3d2": "win"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 94,
+  "enabled": true
+}

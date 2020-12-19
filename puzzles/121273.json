@@ -1,0 +1,24 @@
+{
+  "id": 121273,
+  "rating": 2191,
+  "attempts": 5241,
+  "fen": "rn2k2r/pp1bppbp/3p2p1/q2Nn3/3NP3/4BP2/PPPQ2PP/2KR1B1R b kq - 4 12",
+  "color": "white",
+  "initialPly": 24,
+  "gameId": "NEc4Gltu",
+  "lines": {
+    "d5c7": {
+      "e8d8": {
+        "d2c3": {
+          "b8c6": {
+            "c7a8": {
+              "d8c8": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 104,
+  "enabled": true
+}

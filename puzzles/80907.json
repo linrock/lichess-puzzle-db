@@ -1,0 +1,20 @@
+{
+  "id": 80907,
+  "rating": 762,
+  "attempts": 177,
+  "fen": "8/8/5p1p/p4k1P/Pp1p1P2/1PpN4/2P3K1/2Br4 b - - 0 42",
+  "color": "white",
+  "initialPly": 84,
+  "gameId": "Mck4Aklk",
+  "lines": {
+    "d3f2": {
+      "g4h5": {
+        "f2d1": {
+          "h5g6": "win"
+        }
+      }
+    }
+  },
+  "vote": 2,
+  "enabled": true
+}

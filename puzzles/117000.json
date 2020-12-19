@@ -1,0 +1,20 @@
+{
+  "id": 117000,
+  "rating": 2904,
+  "attempts": 254,
+  "fen": "r5k1/1b4p1/pn1qNr1p/1p1Ppp2/8/1B4Q1/PPP3PP/3R1RK1 b - - 5 22",
+  "color": "white",
+  "initialPly": 44,
+  "gameId": "DNEoxilJ",
+  "lines": {
+    "c2c4": {
+      "f6e6": {
+        "d5e6": {
+          "d6c5": "win"
+        }
+      }
+    }
+  },
+  "vote": -4,
+  "enabled": true
+}

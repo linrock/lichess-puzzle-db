@@ -1,0 +1,20 @@
+{
+  "id": 72388,
+  "rating": 939,
+  "attempts": 1600,
+  "fen": "4r1k1/p4p2/7p/6p1/8/q4RPP/6PK/4R3 b - - 0 31",
+  "color": "white",
+  "initialPly": 62,
+  "gameId": "vnc19OnP",
+  "lines": {
+    "e1e8": {
+      "g8g7": {
+        "g2f3": {
+          "g7f6": "win"
+        }
+      }
+    }
+  },
+  "vote": -8,
+  "enabled": true
+}

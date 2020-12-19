@@ -1,0 +1,24 @@
+{
+  "id": 120300,
+  "rating": 1883,
+  "attempts": 8942,
+  "fen": "6k1/8/3N4/4p3/4R1Pp/3p1P1P/1Pr5/6K1 w - - 0 46",
+  "color": "black",
+  "initialPly": 91,
+  "gameId": "LhWVUTvQ",
+  "lines": {
+    "c2c1": {
+      "e4e1": {
+        "d3d2": {
+          "e1d1": {
+            "c1d1": {
+              "f1e2": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 176,
+  "enabled": true
+}

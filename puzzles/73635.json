@@ -1,0 +1,19 @@
+{
+  "id": 73635,
+  "rating": 1500,
+  "attempts": 4,
+  "fen": "8/8/6k1/5R2/6KP/6P1/r4p2/8 w - - 2 51",
+  "color": "black",
+  "initialPly": 101,
+  "gameId": "IItPdSRe",
+  "lines": {
+    "a2a4": {
+      "f4a4": {
+        "f2f1q": {
+          "a4f4": "win"
+        }
+      }
+    }
+  },
+  "vote": -9000
+}

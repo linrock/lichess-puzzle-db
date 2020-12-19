@@ -1,0 +1,28 @@
+{
+  "id": 73900,
+  "rating": 2146,
+  "attempts": 14293,
+  "fen": "r3qrk1/1b4pp/1np1p3/pp3nPP/3PBP2/2N2QN1/PP6/1KR4R b - - 2 22",
+  "color": "white",
+  "initialPly": 44,
+  "gameId": "WznSnECI",
+  "lines": {
+    "f3d3": {
+      "d4f5": {
+        "g3f5": {
+          "e6f5": {
+            "e4f5": {
+              "f8f5": {
+                "d3f5": {
+                  "b5b4": "win"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": -81,
+  "enabled": true
+}

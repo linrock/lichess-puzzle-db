@@ -1,0 +1,24 @@
+{
+  "id": 107875,
+  "rating": 1752,
+  "attempts": 7412,
+  "fen": "2k2r2/pp3Np1/2p1p1p1/q2p1nP1/3P1P2/2PQP3/PP6/2K4R w - - 1 24",
+  "color": "black",
+  "initialPly": 47,
+  "gameId": "GL11Mb90",
+  "lines": {
+    "d5e4": {
+      "d3e4": {
+        "f8f7": {
+          "e4e6": {
+            "f7d7": {
+              "h1e1": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 144,
+  "enabled": true
+}

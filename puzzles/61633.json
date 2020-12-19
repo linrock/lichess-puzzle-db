@@ -1,0 +1,28 @@
+{
+  "id": 61633,
+  "rating": 2901,
+  "attempts": 8577,
+  "fen": "5r1k/1B3p1p/p3r3/2b5/6Q1/P5p1/1P2N1P1/R4KBq w - - 8 28",
+  "color": "black",
+  "initialPly": 55,
+  "gameId": "TNJudtIq",
+  "lines": {
+    "e6f6": {
+      "b7f3": {
+        "c5f2": {
+          "g4h3": {
+            "h1h3": {
+              "g2h3": {
+                "f6f3": {
+                  "f1g2": "win"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": -1,
+  "enabled": true
+}

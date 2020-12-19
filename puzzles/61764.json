@@ -1,0 +1,31 @@
+{
+  "id": 61764,
+  "rating": 2281,
+  "attempts": 718,
+  "fen": "r3k3/pp1b1p2/1q2pQp1/3p3r/3P4/1PP5/7P/RN3R1K b q - 0 22",
+  "color": "white",
+  "initialPly": 44,
+  "gameId": "DDmHlQOC",
+  "lines": {
+    "f1f5": {
+      "g6f5": {
+        "f6h8": {
+          "e8e7": {
+            "h8a8": {
+              "b6b3": {
+                "b1d2": {
+                  "b3c3": {
+                    "a8a7": {
+                      "b7b5": "win"
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": -20
+}

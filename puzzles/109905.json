@@ -1,0 +1,24 @@
+{
+  "id": 109905,
+  "rating": 1684,
+  "attempts": 6914,
+  "fen": "5rk1/1p3b1p/p2p4/3p1PN1/3P1qPQ/2P1r2P/PP2p1K1/1R2R3 b - - 9 35",
+  "color": "white",
+  "initialPly": 70,
+  "gameId": "ciXLrtfs",
+  "lines": {
+    "h4h6": {
+      "e3g3": {
+        "g2h1": {
+          "g3h3": {
+            "h6h3": {
+              "f4g5": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 101,
+  "enabled": true
+}

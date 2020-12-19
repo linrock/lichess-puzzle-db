@@ -1,0 +1,28 @@
+{
+  "id": 83387,
+  "rating": 2218,
+  "attempts": 5520,
+  "fen": "1r3k2/2p2p1Q/2p2p2/3b4/6RN/qP4P1/P6P/1K6 b - - 0 29",
+  "color": "white",
+  "initialPly": 58,
+  "gameId": "AScpJfri",
+  "lines": {
+    "g4g8": {
+      "f8e7": {
+        "h7e4": {
+          "b3e6": {
+            "g8b8": {
+              "a3a2": {
+                "b1c1": {
+                  "a2h2": "win"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 91,
+  "enabled": true
+}

@@ -1,0 +1,24 @@
+{
+  "id": 62073,
+  "rating": 2240,
+  "attempts": 135219,
+  "fen": "r7/5qpk/4p2p/ppP4n/1PbPN2Q/4P3/3B2PP/R5K1 b - - 0 27",
+  "color": "white",
+  "initialPly": 54,
+  "gameId": "fcac2PCW",
+  "lines": {
+    "e4g5": {
+      "h6g5": {
+        "h4e4": {
+          "h7h6": {
+            "e4a8": {
+              "b4b3": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 3179,
+  "enabled": true
+}

@@ -1,0 +1,24 @@
+{
+  "id": 90205,
+  "rating": 1139,
+  "attempts": 1828,
+  "fen": "r4b1r/1p1k2p1/p2pb2p/2pn1p2/5P1N/2NP4/PPP3PP/R1B1K2R b KQ - 1 16",
+  "color": "white",
+  "initialPly": 32,
+  "gameId": "DO222rvY",
+  "lines": {
+    "c1f4": {
+      "g7g5": {
+        "h4g6": {
+          "h8g8": {
+            "g6f8": {
+              "a8f8": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 47,
+  "enabled": true
+}

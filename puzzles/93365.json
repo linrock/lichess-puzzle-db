@@ -1,0 +1,28 @@
+{
+  "id": 93365,
+  "rating": 1773,
+  "attempts": 11990,
+  "fen": "3rr1k1/2p1q1pp/1p3p2/p2PPb2/P1P5/2P1Q1P1/6BP/3RR1K1 b - - 0 26",
+  "color": "white",
+  "initialPly": 52,
+  "gameId": "HftK8l4a",
+  "lines": {
+    "e3f2": {
+      "e5c3": {
+        "e1e8": {
+          "d8e8": {
+            "f2f5": {
+              "e8e1": {
+                "d1e1": {
+                  "c3e1": "win"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 262,
+  "enabled": true
+}

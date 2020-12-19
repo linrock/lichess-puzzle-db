@@ -1,0 +1,23 @@
+{
+  "id": 92166,
+  "rating": 1500,
+  "attempts": 3,
+  "fen": "8/b7/8/3k2p1/3N2n1/3K4/1B3P2/8 w - - 0 52",
+  "color": "black",
+  "initialPly": 103,
+  "gameId": "WBpVZHet",
+  "lines": {
+    "g4e5": {
+      "d3e2": {
+        "a7d4": {
+          "b2c1": {
+            "e5f7": {
+              "e2e1": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": -9000
+}

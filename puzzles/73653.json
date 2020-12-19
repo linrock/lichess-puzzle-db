@@ -1,0 +1,24 @@
+{
+  "id": 73653,
+  "rating": 1843,
+  "attempts": 59664,
+  "fen": "1k5r/pp3qp1/1n1p1b2/2pP1b2/2P2P2/1Q3N2/PP1N3P/R3R1K1 w - - 3 27",
+  "color": "black",
+  "initialPly": 53,
+  "gameId": "AEScazV6",
+  "lines": {
+    "f5e4": {
+      "e1e4": {
+        "f7g6": {
+          "f3g5": {
+            "f6g5": {
+              "e4e6": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 518,
+  "enabled": true
+}

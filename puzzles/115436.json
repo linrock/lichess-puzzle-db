@@ -1,0 +1,24 @@
+{
+  "id": 115436,
+  "rating": 890,
+  "attempts": 1296,
+  "fen": "2r2rk1/5ppp/p2p1bPP/1q6/3Bp3/1P3P2/1KPQ4/6RR b - - 1 27",
+  "color": "white",
+  "initialPly": 54,
+  "gameId": "SzScWHE2",
+  "lines": {
+    "d2d4": {
+      "c8c2": {
+        "b2c2": {
+          "b5d3": {
+            "d4d3": {
+              "e4d3": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 12,
+  "enabled": true
+}

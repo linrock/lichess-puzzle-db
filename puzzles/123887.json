@@ -1,0 +1,24 @@
+{
+  "id": 123887,
+  "rating": 1557,
+  "attempts": 14072,
+  "fen": "5rk1/pp2ppbp/6p1/2p1Pb2/5P2/2P3P1/PP4KP/R1BrNR2 w - - 3 19",
+  "color": "black",
+  "initialPly": 37,
+  "gameId": "ZSQ98BG7",
+  "lines": {
+    "f5h3": {
+      "g2h3": {
+        "d1f1": {
+          "h3g2": {
+            "f1d1": {
+              "g2f2": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 134,
+  "enabled": true
+}

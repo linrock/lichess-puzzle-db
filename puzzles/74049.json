@@ -1,0 +1,28 @@
+{
+  "id": 74049,
+  "rating": 1784,
+  "attempts": 29560,
+  "fen": "Q3b2k/6p1/1p2q2p/p4p2/2p4P/BnP2P2/2B3PK/8 b - - 10 42",
+  "color": "white",
+  "initialPly": 84,
+  "gameId": "FhKEGTFG",
+  "lines": {
+    "a3c5": {
+      "b6c5": {
+        "c2a4": {
+          "h8h7": {
+            "a8e8": {
+              "e6e8": {
+                "a4e8": {
+                  "h7g8": "win"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 482,
+  "enabled": true
+}

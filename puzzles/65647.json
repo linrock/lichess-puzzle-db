@@ -1,0 +1,28 @@
+{
+  "id": 65647,
+  "rating": 1565,
+  "attempts": 69078,
+  "fen": "rn1qk2r/pbp2ppp/1p1ppn2/8/1bPPP3/2NB1N2/PPQ2PPP/R1B1K2R b KQkq - 1 7",
+  "color": "white",
+  "initialPly": 14,
+  "gameId": "DxMFRymu",
+  "lines": {
+    "c2a4": {
+      "b8c6": {
+        "d4d5": {
+          "b4c3": {
+            "b2c3": {
+              "f6d7": {
+                "d5c6": {
+                  "d7c5": "win"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 948,
+  "enabled": true
+}

@@ -1,0 +1,23 @@
+{
+  "id": 63555,
+  "rating": 1743,
+  "attempts": 11829,
+  "fen": "7Q/1p3N2/p5k1/3P2p1/P7/7p/1P4rr/5K2 w - - 2 38",
+  "color": "black",
+  "initialPly": 75,
+  "gameId": "TKPLHQdW",
+  "lines": {
+    "g6f6": {
+      "g8h8": {
+        "f6f7": {
+          "h8h7": {
+            "f7f6": {
+              "h7h8": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": -9000
+}

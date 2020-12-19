@@ -1,0 +1,32 @@
+{
+  "id": 83434,
+  "rating": 2116,
+  "attempts": 8809,
+  "fen": "r2qr1k1/pp3ppp/2n2n2/8/3pP1b1/PPB2NP1/2Q2PBP/3RR1K1 w - - 2 20",
+  "color": "black",
+  "initialPly": 39,
+  "gameId": "RT82Dumi",
+  "lines": {
+    "g4f3": {
+      "g2f3": {
+        "c6e5": {
+          "f3d1": {
+            "a8c8": {
+              "d2d4": {
+                "d8d4": {
+                  "c3d4": {
+                    "c8c2": {
+                      "d4e5": "win"
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 243,
+  "enabled": true
+}

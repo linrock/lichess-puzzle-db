@@ -1,0 +1,24 @@
+{
+  "id": 112957,
+  "rating": 1470,
+  "attempts": 7224,
+  "fen": "7k/1p4pB/p1p2q2/4n1Np/1PP3bP/P5P1/5Q1K/8 w - - 5 36",
+  "color": "black",
+  "initialPly": 71,
+  "gameId": "ghiSQjnt",
+  "lines": {
+    "f6g5": {
+      "d2g5": {
+        "e5f3": {
+          "h2g2": {
+            "f3g5": {
+              "h7b1": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 109,
+  "enabled": true
+}

@@ -1,0 +1,31 @@
+{
+  "id": 70617,
+  "rating": 1500,
+  "attempts": 37,
+  "fen": "8/8/Pr6/R7/5kpp/8/1P6/7K b - - 4 46",
+  "color": "white",
+  "initialPly": 92,
+  "gameId": "JwOywlYe",
+  "lines": {
+    "a5a4": {
+      "f4e3": {
+        "a4a3": {
+          "e3f2": {
+            "a6a7": {
+              "g4g3": {
+                "a3f3": {
+                  "f2f3": {
+                    "a7a8q": {
+                      "f3f4": "win"
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": -9000
+}

@@ -1,0 +1,28 @@
+{
+  "id": 119315,
+  "rating": 2395,
+  "attempts": 2474,
+  "fen": "2k4r/ppp2ppp/4b3/2qr4/1n1N4/P4N2/1P2QPPP/R3KB1R b KQ - 0 14",
+  "color": "white",
+  "initialPly": 28,
+  "gameId": "MTyNBCIU",
+  "lines": {
+    "f3d4": {
+      "c5d4": {
+        "a3b4": {
+          "h8e8": {
+            "a1a3": {
+              "d4b4": {
+                "e2d2": {
+                  "b4e4": "win"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 2,
+  "enabled": true
+}

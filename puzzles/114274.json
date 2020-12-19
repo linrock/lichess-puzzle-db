@@ -1,0 +1,24 @@
+{
+  "id": 114274,
+  "rating": 1742,
+  "attempts": 9398,
+  "fen": "2b1r1k1/ppR2pp1/3Q3p/5r2/8/3P1BRP/Pq4PK/8 w - - 2 31",
+  "color": "black",
+  "initialPly": 61,
+  "gameId": "VjeUAl45",
+  "lines": {
+    "f5f3": {
+      "g3g7": {
+        "b2g7": {
+          "h6g7": {
+            "g8g7": {
+              "g2f3": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 170,
+  "enabled": true
+}

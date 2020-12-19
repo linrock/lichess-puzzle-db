@@ -1,0 +1,20 @@
+{
+  "id": 122234,
+  "rating": 1173,
+  "attempts": 2890,
+  "fen": "r1b2rk1/1p1p1ppp/2p5/p3P3/Pn1q1P2/2NB4/1PP3PP/R2Q1R1K b - - 0 14",
+  "color": "white",
+  "initialPly": 28,
+  "gameId": "MJJbnbsW",
+  "lines": {
+    "d3h7": {
+      "g8h7": {
+        "d1d4": {
+          "c8f5": "win"
+        }
+      }
+    }
+  },
+  "vote": 47,
+  "enabled": true
+}

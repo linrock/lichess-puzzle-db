@@ -1,0 +1,24 @@
+{
+  "id": 69621,
+  "rating": 1408,
+  "attempts": 162425,
+  "fen": "8/2R2bkp/2p3p1/2q2p2/4p3/2P1P1P1/4QPKP/1r3B2 b - - 1 35",
+  "color": "white",
+  "initialPly": 70,
+  "gameId": "PShfgRnG",
+  "lines": {
+    "c7f7": {
+      "g7f7": {
+        "e2a2": {
+          "f7g7": {
+            "a2b1": {
+              "d6f6": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 2047,
+  "enabled": true
+}

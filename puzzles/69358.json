@@ -1,0 +1,32 @@
+{
+  "id": 69358,
+  "rating": 1990,
+  "attempts": 270876,
+  "fen": "1kr1r3/1p5p/p2p1Q1N/3P4/2n2P2/qPB5/P1P3PP/2KR3R w - - 1 25",
+  "color": "black",
+  "initialPly": 49,
+  "gameId": "Zr55htAM",
+  "lines": {
+    "c4b2": {
+      "f6b2": {
+        "c8c2": {
+          "c1c2": {
+            "e8e2": {
+              "d1d2": {
+                "e2d2": {
+                  "c2d2": {
+                    "a3b2": {
+                      "d2e3": "win"
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 2174,
+  "enabled": true
+}

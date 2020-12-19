@@ -1,0 +1,28 @@
+{
+  "id": 82722,
+  "rating": 1523,
+  "attempts": 13621,
+  "fen": "rn1q1rk1/pbpp2pp/1p2p3/3P4/4Q3/2B5/PPP2PPP/2KR2NR b - - 0 11",
+  "color": "white",
+  "initialPly": 22,
+  "gameId": "DSoTymun",
+  "lines": {
+    "d1d5": {
+      "e6d5": {
+        "e4d5": {
+          "f8f7": {
+            "d5a8": {
+              "b8c6": {
+                "a8d8": {
+                  "c6d8": "win"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 302,
+  "enabled": true
+}

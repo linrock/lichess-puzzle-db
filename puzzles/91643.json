@@ -1,0 +1,24 @@
+{
+  "id": 91643,
+  "rating": 1119,
+  "attempts": 2244,
+  "fen": "2k5/ppp5/3p4/3Pn3/4PNr1/8/PP4P1/2K3R1 w - - 4 29",
+  "color": "black",
+  "initialPly": 57,
+  "gameId": "Atu58otn",
+  "lines": {
+    "g4f4": {
+      "f1f4": {
+        "e5d3": {
+          "c1d2": {
+            "d3f4": {
+              "g2g4": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 70,
+  "enabled": true
+}

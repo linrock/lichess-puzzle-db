@@ -1,0 +1,24 @@
+{
+  "id": 90286,
+  "rating": 1824,
+  "attempts": 20748,
+  "fen": "r3k1nr/pp1b1ppp/1q2p3/n2pP3/1b1P4/2N1BN2/PP1Q1PPP/R3KB1R w KQkq - 5 10",
+  "color": "black",
+  "initialPly": 19,
+  "gameId": "SSWo22rd",
+  "lines": {
+    "a5b3": {
+      "d2d1": {
+        "b4c3": {
+          "b2c3": {
+            "b3a1": {
+              "d1a1": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 290,
+  "enabled": true
+}

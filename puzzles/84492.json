@@ -1,0 +1,28 @@
+{
+  "id": 84492,
+  "rating": 1438,
+  "attempts": 8500,
+  "fen": "2rqr1k1/pp2pRbp/3p2p1/3Nn3/4P1P1/3PB2P/PP3Q2/5RK1 w - - 4 22",
+  "color": "black",
+  "initialPly": 43,
+  "gameId": "PBLc870z",
+  "lines": {
+    "e5f7": {
+      "f2f7": {
+        "g8h8": {
+          "d5f4": {
+            "e8f8": {
+              "f7g7": {
+                "h8g7": {
+                  "f4e6": "win"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": -147,
+  "enabled": true
+}

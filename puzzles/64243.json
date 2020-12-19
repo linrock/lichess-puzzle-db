@@ -1,0 +1,28 @@
+{
+  "id": 64243,
+  "rating": 2799,
+  "attempts": 1066,
+  "fen": "1k1r4/1p6/5q1p/1P2pp2/1B4r1/2Q5/P4PP1/2R3K1 b - - 1 32",
+  "color": "white",
+  "initialPly": 64,
+  "gameId": "kWHUTHLW",
+  "lines": {
+    "b4a5": {
+      "g4g2": {
+        "g1h1": {
+          "b7b6": {
+            "a5b6": {
+              "g2g1": {
+                "c1g1": {
+                  "g7b7": "win"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": -11,
+  "enabled": true
+}

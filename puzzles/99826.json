@@ -1,0 +1,30 @@
+{
+  "id": 99826,
+  "rating": 2128,
+  "attempts": 63630,
+  "fen": "2Q5/4Q3/4p1pk/4P2p/5PnP/4P1K1/6P1/4q3 w - - 11 74",
+  "color": "black",
+  "initialPly": 147,
+  "gameId": "A3FBvpv4",
+  "lines": {
+    "g4f2": {
+      "h3h2": {
+        "e1h1": {
+          "h2g3": {
+            "f2e4": {
+              "g3f3": {
+                "h1d1": {
+                  "f3e4": {
+                    "d1d5": "win"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 302,
+  "enabled": true
+}

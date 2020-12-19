@@ -1,0 +1,28 @@
+{
+  "id": 81155,
+  "rating": 2027,
+  "attempts": 69369,
+  "fen": "R7/8/p3ppk1/1p4p1/3P2P1/P1rb4/5R1P/6K1 w - - 0 37",
+  "color": "black",
+  "initialPly": 73,
+  "gameId": "7TuRIzOK",
+  "lines": {
+    "c3c1": {
+      "g1g2": {
+        "d3e4": {
+          "f2f3": {
+            "c1c3": {
+              "a6e6": {
+                "e4f3": {
+                  "g2f2": "win"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 417,
+  "enabled": true
+}

@@ -1,0 +1,23 @@
+{
+  "id": 63728,
+  "rating": 1952,
+  "attempts": 117,
+  "fen": "5k2/1R6/8/4K3/4B3/8/6p1/4r3 w - - 10 64",
+  "color": "black",
+  "initialPly": 127,
+  "gameId": "vYBvompr",
+  "lines": {
+    "e1f1": {
+      "e4f5": {
+        "f1f5": {
+          "f6f5": {
+            "g2g1q": {
+              "b7d7": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": -9000
+}

@@ -1,0 +1,24 @@
+{
+  "id": 87299,
+  "rating": 1746,
+  "attempts": 16810,
+  "fen": "2r1r1k1/1b2pNb1/pq4p1/1p2p2n/3P2Q1/P1N1B2P/1P4P1/3R1RK1 w - - 0 24",
+  "color": "black",
+  "initialPly": 47,
+  "gameId": "enDolQft",
+  "lines": {
+    "e5d4": {
+      "e3d4": {
+        "g7d4": {
+          "d1d4": {
+            "b6d4": {
+              "g1h2": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 278,
+  "enabled": true
+}

@@ -1,0 +1,20 @@
+{
+  "id": 70019,
+  "rating": 826,
+  "attempts": 1936,
+  "fen": "8/ppb2pk1/2p1q3/2P5/P2P2p1/3Q1NP1/5PK1/8 w - - 0 42",
+  "color": "black",
+  "initialPly": 83,
+  "gameId": "IHGgVrlV",
+  "lines": {
+    "e6d5": {
+      "g2g1": {
+        "d5g5": {
+          "d3b1": "win"
+        }
+      }
+    }
+  },
+  "vote": 40,
+  "enabled": true
+}

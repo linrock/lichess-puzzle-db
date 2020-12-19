@@ -1,0 +1,32 @@
+{
+  "id": 123896,
+  "rating": 2902,
+  "attempts": 207,
+  "fen": "2r3k1/b2q1pp1/6Np/1p6/p7/P4QPP/BP3PK1/8 b - - 3 29",
+  "color": "white",
+  "initialPly": 58,
+  "gameId": "EMPFFmAz",
+  "lines": {
+    "f3a8": {
+      "c2c8": {
+        "a8c8": {
+          "d7c8": {
+            "g6e7": {
+              "g8f8": {
+                "e7c8": {
+                  "a7c5": {
+                    "g2f3": {
+                      "h6h5": "win"
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": -1,
+  "enabled": true
+}

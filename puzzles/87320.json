@@ -1,0 +1,28 @@
+{
+  "id": 87320,
+  "rating": 1705,
+  "attempts": 14020,
+  "fen": "5r1k/5p1p/4p3/3p4/1PbP3P/p1P2q2/PK4R1/2Q3R1 w - - 0 40",
+  "color": "black",
+  "initialPly": 79,
+  "gameId": "lRgQ1735",
+  "lines": {
+    "f8a8": {
+      "a3b2": {
+        "a8a2": {
+          "b2b1": {
+            "a2g2": {
+              "g1g2": {
+                "f3g2": {
+                  "c1d1": "win"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 344,
+  "enabled": true
+}

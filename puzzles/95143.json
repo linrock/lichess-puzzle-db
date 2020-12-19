@@ -1,0 +1,28 @@
+{
+  "id": 95143,
+  "rating": 2227,
+  "attempts": 3961,
+  "fen": "1Rr2k2/2Pb2pp/3r4/p2Ppp2/2B1p3/4P2P/5PP1/3R2K1 w - - 5 34",
+  "color": "black",
+  "initialPly": 67,
+  "gameId": "TuCqsG6M",
+  "lines": {
+    "d6a6": {
+      "d5d6": {
+        "a6a8": {
+          "d1b1": {
+            "f8f7": {
+              "b8a8": {
+                "c8a8": {
+                  "b1b8": "win"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 16,
+  "enabled": true
+}

@@ -1,0 +1,24 @@
+{
+  "id": 109778,
+  "rating": 1443,
+  "attempts": 6128,
+  "fen": "rn1qk2r/pp2bppp/2p1pn2/4N1B1/3P2b1/2N5/PPP1BPPP/R2Q1RK1 b kq - 5 9",
+  "color": "white",
+  "initialPly": 18,
+  "gameId": "GInrul62",
+  "lines": {
+    "g5f6": {
+      "g4e2": {
+        "f6e7": {
+          "e2d1": {
+            "e7d8": {
+              "d1c2": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 88,
+  "enabled": true
+}

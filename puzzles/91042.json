@@ -1,0 +1,24 @@
+{
+  "id": 91042,
+  "rating": 2114,
+  "attempts": 8634,
+  "fen": "8/p5bk/1p5p/2p1p2Q/2P3P1/rP1P4/8/7K b - - 0 36",
+  "color": "white",
+  "initialPly": 72,
+  "gameId": "SLBOiUEC",
+  "lines": {
+    "g4g5": {
+      "b3d3": {
+        "g5h6": {
+          "d3a3": {
+            "h6g7": {
+              "h7g7": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 176,
+  "enabled": true
+}

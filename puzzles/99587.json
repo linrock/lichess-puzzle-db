@@ -1,0 +1,24 @@
+{
+  "id": 99587,
+  "rating": 1620,
+  "attempts": 29170,
+  "fen": "r1bqkb1r/pp3ppp/2n2n2/1N2P3/5B2/2P5/5PPP/R2QKBNR b KQkq - 0 11",
+  "color": "white",
+  "initialPly": 22,
+  "gameId": "OqtiMbaV",
+  "lines": {
+    "d1d5": {
+      "d8d5": {
+        "b5c7": {
+          "e8d8": {
+            "c7d5": {
+              "c8e6": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 309,
+  "enabled": true
+}

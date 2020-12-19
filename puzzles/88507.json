@@ -1,0 +1,24 @@
+{
+  "id": 88507,
+  "rating": 1545,
+  "attempts": 10564,
+  "fen": "1r6/4r3/1p1q2pk/pRpP1p1p/P1Pb1P1P/1Q2pBPK/8/4R3 w - - 34 48",
+  "color": "black",
+  "initialPly": 95,
+  "gameId": "KlNSpmgI",
+  "lines": {
+    "e3e2": {
+      "b1e1": {
+        "e7e3": {
+          "b3e3": {
+            "d4e3": {
+              "e1e2": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 212,
+  "enabled": true
+}

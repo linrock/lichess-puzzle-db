@@ -1,0 +1,24 @@
+{
+  "id": 61974,
+  "rating": 2639,
+  "attempts": 45563,
+  "fen": "2rr4/1R4R1/6p1/p2kp1p1/P1n5/1B6/1P2K1P1/8 b - - 1 35",
+  "color": "white",
+  "initialPly": 70,
+  "gameId": "pPvPrxWu",
+  "lines": {
+    "b7c7": {
+      "c8c7": {
+        "g7c7": {
+          "d6b6": {
+            "b3c4": {
+              "d5d6": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 344,
+  "enabled": true
+}

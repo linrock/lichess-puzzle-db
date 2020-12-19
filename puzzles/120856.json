@@ -1,0 +1,22 @@
+{
+  "id": 120856,
+  "rating": 1807,
+  "attempts": 15825,
+  "fen": "4r1k1/p6p/3Qpr1q/5p2/3Pb1p1/P1R1P1P1/4BP1P/2R3K1 w - - 3 25",
+  "color": "black",
+  "initialPly": 49,
+  "gameId": "sakzSHk5",
+  "lines": {
+    "h6h2": {
+      "g1h2": {
+        "f6h6": {
+          "h2g1": {
+            "h6h1": "win"
+          }
+        }
+      }
+    }
+  },
+  "vote": 277,
+  "enabled": true
+}

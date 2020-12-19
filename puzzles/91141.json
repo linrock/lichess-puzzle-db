@@ -1,0 +1,28 @@
+{
+  "id": 91141,
+  "rating": 2731,
+  "attempts": 443,
+  "fen": "1rbr3k/p1p1n1bp/1p1q2p1/5p2/3p4/PQ1N2P1/1P1BPPBP/2R2RK1 b - - 3 18",
+  "color": "white",
+  "initialPly": 36,
+  "gameId": "BALoLwMJ",
+  "lines": {
+    "d2f4": {
+      "d6e6": {
+        "d3c5": {
+          "e6b3": {
+            "c5b3": {
+              "c8e6": {
+                "f4b8": {
+                  "d8b8": "win"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": -2,
+  "enabled": true
+}

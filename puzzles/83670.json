@@ -1,0 +1,24 @@
+{
+  "id": 83670,
+  "rating": 1335,
+  "attempts": 8939,
+  "fen": "r2q1rk1/pp3ppp/2n2b2/1P1p3b/3P4/P4N1P/1B1QBPP1/R4RK1 b - - 0 15",
+  "color": "white",
+  "initialPly": 30,
+  "gameId": "cgpNiecm",
+  "lines": {
+    "g2g4": {
+      "h5g6": {
+        "g4g5": {
+          "e7c8": {
+            "g5f6": {
+              "d8f6": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 221,
+  "enabled": true
+}

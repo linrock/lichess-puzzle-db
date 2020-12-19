@@ -1,0 +1,24 @@
+{
+  "id": 83099,
+  "rating": 1404,
+  "attempts": 9555,
+  "fen": "2r3k1/p1N2ppp/1pn5/5b2/5P2/1NP5/PP2r1PP/R4RK1 w - - 4 22",
+  "color": "black",
+  "initialPly": 43,
+  "gameId": "N49GW2ZB",
+  "lines": {
+    "f5e4": {
+      "f1f2": {
+        "e2f2": {
+          "g1f2": {
+            "e4d5": {
+              "a1d1": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 201,
+  "enabled": true
+}

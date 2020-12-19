@@ -1,0 +1,28 @@
+{
+  "id": 117411,
+  "rating": 2900,
+  "attempts": 296,
+  "fen": "3r1rk1/1p4p1/pb2N1n1/3p2qp/4npB1/2PQ3P/PP3PPB/R4RK1 b - - 1 22",
+  "color": "white",
+  "initialPly": 44,
+  "gameId": "TE2UKott",
+  "lines": {
+    "e6d8": {
+      "f8d8": {
+        "g4e6": {
+          "g8h7": {
+            "e6f5": {
+              "b6f2": {
+                "g1h1": {
+                  "f2e3": "win"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 3,
+  "enabled": true
+}

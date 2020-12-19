@@ -1,0 +1,28 @@
+{
+  "id": 105642,
+  "rating": 2085,
+  "attempts": 5222,
+  "fen": "4r3/1r3pk1/p2qb1p1/3p2Q1/2pP1PnP/P1N5/1P2R3/1B2R1K1 b - - 0 30",
+  "color": "white",
+  "initialPly": 60,
+  "gameId": "MlBESTPs",
+  "lines": {
+    "g5g6": {
+      "g7f8": {
+        "g6e8": {
+          "f8e8": {
+            "e2e6": {
+              "d6e6": {
+                "e1e6": {
+                  "e8f7": "win"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 163,
+  "enabled": true
+}

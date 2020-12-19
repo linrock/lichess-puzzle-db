@@ -1,0 +1,24 @@
+{
+  "id": 119538,
+  "rating": 1745,
+  "attempts": 8941,
+  "fen": "r4r2/2p2qpk/pbnppn1p/1p2p3/4P2N/P1PP2NP/1P3PPK/R1BQ1R2 w - - 5 16",
+  "color": "black",
+  "initialPly": 31,
+  "gameId": "NLrt26QA",
+  "lines": {
+    "e5f4": {
+      "c1f4": {
+        "g7g5": {
+          "f4g5": {
+            "h6g5": {
+              "h4f3": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 167,
+  "enabled": true
+}

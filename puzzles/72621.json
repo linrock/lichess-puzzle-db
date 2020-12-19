@@ -1,0 +1,28 @@
+{
+  "id": 72621,
+  "rating": 1762,
+  "attempts": 43344,
+  "fen": "rn2r3/ppk2n1p/2p1bRp1/8/4P3/1NN4P/PPP1B1P1/1K1R4 b - - 0 22",
+  "color": "white",
+  "initialPly": 44,
+  "gameId": "dnkQW30d",
+  "lines": {
+    "d1d7": {
+      "c7d7": {
+        "b3c5": {
+          "d7d6": {
+            "c5e6": {
+              "e8e6": {
+                "f6f7": {
+                  "e6e7": "win"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 604,
+  "enabled": true
+}

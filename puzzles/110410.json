@@ -1,0 +1,32 @@
+{
+  "id": 110410,
+  "rating": 1883,
+  "attempts": 7366,
+  "fen": "2k1r1r1/pp1q4/3pR1np/3P1pp1/2Pp4/3P2PP/PP2Q1BK/4R3 b - - 3 23",
+  "color": "white",
+  "initialPly": 46,
+  "gameId": "SwTPMNrk",
+  "lines": {
+    "c4c5": {
+      "e8e6": {
+        "d5e6": {
+          "d7e6": {
+            "c5d6": {
+              "e6d6": {
+                "e2e5": {
+                  "d6e5": {
+                    "e1e5": {
+                      "g8f8": "win"
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 162,
+  "enabled": true
+}

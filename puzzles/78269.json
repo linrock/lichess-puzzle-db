@@ -1,0 +1,24 @@
+{
+  "id": 78269,
+  "rating": 1449,
+  "attempts": 17539,
+  "fen": "4r3/1p3kp1/p6b/4PB1P/3p4/8/P5P1/4R1K1 b - - 0 36",
+  "color": "white",
+  "initialPly": 72,
+  "gameId": "5oyeNDew",
+  "lines": {
+    "e1e3": {
+      "d4e3": {
+        "f5g6": {
+          "f7e6": {
+            "g6e8": {
+              "e6e5": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": -328,
+  "enabled": true
+}

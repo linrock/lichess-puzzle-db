@@ -1,0 +1,24 @@
+{
+  "id": 85208,
+  "rating": 1543,
+  "attempts": 16556,
+  "fen": "2r2rk1/1bq1bppp/p1n1p3/1p6/1P4n1/P1N1PN2/BB2QPPP/3R1RK1 w - - 8 17",
+  "color": "black",
+  "initialPly": 33,
+  "gameId": "RmoniN35",
+  "lines": {
+    "c6d4": {
+      "d1d4": {
+        "b7f3": {
+          "d4g4": {
+            "f3e2": {
+              "c3e2": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 392,
+  "enabled": true
+}

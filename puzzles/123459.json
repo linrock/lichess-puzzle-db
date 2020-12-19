@@ -1,0 +1,20 @@
+{
+  "id": 123459,
+  "rating": 2916,
+  "attempts": 1209,
+  "fen": "r3rb1k/pp3ppp/5n1N/3q4/4p3/2P1B1Q1/PP3PPP/R4RK1 w - - 4 18",
+  "color": "black",
+  "initialPly": 35,
+  "gameId": "oRGiya98",
+  "lines": {
+    "d5e6": {
+      "h6f7": {
+        "e6f7": {
+          "e3d4": "win"
+        }
+      }
+    }
+  },
+  "vote": 3,
+  "enabled": true
+}

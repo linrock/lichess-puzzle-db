@@ -1,0 +1,28 @@
+{
+  "id": 75385,
+  "rating": 1506,
+  "attempts": 23715,
+  "fen": "1r3rk1/2q1bp1p/pn4pP/4p1B1/Bpp5/4Q3/PPP2PP1/2KRR3 w - - 2 22",
+  "color": "black",
+  "initialPly": 43,
+  "gameId": "OYroPCrn",
+  "lines": {
+    "c7e5": {
+      "e1e5": {
+        "e7g5": {
+          "e5g5": {
+            "b6a4": {
+              "g5a5": {
+                "a4b6": {
+                  "a5a6": "win"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 332,
+  "enabled": true
+}

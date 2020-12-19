@@ -1,0 +1,24 @@
+{
+  "id": 90398,
+  "rating": 1648,
+  "attempts": 70136,
+  "fen": "6k1/6pp/pn2q3/1p1p4/3PrB2/1P1Q2P1/P6P/3R2K1 w - - 1 29",
+  "color": "black",
+  "initialPly": 57,
+  "gameId": "lGPlWszc",
+  "lines": {
+    "e4f4": {
+      "g3f4": {
+        "e6g4": {
+          "g1f2": {
+            "g4d1": {
+              "c3c5": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 387,
+  "enabled": true
+}

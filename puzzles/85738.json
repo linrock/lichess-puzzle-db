@@ -1,0 +1,24 @@
+{
+  "id": 85738,
+  "rating": 1845,
+  "attempts": 15258,
+  "fen": "r3rbk1/2p2pp1/2p5/p3P2P/5P1q/3B1Q1b/PPP5/R1B2RK1 w - - 0 19",
+  "color": "black",
+  "initialPly": 37,
+  "gameId": "RF260J4D",
+  "lines": {
+    "f8c5": {
+      "c1e3": {
+        "h3g4": {
+          "e3c5": {
+            "g4f3": {
+              "f2f3": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 287,
+  "enabled": true
+}

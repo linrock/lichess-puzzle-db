@@ -1,0 +1,24 @@
+{
+  "id": 106374,
+  "rating": 1727,
+  "attempts": 25405,
+  "fen": "rnbq1rk1/pp2ppbp/5np1/3p4/3NP3/2N1B3/PPP1BPPP/R2QK2R w KQ - 0 8",
+  "color": "black",
+  "initialPly": 15,
+  "gameId": "DkhTvDsX",
+  "lines": {
+    "e7e5": {
+      "d4e2": {
+        "d5d4": {
+          "e2d4": {
+            "e5d4": {
+              "d1d4": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 229,
+  "enabled": true
+}

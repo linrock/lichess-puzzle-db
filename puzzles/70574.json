@@ -1,0 +1,24 @@
+{
+  "id": 70574,
+  "rating": 1909,
+  "attempts": 30531,
+  "fen": "rnb1k2r/1p4bp/p2Qpnp1/q1p5/2P2B2/2N2N1P/PP2PPP1/R3KB1R w KQkq - 1 10",
+  "color": "black",
+  "initialPly": 19,
+  "gameId": "DWIxISSI",
+  "lines": {
+    "f6e4": {
+      "d6d3": {
+        "e4c3": {
+          "d3d2": {
+            "b8c6": {
+              "a1c1": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 187,
+  "enabled": true
+}

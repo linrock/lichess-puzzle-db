@@ -1,0 +1,22 @@
+{
+  "id": 109020,
+  "rating": 2054,
+  "attempts": 209420,
+  "fen": "6k1/3r1p1p/2rPb3/1p2R3/3R4/5PK1/6PP/8 b - - 11 34",
+  "color": "white",
+  "initialPly": 68,
+  "gameId": "eccnhpu7",
+  "lines": {
+    "d4g4": {
+      "g8f8": {
+        "e5e8": {
+          "f8e8": {
+            "g4g8": "win"
+          }
+        }
+      }
+    }
+  },
+  "vote": 2569,
+  "enabled": true
+}

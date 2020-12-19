@@ -1,0 +1,24 @@
+{
+  "id": 66641,
+  "rating": 2032,
+  "attempts": 50600,
+  "fen": "8/6pk/2R5/1PNn1p2/3Pb2p/7P/1r1B4/4K3 b - - 3 44",
+  "color": "white",
+  "initialPly": 88,
+  "gameId": "mBYnmoza",
+  "lines": {
+    "c5e6": {
+      "d5f6": {
+        "e6g5": {
+          "h7g6": {
+            "g5f3": {
+              "b2b5": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 746,
+  "enabled": true
+}

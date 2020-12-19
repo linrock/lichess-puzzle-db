@@ -1,0 +1,28 @@
+{
+  "id": 90220,
+  "rating": 1800,
+  "attempts": 32733,
+  "fen": "r2B1r1k/1bp3bp/pp1p2p1/3n4/2BPn2N/2P5/PP1Q2PP/RN3RK1 b - - 0 17",
+  "color": "white",
+  "initialPly": 34,
+  "gameId": "KRtmbu67",
+  "lines": {
+    "f1f8": {
+      "g7f8": {
+        "c4d5": {
+          "b7d5": {
+            "d8f6": {
+              "h8g8": {
+                "b1d2": {
+                  "f8h6": "win"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 443,
+  "enabled": true
+}

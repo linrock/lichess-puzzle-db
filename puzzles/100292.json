@@ -1,0 +1,24 @@
+{
+  "id": 100292,
+  "rating": 1312,
+  "attempts": 212543,
+  "fen": "8/1p3rkp/p7/6p1/3p4/1n2P1PP/1BQq1P1K/1R6 w - - 2 30",
+  "color": "black",
+  "initialPly": 59,
+  "gameId": "VIoNDgP7",
+  "lines": {
+    "b3d4": {
+      "c2d2": {
+        "d4f3": {
+          "h2g2": {
+            "f3d2": {
+              "b1a1": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 1781,
+  "enabled": true
+}

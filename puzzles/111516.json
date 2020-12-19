@@ -1,0 +1,24 @@
+{
+  "id": 111516,
+  "rating": 1042,
+  "attempts": 671,
+  "fen": "3rrk2/pp2qpR1/5n1p/2pp3P/2P4Q/1P1R4/PB3PP1/6K1 b - - 0 26",
+  "color": "white",
+  "initialPly": 52,
+  "gameId": "WTShIkov",
+  "lines": {
+    "g1h2": {
+      "d5d4": {
+        "h4f6": {
+          "e1e5": {
+            "f6e5": {
+              "e8e5": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": -7,
+  "enabled": true
+}

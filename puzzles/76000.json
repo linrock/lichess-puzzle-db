@@ -1,0 +1,24 @@
+{
+  "id": 76000,
+  "rating": 1623,
+  "attempts": 24182,
+  "fen": "2r2rk1/1bq1bppp/pp1ppn2/3N4/1P1NP3/P4P2/3Q2PP/2R2RBK b - - 3 18",
+  "color": "white",
+  "initialPly": 36,
+  "gameId": "cMSQl3lv",
+  "lines": {
+    "c1c8": {
+      "b7c8": {
+        "d4c6": {
+          "e6d5": {
+            "c6d8": {
+              "e7d8": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 301,
+  "enabled": true
+}

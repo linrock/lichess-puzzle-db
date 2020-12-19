@@ -1,0 +1,24 @@
+{
+  "id": 66507,
+  "rating": 2006,
+  "attempts": 42802,
+  "fen": "4rrk1/pp3p2/2qp2pp/2pN2b1/2P1n1P1/1P3Q1P/PBP5/R4RK1 b - - 4 26",
+  "color": "white",
+  "initialPly": 52,
+  "gameId": "Mxjv2Pgx",
+  "lines": {
+    "d5f6": {
+      "g5f6": {
+        "f3f6": {
+          "e8e5": {
+            "b2e5": {
+              "d6e5": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 654,
+  "enabled": true
+}

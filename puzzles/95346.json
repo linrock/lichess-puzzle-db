@@ -1,0 +1,24 @@
+{
+  "id": 95346,
+  "rating": 1390,
+  "attempts": 8821,
+  "fen": "r4rk1/1p3p2/p3q1pQ/5b2/3p4/3B1P1N/2P3PP/2K4R b - - 0 23",
+  "color": "white",
+  "initialPly": 46,
+  "gameId": "XLdGMt79",
+  "lines": {
+    "h3g5": {
+      "e6e3": {
+        "c1b2": {
+          "e3g5": {
+            "h6g5": {
+              "d3c4": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 194,
+  "enabled": true
+}

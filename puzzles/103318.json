@@ -1,0 +1,26 @@
+{
+  "id": 103318,
+  "rating": 1514,
+  "attempts": 60624,
+  "fen": "Q7/8/p6p/2p1knp1/Pq2n3/8/1P2RPPP/6K1 w - - 2 40",
+  "color": "black",
+  "initialPly": 79,
+  "gameId": "NYMwFwCo",
+  "lines": {
+    "b4d4": {
+      "g1f1": {
+        "d4d1": {
+          "e2e1": {
+            "f5e3": {
+              "f1g1": {
+                "d1e1": "win"
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 357,
+  "enabled": true
+}

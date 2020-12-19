@@ -1,0 +1,24 @@
+{
+  "id": 110061,
+  "rating": 1893,
+  "attempts": 7460,
+  "fen": "r1b1k1nr/1p2bpp1/p3p3/8/1PP1N1P1/P2Q2Bp/2R1K3/q4B1R b kq - 7 25",
+  "color": "white",
+  "initialPly": 50,
+  "gameId": "ZLAiBuLE",
+  "lines": {
+    "f1g2": {
+      "f6e4": {
+        "h1a1": {
+          "e4g3": {
+            "d3g3": {
+              "h3g2": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 150,
+  "enabled": true
+}

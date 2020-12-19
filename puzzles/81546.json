@@ -1,0 +1,24 @@
+{
+  "id": 81546,
+  "rating": 1611,
+  "attempts": 14849,
+  "fen": "r3r1k1/5ppp/pq1p1b2/1p1P4/8/1P3n1P/PB3PP1/1R1QR1K1 w - - 0 22",
+  "color": "black",
+  "initialPly": 43,
+  "gameId": "H1lTroKe",
+  "lines": {
+    "e8e1": {
+      "b1e1": {
+        "f6b2": {
+          "f3e2": {
+            "b2e5": {
+              "e1c1": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 274,
+  "enabled": true
+}

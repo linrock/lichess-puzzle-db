@@ -1,0 +1,20 @@
+{
+  "id": 88618,
+  "rating": 1010,
+  "attempts": 1168,
+  "fen": "2B2r2/1p3pk1/pP1p2p1/1b1Pp2p/1P2P2P/5qP1/2R2P2/2Q3K1 w - - 2 37",
+  "color": "black",
+  "initialPly": 73,
+  "gameId": "FNLpByox",
+  "lines": {
+    "f3d1": {
+      "g1h2": {
+        "d1c2": {
+          "c8h3": "win"
+        }
+      }
+    }
+  },
+  "vote": 37,
+  "enabled": true
+}

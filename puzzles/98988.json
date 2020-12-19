@@ -1,0 +1,22 @@
+{
+  "id": 98988,
+  "rating": 1151,
+  "attempts": 37268,
+  "fen": "r1b2kr1/pppp1p1p/5B2/3P2N1/8/2P5/P4PPP/4R1K1 b - - 4 19",
+  "color": "white",
+  "initialPly": 38,
+  "gameId": "PAKHyXUt",
+  "lines": {
+    "g5h7": {
+      "f8g8": {
+        "e1e8": {
+          "g8h7": {
+            "e8h8": "win"
+          }
+        }
+      }
+    }
+  },
+  "vote": 90,
+  "enabled": true
+}

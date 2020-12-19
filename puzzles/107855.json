@@ -1,0 +1,32 @@
+{
+  "id": 107855,
+  "rating": 2111,
+  "attempts": 5479,
+  "fen": "8/1p4k1/2pPqp1p/2P1nRp1/1P1QP3/r4B2/r5PP/5RK1 w - - 1 35",
+  "color": "black",
+  "initialPly": 69,
+  "gameId": "KEesLE4h",
+  "lines": {
+    "a3d3": {
+      "f5e5": {
+        "a2g2": {
+          "g1g2": {
+            "e6h3": {
+              "g2g1": {
+                "d3d4": {
+                  "e5e7": {
+                    "g7g6": {
+                      "d1e2": "win"
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 167,
+  "enabled": true
+}

@@ -1,0 +1,28 @@
+{
+  "id": 61456,
+  "rating": 2809,
+  "attempts": 81838,
+  "fen": "r4kq1/pp1b2p1/3n1p2/2b2P2/3B2Q1/1P5R/P1P3PP/4R2K b - - 0 25",
+  "color": "white",
+  "initialPly": 50,
+  "gameId": "NgOTadLd",
+  "lines": {
+    "g4e2": {
+      "a8e8": {
+        "h3e3": {
+          "e8e3": {
+            "e2e3": {
+              "d6e4": {
+                "d4c5": {
+                  "f8f7": "win"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 2179,
+  "enabled": true
+}

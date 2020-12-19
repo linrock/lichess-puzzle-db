@@ -1,0 +1,24 @@
+{
+  "id": 98538,
+  "rating": 1975,
+  "attempts": 7533,
+  "fen": "2r1r1k1/5ppp/p1b2B2/1p3N2/4P3/1P1q1P1P/P5P1/2Q4K b - - 0 30",
+  "color": "white",
+  "initialPly": 60,
+  "gameId": "SgIAvlok",
+  "lines": {
+    "c1g5": {
+      "d3d1": {
+        "h1h2": {
+          "d1d6": {
+            "f5d6": {
+              "e4g6": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 183,
+  "enabled": true
+}

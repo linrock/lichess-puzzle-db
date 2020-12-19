@@ -1,0 +1,24 @@
+{
+  "id": 73294,
+  "rating": 1647,
+  "attempts": 27992,
+  "fen": "4r1k1/pp1b3p/q2p1p2/PNpPr3/2P2p1p/1R6/1P1Q1PP1/2R2K2 b - - 3 28",
+  "color": "white",
+  "initialPly": 56,
+  "gameId": "NCSjKgFM",
+  "lines": {
+    "b5c7": {
+      "e5e1": {
+        "c1e1": {
+          "a6c4": {
+            "f1g1": {
+              "e8b8": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": -717,
+  "enabled": true
+}

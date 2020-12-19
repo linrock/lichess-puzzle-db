@@ -1,0 +1,28 @@
+{
+  "id": 80278,
+  "rating": 1714,
+  "attempts": 122209,
+  "fen": "2r1k2r/1p2p2p/pN5n/4pp2/8/5P2/1P2R1PP/3R2K1 b k - 0 22",
+  "color": "white",
+  "initialPly": 44,
+  "gameId": "paAhardu",
+  "lines": {
+    "d1d8": {
+      "e8d8": {
+        "e2c2": {
+          "d8e8": {
+            "c2c8": {
+              "e8f7": {
+                "c8h8": {
+                  "f7e6": "win"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 1822,
+  "enabled": true
+}

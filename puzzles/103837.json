@@ -1,0 +1,24 @@
+{
+  "id": 103837,
+  "rating": 1650,
+  "attempts": 9825,
+  "fen": "1k5r/1p3R1p/p1pr1np1/2np4/8/2N2P1B/PPP2PKP/4R3 b - - 0 23",
+  "color": "white",
+  "initialPly": 46,
+  "gameId": "KBEOFKah",
+  "lines": {
+    "b2b4": {
+      "d6f6": {
+        "f7f6": {
+          "h5f6": {
+            "b4c5": {
+              "d5d4": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 207,
+  "enabled": true
+}

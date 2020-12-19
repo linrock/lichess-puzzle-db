@@ -1,0 +1,28 @@
+{
+  "id": 66845,
+  "rating": 2245,
+  "attempts": 272514,
+  "fen": "3r2k1/pppr2p1/5p1p/4n1q1/2Pp3R/PP1B1PPb/2Q2P1P/2B1R1K1 w - - 2 27",
+  "color": "black",
+  "initialPly": 53,
+  "gameId": "LEXHtLhJ",
+  "lines": {
+    "e5f3": {
+      "g1h1": {
+        "h3g2": {
+          "h1g2": {
+            "f3e1": {
+              "g2f1": {
+                "e1c2": {
+                  "g5d2": "win"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 1924,
+  "enabled": true
+}

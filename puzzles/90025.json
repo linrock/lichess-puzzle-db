@@ -1,0 +1,24 @@
+{
+  "id": 90025,
+  "rating": 1166,
+  "attempts": 1778,
+  "fen": "1r3rk1/p4ppp/4p3/1qpnN3/8/2P1P3/P1Q2PPP/1R3RK1 b - - 7 23",
+  "color": "white",
+  "initialPly": 46,
+  "gameId": "scEkzWSR",
+  "lines": {
+    "b1b8": {
+      "e8b8": {
+        "e5d7": {
+          "b8b7": {
+            "d7f8": {
+              "g8f8": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 62,
+  "enabled": true
+}

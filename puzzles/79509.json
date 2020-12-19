@@ -1,0 +1,24 @@
+{
+  "id": 79509,
+  "rating": 1155,
+  "attempts": 12217,
+  "fen": "7k/p1p1q1p1/1p5p/7P/4B3/1Q4P1/PP3r2/1K1R4 w - - 3 29",
+  "color": "black",
+  "initialPly": 57,
+  "gameId": "r3OkhArk",
+  "lines": {
+    "e7e6": {
+      "d1d8": {
+        "e6g8": {
+          "d8g8": {
+            "h8g8": {
+              "a2a4": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 291,
+  "enabled": true
+}

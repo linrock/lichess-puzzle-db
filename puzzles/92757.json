@@ -1,0 +1,26 @@
+{
+  "id": 92757,
+  "rating": 1467,
+  "attempts": 204145,
+  "fen": "3R4/1r4k1/4Bpp1/2pPp3/3nP3/q6P/P2Q2P1/6K1 b - - 4 33",
+  "color": "white",
+  "initialPly": 66,
+  "gameId": "Gvh9SCci",
+  "lines": {
+    "d8g8": {
+      "g7h7": {
+        "g8h8": {
+          "h7h8": {
+            "d2h6": {
+              "b7h7": {
+                "h6f8": "win"
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 2703,
+  "enabled": true
+}

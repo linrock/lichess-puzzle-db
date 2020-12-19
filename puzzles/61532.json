@@ -1,0 +1,24 @@
+{
+  "id": 61532,
+  "rating": 2313,
+  "attempts": 237064,
+  "fen": "1rbq1rk1/p4ppp/2pb1n2/3p2B1/7Q/2NB4/PPP2PPP/R4RK1 b - - 5 13",
+  "color": "white",
+  "initialPly": 26,
+  "gameId": "BNT39m83",
+  "lines": {
+    "d3h7": {
+      "f6h7": {
+        "g5d8": {
+          "b4h4": {
+            "d8h4": {
+              "f7f6": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 5766,
+  "enabled": true
+}

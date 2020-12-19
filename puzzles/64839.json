@@ -1,0 +1,24 @@
+{
+  "id": 64839,
+  "rating": 2075,
+  "attempts": 68659,
+  "fen": "8/3N1pp1/3bp2p/1k1p4/3P4/4P1PP/4KP2/8 w - - 6 39",
+  "color": "black",
+  "initialPly": 77,
+  "gameId": "myxdaemj",
+  "lines": {
+    "f7f6": {
+      "g3g4": {
+        "b5c6": {
+          "d7f6": {
+            "g7f6": {
+              "e2d2": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 730,
+  "enabled": true
+}

@@ -1,0 +1,24 @@
+{
+  "id": 100094,
+  "rating": 1625,
+  "attempts": 11297,
+  "fen": "3r1qk1/1pp2pp1/p1n1bn1p/4p3/P1P1P3/2PB3P/2QN1PPK/R4R2 w - - 4 17",
+  "color": "black",
+  "initialPly": 33,
+  "gameId": "391MvSEG",
+  "lines": {
+    "f8d6": {
+      "d2f3": {
+        "d6d3": {
+          "c2d3": {
+            "d8d3": {
+              "b1b7": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 202,
+  "enabled": true
+}

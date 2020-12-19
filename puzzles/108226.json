@@ -1,0 +1,20 @@
+{
+  "id": 108226,
+  "rating": 932,
+  "attempts": 516,
+  "fen": "rnbqkbnr/pp2pppp/8/3P4/2p5/8/PP3PPP/RNBQKBNR b KQkq - 0 5",
+  "color": "white",
+  "initialPly": 10,
+  "gameId": "KPKv50PP",
+  "lines": {
+    "d5c6": {
+      "d8d1": {
+        "e1d1": {
+          "b7c6": "win"
+        }
+      }
+    }
+  },
+  "vote": 11,
+  "enabled": true
+}

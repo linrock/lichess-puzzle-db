@@ -1,0 +1,24 @@
+{
+  "id": 78864,
+  "rating": 1496,
+  "attempts": 16313,
+  "fen": "2r2rk1/1p1b1pp1/p4q1p/3pn3/8/P2BPNP1/1P1Q2PP/R3K2R w KQ - 0 18",
+  "color": "black",
+  "initialPly": 35,
+  "gameId": "keloT8im",
+  "lines": {
+    "e5d3": {
+      "d2d3": {
+        "d7b5": {
+          "d3d2": {
+            "b5f1": {
+              "a1f1": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 364,
+  "enabled": true
+}

@@ -1,0 +1,24 @@
+{
+  "id": 103974,
+  "rating": 2013,
+  "attempts": 7090,
+  "fen": "1R1b2r1/5pk1/p1Q1pp2/4P2p/5P2/7P/P1P2qP1/6NK b - - 0 25",
+  "color": "white",
+  "initialPly": 50,
+  "gameId": "BlBastxr",
+  "lines": {
+    "c6d6": {
+      "f4e5": {
+        "b8d8": {
+          "e5d6": {
+            "d8d6": {
+              "g8c8": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 167,
+  "enabled": true
+}

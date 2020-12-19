@@ -1,0 +1,20 @@
+{
+  "id": 123828,
+  "rating": 2022,
+  "attempts": 6502,
+  "fen": "3r1rk1/p1n2ppp/2p5/2PpPPq1/1pPB4/8/PKQ4R/3R4 b - - 0 27",
+  "color": "white",
+  "initialPly": 54,
+  "gameId": "ClMQigg1",
+  "lines": {
+    "d1g1": {
+      "g5g1": {
+        "d4g1": {
+          "c4c3": "win"
+        }
+      }
+    }
+  },
+  "vote": 111,
+  "enabled": true
+}

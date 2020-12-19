@@ -1,0 +1,20 @@
+{
+  "id": 122131,
+  "rating": 1403,
+  "attempts": 4638,
+  "fen": "r1bq1rk1/5pp1/2nbpn1p/pp1pB3/2pP4/2P1PN2/PPQN1PPP/1BR1K2R b K - 3 13",
+  "color": "white",
+  "initialPly": 26,
+  "gameId": "Wovet23G",
+  "lines": {
+    "d4e5": {
+      "g7g6": {
+        "e5f6": {
+          "d8f6": "win"
+        }
+      }
+    }
+  },
+  "vote": 60,
+  "enabled": true
+}

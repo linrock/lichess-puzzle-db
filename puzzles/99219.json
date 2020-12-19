@@ -1,0 +1,24 @@
+{
+  "id": 99219,
+  "rating": 1332,
+  "attempts": 3494,
+  "fen": "r3r1k1/5npp/bpq5/p2pP3/3p2P1/P2N3P/1PP1Q3/1KN2R1R b - - 0 28",
+  "color": "white",
+  "initialPly": 56,
+  "gameId": "BuNccOGm",
+  "lines": {
+    "d3e5": {
+      "a6e2": {
+        "e5c6": {
+          "e2f1": {
+            "h1f1": {
+              "a8e8": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 57,
+  "enabled": true
+}

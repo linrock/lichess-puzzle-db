@@ -1,0 +1,24 @@
+{
+  "id": 98397,
+  "rating": 1629,
+  "attempts": 10512,
+  "fen": "2rqr1k1/1b1nbppp/pp2pn2/1N1p4/3P4/PP1BPN2/1B2QPPP/2RR2K1 w - - 1 16",
+  "color": "black",
+  "initialPly": 31,
+  "gameId": "VBO19wcr",
+  "lines": {
+    "c8c1": {
+      "d1c1": {
+        "d8a8": {
+          "d3a6": {
+            "a8a7": {
+              "a6d3": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 216,
+  "enabled": true
+}

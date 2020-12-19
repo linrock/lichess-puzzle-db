@@ -1,0 +1,24 @@
+{
+  "id": 68002,
+  "rating": 1579,
+  "attempts": 143956,
+  "fen": "3r2k1/1rq2p1p/3b2p1/p2Q1p2/4p3/P3P2P/1P1B1PP1/R4RK1 w - - 1 24",
+  "color": "black",
+  "initialPly": 47,
+  "gameId": "AyCRTPRV",
+  "lines": {
+    "d6h2": {
+      "g1h1": {
+        "d8d5": {
+          "a5c7": {
+            "h2c7": {
+              "b2b4": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 948,
+  "enabled": true
+}

@@ -1,0 +1,32 @@
+{
+  "id": 124927,
+  "rating": 2240,
+  "attempts": 7468,
+  "fen": "r4rk1/2pq1p1p/p1pp1Pp1/8/3P1Q2/5N2/PPP4P/4RbK1 b - - 0 19",
+  "color": "white",
+  "initialPly": 38,
+  "gameId": "sxONunEd",
+  "lines": {
+    "f4h6": {
+      "d7g4": {
+        "g1f2": {
+          "g4g2": {
+            "f2e3": {
+              "f8e8": {
+                "f3e5": {
+                  "g2g5": {
+                    "h6g5": {
+                      "e8e6": "win"
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 132,
+  "enabled": true
+}

@@ -1,0 +1,24 @@
+{
+  "id": 120293,
+  "rating": 1055,
+  "attempts": 4285,
+  "fen": "5r2/7k/8/6N1/6P1/3b2KP/4p3/4R3 b - - 4 47",
+  "color": "white",
+  "initialPly": 94,
+  "gameId": "FLKXEvVJ",
+  "lines": {
+    "g5e6": {
+      "f8e8": {
+        "e6f4": {
+          "g6h7": {
+            "f4d3": {
+              "e8e3": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 85,
+  "enabled": true
+}

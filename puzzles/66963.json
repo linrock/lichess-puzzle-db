@@ -1,0 +1,28 @@
+{
+  "id": 66963,
+  "rating": 1929,
+  "attempts": 44284,
+  "fen": "2r5/5pk1/7p/1K1P4/4P3/3p4/3Nb1PP/5R2 w - - 1 32",
+  "color": "black",
+  "initialPly": 63,
+  "gameId": "sshaMToU",
+  "lines": {
+    "c8c2": {
+      "d5d6": {
+        "c2d2": {
+          "d6d7": {
+            "d2b2": {
+              "b5c6": {
+                "b2b8": {
+                  "f2f5": "win"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 746,
+  "enabled": true
+}

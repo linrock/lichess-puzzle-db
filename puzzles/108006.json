@@ -1,0 +1,20 @@
+{
+  "id": 108006,
+  "rating": 989,
+  "attempts": 249,
+  "fen": "8/p2n2p1/1pp1kpnp/4p3/4PP2/2NNK1P1/PPP4P/8 b - - 0 23",
+  "color": "white",
+  "initialPly": 46,
+  "gameId": "ENcKblVM",
+  "lines": {
+    "f4f5": {
+      "e6d6": {
+        "f5g6": {
+          "d7f8": "win"
+        }
+      }
+    }
+  },
+  "vote": 10,
+  "enabled": true
+}

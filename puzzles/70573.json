@@ -1,0 +1,24 @@
+{
+  "id": 70573,
+  "rating": 1515,
+  "attempts": 33225,
+  "fen": "4r1k1/p1qn3p/bp1b2p1/2pP1p2/4NP2/1P2rBP1/PBQ3KP/2RR4 w - - 0 24",
+  "color": "black",
+  "initialPly": 47,
+  "gameId": "ElPglS00",
+  "lines": {
+    "e3e2": {
+      "f3e2": {
+        "e8e2": {
+          "c2e2": {
+            "a6e2": {
+              "d1e1": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 525,
+  "enabled": true
+}

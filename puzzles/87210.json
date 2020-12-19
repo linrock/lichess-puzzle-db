@@ -1,0 +1,24 @@
+{
+  "id": 87210,
+  "rating": 1722,
+  "attempts": 13977,
+  "fen": "r5k1/pp1n2pp/2qbpB2/2p2p2/8/2P2P2/PP2Q1PP/3RK2R b K - 0 19",
+  "color": "white",
+  "initialPly": 38,
+  "gameId": "EWuMiByg",
+  "lines": {
+    "e2e6": {
+      "g8f8": {
+        "e6d6": {
+          "c6d6": {
+            "d1d6": {
+              "a8c8": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 208,
+  "enabled": true
+}

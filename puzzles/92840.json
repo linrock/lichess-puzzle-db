@@ -1,0 +1,24 @@
+{
+  "id": 92840,
+  "rating": 1115,
+  "attempts": 2248,
+  "fen": "6k1/6pp/4p3/p4p2/4q3/5N2/5PPP/2R2K2 b - - 5 36",
+  "color": "white",
+  "initialPly": 72,
+  "gameId": "PLysQrmY",
+  "lines": {
+    "c1c8": {
+      "g8f7": {
+        "f3g5": {
+          "f7g6": {
+            "g5e4": {
+              "a4a3": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 84,
+  "enabled": true
+}

@@ -1,0 +1,24 @@
+{
+  "id": 91236,
+  "rating": 1838,
+  "attempts": 11433,
+  "fen": "4r3/8/8/4BKP1/5P2/1k6/p2R4/4n3 w - - 0 50",
+  "color": "black",
+  "initialPly": 99,
+  "gameId": "hOTEB2GF",
+  "lines": {
+    "e8e5": {
+      "f4e5": {
+        "a2a1q": {
+          "g6g7": {
+            "a1a8": {
+              "d2d1": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 250,
+  "enabled": true
+}

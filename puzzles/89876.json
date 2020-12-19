@@ -1,0 +1,20 @@
+{
+  "id": 89876,
+  "rating": 1396,
+  "attempts": 6705,
+  "fen": "r2q1rk1/1bp1b1p1/pp5p/2n1p3/4p3/2P1P1BP/PPBN1PP1/R2QR1K1 w - - 2 17",
+  "color": "black",
+  "initialPly": 33,
+  "gameId": "KOs90u2F",
+  "lines": {
+    "d8d2": {
+      "e1d1": {
+        "d2e2": {
+          "b2b4": "win"
+        }
+      }
+    }
+  },
+  "vote": 99,
+  "enabled": true
+}

@@ -1,0 +1,28 @@
+{
+  "id": 90956,
+  "rating": 1605,
+  "attempts": 66110,
+  "fen": "r1q2r2/1p2ppkp/3p2p1/p2P4/1nP5/1P1n1PP1/P1N3BP/1R1QR1K1 w - - 0 19",
+  "color": "black",
+  "initialPly": 37,
+  "gameId": "L90wcyEq",
+  "lines": {
+    "c8c5": {
+      "g1f1": {
+        "b4c2": {
+          "e3d3": {
+            "c2e3": {
+              "d3e3": {
+                "c5e3": {
+                  "d1e2": "win"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 382,
+  "enabled": true
+}

@@ -1,0 +1,20 @@
+{
+  "id": 78653,
+  "rating": 952,
+  "attempts": 1536,
+  "fen": "r2qk2r/1ppb1ppp/p1nbpn2/3pN3/3P1B2/3BP3/PPP2PPP/RN1Q1RK1 b kq - 3 8",
+  "color": "white",
+  "initialPly": 16,
+  "gameId": "NCBHoMGu",
+  "lines": {
+    "d4e5": {
+      "d6e7": {
+        "e5f6": {
+          "e7f6": "win"
+        }
+      }
+    }
+  },
+  "vote": 39,
+  "enabled": true
+}

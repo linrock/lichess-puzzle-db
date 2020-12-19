@@ -1,0 +1,24 @@
+{
+  "id": 101267,
+  "rating": 1716,
+  "attempts": 10172,
+  "fen": "6k1/2r2ppp/Bpqn1b2/3p1b2/3P1B2/NP3P2/P2Q2PP/R5K1 b - - 0 23",
+  "color": "white",
+  "initialPly": 46,
+  "gameId": "DguLwgCp",
+  "lines": {
+    "f4d6": {
+      "c6d6": {
+        "a3b5": {
+          "d6c6": {
+            "b5c7": {
+              "c6c7": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 239,
+  "enabled": true
+}

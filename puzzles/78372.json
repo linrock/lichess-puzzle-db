@@ -1,0 +1,24 @@
+{
+  "id": 78372,
+  "rating": 874,
+  "attempts": 874,
+  "fen": "r2q1rk1/1p2bppp/1n3n2/P1pp4/8/1Q2PN2/1B1P1PPP/RN3RK1 b - - 0 13",
+  "color": "white",
+  "initialPly": 26,
+  "gameId": "PHS269Bw",
+  "lines": {
+    "b3b6": {
+      "d8b6": {
+        "a5b6": {
+          "a8a1": {
+            "b2a1": {
+              "f6d7": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 33,
+  "enabled": true
+}

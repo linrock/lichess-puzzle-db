@@ -1,0 +1,32 @@
+{
+  "id": 91175,
+  "rating": 2480,
+  "attempts": 1254,
+  "fen": "8/p3k2p/1p3p2/3B2p1/3n4/1P4P1/PKr1PP1P/4R3 w - - 1 24",
+  "color": "black",
+  "initialPly": 47,
+  "gameId": "Hrma3cof",
+  "lines": {
+    "d4b5": {
+      "a3b4": {
+        "b5c7": {
+          "d5c4": {
+            "a7a5": {
+              "b4a3": {
+                "b6b5": {
+                  "c4b5": {
+                    "c7b5": {
+                      "a3a4": "win"
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 27,
+  "enabled": true
+}

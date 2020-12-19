@@ -1,0 +1,24 @@
+{
+  "id": 64693,
+  "rating": 1449,
+  "attempts": 161137,
+  "fen": "r1q2rk1/Bp1b1pnp/p2pp1p1/P2P4/1RP1PP1b/2N5/2QN2PP/1R4K1 w - - 5 23",
+  "color": "black",
+  "initialPly": 45,
+  "gameId": "leoxoez5",
+  "lines": {
+    "a8a7": {
+      "b7a7": {
+        "c8c5": {
+          "g1h1": {
+            "c5a7": {
+              "c2d3": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 1158,
+  "enabled": true
+}

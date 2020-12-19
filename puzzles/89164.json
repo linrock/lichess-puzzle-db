@@ -1,0 +1,24 @@
+{
+  "id": 89164,
+  "rating": 1240,
+  "attempts": 4230,
+  "fen": "4r1k1/3n1pp1/4P2p/qp1P4/2p1RP2/1Q6/rB4PP/5RK1 w - - 0 25",
+  "color": "black",
+  "initialPly": 49,
+  "gameId": "gGoPHkrP",
+  "lines": {
+    "a2b2": {
+      "e6f7": {
+        "g8f7": {
+          "e4e8": {
+            "f7e8": {
+              "g3g7": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": -96,
+  "enabled": true
+}

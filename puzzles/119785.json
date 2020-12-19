@@ -1,0 +1,24 @@
+{
+  "id": 119785,
+  "rating": 1052,
+  "attempts": 4864,
+  "fen": "r3q2k/8/3p4/3P1Bb1/1PPp3p/1Pn5/p1Q2P2/K5R1 b - - 0 33",
+  "color": "white",
+  "initialPly": 66,
+  "gameId": "GcyLE2GX",
+  "lines": {
+    "c2c3": {
+      "e8e5": {
+        "c3e5": {
+          "d6e5": {
+            "g1g5": {
+              "d3d2": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 97,
+  "enabled": true
+}

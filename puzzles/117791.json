@@ -1,0 +1,24 @@
+{
+  "id": 117791,
+  "rating": 2400,
+  "attempts": 4301,
+  "fen": "r2r2k1/pb2qppp/1p6/2n1P3/3B1P2/3B4/PP4PP/R2Q1RK1 w - - 3 17",
+  "color": "black",
+  "initialPly": 33,
+  "gameId": "vatxNe39",
+  "lines": {
+    "e7c5": {
+      "f1f2": {
+        "c5e3": {
+          "d3h7": {
+            "g8h7": {
+              "d1e1": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": -24,
+  "enabled": true
+}

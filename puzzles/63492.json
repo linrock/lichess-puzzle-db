@@ -1,0 +1,28 @@
+{
+  "id": 63492,
+  "rating": 2865,
+  "attempts": 2374,
+  "fen": "6k1/1b1r1pp1/2p3np/1pB1q3/pP2P3/P4Q1P/B1Pr2P1/R3R1K1 w - - 11 28",
+  "color": "black",
+  "initialPly": 55,
+  "gameId": "huaaqeiy",
+  "lines": {
+    "g6h4": {
+      "f3f7": {
+        "d7f7": {
+          "d1d2": {
+            "b7c8": {
+              "a2f7": {
+                "g8f7": {
+                  "e1e3": "win"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": -3,
+  "enabled": true
+}

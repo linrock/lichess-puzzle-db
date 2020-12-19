@@ -1,0 +1,24 @@
+{
+  "id": 116725,
+  "rating": 1431,
+  "attempts": 6432,
+  "fen": "r2q1r2/pb2p1kp/1p4pb/2ppPp2/3Pn3/1PP1P2R/PB1NB1PP/R3Q1K1 b - - 3 15",
+  "color": "white",
+  "initialPly": 30,
+  "gameId": "tIUXVEvE",
+  "lines": {
+    "h3h6": {
+      "g7h6": {
+        "e1h4": {
+          "h6g7": {
+            "h4g5": {
+              "e7e6": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 127,
+  "enabled": true
+}

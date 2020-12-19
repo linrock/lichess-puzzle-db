@@ -1,0 +1,24 @@
+{
+  "id": 98895,
+  "rating": 1459,
+  "attempts": 10633,
+  "fen": "r4rk1/p4ppp/2pqn1b1/4p3/1P2P3/3PBP2/BPQ2P1P/2KR2R1 b - - 0 21",
+  "color": "white",
+  "initialPly": 42,
+  "gameId": "qCTrOvly",
+  "lines": {
+    "a2e6": {
+      "f7e6": {
+        "e3c5": {
+          "b4b5": {
+            "c5f8": {
+              "a8f8": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 254,
+  "enabled": true
+}

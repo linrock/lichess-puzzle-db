@@ -1,0 +1,28 @@
+{
+  "id": 112191,
+  "rating": 1624,
+  "attempts": 8330,
+  "fen": "r3r1k1/1p1n1ppp/pq1ppb2/2n5/2PNPP2/1PN5/PB2Q1PP/R2R3K w - - 1 16",
+  "color": "black",
+  "initialPly": 31,
+  "gameId": "Dtnd5EKR",
+  "lines": {
+    "f6d4": {
+      "d2d4": {
+        "c5b3": {
+          "a2b3": {
+            "b6d4": {
+              "c3a4": {
+                "d4a7": {
+                  "a1d1": "win"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 207,
+  "enabled": true
+}

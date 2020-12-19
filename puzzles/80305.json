@@ -1,0 +1,24 @@
+{
+  "id": 80305,
+  "rating": 1134,
+  "attempts": 6497,
+  "fen": "rn1qkb1r/ppp2ppp/4p3/3pNb2/3Pn3/3BP3/PPP2PPP/RNBQK2R w KQkq - 4 7",
+  "color": "black",
+  "initialPly": 13,
+  "gameId": "SZkevs3I",
+  "lines": {
+    "d8h4": {
+      "g2g3": {
+        "e4g3": {
+          "h2g3": {
+            "h4h1": {
+              "e1d2": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 176,
+  "enabled": true
+}

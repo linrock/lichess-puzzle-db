@@ -1,0 +1,24 @@
+{
+  "id": 75272,
+  "rating": 2050,
+  "attempts": 14911,
+  "fen": "rn1q1rk1/pp3ppp/2p5/8/3PBbb1/2N2N2/PP3PPP/R2Q1RK1 w - - 0 13",
+  "color": "black",
+  "initialPly": 25,
+  "gameId": "LuHQYR67",
+  "lines": {
+    "f7f5": {
+      "f3e5": {
+        "f4e5": {
+          "d4e5": {
+            "f5e4": {
+              "d3e4": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 281,
+  "enabled": true
+}

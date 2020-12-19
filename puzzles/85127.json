@@ -1,0 +1,28 @@
+{
+  "id": 85127,
+  "rating": 2018,
+  "attempts": 14386,
+  "fen": "r2q1rk1/ppp1bppp/2n5/3p4/2P1n1b1/P3PN2/1BQPBPPP/RN2K2R b KQ - 2 10",
+  "color": "white",
+  "initialPly": 20,
+  "gameId": "VaX2JVlU",
+  "lines": {
+    "c4d5": {
+      "d8d5": {
+        "e2c4": {
+          "d5a5": {
+            "c2e4": {
+              "g4f5": {
+                "e4d5": {
+                  "a8d8": "win"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 276,
+  "enabled": true
+}

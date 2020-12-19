@@ -1,0 +1,24 @@
+{
+  "id": 116077,
+  "rating": 1479,
+  "attempts": 8501,
+  "fen": "r2R1r2/ppp1bppk/2n2n2/4p1B1/8/2N2b2/PPP2PPP/2K3NR w - - 0 12",
+  "color": "black",
+  "initialPly": 23,
+  "gameId": "GsZ72V7J",
+  "lines": {
+    "f3g2": {
+      "a8f8": {
+        "e7f8": {
+          "g1e2": {
+            "g2h1": {
+              "c3b5": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 188,
+  "enabled": true
+}

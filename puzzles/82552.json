@@ -1,0 +1,24 @@
+{
+  "id": 82552,
+  "rating": 1281,
+  "attempts": 4492,
+  "fen": "r3r2k/pp3Q1p/2pb2p1/3p2qn/3P1NN1/2P4P/P7/4RRK1 b - - 3 24",
+  "color": "white",
+  "initialPly": 48,
+  "gameId": "mBHMKpEN",
+  "lines": {
+    "e1e8": {
+      "a8e8": {
+        "f7e8": {
+          "h8g7": {
+            "e8d7": {
+              "d6e7": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 131,
+  "enabled": true
+}

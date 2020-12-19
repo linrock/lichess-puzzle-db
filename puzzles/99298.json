@@ -1,0 +1,24 @@
+{
+  "id": 99298,
+  "rating": 1511,
+  "attempts": 16655,
+  "fen": "r4rk1/pp1qb1pp/2pp1n2/5R2/P2pP3/3P3Q/1PP3PP/RNB3K1 b - - 0 14",
+  "color": "white",
+  "initialPly": 28,
+  "gameId": "UmmJc944",
+  "lines": {
+    "f5f6": {
+      "d7h3": {
+        "f6f8": {
+          "a8f8": {
+            "g2h3": {
+              "d5e4": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 217,
+  "enabled": true
+}

@@ -1,0 +1,24 @@
+{
+  "id": 124745,
+  "rating": 2021,
+  "attempts": 7440,
+  "fen": "2kr2nr/pp3ppp/2n5/1B2P3/1b4b1/2N2N2/PP3PPP/R1BK3R w - - 3 11",
+  "color": "black",
+  "initialPly": 21,
+  "gameId": "TFdgRGqZ",
+  "lines": {
+    "g4f3": {
+      "g2f3": {
+        "c6d4": {
+          "c2b1": {
+            "b4c3": {
+              "b5c4": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 96,
+  "enabled": true
+}

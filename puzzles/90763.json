@@ -1,0 +1,24 @@
+{
+  "id": 90763,
+  "rating": 1736,
+  "attempts": 12848,
+  "fen": "r5q1/4pk2/3p1nP1/2pP2Q1/3b2b1/2N5/1P4B1/2B1R2K b - - 0 30",
+  "color": "white",
+  "initialPly": 60,
+  "gameId": "QraRth70",
+  "lines": {
+    "e1e7": {
+      "f7e7": {
+        "g5g6": {
+          "a8g8": {
+            "g6h6": {
+              "e7f7": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 288,
+  "enabled": true
+}

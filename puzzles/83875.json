@@ -1,0 +1,24 @@
+{
+  "id": 83875,
+  "rating": 1983,
+  "attempts": 48890,
+  "fen": "r3qr1k/p2p2pp/1p1P1p2/1P1Qp3/3nP3/8/P4PPP/R1B1R1K1 w - - 1 22",
+  "color": "black",
+  "initialPly": 43,
+  "gameId": "Ilu4Mhsd",
+  "lines": {
+    "d4e2": {
+      "g1h1": {
+        "e2c3": {
+          "d5d3": {
+            "c3d1": {
+              "d3d1": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 410,
+  "enabled": true
+}

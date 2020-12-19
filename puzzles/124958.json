@@ -1,0 +1,28 @@
+{
+  "id": 124958,
+  "rating": 2068,
+  "attempts": 8861,
+  "fen": "r5r1/p6k/1p2P1q1/2p2p1p/2Pp3Q/P2Pn2P/1P3R2/R6K b - - 2 33",
+  "color": "white",
+  "initialPly": 66,
+  "gameId": "ki43aPpg",
+  "lines": {
+    "h4h5": {
+      "h7g7": {
+        "a1g1": {
+          "g3g1": {
+            "h1g1": {
+              "g7f6": {
+                "g1h1": {
+                  "g8g7": "win"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 54,
+  "enabled": true
+}

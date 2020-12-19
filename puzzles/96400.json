@@ -1,0 +1,20 @@
+{
+  "id": 96400,
+  "rating": 874,
+  "attempts": 204,
+  "fen": "6k1/3R4/1p2n3/1r2N1p1/2p1K3/P5P1/1P6/8 w - - 4 48",
+  "color": "black",
+  "initialPly": 95,
+  "gameId": "rdxors4w",
+  "lines": {
+    "e6c5": {
+      "e4d5": {
+        "c5d7": {
+          "d5d6": "win"
+        }
+      }
+    }
+  },
+  "vote": 9,
+  "enabled": true
+}

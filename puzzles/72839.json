@@ -1,0 +1,28 @@
+{
+  "id": 72839,
+  "rating": 2766,
+  "attempts": 307,
+  "fen": "2q2b1r/Qp3kp1/2b1pn2/1BPp1pn1/3P4/2N1PP2/3BN1KP/1R6 b - - 0 21",
+  "color": "white",
+  "initialPly": 42,
+  "gameId": "5Ltx15mb",
+  "lines": {
+    "e2f4": {
+      "h8h2": {
+        "g2h2": {
+          "g5f3": {
+            "h2h3": {
+              "f3d2": {
+                "b1b4": {
+                  "f7g8": "win"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": -1,
+  "enabled": true
+}

@@ -1,0 +1,24 @@
+{
+  "id": 92443,
+  "rating": 1706,
+  "attempts": 14238,
+  "fen": "r2q2k1/pb1n1pbp/1p3np1/1B1p4/3B4/2N2N2/PPPQ1PPP/4R1K1 b - - 0 15",
+  "color": "white",
+  "initialPly": 30,
+  "gameId": "cFQthGUB",
+  "lines": {
+    "e1e7": {
+      "g7f8": {
+        "d4f6": {
+          "f8e7": {
+            "f6e7": {
+              "a8e8": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 237,
+  "enabled": true
+}

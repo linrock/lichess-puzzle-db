@@ -1,0 +1,20 @@
+{
+  "id": 78551,
+  "rating": 838,
+  "attempts": 524,
+  "fen": "r2q1rk1/1p2b1p1/p2p1p1p/2pP4/4P1nB/2N5/PPQ2RPP/5RK1 w - - 0 20",
+  "color": "black",
+  "initialPly": 39,
+  "gameId": "rsatsCdr",
+  "lines": {
+    "g4e3": {
+      "c2e2": {
+        "e3f1": {
+          "g1f1": "win"
+        }
+      }
+    }
+  },
+  "vote": 17,
+  "enabled": true
+}

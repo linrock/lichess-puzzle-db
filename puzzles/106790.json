@@ -1,0 +1,32 @@
+{
+  "id": 106790,
+  "rating": 2023,
+  "attempts": 13382,
+  "fen": "2rq1rk1/1b2bpp1/p3pn1p/1p1P4/2nP3B/P1N2N1P/1P2QPP1/1BR1R1K1 b - - 0 17",
+  "color": "white",
+  "initialPly": 34,
+  "gameId": "ici35vvt",
+  "lines": {
+    "e2e4": {
+      "g7g6": {
+        "h4e7": {
+          "d8e7": {
+            "c3d5": {
+              "b7d5": {
+                "e4d5": {
+                  "e6d5": {
+                    "e1e7": {
+                      "c4b2": "win"
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 270,
+  "enabled": true
+}

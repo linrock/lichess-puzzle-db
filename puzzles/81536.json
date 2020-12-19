@@ -1,0 +1,28 @@
+{
+  "id": 81536,
+  "rating": 1284,
+  "attempts": 5858,
+  "fen": "r2q1rk1/p2nppbp/1pb3p1/P7/3PP3/5NP1/5PBP/1RBQR1K1 b - - 0 15",
+  "color": "white",
+  "initialPly": 30,
+  "gameId": "lPVstD05",
+  "lines": {
+    "d4d5": {
+      "a8b8": {
+        "b1b8": {
+          "d7b8": {
+            "d5c6": {
+              "d8d1": {
+                "e1d1": {
+                  "b8c6": "win"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 113,
+  "enabled": true
+}

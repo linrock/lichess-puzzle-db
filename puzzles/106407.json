@@ -1,0 +1,24 @@
+{
+  "id": 106407,
+  "rating": 1611,
+  "attempts": 7803,
+  "fen": "r3bqk1/pR3pp1/2p1p2p/3nPP2/3b4/3B1R1Q/P5PP/7K b - - 0 25",
+  "color": "white",
+  "initialPly": 50,
+  "gameId": "BSCecX5D",
+  "lines": {
+    "f5e6": {
+      "a3c1": {
+        "f3f1": {
+          "c1f1": {
+            "d3f1": {
+              "d4e5": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 82,
+  "enabled": true
+}

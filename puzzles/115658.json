@@ -1,0 +1,24 @@
+{
+  "id": 115658,
+  "rating": 1714,
+  "attempts": 52276,
+  "fen": "r2qk2r/1bp1np2/p1n4b/1p1pP3/3P2QP/P1N3B1/1P4P1/RB2K1NR w KQkq - 1 19",
+  "color": "black",
+  "initialPly": 37,
+  "gameId": "RwekViZ5",
+  "lines": {
+    "b7c8": {
+      "g4h5": {
+        "h6d2": {
+          "f3d2": {
+            "h8h5": {
+              "g3f2": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 349,
+  "enabled": true
+}

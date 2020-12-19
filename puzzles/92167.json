@@ -1,0 +1,24 @@
+{
+  "id": 92167,
+  "rating": 1871,
+  "attempts": 30148,
+  "fen": "2kr4/3nR1Q1/ppq5/2pbp3/2P5/1P6/P5PP/3R2K1 b - - 0 27",
+  "color": "white",
+  "initialPly": 54,
+  "gameId": "MRgoMgYN",
+  "lines": {
+    "c4d5": {
+      "g8g7": {
+        "e7e8": {
+          "c8c7": {
+            "d5c6": {
+              "d7b8": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 337,
+  "enabled": true
+}

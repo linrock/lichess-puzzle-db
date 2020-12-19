@@ -1,0 +1,24 @@
+{
+  "id": 68586,
+  "rating": 2271,
+  "attempts": 38144,
+  "fen": "2k4r/pp2Q2p/8/1P1q2p1/3p1rP1/P6P/2P5/4RRK1 b - - 1 30",
+  "color": "white",
+  "initialPly": 60,
+  "gameId": "GkN8445E",
+  "lines": {
+    "f1f4": {
+      "f8f4": {
+        "e1e5": {
+          "d5e5": {
+            "e7e5": {
+              "h7h6": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 419,
+  "enabled": true
+}

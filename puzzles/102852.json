@@ -1,0 +1,28 @@
+{
+  "id": 102852,
+  "rating": 2101,
+  "attempts": 71509,
+  "fen": "5r2/kr6/1p3q2/pQ4p1/P6p/6P1/2PR1P1P/4R1K1 w - - 0 40",
+  "color": "black",
+  "initialPly": 79,
+  "gameId": "SkaikHNX",
+  "lines": {
+    "f6a1": {
+      "g1g2": {
+        "h4h3": {
+          "g2h3": {
+            "a1h8": {
+              "h3g2": {
+                "f8e8": {
+                  "b5g5": "win"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 333,
+  "enabled": true
+}

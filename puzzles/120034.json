@@ -1,0 +1,24 @@
+{
+  "id": 120034,
+  "rating": 1216,
+  "attempts": 2108,
+  "fen": "r3r1k1/2p3p1/p5np/1pbpP1B1/8/2P2N2/PP4PP/R3R2K w - - 0 23",
+  "color": "black",
+  "initialPly": 45,
+  "gameId": "tSto000b",
+  "lines": {
+    "g6h4": {
+      "f3h4": {
+        "c5f2": {
+          "h4f3": {
+            "f2e1": {
+              "a1e1": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 39,
+  "enabled": true
+}

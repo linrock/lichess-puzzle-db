@@ -1,0 +1,24 @@
+{
+  "id": 107070,
+  "rating": 1999,
+  "attempts": 6419,
+  "fen": "8/1r4b1/4p3/p3P1Q1/3P1k1P/2q5/PR6/K7 b - - 5 41",
+  "color": "white",
+  "initialPly": 82,
+  "gameId": "FtmxaAlK",
+  "lines": {
+    "g5g2": {
+      "f3f4": {
+        "g2b7": {
+          "c3d4": {
+            "b7f7": {
+              "f4e4": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 67,
+  "enabled": true
+}

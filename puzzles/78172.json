@@ -1,0 +1,24 @@
+{
+  "id": 78172,
+  "rating": 1001,
+  "attempts": 1583,
+  "fen": "4k2r/2p2p2/2p2p2/3p3p/3PbN2/b3PPP1/1q2Q1KP/1N5R b k - 2 21",
+  "color": "white",
+  "initialPly": 42,
+  "gameId": "ZgTLmEOR",
+  "lines": {
+    "e2b2": {
+      "a3b2": {
+        "h1b1": {
+          "e8e7": {
+            "b1b2": {
+              "e7d7": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": -34,
+  "enabled": true
+}

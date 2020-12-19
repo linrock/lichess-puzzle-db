@@ -1,0 +1,32 @@
+{
+  "id": 76095,
+  "rating": 1914,
+  "attempts": 20416,
+  "fen": "2r4k/p4Qbp/1pn3p1/8/1P2q3/PBP1r3/R5PP/1N3RK1 w - - 1 24",
+  "color": "black",
+  "initialPly": 47,
+  "gameId": "DonY0ML2",
+  "lines": {
+    "c8d8": {
+      "d7f7": {
+        "d8f8": {
+          "b1d2": {
+            "f8f7": {
+              "d2e4": {
+                "f7f1": {
+                  "g1f1": {
+                    "e3e4": {
+                      "b4b5": "win"
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 358,
+  "enabled": true
+}

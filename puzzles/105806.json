@@ -1,0 +1,24 @@
+{
+  "id": 105806,
+  "rating": 1238,
+  "attempts": 38931,
+  "fen": "2rq1rk1/1p1b1pp1/p1np1b1p/3Np3/3PP3/P4N2/1P3PPP/1BRQ1RK1 b - - 1 15",
+  "color": "white",
+  "initialPly": 30,
+  "gameId": "eCGoyNEW",
+  "lines": {
+    "d5f6": {
+      "d8f6": {
+        "d4d5": {
+          "e6g4": {
+            "d5c6": {
+              "c8c6": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 104,
+  "enabled": true
+}

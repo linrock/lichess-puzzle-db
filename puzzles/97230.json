@@ -1,0 +1,24 @@
+{
+  "id": 97230,
+  "rating": 1536,
+  "attempts": 58308,
+  "fen": "r4rk1/1p3ppp/1pp1b2q/2n5/4P3/2P2N2/PPQ1BPPP/R4RK1 b - - 5 16",
+  "color": "white",
+  "initialPly": 32,
+  "gameId": "EgoLGfRA",
+  "lines": {
+    "a1a2": {
+      "e6a2": {
+        "b2b4": {
+          "a2e6": {
+            "b4c5": {
+              "b6c5": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 283,
+  "enabled": true
+}

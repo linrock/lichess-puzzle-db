@@ -1,0 +1,28 @@
+{
+  "id": 61251,
+  "rating": 1668,
+  "attempts": 467555,
+  "fen": "r1bqk1nr/ppp2ppp/8/2b1n3/2PpPP2/P7/1P1B2PP/RN1QKBNR w KQkq - 0 8",
+  "color": "black",
+  "initialPly": 15,
+  "gameId": "zcNuulN3",
+  "lines": {
+    "d8h4": {
+      "g2g3": {
+        "h4e4": {
+          "d1e2": {
+            "e4h1": {
+              "e2g2": {
+                "h1g2": {
+                  "f1g2": "win"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 13544,
+  "enabled": true
+}

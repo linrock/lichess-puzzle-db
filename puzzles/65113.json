@@ -1,0 +1,23 @@
+{
+  "id": 65113,
+  "rating": 1347,
+  "attempts": 42536,
+  "fen": "r1bqk2r/1p3pp1/p1n1p2p/4n3/1b1NP3/2N1B3/PPP2QPP/2KR1B1R b kq - 1 12",
+  "color": "white",
+  "initialPly": 24,
+  "gameId": "TvVjuvX5",
+  "lines": {
+    "d4c6": {
+      "c3b2": {
+        "c1b2": {
+          "d8d1": {
+            "c6e5": {
+              "e8g8": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": -1258
+}

@@ -1,0 +1,28 @@
+{
+  "id": 105265,
+  "rating": 1657,
+  "attempts": 19871,
+  "fen": "r1b3k1/pp2Bppp/8/2bp4/3p4/3P1BP1/P1N2P1P/1r3RK1 w - - 0 22",
+  "color": "black",
+  "initialPly": 43,
+  "gameId": "FkngC8MF",
+  "lines": {
+    "b1f1": {
+      "g1f1": {
+        "c8h3": {
+          "f1e1": {
+            "a8c8": {
+              "c5a7": {
+                "c8c2": {
+                  "a7d4": "win"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 219,
+  "enabled": true
+}

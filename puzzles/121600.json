@@ -1,0 +1,28 @@
+{
+  "id": 121600,
+  "rating": 1234,
+  "attempts": 3508,
+  "fen": "r1bqk2r/ppp2pbp/3p1np1/6B1/2BpP3/3P1Q2/PPPN1PPP/R3K2R b KQkq - 1 9",
+  "color": "white",
+  "initialPly": 18,
+  "gameId": "NUdo25TP",
+  "lines": {
+    "g5f6": {
+      "g4f3": {
+        "f6d8": {
+          "f3g2": {
+            "h1g1": {
+              "a8d8": {
+                "g1g2": {
+                  "e8g8": "win"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 54,
+  "enabled": true
+}

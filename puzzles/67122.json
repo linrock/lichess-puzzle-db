@@ -1,0 +1,24 @@
+{
+  "id": 67122,
+  "rating": 1373,
+  "attempts": 107725,
+  "fen": "1rr3k1/5ppp/3qp3/8/3nn3/3B3P/P4PP1/2RQ1RK1 w - - 0 20",
+  "color": "black",
+  "initialPly": 39,
+  "gameId": "coL92CaQ",
+  "lines": {
+    "c8c1": {
+      "d1c1": {
+        "d4e2": {
+          "g1h1": {
+            "e2c1": {
+              "f1c1": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 485,
+  "enabled": true
+}

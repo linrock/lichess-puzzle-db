@@ -1,0 +1,24 @@
+{
+  "id": 123534,
+  "rating": 1850,
+  "attempts": 7220,
+  "fen": "r4rk1/1b1n3p/p3P1p1/qp1p2Q1/2p5/2N5/PPP2PPP/1K1R2NR b - - 0 19",
+  "color": "white",
+  "initialPly": 38,
+  "gameId": "DaHMvPcm",
+  "lines": {
+    "g5e7": {
+      "a5d8": {
+        "e7d7": {
+          "d8d7": {
+            "e6d7": {
+              "a8d8": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 75,
+  "enabled": true
+}

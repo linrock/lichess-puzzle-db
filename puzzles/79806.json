@@ -1,0 +1,24 @@
+{
+  "id": 79806,
+  "rating": 2372,
+  "attempts": 2477,
+  "fen": "rn1qkb1r/1b3ppp/4pn2/p3N3/QpPP4/4P3/3B1PPP/RN2KB1R b KQkq - 5 11",
+  "color": "white",
+  "initialPly": 22,
+  "gameId": "annPSAj2",
+  "lines": {
+    "c4c5": {
+      "f8c5": {
+        "d4c5": {
+          "e8g8": {
+            "c5c6": {
+              "d7b6": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": -20,
+  "enabled": true
+}

@@ -1,0 +1,24 @@
+{
+  "id": 118479,
+  "rating": 1223,
+  "attempts": 14159,
+  "fen": "6k1/1p3pp1/p4b1p/8/3N4/1PqQ3P/P1P2PP1/3Rr1K1 w - - 1 25",
+  "color": "black",
+  "initialPly": 49,
+  "gameId": "QuNYNAIm",
+  "lines": {
+    "c3e1": {
+      "d3f1": {
+        "e1f1": {
+          "g1f1": {
+            "f6d4": {
+              "f1e2": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 102,
+  "enabled": true
+}

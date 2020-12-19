@@ -1,0 +1,24 @@
+{
+  "id": 64648,
+  "rating": 2080,
+  "attempts": 179382,
+  "fen": "6rk/1p4pp/1Q3n2/2p5/5q2/2B3RP/PP4PK/8 w - - 1 31",
+  "color": "black",
+  "initialPly": 61,
+  "gameId": "NrWPNFP0",
+  "lines": {
+    "f4g3": {
+      "h2g3": {
+        "f6e4": {
+          "g3f3": {
+            "e4c5": {
+              "c3d4": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 1450,
+  "enabled": true
+}

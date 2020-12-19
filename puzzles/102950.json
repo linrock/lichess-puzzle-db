@@ -1,0 +1,28 @@
+{
+  "id": 102950,
+  "rating": 1609,
+  "attempts": 10632,
+  "fen": "7r/5kpp/2pp1p2/1pb5/8/4BQ2/Pq3PP1/4R1K1 b - - 1 26",
+  "color": "white",
+  "initialPly": 52,
+  "gameId": "gh7teipp",
+  "lines": {
+    "f3h5": {
+      "f7f8": {
+        "h5e8": {
+          "f8e8": {
+            "e3d4": {
+              "e8f7": {
+                "d4b2": {
+                  "c5b6": "win"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 337,
+  "enabled": true
+}

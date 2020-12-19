@@ -1,0 +1,20 @@
+{
+  "id": 106769,
+  "rating": 1521,
+  "attempts": 6061,
+  "fen": "2r2rk1/p3b1pp/1q3p2/8/2p1P1Q1/2B5/PP4PP/R4R1K b - - 1 21",
+  "color": "white",
+  "initialPly": 42,
+  "gameId": "IIHPTCSU",
+  "lines": {
+    "c3d4": {
+      "c5g5": {
+        "g4g5": {
+          "b6d4": "win"
+        }
+      }
+    }
+  },
+  "vote": 99,
+  "enabled": true
+}

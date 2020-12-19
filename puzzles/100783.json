@@ -1,0 +1,24 @@
+{
+  "id": 100783,
+  "rating": 2344,
+  "attempts": 1648,
+  "fen": "2kr4/ppp2p2/5n2/7q/1b4pP/2NPPnQ1/PPPBK3/R6R w - - 2 19",
+  "color": "black",
+  "initialPly": 37,
+  "gameId": "MOKJdHuu",
+  "lines": {
+    "b4d6": {
+      "f4f6": {
+        "d6e5": {
+          "c3e4": {
+            "e5f6": {
+              "e4f6": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 40,
+  "enabled": true
+}

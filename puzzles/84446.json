@@ -1,0 +1,24 @@
+{
+  "id": 84446,
+  "rating": 1514,
+  "attempts": 94032,
+  "fen": "8/6p1/2R1P2p/8/1k3P2/5N2/p6P/r2r2BK w - - 0 44",
+  "color": "black",
+  "initialPly": 87,
+  "gameId": "JLMLi2nx",
+  "lines": {
+    "d1g1": {
+      "f3g1": {
+        "a1g1": {
+          "h1g1": {
+            "a2a1q": {
+              "g1g2": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 429,
+  "enabled": true
+}

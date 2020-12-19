@@ -1,0 +1,24 @@
+{
+  "id": 88057,
+  "rating": 1463,
+  "attempts": 8816,
+  "fen": "rnbbqrk1/1pp3pp/3p4/pP1nppB1/2P5/3P1NP1/P3PPBP/R2Q1RK1 w - - 0 12",
+  "color": "black",
+  "initialPly": 23,
+  "gameId": "CCFOvsp9",
+  "lines": {
+    "e5e4": {
+      "g5d8": {
+        "e4f3": {
+          "g2f3": {
+            "e8d8": {
+              "a1c1": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 154,
+  "enabled": true
+}

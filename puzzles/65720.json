@@ -1,0 +1,28 @@
+{
+  "id": 65720,
+  "rating": 2254,
+  "attempts": 35148,
+  "fen": "2kr3r/pb1p4/1p1b4/2p1qPp1/3p2Q1/1P1P2PP/PNP2P2/R1B2RK1 b - - 2 20",
+  "color": "white",
+  "initialPly": 40,
+  "gameId": "DmehoSkk",
+  "lines": {
+    "b2c4": {
+      "h4g4": {
+        "c4e5": {
+          "d6e5": {
+            "h3g4": {
+              "b7f3": {
+                "c1g5": {
+                  "d8g8": "win"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 573,
+  "enabled": true
+}

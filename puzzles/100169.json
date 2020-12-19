@@ -1,0 +1,20 @@
+{
+  "id": 100169,
+  "rating": 875,
+  "attempts": 227,
+  "fen": "rn1qk2r/ppp3pp/3b1nb1/4p3/3N4/3P2N1/PPP1QPPP/R1B1KB1R b KQkq - 0 9",
+  "color": "white",
+  "initialPly": 18,
+  "gameId": "nanWcble",
+  "lines": {
+    "d4e6": {
+      "d8e8": {
+        "e6f8": {
+          "d6f8": "win"
+        }
+      }
+    }
+  },
+  "vote": 2,
+  "enabled": true
+}

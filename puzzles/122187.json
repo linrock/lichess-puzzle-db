@@ -1,0 +1,24 @@
+{
+  "id": 122187,
+  "rating": 2900,
+  "attempts": 294,
+  "fen": "2kr4/p2q4/2pp1b2/4pR2/4N2p/3P2r1/PPP4K/R4Q2 b - - 5 23",
+  "color": "white",
+  "initialPly": 46,
+  "gameId": "mMdt44Kw",
+  "lines": {
+    "f5f6": {
+      "g3g2": {
+        "f1g2": {
+          "g8g2": {
+            "h2g2": {
+              "c8c7": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 0,
+  "enabled": true
+}

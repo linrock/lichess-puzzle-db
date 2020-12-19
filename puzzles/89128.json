@@ -1,0 +1,24 @@
+{
+  "id": 89128,
+  "rating": 1329,
+  "attempts": 6562,
+  "fen": "8/p4p1k/2p3pp/4n3/2R5/4PqP1/P2Q1P1P/6K1 w - - 4 34",
+  "color": "black",
+  "initialPly": 67,
+  "gameId": "y3misiPk",
+  "lines": {
+    "f3f4": {
+      "e3f4": {
+        "e5f3": {
+          "g1f1": {
+            "f3d2": {
+              "f1e2": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 168,
+  "enabled": true
+}

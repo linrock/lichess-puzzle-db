@@ -1,0 +1,24 @@
+{
+  "id": 87830,
+  "rating": 1893,
+  "attempts": 13066,
+  "fen": "r2qk2r/ppp2bpp/5p2/3nn3/2B2PP1/7P/PPP5/RNBQR1K1 b kq - 0 13",
+  "color": "white",
+  "initialPly": 26,
+  "gameId": "Vy94ikLT",
+  "lines": {
+    "c4f7": {
+      "e8f7": {
+        "c1f4": {
+          "d8d1": {
+            "e1d1": {
+              "h7h5": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 257,
+  "enabled": true
+}

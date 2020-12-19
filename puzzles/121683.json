@@ -1,0 +1,24 @@
+{
+  "id": 121683,
+  "rating": 1461,
+  "attempts": 4710,
+  "fen": "4rrk1/ppp2ppp/3p4/8/2PBnR1q/2P1Q3/P1P3PP/R5K1 b - - 5 16",
+  "color": "white",
+  "initialPly": 32,
+  "gameId": "JhlltOtV",
+  "lines": {
+    "f4e4": {
+      "g5e3": {
+        "e4e3": {
+          "e8e3": {
+            "d4e3": {
+              "f8e8": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 77,
+  "enabled": true
+}

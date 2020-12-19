@@ -1,0 +1,28 @@
+{
+  "id": 117706,
+  "rating": 1565,
+  "attempts": 8323,
+  "fen": "5rk1/2p2pp1/pbR4p/1p1NP3/8/5rP1/PP3P1P/R5K1 b - - 1 22",
+  "color": "white",
+  "initialPly": 44,
+  "gameId": "pTyld4v8",
+  "lines": {
+    "g1g2": {
+      "f3d3": {
+        "d5e7": {
+          "g8h7": {
+            "g2f2": {
+              "d3d7": {
+                "e7f5": {
+                  "d7d2": "win"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 177,
+  "enabled": true
+}

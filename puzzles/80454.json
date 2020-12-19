@@ -1,0 +1,24 @@
+{
+  "id": 80454,
+  "rating": 1428,
+  "attempts": 27325,
+  "fen": "4r3/k1p4p/P7/3P1p2/1p3q2/1B1Q1p2/1PP2P1P/R5K1 w - - 0 28",
+  "color": "black",
+  "initialPly": 55,
+  "gameId": "lTQT345W",
+  "lines": {
+    "e8g8": {
+      "g1h1": {
+        "g8g2": {
+          "f1g2": {
+            "f3g2": {
+              "h1g1": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 270,
+  "enabled": true
+}

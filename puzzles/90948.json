@@ -1,0 +1,20 @@
+{
+  "id": 90948,
+  "rating": 785,
+  "attempts": 247,
+  "fen": "5rk1/5ppp/3R4/4p3/4P3/8/PPr2PPP/4K2R w K - 0 20",
+  "color": "black",
+  "initialPly": 39,
+  "gameId": "rbS333Tx",
+  "lines": {
+    "c2c1": {
+      "e1d2": {
+        "c1h1": {
+          "h2h3": "win"
+        }
+      }
+    }
+  },
+  "vote": 9,
+  "enabled": true
+}

@@ -1,0 +1,24 @@
+{
+  "id": 123499,
+  "rating": 1337,
+  "attempts": 3928,
+  "fen": "rnbqkb1r/3ppppp/p4n2/8/1pP1P3/1B6/PPP1NPPP/R1BQK1NR b KQkq - 1 7",
+  "color": "white",
+  "initialPly": 14,
+  "gameId": "VZOSfoPs",
+  "lines": {
+    "d1d5": {
+      "e4d6": {
+        "d5a8": {
+          "c8b7": {
+            "a8a7": {
+              "b7g2": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 70,
+  "enabled": true
+}

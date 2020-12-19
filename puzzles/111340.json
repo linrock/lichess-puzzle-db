@@ -1,0 +1,24 @@
+{
+  "id": 111340,
+  "rating": 2158,
+  "attempts": 6599,
+  "fen": "2r5/5ppk/3R1n1p/1p6/6Pn/PPN1P2P/7K/3R4 w - - 0 34",
+  "color": "black",
+  "initialPly": 67,
+  "gameId": "STmqrpDX",
+  "lines": {
+    "c8c2": {
+      "d6d2": {
+        "h4f3": {
+          "h2g3": {
+            "f3d2": {
+              "b5d6": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": -95,
+  "enabled": true
+}

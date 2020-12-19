@@ -1,0 +1,36 @@
+{
+  "id": 71614,
+  "rating": 2340,
+  "attempts": 8397,
+  "fen": "8/p3k3/4P3/1PNbR3/3p1n1P/P6N/6p1/2K5 w - - 2 41",
+  "color": "black",
+  "initialPly": 81,
+  "gameId": "YBFCLyVM",
+  "lines": {
+    "f4h3": {
+      "d5d7": {
+        "e7f6": {
+          "c5e4": {
+            "f6g6": {
+              "h4h5": {
+                "g6h6": {
+                  "e6e7": {
+                    "g2g1q": {
+                      "c1c2": {
+                        "g1g2": {
+                          "c2d3": "win"
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 140,
+  "enabled": true
+}

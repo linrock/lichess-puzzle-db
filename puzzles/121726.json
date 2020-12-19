@@ -1,0 +1,24 @@
+{
+  "id": 121726,
+  "rating": 1575,
+  "attempts": 7528,
+  "fen": "3rr1k1/5pp1/p2q1n1p/1ppPN3/2P2P2/1P1Q3P/P5P1/4RRK1 w - - 0 21",
+  "color": "black",
+  "initialPly": 41,
+  "gameId": "Cyo5wesM",
+  "lines": {
+    "d6c6": {
+      "d5c6": {
+        "d8d3": {
+          "e1e8": {
+            "f6e8": {
+              "f1c1": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 116,
+  "enabled": true
+}

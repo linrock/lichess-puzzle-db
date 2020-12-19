@@ -1,0 +1,24 @@
+{
+  "id": 93951,
+  "rating": 2422,
+  "attempts": 1127,
+  "fen": "1k4r1/p4p2/1qp5/8/4rp1P/2Q5/PPP1NP2/4RRK1 w - - 2 28",
+  "color": "black",
+  "initialPly": 55,
+  "gameId": "Wg8Amcu6",
+  "lines": {
+    "f4f3": {
+      "c3f6": {
+        "b6b4": {
+          "e2g3": {
+            "e4e1": {
+              "f6f3": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 20,
+  "enabled": true
+}

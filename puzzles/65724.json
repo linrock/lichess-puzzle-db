@@ -1,0 +1,24 @@
+{
+  "id": 65724,
+  "rating": 872,
+  "attempts": 6041,
+  "fen": "4r1k1/p5p1/1p5p/2p1qp1b/4p3/2P1Q2P/PP3PP1/3RR1K1 w - - 3 26",
+  "color": "black",
+  "initialPly": 51,
+  "gameId": "Mz3Bt4ik",
+  "lines": {
+    "f5f4": {
+      "e3e4": {
+        "e5e4": {
+          "e1e4": {
+            "e8e4": {
+              "f2f3": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 73,
+  "enabled": true
+}

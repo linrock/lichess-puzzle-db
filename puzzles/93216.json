@@ -1,0 +1,24 @@
+{
+  "id": 93216,
+  "rating": 1805,
+  "attempts": 11193,
+  "fen": "8/1P3pkp/4pbp1/8/1q6/2p4P/2R1QPP1/6K1 w - - 1 44",
+  "color": "black",
+  "initialPly": 87,
+  "gameId": "nSHLpmlW",
+  "lines": {
+    "b4b1": {
+      "g1h2": {
+        "f6e5": {
+          "f3g3": {
+            "e5g3": {
+              "f2g3": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 181,
+  "enabled": true
+}

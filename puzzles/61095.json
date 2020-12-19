@@ -1,0 +1,24 @@
+{
+  "id": 61095,
+  "rating": 2272,
+  "attempts": 652622,
+  "fen": "r7/p6k/3N4/3pP1Rp/R4p2/6b1/1P5r/6K1 b - - 4 31",
+  "color": "white",
+  "initialPly": 62,
+  "gameId": "LClRPUIN",
+  "lines": {
+    "d6f7": {
+      "h6h7": {
+        "a4a6": {
+          "g3f2": {
+            "g1h2": {
+              "f2b6": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 13178,
+  "enabled": true
+}

@@ -1,0 +1,20 @@
+{
+  "id": 71542,
+  "rating": 1267,
+  "attempts": 15604,
+  "fen": "2k1r3/ppp3p1/3pN2p/4nP2/8/8/PP4PP/4R1K1 w - - 1 29",
+  "color": "black",
+  "initialPly": 57,
+  "gameId": "KlzOZWst",
+  "lines": {
+    "e5f3": {
+      "g1f2": {
+        "e8e1": {
+          "f2f3": "win"
+        }
+      }
+    }
+  },
+  "vote": 200,
+  "enabled": true
+}

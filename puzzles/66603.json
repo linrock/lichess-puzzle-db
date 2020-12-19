@@ -1,0 +1,28 @@
+{
+  "id": 66603,
+  "rating": 2143,
+  "attempts": 151264,
+  "fen": "8/7p/p1r5/3pk1p1/RP4P1/2PK4/8/8 b - - 4 42",
+  "color": "white",
+  "initialPly": 84,
+  "gameId": "GZ39or5D",
+  "lines": {
+    "b4b5": {
+      "c6c4": {
+        "b5b6": {
+          "c4a4": {
+            "b6b7": {
+              "f4g4": {
+                "b7b8q": {
+                  "a4a1": "win"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 1136,
+  "enabled": true
+}

@@ -1,0 +1,24 @@
+{
+  "id": 116602,
+  "rating": 1214,
+  "attempts": 2159,
+  "fen": "r1br2k1/pp3pp1/3q3p/3N4/8/3QPP2/PP4PP/3RR1K1 b - - 2 20",
+  "color": "white",
+  "initialPly": 40,
+  "gameId": "wYDamKDO",
+  "lines": {
+    "d5f6": {
+      "g7f6": {
+        "d3d6": {
+          "d8d6": {
+            "d1d6": {
+              "g8g7": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 42,
+  "enabled": true
+}

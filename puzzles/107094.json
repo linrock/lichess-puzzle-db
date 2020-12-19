@@ -1,0 +1,28 @@
+{
+  "id": 107094,
+  "rating": 2125,
+  "attempts": 4421,
+  "fen": "r3r1k1/2q2ppp/p1pbbn2/3pN3/8/2N3B1/PPP1QPPP/R3R1K1 w - - 10 16",
+  "color": "black",
+  "initialPly": 31,
+  "gameId": "V5yMixTt",
+  "lines": {
+    "d5d4": {
+      "c3e4": {
+        "d6e5": {
+          "e4f6": {
+            "g7f6": {
+              "g3e5": {
+                "f6e5": {
+                  "f3g3": "win"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 87,
+  "enabled": true
+}

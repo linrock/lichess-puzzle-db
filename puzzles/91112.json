@@ -1,0 +1,24 @@
+{
+  "id": 91112,
+  "rating": 1712,
+  "attempts": 11474,
+  "fen": "r2q1rk1/5ppp/2pb1B2/1p6/4p3/PP5P/3N1PP1/R2QR1K1 b - - 0 18",
+  "color": "white",
+  "initialPly": 36,
+  "gameId": "PktOfgaH",
+  "lines": {
+    "d2e4": {
+      "f6g6": {
+        "d1d6": {
+          "g6d6": {
+            "e4d6": {
+              "f8d8": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 162,
+  "enabled": true
+}

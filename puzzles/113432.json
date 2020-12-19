@@ -1,0 +1,24 @@
+{
+  "id": 113432,
+  "rating": 1340,
+  "attempts": 6601,
+  "fen": "3r1rk1/pbqN1pp1/1b5p/1pN5/1P1QpP2/2P1R2P/P5P1/R1B3K1 b - - 5 23",
+  "color": "white",
+  "initialPly": 46,
+  "gameId": "tri72TGC",
+  "lines": {
+    "d4d7": {
+      "c7d7": {
+        "c5d7": {
+          "b6e3": {
+            "c1e3": {
+              "f8c8": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 99,
+  "enabled": true
+}

@@ -1,0 +1,24 @@
+{
+  "id": 110956,
+  "rating": 1842,
+  "attempts": 42962,
+  "fen": "3r4/2k1p2p/2p1P1p1/8/2B1n3/8/2P1K1PP/7R w - - 0 24",
+  "color": "black",
+  "initialPly": 47,
+  "gameId": "FnxKrHDw",
+  "lines": {
+    "e4d2": {
+      "f1f4": {
+        "g6g5": {
+          "f4f7": {
+            "d2c4": {
+              "f7e7": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 196,
+  "enabled": true
+}

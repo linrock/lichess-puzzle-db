@@ -1,0 +1,24 @@
+{
+  "id": 91594,
+  "rating": 1840,
+  "attempts": 21645,
+  "fen": "r4rk1/1b2R1pp/p4p2/np1q4/3B4/2P2P2/PP4PP/RN1Q2K1 b - - 0 17",
+  "color": "white",
+  "initialPly": 34,
+  "gameId": "ZZ50MCbx",
+  "lines": {
+    "e7g7": {
+      "g8g7": {
+        "d4f6": {
+          "f8f6": {
+            "d1d5": {
+              "a8d8": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 331,
+  "enabled": true
+}

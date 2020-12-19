@@ -1,0 +1,24 @@
+{
+  "id": 117120,
+  "rating": 2280,
+  "attempts": 4565,
+  "fen": "rqr4k/3bn1b1/1p1p1p1p/1BnPp1pP/1P2P1P1/2N1BP2/2QN4/RR4K1 b - - 0 24",
+  "color": "white",
+  "initialPly": 48,
+  "gameId": "QL712rQ1",
+  "lines": {
+    "b1a1": {
+      "c5e4": {
+        "b5d7": {
+          "e4c3": {
+            "d7c8": {
+              "b8c8": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 32,
+  "enabled": true
+}

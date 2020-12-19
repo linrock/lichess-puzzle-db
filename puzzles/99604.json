@@ -1,0 +1,24 @@
+{
+  "id": 99604,
+  "rating": 1681,
+  "attempts": 11226,
+  "fen": "8/7k/1p6/4pqpp/4n3/4PN1P/PPQ2P2/6K1 w - - 0 33",
+  "color": "black",
+  "initialPly": 65,
+  "gameId": "dmp4mgaY",
+  "lines": {
+    "f5f2": {
+      "g1h1": {
+        "f2e1": {
+          "d2f1": {
+            "e1f1": {
+              "h1h2": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 118,
+  "enabled": true
+}

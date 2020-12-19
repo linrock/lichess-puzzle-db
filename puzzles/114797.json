@@ -1,0 +1,28 @@
+{
+  "id": 114797,
+  "rating": 1890,
+  "attempts": 9524,
+  "fen": "2b1k3/Q1pr4/2p1p3/1rP2pq1/3N2pp/2P5/PPK3P1/3R3R b - - 4 32",
+  "color": "white",
+  "initialPly": 64,
+  "gameId": "V0x0Jaku",
+  "lines": {
+    "h1e1": {
+      "e3f2": {
+        "e1e2": {
+          "b5b2": {
+            "c2b2": {
+              "f2e2": {
+                "d4e2": {
+                  "d7d1": "win"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 44,
+  "enabled": true
+}

@@ -1,0 +1,24 @@
+{
+  "id": 77018,
+  "rating": 2060,
+  "attempts": 53975,
+  "fen": "r3k2r/1q1nppb1/3p2p1/p6p/1pBPnP2/3QB1NP/PPP4P/1K1R2R1 b kq - 3 17",
+  "color": "white",
+  "initialPly": 34,
+  "gameId": "ELHlK35i",
+  "lines": {
+    "b2c3": {
+      "b4c3": {
+        "c4b5": {
+          "a8b8": {
+            "a2a4": {
+              "e8f8": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 413,
+  "enabled": true
+}

@@ -1,0 +1,24 @@
+{
+  "id": 98882,
+  "rating": 2020,
+  "attempts": 7149,
+  "fen": "8/7p/1R2p2P/3p1bk1/rP6/8/2P5/2K4R w - - 0 39",
+  "color": "black",
+  "initialPly": 77,
+  "gameId": "sMegCa3l",
+  "lines": {
+    "a4a1": {
+      "c1b2": {
+        "a1h1": {
+          "b6c6": {
+            "h1h4": {
+              "b2c3": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 80,
+  "enabled": true
+}

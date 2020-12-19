@@ -1,0 +1,24 @@
+{
+  "id": 115310,
+  "rating": 2002,
+  "attempts": 8420,
+  "fen": "2kr2nr/ppp2ppp/2nbp3/7q/6b1/2NPBN2/PPP1BPPP/R2Q1RK1 w - - 2 9",
+  "color": "black",
+  "initialPly": 17,
+  "gameId": "ht40tbT4",
+  "lines": {
+    "d6h2": {
+      "f3h2": {
+        "g4e2": {
+          "d1e1": {
+            "e2f1": {
+              "h2f1": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 126,
+  "enabled": true
+}

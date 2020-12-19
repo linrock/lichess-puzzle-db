@@ -1,0 +1,24 @@
+{
+  "id": 110045,
+  "rating": 1926,
+  "attempts": 5628,
+  "fen": "r1bqk2r/pp3ppp/3b1n2/4n3/4p3/2NB1N2/PP3PPP/R1BQ1RK1 w kq - 0 11",
+  "color": "black",
+  "initialPly": 21,
+  "gameId": "FAbeCKgX",
+  "lines": {
+    "e5d3": {
+      "d1a4": {
+        "e8f8": {
+          "e4d6": {
+            "d8d6": {
+              "f1d1": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 54,
+  "enabled": true
+}

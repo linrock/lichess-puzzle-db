@@ -1,0 +1,24 @@
+{
+  "id": 107297,
+  "rating": 1302,
+  "attempts": 3109,
+  "fen": "1r3rk1/pp3p1p/5pq1/4n3/3N4/5B1b/PQ3PPP/R2R2K1 w - - 10 22",
+  "color": "black",
+  "initialPly": 43,
+  "gameId": "BYSVkDam",
+  "lines": {
+    "e5f3": {
+      "e2f3": {
+        "h3g4": {
+          "f3f4": {
+            "g4d1": {
+              "a1d1": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 64,
+  "enabled": true
+}

@@ -1,0 +1,24 @@
+{
+  "id": 119963,
+  "rating": 1419,
+  "attempts": 5746,
+  "fen": "r1bq1rk1/p2nbpp1/1pp1pn1p/8/2PPN2B/3B4/PP2NPPP/R2Q1RK1 w - - 1 12",
+  "color": "black",
+  "initialPly": 23,
+  "gameId": "Hoczipxw",
+  "lines": {
+    "f6e4": {
+      "d3e4": {
+        "e7h4": {
+          "e4c6": {
+            "a8b8": {
+              "d1e2": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 90,
+  "enabled": true
+}

@@ -1,0 +1,28 @@
+{
+  "id": 63081,
+  "rating": 2336,
+  "attempts": 114600,
+  "fen": "1k5r/pr3p2/5p2/2P3p1/7p/q5P1/P2Q3P/1R3R1K b - - 0 25",
+  "color": "white",
+  "initialPly": 50,
+  "gameId": "B204OtiX",
+  "lines": {
+    "b1b7": {
+      "b8b7": {
+        "f1b1": {
+          "b7c7": {
+            "b1c1": {
+              "c5c1": {
+                "d2c1": {
+                  "c7d7": "win"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 913,
+  "enabled": true
+}

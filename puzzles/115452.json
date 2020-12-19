@@ -1,0 +1,28 @@
+{
+  "id": 115452,
+  "rating": 2241,
+  "attempts": 4987,
+  "fen": "1r2r1k1/R4p1p/3Q1PpB/2pP4/2b5/1p4RP/2P3PK/4q3 b - - 3 29",
+  "color": "white",
+  "initialPly": 58,
+  "gameId": "DaQSNI91",
+  "lines": {
+    "d6e5": {
+      "e8e5": {
+        "c2b3": {
+          "c4d5": {
+            "h6f4": {
+              "e5e8": {
+                "f4b8": {
+                  "e8b8": "win"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 102,
+  "enabled": true
+}

@@ -1,0 +1,24 @@
+{
+  "id": 96986,
+  "rating": 1890,
+  "attempts": 37321,
+  "fen": "4k3/5pp1/p2b3r/2qNp3/B3P2P/6r1/1P1Q4/1K5R b - - 3 27",
+  "color": "white",
+  "initialPly": 54,
+  "gameId": "HuoPSjVP",
+  "lines": {
+    "h1c1": {
+      "g3g1": {
+        "a4d1": {
+          "f8g8": {
+            "c1c5": {
+              "d6c5": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 302,
+  "enabled": true
+}

@@ -1,0 +1,20 @@
+{
+  "id": 68448,
+  "rating": 600,
+  "attempts": 359,
+  "fen": "3br3/8/7R/p1pPk3/PpP5/1P1BpP2/4K3/8 w - - 5 43",
+  "color": "black",
+  "initialPly": 85,
+  "gameId": "ZTpvNIA7",
+  "lines": {
+    "d8g5": {
+      "e3e2": {
+        "g5h6": {
+          "d3g6": "win"
+        }
+      }
+    }
+  },
+  "vote": 7,
+  "enabled": true
+}

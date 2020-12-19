@@ -1,0 +1,24 @@
+{
+  "id": 110503,
+  "rating": 1606,
+  "attempts": 50688,
+  "fen": "8/5ppk/4p3/2P5/1Q3P2/P5Pp/2q1rB1P/5RK1 w - - 0 37",
+  "color": "black",
+  "initialPly": 73,
+  "gameId": "fUmRRoaS",
+  "lines": {
+    "c2e4": {
+      "b6b1": {
+        "e2c2": {
+          "b1c2": {
+            "e4c2": {
+              "f1e1": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 234,
+  "enabled": true
+}

@@ -1,0 +1,28 @@
+{
+  "id": 104086,
+  "rating": 1941,
+  "attempts": 7228,
+  "fen": "5rk1/q6p/4P1p1/3Q4/8/7P/6PK/5R2 b - - 0 32",
+  "color": "white",
+  "initialPly": 64,
+  "gameId": "Ry8bk1is",
+  "lines": {
+    "e6e7": {
+      "g8g7": {
+        "d5e5": {
+          "g7h6": {
+            "e7e8q": {
+              "a7g1": {
+                "h2g3": {
+                  "g1f2": "win"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 98,
+  "enabled": true
+}

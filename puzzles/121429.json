@@ -1,0 +1,20 @@
+{
+  "id": 121429,
+  "rating": 1136,
+  "attempts": 537,
+  "fen": "2r3k1/2r1bpp1/1q1p1n1p/p2P4/1pP1p3/1P1N1P2/P2QB1PP/3R1R1K w - - 0 24",
+  "color": "black",
+  "initialPly": 47,
+  "gameId": "SYsmAcMv",
+  "lines": {
+    "e4e3": {
+      "d2c2": {
+        "e3f2": {
+          "e2d3": "win"
+        }
+      }
+    }
+  },
+  "vote": 10,
+  "enabled": true
+}

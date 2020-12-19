@@ -1,0 +1,20 @@
+{
+  "id": 112051,
+  "rating": 975,
+  "attempts": 212,
+  "fen": "1k5r/1pp3R1/p2b3r/5p1P/4p3/1P2Pn2/P1PPQ3/1K5R w - - 5 28",
+  "color": "black",
+  "initialPly": 55,
+  "gameId": "NAvy5V27",
+  "lines": {
+    "f3d2": {
+      "b1c1": {
+        "d2c4": {
+          "b3c4": "win"
+        }
+      }
+    }
+  },
+  "vote": 7,
+  "enabled": true
+}

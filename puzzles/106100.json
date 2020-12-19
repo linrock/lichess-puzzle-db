@@ -1,0 +1,20 @@
+{
+  "id": 106100,
+  "rating": 1387,
+  "attempts": 5176,
+  "fen": "r2q1rk1/pp1n1ppp/2p1bn2/3p4/3P1P2/2PBP3/P2BN1PP/R2Q1RK1 b - - 0 11",
+  "color": "white",
+  "initialPly": 22,
+  "gameId": "WTLEKMMc",
+  "lines": {
+    "f4f5": {
+      "e6f5": {
+        "f1f5": {
+          "d8e7": "win"
+        }
+      }
+    }
+  },
+  "vote": 94,
+  "enabled": true
+}

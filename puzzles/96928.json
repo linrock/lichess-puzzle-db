@@ -1,0 +1,24 @@
+{
+  "id": 96928,
+  "rating": 1800,
+  "attempts": 8127,
+  "fen": "r2qk2r/p2bbppp/2p2n2/4p3/4P3/3B4/PPP3PP/RNBQ1RK1 w kq - 0 11",
+  "color": "black",
+  "initialPly": 21,
+  "gameId": "vMW63vza",
+  "lines": {
+    "d7g4": {
+      "d1e1": {
+        "d8d4": {
+          "c1e3": {
+            "d4a1": {
+              "e1a5": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 248,
+  "enabled": true
+}

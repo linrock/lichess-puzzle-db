@@ -1,0 +1,20 @@
+{
+  "id": 123455,
+  "rating": 1197,
+  "attempts": 1196,
+  "fen": "4k3/1pB3pp/1P2r3/8/3bp3/7P/4KPP1/1R6 b - - 0 40",
+  "color": "white",
+  "initialPly": 80,
+  "gameId": "IMVQMpif",
+  "lines": {
+    "b1d1": {
+      "d7c6": {
+        "d1d4": {
+          "g7g5": "win"
+        }
+      }
+    }
+  },
+  "vote": 24,
+  "enabled": true
+}

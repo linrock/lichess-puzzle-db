@@ -1,0 +1,24 @@
+{
+  "id": 67051,
+  "rating": 1642,
+  "attempts": 150400,
+  "fen": "r4rk1/p2bpp1p/3p2p1/3q3P/1p1B2P1/5P2/PPPQ4/1K1R3R b - - 0 19",
+  "color": "white",
+  "initialPly": 38,
+  "gameId": "EaZoNlrY",
+  "lines": {
+    "d2h6": {
+      "e7e5": {
+        "h5g6": {
+          "f3d1": {
+            "h1d1": {
+              "f7g6": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 1084,
+  "enabled": true
+}

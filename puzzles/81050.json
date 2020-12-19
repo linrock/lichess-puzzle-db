@@ -1,0 +1,24 @@
+{
+  "id": 81050,
+  "rating": 1457,
+  "attempts": 10544,
+  "fen": "r1b2rk1/5ppp/p1p1p3/1p2P3/2P2P2/1P2b3/P3B1PP/RN3R1K w - - 0 16",
+  "color": "black",
+  "initialPly": 31,
+  "gameId": "BoIRqdsC",
+  "lines": {
+    "e3d4": {
+      "b1c3": {
+        "b5b4": {
+          "a1d1": {
+            "d4c3": {
+              "c4c5": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 221,
+  "enabled": true
+}

@@ -1,0 +1,28 @@
+{
+  "id": 108909,
+  "rating": 2376,
+  "attempts": 2234,
+  "fen": "1R6/p1r2ppk/R3p2p/3pNn2/3Pn3/4P2P/5PP1/6K1 w - - 5 29",
+  "color": "black",
+  "initialPly": 57,
+  "gameId": "AG2pyzrp",
+  "lines": {
+    "c7c1": {
+      "g1h2": {
+        "e4f2": {
+          "g2g4": {
+            "f5h4": {
+              "a8h8": {
+                "h7h8": {
+                  "e5f7": "win"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 34,
+  "enabled": true
+}

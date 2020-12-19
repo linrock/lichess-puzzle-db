@@ -1,0 +1,24 @@
+{
+  "id": 74911,
+  "rating": 2286,
+  "attempts": 7291,
+  "fen": "rn1q2nr/pp2kPpp/8/1N6/1b6/2p5/PP3PPP/R1BQK1NR w KQ - 1 10",
+  "color": "black",
+  "initialPly": 19,
+  "gameId": "HKNQ8DL5",
+  "lines": {
+    "c3c2": {
+      "d1d2": {
+        "b4d2": {
+          "c1d2": {
+            "d8g8": {
+              "b5d4": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 109,
+  "enabled": true
+}

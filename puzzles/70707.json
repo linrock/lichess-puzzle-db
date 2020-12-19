@@ -1,0 +1,28 @@
+{
+  "id": 70707,
+  "rating": 2782,
+  "attempts": 339,
+  "fen": "4RQ2/5p1p/6p1/4qr2/r1pp2kP/8/5PP1/1R4K1 b - - 2 37",
+  "color": "white",
+  "initialPly": 74,
+  "gameId": "joiaggj9",
+  "lines": {
+    "b1e1": {
+      "f5f2": {
+        "e8e4": {
+          "f2f4": {
+            "e4e5": {
+              "d5e5": {
+                "e1e5": {
+                  "f7f6": "win"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 0,
+  "enabled": true
+}

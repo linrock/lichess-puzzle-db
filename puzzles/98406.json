@@ -1,0 +1,24 @@
+{
+  "id": 98406,
+  "rating": 1478,
+  "attempts": 7598,
+  "fen": "r2q1rk1/1b1p1ppN/pbn1p1n1/1p2P3/3P4/3Q1N2/PPB2PPP/R1B2RK1 b - - 0 15",
+  "color": "white",
+  "initialPly": 30,
+  "gameId": "QQzooNcd",
+  "lines": {
+    "f3g5": {
+      "h7g8": {
+        "d3h3": {
+          "d8g5": {
+            "c1g5": {
+              "c6d4": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 213,
+  "enabled": true
+}

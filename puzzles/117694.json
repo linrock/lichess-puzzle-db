@@ -1,0 +1,28 @@
+{
+  "id": 117694,
+  "rating": 1937,
+  "attempts": 7971,
+  "fen": "5k1r/p7/7r/1pp1q3/2P1Ppp1/1P4R1/P5Q1/2B1R1K1 w - - 0 41",
+  "color": "black",
+  "initialPly": 81,
+  "gameId": "Br10xFVi",
+  "lines": {
+    "e5f4": {
+      "g3g4": {
+        "h6h1": {
+          "g2h1": {
+            "h8h1": {
+              "g1h1": {
+                "f4g4": {
+                  "e1f1": "win"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 188,
+  "enabled": true
+}

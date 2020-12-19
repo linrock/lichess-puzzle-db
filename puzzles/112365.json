@@ -1,0 +1,24 @@
+{
+  "id": 112365,
+  "rating": 1716,
+  "attempts": 10790,
+  "fen": "3rr1k1/pb3pp1/7p/2pNqP2/4P3/1P3Q1P/P5P1/3RR1K1 w - - 1 27",
+  "color": "black",
+  "initialPly": 53,
+  "gameId": "EniSfXhR",
+  "lines": {
+    "d8d5": {
+      "e4d5": {
+        "e5c3": {
+          "e1e8": {
+            "g8h7": {
+              "e8e2": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 139,
+  "enabled": true
+}

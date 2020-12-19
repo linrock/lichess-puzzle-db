@@ -1,0 +1,24 @@
+{
+  "id": 100476,
+  "rating": 1738,
+  "attempts": 11576,
+  "fen": "6k1/5p1p/5np1/2Rp4/2pP4/1qN1P2P/1r3PP1/2Q3K1 w - - 8 29",
+  "color": "black",
+  "initialPly": 57,
+  "gameId": "DDdUs89m",
+  "lines": {
+    "b2c2": {
+      "c1a1": {
+        "b3c3": {
+          "a1c3": {
+            "c2c3": {
+              "b5c5": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 282,
+  "enabled": true
+}

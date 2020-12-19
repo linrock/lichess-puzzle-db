@@ -1,0 +1,20 @@
+{
+  "id": 81112,
+  "rating": 1041,
+  "attempts": 966,
+  "fen": "5rk1/p4pp1/2p1b2p/4Q3/4N3/2P5/4qPPP/2R3K1 b - - 0 25",
+  "color": "white",
+  "initialPly": 50,
+  "gameId": "RPay77Pm",
+  "lines": {
+    "e4f6": {
+      "g7f6": {
+        "e5e2": {
+          "g8g7": "win"
+        }
+      }
+    }
+  },
+  "vote": 21,
+  "enabled": true
+}

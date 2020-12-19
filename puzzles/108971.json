@@ -1,0 +1,24 @@
+{
+  "id": 108971,
+  "rating": 1709,
+  "attempts": 10756,
+  "fen": "2r5/8/2P2k2/2R3p1/2N1p3/pKP3bP/P5P1/8 w - - 2 39",
+  "color": "black",
+  "initialPly": 77,
+  "gameId": "AdFAiYaX",
+  "lines": {
+    "e4e3": {
+      "c4e3": {
+        "g3d6": {
+          "a3b3": {
+            "d6c5": {
+              "e3g4": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 181,
+  "enabled": true
+}

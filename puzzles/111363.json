@@ -1,0 +1,24 @@
+{
+  "id": 111363,
+  "rating": 1962,
+  "attempts": 7081,
+  "fen": "7r/1p1b1pk1/1Q2p3/p3Pp2/Pn3Pr1/1P3p2/2PR1K2/4R3 w - - 0 34",
+  "color": "black",
+  "initialPly": 67,
+  "gameId": "Aiv2PIME",
+  "lines": {
+    "h8h2": {
+      "f2e1": {
+        "f3f2": {
+          "b6f2": {
+            "h2f2": {
+              "e1f2": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 173,
+  "enabled": true
+}

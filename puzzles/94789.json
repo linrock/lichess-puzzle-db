@@ -1,0 +1,28 @@
+{
+  "id": 94789,
+  "rating": 1928,
+  "attempts": 11108,
+  "fen": "3q1r2/R5bk/4p1pp/3pN3/2pPnB2/2PQ2PP/6P1/6K1 w - - 0 24",
+  "color": "black",
+  "initialPly": 47,
+  "gameId": "Fjal38gv",
+  "lines": {
+    "g6g5": {
+      "e5c6": {
+        "g5f4": {
+          "e3e4": {
+            "d5e4": {
+              "c6d8": {
+                "f8d8": {
+                  "g3f4": "win"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 258,
+  "enabled": true
+}

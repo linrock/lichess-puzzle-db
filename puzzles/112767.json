@@ -1,0 +1,28 @@
+{
+  "id": 112767,
+  "rating": 1759,
+  "attempts": 10802,
+  "fen": "rnbqkb1r/p1p1pppp/1p6/3nN3/3P4/8/PPP2PPP/RNBQKB1R b KQkq - 1 5",
+  "color": "white",
+  "initialPly": 10,
+  "gameId": "GAPtsGNJ",
+  "lines": {
+    "d1f3": {
+      "f7f6": {
+        "f3h5": {
+          "g7g6": {
+            "e5g6": {
+              "h7g6": {
+                "h5h8": {
+                  "d5b4": "win"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 254,
+  "enabled": true
+}

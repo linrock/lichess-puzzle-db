@@ -1,0 +1,24 @@
+{
+  "id": 101800,
+  "rating": 2008,
+  "attempts": 7099,
+  "fen": "4r1k1/1pq2p1p/p3p1p1/8/nPPR4/1Q5P/P4PP1/1B4K1 b - - 0 25",
+  "color": "white",
+  "initialPly": 50,
+  "gameId": "3N73XG22",
+  "lines": {
+    "b3a4": {
+      "e5d4": {
+        "a4e8": {
+          "g8g7": {
+            "e8a4": {
+              "d4c4": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 172,
+  "enabled": true
+}

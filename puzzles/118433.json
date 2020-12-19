@@ -1,0 +1,28 @@
+{
+  "id": 118433,
+  "rating": 2904,
+  "attempts": 276,
+  "fen": "3rn1rk/ppq1nb1p/2pb1p1B/5P2/4P3/5N1Q/PPP3BN/4RR1K b - - 4 23",
+  "color": "white",
+  "initialPly": 46,
+  "gameId": "mchpgshY",
+  "lines": {
+    "e4e5": {
+      "d6e5": {
+        "f3e5": {
+          "f6e5": {
+            "h2g4": {
+              "g8g4": {
+                "h3g4": {
+                  "e7g8": "win"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": -3,
+  "enabled": true
+}

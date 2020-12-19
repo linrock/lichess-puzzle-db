@@ -1,0 +1,24 @@
+{
+  "id": 88390,
+  "rating": 1818,
+  "attempts": 12864,
+  "fen": "3k2r1/ppp1n3/4P2n/1P1p4/2PP1p1q/5QPP/P4P1K/R3R3 b - - 3 26",
+  "color": "white",
+  "initialPly": 52,
+  "gameId": "PUKBexrz",
+  "lines": {
+    "f3g4": {
+      "f4g3": {
+        "f2g3": {
+          "h4g4": {
+            "h3g4": {
+              "d5c4": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 176,
+  "enabled": true
+}

@@ -1,0 +1,20 @@
+{
+  "id": 97668,
+  "rating": 784,
+  "attempts": 99,
+  "fen": "6k1/p3rp2/1p4p1/1Pp5/2P1q2p/7P/P4RP1/3Q2K1 b - - 0 35",
+  "color": "white",
+  "initialPly": 70,
+  "gameId": "WMZY93Q4",
+  "lines": {
+    "d1d8": {
+      "g8g7": {
+        "d8e7": {
+          "c4e6": "win"
+        }
+      }
+    }
+  },
+  "vote": 3,
+  "enabled": true
+}

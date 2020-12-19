@@ -1,0 +1,28 @@
+{
+  "id": 124329,
+  "rating": 1705,
+  "attempts": 8350,
+  "fen": "1r1q1rk1/p2pppbp/bp4p1/1NnB4/P2BP3/8/1PP2PPP/R2Q1RK1 b - - 2 15",
+  "color": "white",
+  "initialPly": 30,
+  "gameId": "ORIWX494",
+  "lines": {
+    "d4g7": {
+      "g8g7": {
+        "d1d4": {
+          "g7g8": {
+            "d4a4": {
+              "a6b5": {
+                "a4b5": {
+                  "a7a5": "win"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 162,
+  "enabled": true
+}

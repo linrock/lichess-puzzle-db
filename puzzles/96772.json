@@ -1,0 +1,24 @@
+{
+  "id": 96772,
+  "rating": 1595,
+  "attempts": 65310,
+  "fen": "2r1k2r/ppq2ppp/1n2p3/4P3/b1P5/PQ2B3/4BPPP/R2R2K1 w k - 5 19",
+  "color": "black",
+  "initialPly": 37,
+  "gameId": "WHRFcJS4",
+  "lines": {
+    "a4b3": {
+      "b6c7": {
+        "b3d1": {
+          "a1d1": {
+            "c8c7": {
+              "f2f4": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 228,
+  "enabled": true
+}

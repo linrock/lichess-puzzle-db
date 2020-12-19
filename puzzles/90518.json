@@ -1,0 +1,24 @@
+{
+  "id": 90518,
+  "rating": 1755,
+  "attempts": 39809,
+  "fen": "8/p6k/1p4p1/8/3P2NP/5p1Q/PP2r2K/4r3 w - - 2 42",
+  "color": "black",
+  "initialPly": 83,
+  "gameId": "hoixVZPa",
+  "lines": {
+    "f3f2": {
+      "g4f2": {
+        "e2e3": {
+          "g3f4": {
+            "e3h3": {
+              "f2h3": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 385,
+  "enabled": true
+}

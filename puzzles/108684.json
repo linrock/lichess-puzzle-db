@@ -1,0 +1,28 @@
+{
+  "id": 108684,
+  "rating": 1622,
+  "attempts": 31197,
+  "fen": "r4rk1/pp4pp/2p5/6nq/2RPP3/P4PP1/1B1Q2KP/5R2 w - - 1 27",
+  "color": "black",
+  "initialPly": 53,
+  "gameId": "Ha7Lpigu",
+  "lines": {
+    "h5h3": {
+      "g2g1": {
+        "g5e4": {
+          "d2g2": {
+            "h3g2": {
+              "g1g2": {
+                "e4c3": {
+                  "b2c3": "win"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 184,
+  "enabled": true
+}

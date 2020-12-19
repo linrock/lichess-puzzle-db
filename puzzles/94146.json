@@ -1,0 +1,20 @@
+{
+  "id": 94146,
+  "rating": 1200,
+  "attempts": 5970,
+  "fen": "r4rk1/pp2qpb1/2p1bn1p/4p1p1/2B1P3/2N3BP/PPP1QPP1/R2R2K1 w - - 2 15",
+  "color": "black",
+  "initialPly": 29,
+  "gameId": "VoKeSS12",
+  "lines": {
+    "e6c4": {
+      "e2c4": {
+        "e7e5": {
+          "d1d3": "win"
+        }
+      }
+    }
+  },
+  "vote": 110,
+  "enabled": true
+}

@@ -1,0 +1,24 @@
+{
+  "id": 81479,
+  "rating": 750,
+  "attempts": 231,
+  "fen": "8/2b4p/r1p1k3/2R1prp1/8/4B3/5PKP/2R5 b - - 9 42",
+  "color": "white",
+  "initialPly": 84,
+  "gameId": "MvlyTkTD",
+  "lines": {
+    "c5c6": {
+      "a6c6": {
+        "c1c6": {
+          "f6g7": {
+            "c6c7": {
+              "g7g6": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 10,
+  "enabled": true
+}

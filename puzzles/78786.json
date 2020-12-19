@@ -1,0 +1,28 @@
+{
+  "id": 78786,
+  "rating": 1269,
+  "attempts": 88666,
+  "fen": "2r3k1/4bp1p/p1P3p1/B1p1P3/P7/6PP/6B1/6K1 b - - 2 43",
+  "color": "white",
+  "initialPly": 86,
+  "gameId": "Gx22SlYR",
+  "lines": {
+    "c6c7": {
+      "c5c4": {
+        "g2b7": {
+          "c8c7": {
+            "a5c7": {
+              "c4c3": {
+                "b7e4": {
+                  "e7a3": "win"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 193,
+  "enabled": true
+}

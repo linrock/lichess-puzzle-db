@@ -1,0 +1,31 @@
+{
+  "id": 64245,
+  "rating": 2869,
+  "attempts": 1032,
+  "fen": "1q4k1/5ppp/4p3/RP1p4/1QnPn3/4PN1P/5PP1/2r2BK1 w - - 3 28",
+  "color": "black",
+  "initialPly": 55,
+  "gameId": "skeuJIpB",
+  "lines": {
+    "e4c3": {
+      "a2b2": {
+        "b8a8": {
+          "b5b6": {
+            "c4b2": {
+              "b4b2": {
+                "a8a1": {
+                  "b2a1": {
+                    "c1a1": {
+                      "f3d2": "win"
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": -9000
+}

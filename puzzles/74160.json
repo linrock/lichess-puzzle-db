@@ -1,0 +1,24 @@
+{
+  "id": 74160,
+  "rating": 1418,
+  "attempts": 74323,
+  "fen": "2kr1b1r/ppp2ppp/2n2n2/q7/3N4/P1N1B3/1PP1bPPP/R2Q1RK1 w - - 0 11",
+  "color": "black",
+  "initialPly": 21,
+  "gameId": "AP18FkPL",
+  "lines": {
+    "d8d1": {
+      "c6a5": {
+        "d1f1": {
+          "a1f1": {
+            "e2f1": {
+              "g1f1": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 484,
+  "enabled": true
+}

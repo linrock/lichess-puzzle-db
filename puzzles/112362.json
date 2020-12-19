@@ -1,0 +1,24 @@
+{
+  "id": 112362,
+  "rating": 2186,
+  "attempts": 5772,
+  "fen": "1r3r2/1p3pkp/p2p2n1/2p2P1q/Pn2P1R1/1P1P3P/2PQ2B1/5RK1 b - - 0 24",
+  "color": "white",
+  "initialPly": 48,
+  "gameId": "CStoCvhl",
+  "lines": {
+    "f5f6": {
+      "g7h8": {
+        "f1f5": {
+          "h5g4": {
+            "h3g4": {
+              "f8g8": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 175,
+  "enabled": true
+}

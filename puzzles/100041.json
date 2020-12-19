@@ -1,0 +1,20 @@
+{
+  "id": 100041,
+  "rating": 1016,
+  "attempts": 618,
+  "fen": "2r1r1k1/pppq2pp/8/5R2/2nPp1Q1/P3P1P1/1P1B3P/3R2K1 b - - 7 20",
+  "color": "white",
+  "initialPly": 40,
+  "gameId": "I0odUpTM",
+  "lines": {
+    "f5f8": {
+      "e8f8": {
+        "g4d7": {
+          "g8h8": "win"
+        }
+      }
+    }
+  },
+  "vote": 16,
+  "enabled": true
+}

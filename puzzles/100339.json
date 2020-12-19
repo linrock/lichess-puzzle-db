@@ -1,0 +1,24 @@
+{
+  "id": 100339,
+  "rating": 1394,
+  "attempts": 5780,
+  "fen": "r2qkb1r/2p2ppp/p7/2pnPb2/8/5N2/PP2Q1PP/RNB2RK1 w kq - 0 15",
+  "color": "black",
+  "initialPly": 29,
+  "gameId": "970CGlPz",
+  "lines": {
+    "d5c3": {
+      "b2c3": {
+        "f5d3": {
+          "e2f2": {
+            "d3f1": {
+              "f2f1": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 139,
+  "enabled": true
+}

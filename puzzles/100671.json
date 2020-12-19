@@ -1,0 +1,28 @@
+{
+  "id": 100671,
+  "rating": 1698,
+  "attempts": 10258,
+  "fen": "6k1/5p1p/pr4p1/1pp1P3/n1P2PPq/P3B3/2Q4P/1R4K1 w - - 3 29",
+  "color": "black",
+  "initialPly": 57,
+  "gameId": "UCvajkzi",
+  "lines": {
+    "a4c3": {
+      "e2f3": {
+        "c3b1": {
+          "f3a8": {
+            "g8g7": {
+              "e3c5": {
+                "h4g4": {
+                  "g1h1": "win"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 129,
+  "enabled": true
+}

@@ -1,0 +1,24 @@
+{
+  "id": 78519,
+  "rating": 1913,
+  "attempts": 16313,
+  "fen": "r4rk1/pp1nbpp1/2p1pnbp/8/1qN5/2NP2BP/PPP1BPP1/R2QR1K1 b - - 5 15",
+  "color": "white",
+  "initialPly": 30,
+  "gameId": "ihSLgTrm",
+  "lines": {
+    "a2a3": {
+      "b4c5": {
+        "d3d4": {
+          "c5c4": {
+            "e2c4": {
+              "b5c4": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 279,
+  "enabled": true
+}

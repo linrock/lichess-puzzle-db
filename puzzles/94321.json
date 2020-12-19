@@ -1,0 +1,24 @@
+{
+  "id": 94321,
+  "rating": 1663,
+  "attempts": 50799,
+  "fen": "6k1/p1p4p/1p1p2pB/8/1PP1q3/3n1r2/P5PP/3Q1BK1 w - - 0 29",
+  "color": "black",
+  "initialPly": 57,
+  "gameId": "SzkS140C",
+  "lines": {
+    "e4d4": {
+      "g1g2": {
+        "d3f4": {
+          "h6f4": {
+            "d4d1": {
+              "b4b5": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 439,
+  "enabled": true
+}

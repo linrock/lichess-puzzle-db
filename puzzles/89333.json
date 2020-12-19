@@ -1,0 +1,24 @@
+{
+  "id": 89333,
+  "rating": 1754,
+  "attempts": 55814,
+  "fen": "r4r2/3R1pk1/p1n1p1pp/1pq1P3/2P3PP/1P1Q1N2/1P4K1/3R4 b - - 4 26",
+  "color": "white",
+  "initialPly": 52,
+  "gameId": "tAVceW74",
+  "lines": {
+    "d3c3": {
+      "b5b4": {
+        "c3e5": {
+          "c5e5": {
+            "f3e5": {
+              "g6g5": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 382,
+  "enabled": true
+}

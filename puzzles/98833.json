@@ -1,0 +1,24 @@
+{
+  "id": 98833,
+  "rating": 1432,
+  "attempts": 30707,
+  "fen": "6k1/2Q2q1p/p5p1/5p2/1P6/P4P2/3r1KPP/2R5 w - - 3 38",
+  "color": "black",
+  "initialPly": 75,
+  "gameId": "CiUJAeVA",
+  "lines": {
+    "f5f4": {
+      "c7f4": {
+        "d2g2": {
+          "g3g2": {
+            "f7f4": {
+              "c1c2": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 239,
+  "enabled": true
+}

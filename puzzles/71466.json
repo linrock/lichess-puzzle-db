@@ -1,0 +1,28 @@
+{
+  "id": 71466,
+  "rating": 1941,
+  "attempts": 22246,
+  "fen": "rnbq1r1k/1p1p2bp/p5p1/2pQNp2/P1P2B2/4P3/1P3PPP/2R1KB1R b K - 2 12",
+  "color": "white",
+  "initialPly": 24,
+  "gameId": "ssyuztan",
+  "lines": {
+    "e1e2": {
+      "a5b6": {
+        "e5f7": {
+          "f8f7": {
+            "d5f7": {
+              "b6e6": {
+                "f7e6": {
+                  "d7e6": "win"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 252,
+  "enabled": true
+}

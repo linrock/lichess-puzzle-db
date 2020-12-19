@@ -1,0 +1,24 @@
+{
+  "id": 100004,
+  "rating": 1924,
+  "attempts": 8536,
+  "fen": "r3qr1k/pppb2pp/1b1p4/4pN2/4P2B/2PQ4/PP3PPP/R4RK1 w - - 3 19",
+  "color": "black",
+  "initialPly": 37,
+  "gameId": "kYsRBMUS",
+  "lines": {
+    "f8f4": {
+      "h4g3": {
+        "e8e7": {
+          "g3f4": {
+            "e5f4": {
+              "b2b4": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 110,
+  "enabled": true
+}

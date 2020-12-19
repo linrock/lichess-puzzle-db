@@ -1,0 +1,24 @@
+{
+  "id": 62896,
+  "rating": 1543,
+  "attempts": 110776,
+  "fen": "1b3rk1/pp2q1p1/2p1pr1p/3n4/6Q1/PB1PB2P/1P3PP1/R4RK1 w - - 3 19",
+  "color": "black",
+  "initialPly": 37,
+  "gameId": "SojmNlwt",
+  "lines": {
+    "f6f4": {
+      "g4g7": {
+        "e7g7": {
+          "d4g7": {
+            "g8g7": {
+              "a1e1": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 762,
+  "enabled": true
+}

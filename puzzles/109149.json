@@ -1,0 +1,32 @@
+{
+  "id": 109149,
+  "rating": 1967,
+  "attempts": 6446,
+  "fen": "r3kb1r/p4ppp/2b5/4N3/q2PpB2/8/3Q2PP/1R3RK1 b kq - 1 17",
+  "color": "white",
+  "initialPly": 34,
+  "gameId": "WU217hic",
+  "lines": {
+    "b1a1": {
+      "a4b5": {
+        "f1b1": {
+          "b5d5": {
+            "a1a5": {
+              "e4e3": {
+                "a5d5": {
+                  "e3d2": {
+                    "d5d6": {
+                      "c6e4": "win"
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 124,
+  "enabled": true
+}

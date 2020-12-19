@@ -1,0 +1,19 @@
+{
+  "id": 96138,
+  "rating": 1500,
+  "attempts": 2,
+  "fen": "8/8/2k3P1/1p3K2/3N4/1p6/3b4/8 b - - 1 61",
+  "color": "white",
+  "initialPly": 122,
+  "gameId": "OThsdTG2",
+  "lines": {
+    "g6g7": {
+      "d5d4": {
+        "g7g8q": {
+          "d4c3": "win"
+        }
+      }
+    }
+  },
+  "vote": -9000
+}

@@ -1,0 +1,24 @@
+{
+  "id": 84751,
+  "rating": 1857,
+  "attempts": 15335,
+  "fen": "4rrk1/pp3ppp/5q2/3p4/2nN4/2P2PRP/PPQ2P2/R6K b - - 21 28",
+  "color": "white",
+  "initialPly": 56,
+  "gameId": "REMVQWPy",
+  "lines": {
+    "d4f5": {
+      "h6f4": {
+        "f5g7": {
+          "f4g3": {
+            "f2g3": {
+              "g8g7": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 206,
+  "enabled": true
+}

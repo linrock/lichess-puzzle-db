@@ -1,0 +1,20 @@
+{
+  "id": 111723,
+  "rating": 1576,
+  "attempts": 7189,
+  "fen": "rnbqkb1r/ppp1n1pp/5p2/4p3/4P3/3B1N2/PPP2PPP/RNBQK2R w KQkq - 2 6",
+  "color": "black",
+  "initialPly": 11,
+  "gameId": "IsOp24Th",
+  "lines": {
+    "f6e5": {
+      "d1h5": {
+        "e7g6": {
+          "d3c4": "win"
+        }
+      }
+    }
+  },
+  "vote": 72,
+  "enabled": true
+}

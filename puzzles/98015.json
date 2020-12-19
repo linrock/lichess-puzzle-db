@@ -1,0 +1,28 @@
+{
+  "id": 98015,
+  "rating": 1833,
+  "attempts": 19290,
+  "fen": "3r3k/2q3pp/p7/1pn2p2/3N4/Q3P3/PP3PPP/4R1K1 w - - 2 24",
+  "color": "black",
+  "initialPly": 47,
+  "gameId": "WaDWyXK2",
+  "lines": {
+    "b5b4": {
+      "a3b4": {
+        "c5d3": {
+          "b4e7": {
+            "c7e7": {
+              "f5e7": {
+                "d3e1": {
+                  "g1f1": "win"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 286,
+  "enabled": true
+}

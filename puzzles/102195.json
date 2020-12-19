@@ -1,0 +1,36 @@
+{
+  "id": 102195,
+  "rating": 2454,
+  "attempts": 1358,
+  "fen": "2Q5/6kp/P2p2r1/3q4/4pP1P/6P1/3p2RK/8 w - - 0 54",
+  "color": "black",
+  "initialPly": 107,
+  "gameId": "RIcWkgSJ",
+  "lines": {
+    "g7h6": {
+      "g3g4": {
+        "d2d1q": {
+          "g4g5": {
+            "g6g5": {
+              "h4g5": {
+                "h6g6": {
+                  "d7e8": {
+                    "g6g7": {
+                      "g2b2": {
+                        "d5f7": {
+                          "b2b7": "win"
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 4,
+  "enabled": true
+}

@@ -1,0 +1,24 @@
+{
+  "id": 73817,
+  "rating": 2103,
+  "attempts": 11925,
+  "fen": "r1b4k/1pp1q1pB/3p3p/p2P4/2Pp2n1/P7/1PQ1N1PP/5RK1 w - - 4 20",
+  "color": "black",
+  "initialPly": 39,
+  "gameId": "fliura2y",
+  "lines": {
+    "g4e3": {
+      "f1e1": {
+        "e3c2": {
+          "e1e7": {
+            "c2d4": {
+              "h7d3": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 221,
+  "enabled": true
+}

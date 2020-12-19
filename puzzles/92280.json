@@ -1,0 +1,28 @@
+{
+  "id": 92280,
+  "rating": 2320,
+  "attempts": 5340,
+  "fen": "2k5/p7/3Q2p1/1Pn2b2/8/3PK1P1/PP3R2/7q b - - 1 43",
+  "color": "white",
+  "initialPly": 86,
+  "gameId": "638P54qX",
+  "lines": {
+    "f2e2": {
+      "e1c1": {
+        "e3d4": {
+          "c5e6": {
+            "e2e6": {
+              "c1b2": {
+                "d4e3": {
+                  "b2c1": "win"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": -47,
+  "enabled": true
+}

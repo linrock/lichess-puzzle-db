@@ -1,0 +1,24 @@
+{
+  "id": 118489,
+  "rating": 2213,
+  "attempts": 4663,
+  "fen": "r4rk1/2p2pp1/ppN1pq2/5n2/2PPQ2P/6P1/PP5K/3R1R2 w - - 3 30",
+  "color": "black",
+  "initialPly": 59,
+  "gameId": "pPLelBaB",
+  "lines": {
+    "f5g3": {
+      "h2g3": {
+        "f6f1": {
+          "d2f2": {
+            "f1g1": {
+              "f2g2": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": -63,
+  "enabled": true
+}

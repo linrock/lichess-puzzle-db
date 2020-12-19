@@ -1,0 +1,32 @@
+{
+  "id": 95842,
+  "rating": 1278,
+  "attempts": 4819,
+  "fen": "2kr3r/ppp1ppb1/2n3pp/1P3q2/3P4/P3BB1P/2PQ1PP1/R4RK1 b - - 0 17",
+  "color": "white",
+  "initialPly": 34,
+  "gameId": "JAxX5URG",
+  "lines": {
+    "f3g4": {
+      "f5g4": {
+        "h3g4": {
+          "d4f3": {
+            "g2f3": {
+              "d8d2": {
+                "e3d2": {
+                  "g7a1": {
+                    "f1a1": {
+                      "f7f6": "win"
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 140,
+  "enabled": true
+}

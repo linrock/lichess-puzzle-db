@@ -1,0 +1,28 @@
+{
+  "id": 70716,
+  "rating": 1660,
+  "attempts": 139178,
+  "fen": "r1bq1rk1/pp3pbp/2npp1p1/2p5/4PPn1/2NPBNP1/PPP3BP/R2Q1RK1 w - - 5 10",
+  "color": "black",
+  "initialPly": 19,
+  "gameId": "gycLndtV",
+  "lines": {
+    "g4e3": {
+      "e2e3": {
+        "g7d4": {
+          "f3d4": {
+            "c5d4": {
+              "e3d2": {
+                "d4c3": {
+                  "b2c3": "win"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 2413,
+  "enabled": true
+}

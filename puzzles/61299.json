@@ -1,0 +1,24 @@
+{
+  "id": 61299,
+  "rating": 1427,
+  "attempts": 216905,
+  "fen": "6k1/5pp1/B2Rb2p/2p5/8/8/PrP3PP/6K1 b - - 1 22",
+  "color": "white",
+  "initialPly": 44,
+  "gameId": "DdJRudsw",
+  "lines": {
+    "d6d8": {
+      "g8h7": {
+        "a6d3": {
+          "g7g6": {
+            "d3c2": {
+              "e6a2": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 5341,
+  "enabled": true
+}

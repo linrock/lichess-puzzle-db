@@ -1,0 +1,24 @@
+{
+  "id": 65500,
+  "rating": 1576,
+  "attempts": 57852,
+  "fen": "3rkb1r/5pp1/ppq1pn1p/2p5/2PP4/B1N3P1/P3PP1P/R2Q1RK1 w k - 1 15",
+  "color": "black",
+  "initialPly": 29,
+  "gameId": "DEdebGND",
+  "lines": {
+    "c5d4": {
+      "a3f8": {
+        "d4c3": {
+          "d1d8": {
+            "e8d8": {
+              "f8g7": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": -128,
+  "enabled": true
+}

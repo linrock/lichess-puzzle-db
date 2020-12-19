@@ -1,0 +1,24 @@
+{
+  "id": 90242,
+  "rating": 1360,
+  "attempts": 8692,
+  "fen": "r2qr2k/4p1bp/p1Q2pp1/7n/8/2N1B3/PP3PPP/R3R1K1 b - - 0 22",
+  "color": "white",
+  "initialPly": 44,
+  "gameId": "Vcumdxo6",
+  "lines": {
+    "c6c8": {
+      "a8c8": {
+        "g2g4": {
+          "f6f5": {
+            "g4h5": {
+              "g6h5": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 141,
+  "enabled": true
+}

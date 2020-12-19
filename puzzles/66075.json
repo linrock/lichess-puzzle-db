@@ -1,0 +1,28 @@
+{
+  "id": 66075,
+  "rating": 2183,
+  "attempts": 166601,
+  "fen": "r2k4/pR2ppbR/3p4/3N4/8/3b2P1/P1qQ1PP1/4K3 b - - 2 23",
+  "color": "white",
+  "initialPly": 46,
+  "gameId": "MuagErB9",
+  "lines": {
+    "d2a5": {
+      "d8e8": {
+        "a5b5": {
+          "e8f8": {
+            "b7b8": {
+              "c2c8": {
+                "b8c8": {
+                  "a8c8": "win"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 1411,
+  "enabled": true
+}

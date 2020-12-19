@@ -1,0 +1,28 @@
+{
+  "id": 78939,
+  "rating": 1693,
+  "attempts": 111994,
+  "fen": "5rk1/1p1b2pp/2p5/1PPp1p2/5bq1/1QNBR3/6PP/2R3K1 w - - 0 25",
+  "color": "black",
+  "initialPly": 49,
+  "gameId": "oOLPaihz",
+  "lines": {
+    "f4e3": {
+      "e1e3": {
+        "g4d4": {
+          "c3d1": {
+            "f5f4": {
+              "b3c3": {
+                "d4c3": {
+                  "d3h7": "win"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 613,
+  "enabled": true
+}

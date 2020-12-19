@@ -1,0 +1,28 @@
+{
+  "id": 118438,
+  "rating": 2014,
+  "attempts": 7451,
+  "fen": "8/3R1rpk/p4r1p/8/1P6/P4PQP/4q1P1/3R3K w - - 1 42",
+  "color": "black",
+  "initialPly": 83,
+  "gameId": "5ptcskMx",
+  "lines": {
+    "e2f1": {
+      "h1h2": {
+        "f7d7": {
+          "d2d7": {
+            "f6g6": {
+              "d7e7": {
+                "g6g3": {
+                  "h2g3": "win"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 165,
+  "enabled": true
+}

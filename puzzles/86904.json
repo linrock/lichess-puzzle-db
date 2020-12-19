@@ -1,0 +1,24 @@
+{
+  "id": 86904,
+  "rating": 1256,
+  "attempts": 24635,
+  "fen": "3r2k1/pp3pp1/2p2n2/4q3/4p3/P1P1Q1P1/1P3PBP/4R1K1 b - - 1 24",
+  "color": "white",
+  "initialPly": 48,
+  "gameId": "WyQ28244",
+  "lines": {
+    "e3d3": {
+      "e4d3": {
+        "e1e5": {
+          "d3d2": {
+            "g2f3": {
+              "g8f8": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 163,
+  "enabled": true
+}

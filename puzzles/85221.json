@@ -1,0 +1,20 @@
+{
+  "id": 85221,
+  "rating": 936,
+  "attempts": 783,
+  "fen": "r5k1/p4Pbp/3r2p1/4P3/4qP2/1P3N2/3B2PP/R4RK1 b - - 0 22",
+  "color": "white",
+  "initialPly": 44,
+  "gameId": "TtaCOelb",
+  "lines": {
+    "f3g5": {
+      "f7g8": {
+        "g5e4": {
+          "d6d4": "win"
+        }
+      }
+    }
+  },
+  "vote": 22,
+  "enabled": true
+}

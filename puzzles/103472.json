@@ -1,0 +1,20 @@
+{
+  "id": 103472,
+  "rating": 1748,
+  "attempts": 9767,
+  "fen": "r2q1rk1/p2bbppp/2p5/4pPP1/4B3/8/PPP4P/R1BQ1R1K b - - 0 15",
+  "color": "white",
+  "initialPly": 30,
+  "gameId": "G3TNgFiC",
+  "lines": {
+    "c1g5": {
+      "d8g5": {
+        "d1d7": {
+          "g5f6": "win"
+        }
+      }
+    }
+  },
+  "vote": 200,
+  "enabled": true
+}

@@ -1,0 +1,28 @@
+{
+  "id": 116271,
+  "rating": 1742,
+  "attempts": 9725,
+  "fen": "r1b3r1/p1p2p2/3p1q1k/2pPp3/2P1P1nP/P1PQ4/3NB1P1/R3K2R w KQ - 2 22",
+  "color": "black",
+  "initialPly": 43,
+  "gameId": "TAandrv5",
+  "lines": {
+    "g4f2": {
+      "d3e3": {
+        "f6f4": {
+          "e3f4": {
+            "e5f4": {
+              "h1f1": {
+                "f2d1": {
+                  "c1d1": "win"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 158,
+  "enabled": true
+}

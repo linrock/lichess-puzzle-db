@@ -1,0 +1,28 @@
+{
+  "id": 88207,
+  "rating": 1940,
+  "attempts": 115874,
+  "fen": "6k1/ppB2pbp/2q1pnp1/8/P2P4/1B2P1QP/5PP1/6K1 w - - 1 25",
+  "color": "black",
+  "initialPly": 49,
+  "gameId": "MVW4LIQ3",
+  "lines": {
+    "c6c1": {
+      "g1h2": {
+        "f6e8": {
+          "d6d8": {
+            "c1c7": {
+              "d8c7": {
+                "e8c7": {
+                  "g2g4": "win"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 541,
+  "enabled": true
+}

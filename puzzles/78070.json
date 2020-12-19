@@ -1,0 +1,27 @@
+{
+  "id": 78070,
+  "rating": 1500,
+  "attempts": 3,
+  "fen": "8/8/8/4k2p/3R2b1/2B1K1P1/7r/8 b - - 5 48",
+  "color": "white",
+  "initialPly": 96,
+  "gameId": "ewD3Tkr5",
+  "lines": {
+    "e3d3": {
+      "e5f5": {
+        "d4f4": {
+          "f5g5": {
+            "c3f6": {
+              "g5h6": {
+                "f4g4": {
+                  "e2e1": "win"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": -9000
+}

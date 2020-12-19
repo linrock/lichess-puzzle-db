@@ -1,0 +1,24 @@
+{
+  "id": 101927,
+  "rating": 1583,
+  "attempts": 9959,
+  "fen": "r5nR/pp1b1pk1/2p5/3p4/5qP1/2N4Q/PPP1B3/1K6 b - - 3 23",
+  "color": "white",
+  "initialPly": 46,
+  "gameId": "nFTxtZN4",
+  "lines": {
+    "h3h7": {
+      "g7f6": {
+        "h8g8": {
+          "f4f1": {
+            "e2d1": {
+              "e8e1": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 258,
+  "enabled": true
+}

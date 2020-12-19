@@ -1,0 +1,20 @@
+{
+  "id": 62843,
+  "rating": 775,
+  "attempts": 10671,
+  "fen": "1r3rk1/1p2q2p/2p1pp2/QPPp3b/3P4/3NP3/1R3PP1/R5K1 b - - 0 25",
+  "color": "white",
+  "initialPly": 50,
+  "gameId": "nlg26m5x",
+  "lines": {
+    "a5a8": {
+      "f8a8": {
+        "a1a8": {
+          "g8g7": "win"
+        }
+      }
+    }
+  },
+  "vote": -102,
+  "enabled": true
+}

@@ -1,0 +1,24 @@
+{
+  "id": 93383,
+  "rating": 1889,
+  "attempts": 9699,
+  "fen": "4r1k1/5pp1/2p5/p2p4/3Prb1q/P3BQ1P/1PR2PP1/4R1K1 w - - 2 28",
+  "color": "black",
+  "initialPly": 55,
+  "gameId": "ZUZheGyy",
+  "lines": {
+    "e4e3": {
+      "e1e3": {
+        "e8e3": {
+          "c6c8": {
+            "g8h7": {
+              "f3d1": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 255,
+  "enabled": true
+}

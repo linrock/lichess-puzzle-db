@@ -1,0 +1,28 @@
+{
+  "id": 102183,
+  "rating": 1753,
+  "attempts": 9933,
+  "fen": "r1b2r1k/pp4pp/8/2p2p2/2Bpn2q/4BQ1P/PPPN2PK/4R2R w - - 2 18",
+  "color": "black",
+  "initialPly": 35,
+  "gameId": "AptGTbes",
+  "lines": {
+    "e4d2": {
+      "d4g7": {
+        "h8g7": {
+          "f3c3": {
+            "h4d4": {
+              "c3d4": {
+                "c5d4": {
+                  "c4e2": "win"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 245,
+  "enabled": true
+}

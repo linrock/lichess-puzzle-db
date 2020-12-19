@@ -1,0 +1,24 @@
+{
+  "id": 91646,
+  "rating": 2016,
+  "attempts": 10469,
+  "fen": "4r1k1/3q4/2R3p1/1P1p3p/3n1P2/4pBPP/4Q2K/2B5 w - - 0 32",
+  "color": "black",
+  "initialPly": 63,
+  "gameId": "UnMlqBik",
+  "lines": {
+    "e3e2": {
+      "f3e2": {
+        "e8e2": {
+          "f1e2": {
+            "d4e2": {
+              "c1b2": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 132,
+  "enabled": true
+}

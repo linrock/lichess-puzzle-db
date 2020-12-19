@@ -1,0 +1,20 @@
+{
+  "id": 123026,
+  "rating": 1608,
+  "attempts": 7352,
+  "fen": "1r4k1/p3pp2/3p2p1/2pP1PNn/2q1P3/7Q/P4R1P/6K1 w - - 1 29",
+  "color": "black",
+  "initialPly": 57,
+  "gameId": "He9r3dip",
+  "lines": {
+    "c4c1": {
+      "f2f1": {
+        "c1g5": {
+          "g1h1": "win"
+        }
+      }
+    }
+  },
+  "vote": 155,
+  "enabled": true
+}

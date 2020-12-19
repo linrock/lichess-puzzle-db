@@ -1,0 +1,28 @@
+{
+  "id": 118045,
+  "rating": 2357,
+  "attempts": 3025,
+  "fen": "2b1r2k/5q1p/2pb4/2n5/1p1pp1Q1/6NP/1PP3P1/R1B1R2K w - - 2 30",
+  "color": "black",
+  "initialPly": 59,
+  "gameId": "DaoUJX4T",
+  "lines": {
+    "f7f2": {
+      "c1e3": {
+        "d4e3": {
+          "e1f1": {
+            "f2g3": {
+              "h4f6": {
+                "g3g7": {
+                  "f6d6": "win"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": -2,
+  "enabled": true
+}

@@ -1,0 +1,32 @@
+{
+  "id": 124737,
+  "rating": 2175,
+  "attempts": 6910,
+  "fen": "3r3k/5b1p/1qp3p1/3n1p2/1PBNpP2/2P5/Q2P2PP/5RK1 w - - 0 30",
+  "color": "black",
+  "initialPly": 59,
+  "gameId": "z9kiHMOs",
+  "lines": {
+    "d5b4": {
+      "a2b3": {
+        "d8d4": {
+          "c3d4": {
+            "b6d4": {
+              "g1h1": {
+                "d4c4": {
+                  "b3c4": {
+                    "f7c4": {
+                      "f1b1": "win"
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 121,
+  "enabled": true
+}

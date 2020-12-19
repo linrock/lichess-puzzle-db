@@ -1,0 +1,24 @@
+{
+  "id": 97516,
+  "rating": 1916,
+  "attempts": 9657,
+  "fen": "1k5r/ppp2ppp/3r1n2/8/1P1NbP2/2n3PB/P3P2P/R1B2RK1 w - - 0 16",
+  "color": "black",
+  "initialPly": 31,
+  "gameId": "FptHubGV",
+  "lines": {
+    "c3a4": {
+      "d4b5": {
+        "a4b2": {
+          "b5d6": {
+            "c7d6": {
+              "a1c1": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 118,
+  "enabled": true
+}

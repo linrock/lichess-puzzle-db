@@ -1,0 +1,24 @@
+{
+  "id": 122741,
+  "rating": 2193,
+  "attempts": 6129,
+  "fen": "r2q4/1pN3k1/p7/2B1Qp2/4n3/8/PPP5/2K5 b - - 0 35",
+  "color": "white",
+  "initialPly": 70,
+  "gameId": "WZas8Mt3",
+  "lines": {
+    "e5f6": {
+      "g7f6": {
+        "c5d4": {
+          "f6g5": {
+            "c7a8": {
+              "f5f4": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 114,
+  "enabled": true
+}

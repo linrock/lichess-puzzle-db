@@ -1,0 +1,20 @@
+{
+  "id": 111834,
+  "rating": 1250,
+  "attempts": 3247,
+  "fen": "r1q2rk1/2p2ppp/1bp3b1/3pPP2/p2P2PN/2Q1B2P/PP6/R3K1R1 w Q - 1 20",
+  "color": "black",
+  "initialPly": 39,
+  "gameId": "JR2srtNG",
+  "lines": {
+    "b6a5": {
+      "c3a5": {
+        "a8a5": {
+          "g6f7": "win"
+        }
+      }
+    }
+  },
+  "vote": 70,
+  "enabled": true
+}

@@ -1,0 +1,24 @@
+{
+  "id": 111963,
+  "rating": 1557,
+  "attempts": 7684,
+  "fen": "1r2n3/p6Q/2pk1p2/q1pb1P2/8/1PPP4/P2K4/R5R1 b - - 0 30",
+  "color": "white",
+  "initialPly": 60,
+  "gameId": "m1g1DiGI",
+  "lines": {
+    "h7h2": {
+      "d6d7": {
+        "h2b8": {
+          "a3b2": {
+            "d2e3": {
+              "b2c3": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 175,
+  "enabled": true
+}

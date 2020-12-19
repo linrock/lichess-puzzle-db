@@ -1,0 +1,24 @@
+{
+  "id": 64740,
+  "rating": 1102,
+  "attempts": 22623,
+  "fen": "3r1rk1/pp4pp/1q2pn2/3p4/5P2/4R3/PPP3PP/R1BQ3K w - - 0 19",
+  "color": "black",
+  "initialPly": 37,
+  "gameId": "PA3GoQ27",
+  "lines": {
+    "f6e4": {
+      "g3f3": {
+        "e4f2": {
+          "f3f2": {
+            "b6f2": {
+              "c1d2": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 423,
+  "enabled": true
+}

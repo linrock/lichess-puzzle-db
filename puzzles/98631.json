@@ -1,0 +1,24 @@
+{
+  "id": 98631,
+  "rating": 1365,
+  "attempts": 5784,
+  "fen": "2k2b1r/pp3Rpp/2p5/5N2/1PP1r3/P1R5/6PP/6K1 b - - 1 27",
+  "color": "white",
+  "initialPly": 54,
+  "gameId": "WhcDC4Px",
+  "lines": {
+    "f7f8": {
+      "h8f8": {
+        "f5d6": {
+          "c8d7": {
+            "d6e4": {
+              "b7b6": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 164,
+  "enabled": true
+}

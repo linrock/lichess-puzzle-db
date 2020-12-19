@@ -1,0 +1,24 @@
+{
+  "id": 100256,
+  "rating": 1523,
+  "attempts": 9590,
+  "fen": "r4bnr/1pk3pp/2p1bp2/p1n1p3/2P1P3/2N1BN1P/PP2BPP1/2KR3R b - - 3 12",
+  "color": "white",
+  "initialPly": 24,
+  "gameId": "Hridy5TE",
+  "lines": {
+    "d1d6": {
+      "c7d6": {
+        "h1d1": {
+          "d6c7": {
+            "e3c5": {
+              "b7b6": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 231,
+  "enabled": true
+}

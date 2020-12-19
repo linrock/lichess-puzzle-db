@@ -1,0 +1,36 @@
+{
+  "id": 116359,
+  "rating": 2397,
+  "attempts": 2997,
+  "fen": "r1bqk1nr/ppp3pp/3b1p2/4n3/2B2B2/2N2Q2/PPP2PPP/R3R1K1 b kq - 3 12",
+  "color": "white",
+  "initialPly": 24,
+  "gameId": "NZFvn09l",
+  "lines": {
+    "f4e5": {
+      "f6e5": {
+        "c4f7": {
+          "e8f8": {
+            "f7e6": {
+              "e7f5": {
+                "f3f5": {
+                  "d8f6": {
+                    "e6c8": {
+                      "f6f5": {
+                        "c8f5": {
+                          "g7g6": "win"
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 68,
+  "enabled": true
+}

@@ -1,0 +1,24 @@
+{
+  "id": 83709,
+  "rating": 1127,
+  "attempts": 57669,
+  "fen": "6k1/R4pp1/8/6p1/4N3/5P1P/P1r3b1/6K1 b - - 1 35",
+  "color": "white",
+  "initialPly": 70,
+  "gameId": "LgsHkSsN",
+  "lines": {
+    "a7a8": {
+      "g8h7": {
+        "e4g5": {
+          "h7g6": {
+            "g5f3": {
+              "c2c7": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 365,
+  "enabled": true
+}

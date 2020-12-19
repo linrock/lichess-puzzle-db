@@ -1,0 +1,24 @@
+{
+  "id": 69253,
+  "rating": 988,
+  "attempts": 3260,
+  "fen": "4r1k1/pp1n1pp1/2pq1n1p/3prP2/8/2NB2QP/PPP1RPP1/4R1K1 b - - 0 18",
+  "color": "white",
+  "initialPly": 36,
+  "gameId": "Sg4GmgKx",
+  "lines": {
+    "e2e5": {
+      "d7e5": {
+        "e1e5": {
+          "e8e5": {
+            "g3e5": {
+              "b4b2": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 45,
+  "enabled": true
+}

@@ -1,0 +1,28 @@
+{
+  "id": 78395,
+  "rating": 2006,
+  "attempts": 16427,
+  "fen": "3r4/pp4k1/2p4r/2P1p3/1P1nBq2/P6P/6R1/1Q1R3K b - - 5 35",
+  "color": "white",
+  "initialPly": 70,
+  "gameId": "Fo4vfyix",
+  "lines": {
+    "d1f1": {
+      "h6h3": {
+        "h1g1": {
+          "d4f3": {
+            "f1f3": {
+              "h3f3": {
+                "e4f3": {
+                  "d8d4": "win"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 350,
+  "enabled": true
+}

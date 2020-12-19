@@ -1,0 +1,28 @@
+{
+  "id": 93154,
+  "rating": 2591,
+  "attempts": 1968,
+  "fen": "4r1k1/6p1/p4p2/1pp5/2P1q3/1P3N2/PB3QPP/5K2 w - - 4 30",
+  "color": "black",
+  "initialPly": 59,
+  "gameId": "eTK19bzm",
+  "lines": {
+    "e4d3": {
+      "f1g1": {
+        "e8e2": {
+          "f2f1": {
+            "d3e3": {
+              "g1h1": {
+                "e2b2": {
+                  "b5a6": "win"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 12,
+  "enabled": true
+}

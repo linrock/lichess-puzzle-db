@@ -1,0 +1,28 @@
+{
+  "id": 96429,
+  "rating": 1138,
+  "attempts": 1471,
+  "fen": "6k1/6p1/p3p2p/1p4P1/1P1PK1Pb/2P5/P2B1r1P/2R5 w - - 3 35",
+  "color": "black",
+  "initialPly": 69,
+  "gameId": "eGKPlTDA",
+  "lines": {
+    "f2e2": {
+      "e4d3": {
+        "e2e1": {
+          "c1e1": {
+            "h4e1": {
+              "g5h6": {
+                "g7h6": {
+                  "a2a3": "win"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 45,
+  "enabled": true
+}

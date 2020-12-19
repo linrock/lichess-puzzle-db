@@ -1,0 +1,20 @@
+{
+  "id": 99710,
+  "rating": 766,
+  "attempts": 124,
+  "fen": "2r1r1k1/p4q1p/1p3p2/3p1P2/3Bb1P1/1P5P/PK2Q3/4R1R1 w - - 1 25",
+  "color": "black",
+  "initialPly": 49,
+  "gameId": "P38BApIL",
+  "lines": {
+    "c8c2": {
+      "d2c2": {
+        "e4c2": {
+          "b2c2": "win"
+        }
+      }
+    }
+  },
+  "vote": 6,
+  "enabled": true
+}

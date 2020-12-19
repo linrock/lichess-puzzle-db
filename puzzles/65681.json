@@ -1,0 +1,24 @@
+{
+  "id": 65681,
+  "rating": 1732,
+  "attempts": 65961,
+  "fen": "r1bqkb1r/pp2pppp/2n2n2/2pp4/3P4/1P2PN2/P1P2PPP/RNBQKB1R w KQkq - 1 5",
+  "color": "black",
+  "initialPly": 9,
+  "gameId": "UWOVMsBY",
+  "lines": {
+    "d8a5": {
+      "b1c3": {
+        "a5c3": {
+          "c1d2": {
+            "c3b2": {
+              "f3e5": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 984,
+  "enabled": true
+}

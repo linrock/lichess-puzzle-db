@@ -1,0 +1,28 @@
+{
+  "id": 80506,
+  "rating": 2137,
+  "attempts": 6468,
+  "fen": "4r2k/p5p1/1p3P1p/2pq4/3p3P/P2P2Q1/1P1B1R1K/3b4 b - - 2 46",
+  "color": "white",
+  "initialPly": 92,
+  "gameId": "MILLd51b",
+  "lines": {
+    "f2f6": {
+      "e8e2": {
+        "h2g1": {
+          "e2g2": {
+            "g3g2": {
+              "d5g2": {
+                "g1g2": {
+                  "h6h5": "win"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 114,
+  "enabled": true
+}

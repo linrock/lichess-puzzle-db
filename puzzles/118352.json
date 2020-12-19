@@ -1,0 +1,24 @@
+{
+  "id": 118352,
+  "rating": 1156,
+  "attempts": 2015,
+  "fen": "r4rk1/pp1qnppp/n1pb4/3p4/3P4/2NPBN1P/PP1Q1PP1/2KR3R w - - 1 12",
+  "color": "black",
+  "initialPly": 23,
+  "gameId": "uaLKITGy",
+  "lines": {
+    "d6e5": {
+      "d4e5": {
+        "d5d4": {
+          "e3d4": {
+            "d7d4": {
+              "f2f4": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 43,
+  "enabled": true
+}

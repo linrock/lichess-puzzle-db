@@ -1,0 +1,24 @@
+{
+  "id": 78192,
+  "rating": 2068,
+  "attempts": 10737,
+  "fen": "rn2k1nr/pp4pp/2p1pp2/3pP3/3PbPPq/P1N3R1/1PP4P/R1BQKB2 b Qkq - 0 11",
+  "color": "white",
+  "initialPly": 22,
+  "gameId": "golDjxla",
+  "lines": {
+    "c3e4": {
+      "d5e4": {
+        "g3h3": {
+          "h2h3": {
+            "f1h3": {
+              "g8e7": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 263,
+  "enabled": true
+}

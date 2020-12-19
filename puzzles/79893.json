@@ -1,0 +1,28 @@
+{
+  "id": 79893,
+  "rating": 2247,
+  "attempts": 8687,
+  "fen": "r6k/p1pQ1q1p/1p1n1bpB/3P4/3P4/3B4/PP4PP/4R1K1 w - - 1 24",
+  "color": "black",
+  "initialPly": 47,
+  "gameId": "D161VshQ",
+  "lines": {
+    "a8e8": {
+      "e6f7": {
+        "e8e1": {
+          "g1f2": {
+            "d6f7": {
+              "f2e1": {
+                "f7h6": {
+                  "e1e2": "win"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 220,
+  "enabled": true
+}

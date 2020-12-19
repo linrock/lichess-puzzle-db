@@ -1,0 +1,28 @@
+{
+  "id": 124133,
+  "rating": 1986,
+  "attempts": 6865,
+  "fen": "1r2k2r/Q2n1p1p/3p4/3P2qn/5p2/8/PPP1N1P1/R1B1K2R b KQk - 0 18",
+  "color": "white",
+  "initialPly": 36,
+  "gameId": "nadtilFc",
+  "lines": {
+    "a7d7": {
+      "f8e8": {
+        "d7h3": {
+          "h5g3": {
+            "h3h7": {
+              "g8f8": {
+                "h7h8": {
+                  "f8e7": "win"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 69,
+  "enabled": true
+}

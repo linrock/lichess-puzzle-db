@@ -1,0 +1,22 @@
+{
+  "id": 103075,
+  "rating": 1020,
+  "attempts": 11885,
+  "fen": "4r1k1/p1Q3pp/1p1p4/3r4/3q4/8/PP4PP/R4R1K b - - 0 23",
+  "color": "white",
+  "initialPly": 46,
+  "gameId": "NARiaDny",
+  "lines": {
+    "c7f7": {
+      "g8h8": {
+        "f7f8": {
+          "e8f8": {
+            "f1f8": "win"
+          }
+        }
+      }
+    }
+  },
+  "vote": 52,
+  "enabled": true
+}

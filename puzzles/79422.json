@@ -1,0 +1,20 @@
+{
+  "id": 79422,
+  "rating": 1258,
+  "attempts": 8425,
+  "fen": "r1b1r1k1/pp1nqpbp/2pp1np1/4p3/2PP1P2/2NBP3/PPQBN1PP/R4RK1 w - - 1 11",
+  "color": "black",
+  "initialPly": 21,
+  "gameId": "prapCFTZ",
+  "lines": {
+    "e5e4": {
+      "e2g3": {
+        "e4d3": {
+          "c2d3": "win"
+        }
+      }
+    }
+  },
+  "vote": 112,
+  "enabled": true
+}

@@ -1,0 +1,24 @@
+{
+  "id": 83789,
+  "rating": 1731,
+  "attempts": 21413,
+  "fen": "r3r3/pp1qbkp1/1np1pp1p/8/2PPQ2P/1P3NB1/P4PP1/2KRR3 b - - 0 20",
+  "color": "white",
+  "initialPly": 40,
+  "gameId": "KaLFQ5hz",
+  "lines": {
+    "g3d6": {
+      "d7d6": {
+        "c4c5": {
+          "d6d5": {
+            "c5b6": {
+              "a7b6": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 323,
+  "enabled": true
+}

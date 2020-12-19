@@ -1,0 +1,28 @@
+{
+  "id": 122679,
+  "rating": 1419,
+  "attempts": 6305,
+  "fen": "1br1r1k1/1pqb1ppp/p1p3n1/8/3PR3/P2Q1N1P/1P1B1PP1/1BR3K1 w - - 1 20",
+  "color": "black",
+  "initialPly": 39,
+  "gameId": "Le3g0Xel",
+  "lines": {
+    "g6f4": {
+      "e4e8": {
+        "c8e8": {
+          "d3h7": {
+            "g8f8": {
+              "h7h8": {
+                "f8e7": {
+                  "c1e1": "win"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 65,
+  "enabled": true
+}

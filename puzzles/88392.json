@@ -1,0 +1,24 @@
+{
+  "id": 88392,
+  "rating": 1014,
+  "attempts": 904,
+  "fen": "8/1Qbk3p/2p4r/p2n2q1/P4P2/6P1/3R2K1/3R4 b - - 2 40",
+  "color": "white",
+  "initialPly": 80,
+  "gameId": "GuTbNoa5",
+  "lines": {
+    "d2d5": {
+      "c6d5": {
+        "d1d5": {
+          "f5d5": {
+            "b7d5": {
+              "d7c8": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 35,
+  "enabled": true
+}

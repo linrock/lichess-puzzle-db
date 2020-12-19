@@ -1,0 +1,24 @@
+{
+  "id": 93967,
+  "rating": 1368,
+  "attempts": 11576,
+  "fen": "2k4r/pB2qp2/Pp1p1n2/1Pp1n3/4PQ1p/2N3r1/2P3Pp/3RR2K b - - 4 27",
+  "color": "white",
+  "initialPly": 54,
+  "gameId": "ZGwissQ0",
+  "lines": {
+    "f4f6": {
+      "e7f6": {
+        "c3d5": {
+          "c7d8": {
+            "d5f6": {
+              "h4h3": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 243,
+  "enabled": true
+}

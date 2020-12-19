@@ -1,0 +1,24 @@
+{
+  "id": 84936,
+  "rating": 1469,
+  "attempts": 7324,
+  "fen": "r1b2rk1/p2p1ppp/1p2p3/q7/5Q2/2PB4/P1P2PPP/R4RK1 b - - 1 16",
+  "color": "white",
+  "initialPly": 32,
+  "gameId": "AzMAmJSf",
+  "lines": {
+    "f4e4": {
+      "f7f5": {
+        "e4a8": {
+          "c3c7": {
+            "a8f3": {
+              "f8f6": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 147,
+  "enabled": true
+}

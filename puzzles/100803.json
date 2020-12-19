@@ -1,0 +1,24 @@
+{
+  "id": 100803,
+  "rating": 2152,
+  "attempts": 6193,
+  "fen": "r4b1r/pppkp1pN/1n4Q1/4q3/3n4/8/PPPP2PP/RNBKR3 b - - 3 14",
+  "color": "white",
+  "initialPly": 28,
+  "gameId": "GRTsecMF",
+  "lines": {
+    "g6g4": {
+      "d7e8": {
+        "h7f8": {
+          "h8f8": {
+            "g4d4": {
+              "h2g2": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 54,
+  "enabled": true
+}

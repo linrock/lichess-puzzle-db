@@ -1,0 +1,23 @@
+{
+  "id": 64938,
+  "rating": 1556,
+  "attempts": 40920,
+  "fen": "r5k1/pp4pq/2b1P2p/3p1r2/1b2p3/1P2P1QP/PB4BK/2R3R1 w - - 1 31",
+  "color": "black",
+  "initialPly": 61,
+  "gameId": "VydVWzM7",
+  "lines": {
+    "d5e4": {
+      "g3g7": {
+        "h7g7": {
+          "g1g7": {
+            "g8f8": {
+              "c1g1": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": -1006
+}

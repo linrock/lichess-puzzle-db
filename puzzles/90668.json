@@ -1,0 +1,24 @@
+{
+  "id": 90668,
+  "rating": 1527,
+  "attempts": 12256,
+  "fen": "2r3k1/3q1pbp/ppbPpnp1/8/5P2/PPN2B2/1BP3PP/3Q1RK1 w - - 1 22",
+  "color": "black",
+  "initialPly": 43,
+  "gameId": "arerWPgg",
+  "lines": {
+    "c6e4": {
+      "f3e4": {
+        "f6e4": {
+          "b2g7": {
+            "g8g7": {
+              "d1d4": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 140,
+  "enabled": true
+}

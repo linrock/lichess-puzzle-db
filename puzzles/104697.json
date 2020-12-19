@@ -1,0 +1,24 @@
+{
+  "id": 104697,
+  "rating": 1647,
+  "attempts": 9194,
+  "fen": "r2q1rk1/5p2/p1b1pP1p/2pp4/6Pb/2NB1Q2/PPPR4/1K3R2 b - - 1 21",
+  "color": "white",
+  "initialPly": 42,
+  "gameId": "FTCEQMNv",
+  "lines": {
+    "d2h2": {
+      "d8f6": {
+        "f3f6": {
+          "g5f6": {
+            "f1f6": {
+              "c5c4": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 114,
+  "enabled": true
+}

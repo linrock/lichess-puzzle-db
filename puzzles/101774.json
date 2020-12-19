@@ -1,0 +1,24 @@
+{
+  "id": 101774,
+  "rating": 1750,
+  "attempts": 10297,
+  "fen": "r3b3/ppn1q2k/2p1pRpP/4P3/3P4/P1P3Q1/3K4/6R1 b - - 0 31",
+  "color": "white",
+  "initialPly": 62,
+  "gameId": "hypnOdag",
+  "lines": {
+    "f6g6": {
+      "a3b2": {
+        "d2d3": {
+          "b2b1": {
+            "g1b1": {
+              "e8g6": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 147,
+  "enabled": true
+}

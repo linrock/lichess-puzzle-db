@@ -1,0 +1,24 @@
+{
+  "id": 81619,
+  "rating": 1160,
+  "attempts": 3650,
+  "fen": "r5kr/1p1b1qp1/p1p1pb2/2PpB3/1P1P1PQ1/2N4P/P6K/R5R1 w - - 9 26",
+  "color": "black",
+  "initialPly": 51,
+  "gameId": "DRThkBuH",
+  "lines": {
+    "f6g7": {
+      "g1g7": {
+        "f7g7": {
+          "e5g7": {
+            "g8g7": {
+              "c3a4": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 52,
+  "enabled": true
+}

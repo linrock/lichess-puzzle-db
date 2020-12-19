@@ -1,0 +1,24 @@
+{
+  "id": 125066,
+  "rating": 1657,
+  "attempts": 8093,
+  "fen": "r4rk1/p5pp/4p3/2p1qp2/4b3/2P4R/P1B1Q1PP/1R4K1 w - - 0 22",
+  "color": "black",
+  "initialPly": 43,
+  "gameId": "Jober9T8",
+  "lines": {
+    "e4c2": {
+      "h5h7": {
+        "g8f7": {
+          "b1b7": {
+            "f7e8": {
+              "g1f2": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 84,
+  "enabled": true
+}

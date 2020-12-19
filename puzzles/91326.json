@@ -1,0 +1,24 @@
+{
+  "id": 91326,
+  "rating": 1914,
+  "attempts": 8685,
+  "fen": "2rq1rk1/pb1nbppp/1p2pn2/8/2BN1B2/4P2P/PP1N1PP1/2RQ1RK1 w - - 1 13",
+  "color": "black",
+  "initialPly": 25,
+  "gameId": "revzUivm",
+  "lines": {
+    "c8c1": {
+      "d1c1": {
+        "e6e5": {
+          "f4g3": {
+            "e5d4": {
+              "e3d4": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 101,
+  "enabled": true
+}

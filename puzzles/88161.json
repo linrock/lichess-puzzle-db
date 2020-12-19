@@ -1,0 +1,24 @@
+{
+  "id": 88161,
+  "rating": 1694,
+  "attempts": 13911,
+  "fen": "r3kb2/3p2p1/q2Pp3/3QP2p/1pp2P1P/6P1/PPP5/1K1RR3 w - - 0 28",
+  "color": "black",
+  "initialPly": 55,
+  "gameId": "APpmONiF",
+  "lines": {
+    "a6a2": {
+      "b1c1": {
+        "c4c3": {
+          "e4a8": {
+            "a2a8": {
+              "c1b1": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 344,
+  "enabled": true
+}

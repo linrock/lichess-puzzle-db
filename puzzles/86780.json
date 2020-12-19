@@ -1,0 +1,40 @@
+{
+  "id": 86780,
+  "rating": 2335,
+  "attempts": 3641,
+  "fen": "5k2/pp2q1pp/4P3/3p1N2/6Q1/7P/P4PPK/2r5 b - - 6 31",
+  "color": "white",
+  "initialPly": 62,
+  "gameId": "Jad7MEGA",
+  "lines": {
+    "g2g3": {
+      "c1c2": {
+        "e6e7": {
+          "f8e8": {
+            "f5g7": {
+              "e8e7": {
+                "g4e6": {
+                  "e7f8": {
+                    "e6f6": {
+                      "f8g8": {
+                        "g7e6": {
+                          "c2f2": {
+                            "f6f2": {
+                              "c7f7": "win"
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 91,
+  "enabled": true
+}

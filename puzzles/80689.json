@@ -1,0 +1,24 @@
+{
+  "id": 80689,
+  "rating": 2093,
+  "attempts": 11613,
+  "fen": "r4r2/pbp1q1k1/1p2p2p/n4p2/3P1BpP/PQP2P2/3K2P1/4RB1R w - - 3 21",
+  "color": "black",
+  "initialPly": 41,
+  "gameId": "CtWyseTg",
+  "lines": {
+    "g7h6": {
+      "e1e6": {
+        "f8f6": {
+          "e6e7": {
+            "a5b3": {
+              "d2c2": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 232,
+  "enabled": true
+}

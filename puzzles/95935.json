@@ -1,0 +1,24 @@
+{
+  "id": 95935,
+  "rating": 1273,
+  "attempts": 4907,
+  "fen": "8/p2rk3/1pR5/2p1n1N1/7p/2P1P3/P4PP1/6K1 w - - 1 43",
+  "color": "black",
+  "initialPly": 85,
+  "gameId": "UMobEdgL",
+  "lines": {
+    "d7d1": {
+      "g1h2": {
+        "e5g4": {
+          "h2h3": {
+            "g4h6": {
+              "h3h4": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 143,
+  "enabled": true
+}

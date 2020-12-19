@@ -1,0 +1,20 @@
+{
+  "id": 92053,
+  "rating": 1050,
+  "attempts": 950,
+  "fen": "3r2k1/ppp2p2/8/5N2/P2Br3/2P4P/4K3/4R3 w - - 0 28",
+  "color": "black",
+  "initialPly": 55,
+  "gameId": "FEilx6AI",
+  "lines": {
+    "e4f4": {
+      "f2g3": {
+        "f4f5": {
+          "e1e7": "win"
+        }
+      }
+    }
+  },
+  "vote": 22,
+  "enabled": true
+}

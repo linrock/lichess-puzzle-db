@@ -1,0 +1,22 @@
+{
+  "id": 100242,
+  "rating": 1561,
+  "attempts": 189745,
+  "fen": "r4rk1/5ppp/p2p4/3Nb3/4P2Q/4KR2/1pq3PP/1R6 b - - 3 25",
+  "color": "white",
+  "initialPly": 50,
+  "gameId": "dosMadQz",
+  "lines": {
+    "d5e7": {
+      "g8h8": {
+        "h4h7": {
+          "h8h7": {
+            "f3h3": "win"
+          }
+        }
+      }
+    }
+  },
+  "vote": 2227,
+  "enabled": true
+}

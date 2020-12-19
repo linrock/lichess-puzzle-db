@@ -1,0 +1,24 @@
+{
+  "id": 116746,
+  "rating": 1280,
+  "attempts": 11114,
+  "fen": "r7/p2kbppp/2p1p3/1r1n4/N2P4/1P2B3/P4PPP/2R1R1K1 w - - 1 19",
+  "color": "black",
+  "initialPly": 37,
+  "gameId": "CGRwlRit",
+  "lines": {
+    "d5c3": {
+      "c1c3": {
+        "e7b4": {
+          "e3d2": {
+            "b4c3": {
+              "d2c3": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 116,
+  "enabled": true
+}

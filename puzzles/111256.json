@@ -1,0 +1,24 @@
+{
+  "id": 111256,
+  "rating": 1292,
+  "attempts": 20890,
+  "fen": "7k/6rp/p1qp1Q2/1p6/3pP3/P2P3P/RPP3P1/6K1 w - - 3 27",
+  "color": "black",
+  "initialPly": 53,
+  "gameId": "MTWVOIJV",
+  "lines": {
+    "c6c2": {
+      "g2g4": {
+        "c2b1": {
+          "g1g2": {
+            "b1a2": {
+              "d4f6": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 87,
+  "enabled": true
+}

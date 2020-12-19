@@ -1,0 +1,24 @@
+{
+  "id": 115826,
+  "rating": 1981,
+  "attempts": 8781,
+  "fen": "r1b1kb1N/pp4pp/8/3p4/3nn2q/2N5/PPPP1PPP/R1BQ1RK1 w q - 1 11",
+  "color": "black",
+  "initialPly": 21,
+  "gameId": "ArrKNlRA",
+  "lines": {
+    "c8g4": {
+      "d3e4": {
+        "g4d1": {
+          "f1d1": {
+            "d4c2": {
+              "d1d5": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 6,
+  "enabled": true
+}

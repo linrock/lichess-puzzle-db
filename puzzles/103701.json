@@ -1,0 +1,24 @@
+{
+  "id": 103701,
+  "rating": 1807,
+  "attempts": 9110,
+  "fen": "2r1k2r/1p1b1p2/p1n2b1p/1BNpp3/8/P3PN1P/1P3PP1/2R1K2R w Kk - 0 18",
+  "color": "black",
+  "initialPly": 35,
+  "gameId": "EgkrkumT",
+  "lines": {
+    "a6b5": {
+      "b7d6": {
+        "e8e7": {
+          "d6c8": {
+            "h8c8": {
+              "f3d2": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 116,
+  "enabled": true
+}

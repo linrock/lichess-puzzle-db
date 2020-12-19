@@ -1,0 +1,24 @@
+{
+  "id": 73982,
+  "rating": 1817,
+  "attempts": 24094,
+  "fen": "8/1P6/p1N1k3/8/3P1bp1/5p2/8/5K2 b - - 0 52",
+  "color": "white",
+  "initialPly": 104,
+  "gameId": "hwjLegag",
+  "lines": {
+    "c6e5": {
+      "g4g3": {
+        "b7b8q": {
+          "g3g2": {
+            "f1f2": {
+              "f4e3": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 251,
+  "enabled": true
+}

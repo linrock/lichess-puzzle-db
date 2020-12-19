@@ -1,0 +1,26 @@
+{
+  "id": 97326,
+  "rating": 1253,
+  "attempts": 20341,
+  "fen": "2r5/Q7/2q1p2k/P7/3Pp1pp/2r1P1P1/5P1P/RR4K1 w - - 0 33",
+  "color": "black",
+  "initialPly": 65,
+  "gameId": "NYVVB71N",
+  "lines": {
+    "c3c1": {
+      "b1c1": {
+        "c6c1": {
+          "a1c1": {
+            "c8c1": {
+              "g1g2": {
+                "h4h3": "win"
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 128,
+  "enabled": true
+}

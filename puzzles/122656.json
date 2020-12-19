@@ -1,0 +1,32 @@
+{
+  "id": 122656,
+  "rating": 2936,
+  "attempts": 819,
+  "fen": "r1k1Q3/8/1p4r1/2p1p1q1/1bN1b2p/4PR1P/5RPK/8 b - - 1 40",
+  "color": "white",
+  "initialPly": 80,
+  "gameId": "Lzcmlyy1",
+  "lines": {
+    "e8d7": {
+      "b7a6": {
+        "f2a2": {
+          "b4a5": {
+            "c4a5": {
+              "g5g2": {
+                "a2g2": {
+                  "g6g2": {
+                    "h2g2": {
+                      "a6a5": "win"
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 12,
+  "enabled": true
+}

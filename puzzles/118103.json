@@ -1,0 +1,24 @@
+{
+  "id": 118103,
+  "rating": 1442,
+  "attempts": 11080,
+  "fen": "8/R3nr2/3pk2p/1p2r3/7N/2P3RP/2P2PK1/8 b - - 13 35",
+  "color": "white",
+  "initialPly": 70,
+  "gameId": "WvaNoWCg",
+  "lines": {
+    "a7e7": {
+      "e6e7": {
+        "h4g6": {
+          "e7f7": {
+            "g6f4": {
+              "e5c5": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 151,
+  "enabled": true
+}

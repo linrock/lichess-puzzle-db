@@ -1,0 +1,24 @@
+{
+  "id": 121989,
+  "rating": 2209,
+  "attempts": 4550,
+  "fen": "2rr2k1/1p3pp1/p3pb1p/3p1N1P/3P1q2/2PQ4/PPB2P2/1K4RR b - - 0 23",
+  "color": "white",
+  "initialPly": 46,
+  "gameId": "ANZ4JAzY",
+  "lines": {
+    "d3g3": {
+      "f5g5": {
+        "g3f3": {
+          "g5g1": {
+            "h1g1": {
+              "g8f8": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 72,
+  "enabled": true
+}

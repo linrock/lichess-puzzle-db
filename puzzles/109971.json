@@ -1,0 +1,32 @@
+{
+  "id": 109971,
+  "rating": 1525,
+  "attempts": 82627,
+  "fen": "8/pk6/2p4p/6p1/1PP5/4pN1P/P4nPK/3r1Q2 w - - 3 36",
+  "color": "black",
+  "initialPly": 71,
+  "gameId": "tGTExIMN",
+  "lines": {
+    "d1h1": {
+      "h2g3": {
+        "f2e4": {
+          "g3g4": {
+            "h6h5": {
+              "g4h5": {
+                "e4g3": {
+                  "h5g5": {
+                    "g3e2": {
+                      "a2a4": "win"
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 328,
+  "enabled": true
+}

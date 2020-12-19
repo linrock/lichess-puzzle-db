@@ -1,0 +1,24 @@
+{
+  "id": 68521,
+  "rating": 1732,
+  "attempts": 51959,
+  "fen": "r3r2k/1B3pp1/1p3q2/8/8/P4n2/1PQ2P1P/R4R1K b - - 1 21",
+  "color": "white",
+  "initialPly": 42,
+  "gameId": "RfaRLioS",
+  "lines": {
+    "c2c6": {
+      "f6c6": {
+        "b7c6": {
+          "e8e2": {
+            "c6f3": {
+              "e2b2": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 725,
+  "enabled": true
+}

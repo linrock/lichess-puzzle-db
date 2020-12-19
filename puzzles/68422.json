@@ -1,0 +1,27 @@
+{
+  "id": 68422,
+  "rating": 1807,
+  "attempts": 13,
+  "fen": "8/8/5k2/8/4p2p/2np4/3N1K2/4N3 w - - 0 53",
+  "color": "black",
+  "initialPly": 105,
+  "gameId": "NMoPWukk",
+  "lines": {
+    "h4h3": {
+      "e1d3": {
+        "h3h2": {
+          "d3f2": {
+            "c3d1": {
+              "f2d1": {
+                "h2h1q": {
+                  "d2e4": "win"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": -9000
+}

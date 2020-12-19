@@ -1,0 +1,26 @@
+{
+  "id": 81483,
+  "rating": 1763,
+  "attempts": 121073,
+  "fen": "8/p6r/2R5/2pPpNk1/4P1P1/P4PK1/1r6/R7 w - - 2 39",
+  "color": "black",
+  "initialPly": 77,
+  "gameId": "JYEyPsOL",
+  "lines": {
+    "b2h2": {
+      "f3f4": {
+        "e5f4": {
+          "g3f3": {
+            "h7h3": {
+              "f5g3": {
+                "h3g3": "win"
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 601,
+  "enabled": true
+}

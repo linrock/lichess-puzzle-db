@@ -1,0 +1,24 @@
+{
+  "id": 87891,
+  "rating": 1103,
+  "attempts": 1904,
+  "fen": "3r1nk1/1R1B1ppp/4p3/p1b5/2P5/q7/6PP/3QR2K w - - 1 25",
+  "color": "black",
+  "initialPly": 49,
+  "gameId": "VvTFV4Ii",
+  "lines": {
+    "d8d7": {
+      "b3a3": {
+        "d7d1": {
+          "e1d1": {
+            "c5a3": {
+              "d1d8": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 47,
+  "enabled": true
+}

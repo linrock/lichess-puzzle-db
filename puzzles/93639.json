@@ -1,0 +1,24 @@
+{
+  "id": 93639,
+  "rating": 1764,
+  "attempts": 11625,
+  "fen": "r5k1/p3p1b1/2pp1rR1/qp6/2bPP2P/2N1BP2/P1PQ4/1K3R2 w - - 1 20",
+  "color": "black",
+  "initialPly": 39,
+  "gameId": "JUbGPeet",
+  "lines": {
+    "f6g6": {
+      "g1g6": {
+        "b5b4": {
+          "g6g7": {
+            "g8g7": {
+              "d4d5": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 243,
+  "enabled": true
+}

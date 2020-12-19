@@ -1,0 +1,24 @@
+{
+  "id": 99340,
+  "rating": 1756,
+  "attempts": 11339,
+  "fen": "3rr1k1/1p1n1pp1/p1p1p1p1/5q1n/2PP4/1PQ2NP1/P2B2PP/3RR2K b - - 7 20",
+  "color": "white",
+  "initialPly": 40,
+  "gameId": "NCSCeT1q",
+  "lines": {
+    "e1e5": {
+      "f6g4": {
+        "e5f5": {
+          "g4f2": {
+            "h1g1": {
+              "f2d1": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 131,
+  "enabled": true
+}

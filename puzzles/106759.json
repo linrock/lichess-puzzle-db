@@ -1,0 +1,24 @@
+{
+  "id": 106759,
+  "rating": 2020,
+  "attempts": 83225,
+  "fen": "r4r1k/pp4pp/5p2/2PP4/1PQ1p3/P7/5PPq/R3RK2 w - - 0 24",
+  "color": "black",
+  "initialPly": 47,
+  "gameId": "LLQrOxrc",
+  "lines": {
+    "a8e8": {
+      "e4e8": {
+        "h2h1": {
+          "f1e2": {
+            "f8e8": {
+              "e2d2": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 290,
+  "enabled": true
+}

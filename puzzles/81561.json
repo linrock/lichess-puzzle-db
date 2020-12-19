@@ -1,0 +1,24 @@
+{
+  "id": 81561,
+  "rating": 878,
+  "attempts": 855,
+  "fen": "2k4r/1pp3p1/p7/2b5/2B1bPp1/3PR3/PP4P1/R5K1 w - - 1 27",
+  "color": "black",
+  "initialPly": 53,
+  "gameId": "gioZExZz",
+  "lines": {
+    "c5e3": {
+      "g1f1": {
+        "h8h1": {
+          "f1e2": {
+            "h1a1": {
+              "e2e3": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 24,
+  "enabled": true
+}

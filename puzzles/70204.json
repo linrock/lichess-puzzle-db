@@ -1,0 +1,24 @@
+{
+  "id": 70204,
+  "rating": 1248,
+  "attempts": 22645,
+  "fen": "r1b2rk1/pp4pp/2n1p3/3p4/5N2/2PB1N2/PP3nPP/R3R1K1 w - - 0 18",
+  "color": "black",
+  "initialPly": 35,
+  "gameId": "HMxmpdgA",
+  "lines": {
+    "f2d3": {
+      "e6f8": {
+        "d3e1": {
+          "a1e1": {
+            "g8f8": {
+              "f3e5": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 274,
+  "enabled": true
+}

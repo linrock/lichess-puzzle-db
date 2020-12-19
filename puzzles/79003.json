@@ -1,0 +1,20 @@
+{
+  "id": 79003,
+  "rating": 1051,
+  "attempts": 1744,
+  "fen": "r1b1k2r/pp1n1ppp/1q1bpn2/3pN3/2pP1B2/2P1P3/PPQN1PPP/R3KB1R b KQkq - 3 9",
+  "color": "white",
+  "initialPly": 18,
+  "gameId": "Tcsvrorv",
+  "lines": {
+    "d4e5": {
+      "d6e7": {
+        "e5f6": {
+          "e7f6": "win"
+        }
+      }
+    }
+  },
+  "vote": 49,
+  "enabled": true
+}

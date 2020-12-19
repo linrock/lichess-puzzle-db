@@ -1,0 +1,24 @@
+{
+  "id": 93714,
+  "rating": 2276,
+  "attempts": 3681,
+  "fen": "4r2k/p5pp/3pr3/1Q6/2P5/1Pq1p2P/P2R1PP1/3R2K1 w - - 0 26",
+  "color": "black",
+  "initialPly": 51,
+  "gameId": "sdagp7r8",
+  "lines": {
+    "c3e3": {
+      "g1h1": {
+        "e3f4": {
+          "b5e8": {
+            "e6e8": {
+              "d2d6": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 80,
+  "enabled": true
+}

@@ -1,0 +1,24 @@
+{
+  "id": 112400,
+  "rating": 1749,
+  "attempts": 8294,
+  "fen": "3r2k1/1p3rpp/1q5b/p1PP4/P2N1p1Q/1P4PK/1B5P/5R2 b - - 0 29",
+  "color": "white",
+  "initialPly": 58,
+  "gameId": "CXMVLkMA",
+  "lines": {
+    "d4e6": {
+      "c7e7": {
+        "h4e7": {
+          "f7e7": {
+            "e6d8": {
+              "e7d7": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 180,
+  "enabled": true
+}

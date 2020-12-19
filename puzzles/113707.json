@@ -1,0 +1,24 @@
+{
+  "id": 113707,
+  "rating": 2903,
+  "attempts": 202,
+  "fen": "2r1kbnr/p2q4/Q1n1pp2/1B1p1bp1/3P4/2N1PN2/PP3KPP/2R4R b k - 1 15",
+  "color": "white",
+  "initialPly": 30,
+  "gameId": "cSELYGZw",
+  "lines": {
+    "c3e4": {
+      "d5e4": {
+        "c1c6": {
+          "e8f7": {
+            "c6c8": {
+              "d7e7": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 0,
+  "enabled": true
+}

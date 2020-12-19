@@ -1,0 +1,20 @@
+{
+  "id": 123858,
+  "rating": 1025,
+  "attempts": 263,
+  "fen": "r3k3/4ppb1/pqppb3/6Q1/4P1P1/3N2P1/PPP1B1P1/2K4R b q - 0 21",
+  "color": "white",
+  "initialPly": 42,
+  "gameId": "IrDtvTss",
+  "lines": {
+    "g5g8": {
+      "e8d7": {
+        "g8a8": {
+          "e6c4": "win"
+        }
+      }
+    }
+  },
+  "vote": 8,
+  "enabled": true
+}

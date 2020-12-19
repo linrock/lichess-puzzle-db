@@ -1,0 +1,24 @@
+{
+  "id": 96491,
+  "rating": 1415,
+  "attempts": 6148,
+  "fen": "2r2rk1/p2R1pp1/b1p4p/2n1N3/8/1BP1P3/P1P4P/2K4R w - - 5 25",
+  "color": "black",
+  "initialPly": 49,
+  "gameId": "WEeWLTi4",
+  "lines": {
+    "c5b3": {
+      "c2b3": {
+        "f8f7": {
+          "e5f7": {
+            "g8f7": {
+              "h1g1": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 136,
+  "enabled": true
+}

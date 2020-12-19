@@ -1,0 +1,24 @@
+{
+  "id": 93510,
+  "rating": 1973,
+  "attempts": 8650,
+  "fen": "k6r/pp4pp/2nQ1n2/5B2/3P4/2P1N1P1/PP3q2/2KR4 w - - 0 22",
+  "color": "black",
+  "initialPly": 43,
+  "gameId": "Zi4HyOSY",
+  "lines": {
+    "f6d5": {
+      "d6d5": {
+        "c6e7": {
+          "d5e5": {
+            "e7f5": {
+              "d1d3": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 246,
+  "enabled": true
+}

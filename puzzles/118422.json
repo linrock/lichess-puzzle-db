@@ -1,0 +1,24 @@
+{
+  "id": 118422,
+  "rating": 1696,
+  "attempts": 9206,
+  "fen": "3Q4/5pkp/6p1/4p3/2p5/4qPP1/rP2P2P/3R1K2 w - - 5 31",
+  "color": "black",
+  "initialPly": 61,
+  "gameId": "GRGa6GfI",
+  "lines": {
+    "e3d2": {
+      "d1d2": {
+        "c4c3": {
+          "b2c3": {
+            "a2d2": {
+              "c3c4": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 214,
+  "enabled": true
+}

@@ -1,0 +1,24 @@
+{
+  "id": 65289,
+  "rating": 1449,
+  "attempts": 99314,
+  "fen": "8/8/pR1p1kn1/P2Pp1b1/4P1P1/5Bp1/1Pr5/4B1K1 w - - 0 42",
+  "color": "black",
+  "initialPly": 83,
+  "gameId": "sFRHBSOP",
+  "lines": {
+    "g5e3": {
+      "g1f1": {
+        "e3b6": {
+          "a5b6": {
+            "c2b2": {
+              "g3e1": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 971,
+  "enabled": true
+}

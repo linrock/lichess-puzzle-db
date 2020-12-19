@@ -1,0 +1,32 @@
+{
+  "id": 71955,
+  "rating": 2169,
+  "attempts": 15914,
+  "fen": "1r3rk1/p1q1np2/4p1p1/3pP1Pp/1ppNPP2/2P4P/PPQ5/2KR2R1 w - - 0 25",
+  "color": "black",
+  "initialPly": 49,
+  "gameId": "kAzZGNYM",
+  "lines": {
+    "e7d5": {
+      "d4e6": {
+        "f7e6": {
+          "c2g6": {
+            "g8h8": {
+              "g6h5": {
+                "c7h7": {
+                  "h5h7": {
+                    "h8h7": {
+                      "c3b4": "win"
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": -71,
+  "enabled": true
+}

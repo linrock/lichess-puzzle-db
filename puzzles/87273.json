@@ -1,0 +1,24 @@
+{
+  "id": 87273,
+  "rating": 1128,
+  "attempts": 7579,
+  "fen": "3r2k1/pp3p2/2p3p1/5Q2/8/2P5/PPKbr1R1/8 w - - 2 36",
+  "color": "black",
+  "initialPly": 71,
+  "gameId": "ZGtaGOSp",
+  "lines": {
+    "f7g6": {
+      "f5g6": {
+        "g8f8": {
+          "g6f6": {
+            "f8e8": {
+              "f6f3": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 108,
+  "enabled": true
+}

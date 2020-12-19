@@ -1,0 +1,28 @@
+{
+  "id": 68218,
+  "rating": 1635,
+  "attempts": 73669,
+  "fen": "4k2r/pp4b1/2p1Ppn1/8/2NR4/2P5/PP4P1/6K1 b k - 0 23",
+  "color": "white",
+  "initialPly": 46,
+  "gameId": "Q35krdwf",
+  "lines": {
+    "c4d6": {
+      "e8f8": {
+        "e6e7": {
+          "f8e7": {
+            "d6f5": {
+              "e7e6": {
+                "f5h4": {
+                  "g6e5": "win"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 1111,
+  "enabled": true
+}

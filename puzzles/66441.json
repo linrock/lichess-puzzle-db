@@ -1,0 +1,28 @@
+{
+  "id": 66441,
+  "rating": 1489,
+  "attempts": 58280,
+  "fen": "1n6/3P2rk/1pP3p1/1Pq3Pp/5p1P/5b2/Q3N1K1/3R4 w - - 0 36",
+  "color": "black",
+  "initialPly": 71,
+  "gameId": "d1MdsPon",
+  "lines": {
+    "c5e3": {
+      "f3g2": {
+        "f4f3": {
+          "g2h1": {
+            "f3e2": {
+              "a2e2": {
+                "e3e2": {
+                  "d7d8q": "win"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 653,
+  "enabled": true
+}

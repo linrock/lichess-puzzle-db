@@ -1,0 +1,24 @@
+{
+  "id": 122190,
+  "rating": 1899,
+  "attempts": 6775,
+  "fen": "4r1k1/2p1rp2/bp1p1qpp/pNnPn3/2PN4/1P5P/P1BQ1PP1/2R1R1K1 b - - 8 21",
+  "color": "white",
+  "initialPly": 42,
+  "gameId": "TrbT75Cv",
+  "lines": {
+    "e1e7": {
+      "e8e7": {
+        "c2d3": {
+          "a6b5": {
+            "d4b5": {
+              "g8g7": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 119,
+  "enabled": true
+}

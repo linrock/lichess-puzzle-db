@@ -1,0 +1,24 @@
+{
+  "id": 115365,
+  "rating": 1904,
+  "attempts": 11388,
+  "fen": "5rk1/5pp1/ppP4p/2p2q2/P1B1N1n1/1Q4b1/1P2RPP1/5K2 b - - 2 25",
+  "color": "white",
+  "initialPly": 50,
+  "gameId": "TNtikVMy",
+  "lines": {
+    "f1g1": {
+      "g3c7": {
+        "e4g3": {
+          "f5f6": {
+            "g1h2": {
+              "f6c6": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": -306,
+  "enabled": true
+}

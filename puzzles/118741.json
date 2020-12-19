@@ -1,0 +1,24 @@
+{
+  "id": 118741,
+  "rating": 924,
+  "attempts": 3872,
+  "fen": "1r3k2/4p3/7Q/3bP3/3q2P1/Pp6/1R5K/3B4 b - - 2 40",
+  "color": "white",
+  "initialPly": 80,
+  "gameId": "MozZoXNZ",
+  "lines": {
+    "h6h8": {
+      "d5g8": {
+        "h8g8": {
+          "e8d7": {
+            "g8b8": {
+              "d4b2": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 38,
+  "enabled": true
+}

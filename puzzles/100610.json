@@ -1,0 +1,20 @@
+{
+  "id": 100610,
+  "rating": 836,
+  "attempts": 148,
+  "fen": "8/8/1N3k1p/4p1pB/1b2P1P1/4P3/5K1P/3b4 b - - 7 49",
+  "color": "white",
+  "initialPly": 98,
+  "gameId": "GVDbmPpc",
+  "lines": {
+    "b6d7": {
+      "f6e6": {
+        "d7c5": {
+          "e6f6": "win"
+        }
+      }
+    }
+  },
+  "vote": 3,
+  "enabled": true
+}

@@ -1,0 +1,28 @@
+{
+  "id": 91023,
+  "rating": 2052,
+  "attempts": 8230,
+  "fen": "7k/7p/6p1/1B1b4/1P3RP1/7P/1r5K/8 w - - 3 39",
+  "color": "black",
+  "initialPly": 77,
+  "gameId": "BhcOW92W",
+  "lines": {
+    "b2g2": {
+      "g3h4": {
+        "h7h6": {
+          "b5c4": {
+            "g6g5": {
+              "h4h5": {
+                "g5f4": {
+                  "c4d5": "win"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 167,
+  "enabled": true
+}

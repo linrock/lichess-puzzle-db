@@ -1,0 +1,20 @@
+{
+  "id": 120400,
+  "rating": 1301,
+  "attempts": 3338,
+  "fen": "2rqkb1r/pp2pppp/2np1n2/8/Q2PP1b1/5N2/PP1N1PPP/R1B1KB1R b KQk - 4 8",
+  "color": "white",
+  "initialPly": 16,
+  "gameId": "WVRew23F",
+  "lines": {
+    "d4d5": {
+      "g4d7": {
+        "d5c6": {
+          "d7c6": "win"
+        }
+      }
+    }
+  },
+  "vote": 38,
+  "enabled": true
+}

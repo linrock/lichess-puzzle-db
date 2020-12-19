@@ -1,0 +1,28 @@
+{
+  "id": 89472,
+  "rating": 1892,
+  "attempts": 33275,
+  "fen": "2r2rk1/1b2bpp1/pq3n1p/1p1p4/3N1B2/P1NQP2P/1P3PP1/2RR2K1 b - - 0 18",
+  "color": "white",
+  "initialPly": 36,
+  "gameId": "PZMbtkDB",
+  "lines": {
+    "d4f5": {
+      "d6f4": {
+        "f5e7": {
+          "g8h8": {
+            "e7c8": {
+              "f8c8": {
+                "e3f4": {
+                  "c8c4": "win"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 333,
+  "enabled": true
+}

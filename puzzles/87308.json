@@ -1,0 +1,24 @@
+{
+  "id": 87308,
+  "rating": 1130,
+  "attempts": 1657,
+  "fen": "r2qr1k1/pp3p1p/6p1/4b3/6b1/2PB4/PPQ3PP/R1B2RK1 w - - 0 16",
+  "color": "black",
+  "initialPly": 31,
+  "gameId": "MK65DNMM",
+  "lines": {
+    "d8b6": {
+      "c2f2": {
+        "b6b5": {
+          "f2f7": {
+            "g8h8": {
+              "c1f4": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 59,
+  "enabled": true
+}

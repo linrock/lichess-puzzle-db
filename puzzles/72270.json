@@ -1,0 +1,24 @@
+{
+  "id": 72270,
+  "rating": 1393,
+  "attempts": 16216,
+  "fen": "r2q1rk1/pp1nbpp1/5np1/3Pp3/4N3/1P4P1/P4PBP/R1BQ1RK1 b - - 0 14",
+  "color": "white",
+  "initialPly": 28,
+  "gameId": "AigewEYs",
+  "lines": {
+    "d5d6": {
+      "f6e4": {
+        "d6e7": {
+          "d8e7": {
+            "g2e4": {
+              "f8d8": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 261,
+  "enabled": true
+}

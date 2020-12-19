@@ -1,0 +1,22 @@
+{
+  "id": 114128,
+  "rating": 1555,
+  "attempts": 186488,
+  "fen": "5rk1/3Q3p/6p1/B2p1p2/3bbP2/P7/1q4PP/R5RK w - - 2 30",
+  "color": "black",
+  "initialPly": 59,
+  "gameId": "SASMVKMJ",
+  "lines": {
+    "e4g2": {
+      "g1g2": {
+        "b2a1": {
+          "g2g1": {
+            "a1g1": "win"
+          }
+        }
+      }
+    }
+  },
+  "vote": 1820,
+  "enabled": true
+}

@@ -1,0 +1,28 @@
+{
+  "id": 103917,
+  "rating": 1975,
+  "attempts": 7660,
+  "fen": "2r2rk1/4ppbp/3pbnp1/q7/1p1BP3/1PN5/P2QBPPP/2RR2K1 w - - 0 17",
+  "color": "black",
+  "initialPly": 33,
+  "gameId": "BPIDxS5s",
+  "lines": {
+    "b4c3": {
+      "c1c3": {
+        "c8c3": {
+          "d2c3": {
+            "a5c3": {
+              "f6c3": {
+                "g7c3": {
+                  "d1c1": "win"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 164,
+  "enabled": true
+}

@@ -1,0 +1,20 @@
+{
+  "id": 105424,
+  "rating": 1127,
+  "attempts": 1460,
+  "fen": "r5r1/2p1kp1p/pb1p1p2/1p1Pn3/4P3/2N4P/PP1B1PP1/R4RK1 w - - 5 18",
+  "color": "black",
+  "initialPly": 35,
+  "gameId": "czMafiw3",
+  "lines": {
+    "e5f3": {
+      "g1h1": {
+        "f3d2": {
+          "g2g4": "win"
+        }
+      }
+    }
+  },
+  "vote": 55,
+  "enabled": true
+}

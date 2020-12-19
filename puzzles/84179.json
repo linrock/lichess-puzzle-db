@@ -1,0 +1,24 @@
+{
+  "id": 84179,
+  "rating": 855,
+  "attempts": 590,
+  "fen": "6k1/4pp1p/6p1/p7/6P1/4BP2/2bR1K1P/r7 b - - 4 29",
+  "color": "white",
+  "initialPly": 58,
+  "gameId": "YvMssl79",
+  "lines": {
+    "d2d8": {
+      "g8g7": {
+        "e3d4": {
+          "f7f6": {
+            "d4a1": {
+              "h7h5": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 15,
+  "enabled": true
+}

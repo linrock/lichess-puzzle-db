@@ -1,0 +1,24 @@
+{
+  "id": 78063,
+  "rating": 2053,
+  "attempts": 12842,
+  "fen": "rn1r2k1/pp3ppp/6b1/2b3N1/4p1PP/1B6/PPP2P2/R1B2RK1 b - - 0 16",
+  "color": "white",
+  "initialPly": 32,
+  "gameId": "WlorvPHU",
+  "lines": {
+    "h4h5": {
+      "g6h5": {
+        "g5e4": {
+          "h5g4": {
+            "e4c5": {
+              "b7b6": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 331,
+  "enabled": true
+}

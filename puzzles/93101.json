@@ -1,0 +1,28 @@
+{
+  "id": 93101,
+  "rating": 1561,
+  "attempts": 12631,
+  "fen": "2r2rk1/1p2nppp/8/q3p2N/3p4/P1P4R/5PPP/1R1Q2K1 w - - 0 25",
+  "color": "black",
+  "initialPly": 49,
+  "gameId": "PSFQe49o",
+  "lines": {
+    "g7f6": {
+      "d1h5": {
+        "f8d8": {
+          "h5h7": {
+            "g8f8": {
+              "h7h6": {
+                "f8e8": {
+                  "c3d4": "win"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 264,
+  "enabled": true
+}

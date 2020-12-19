@@ -1,0 +1,24 @@
+{
+  "id": 66524,
+  "rating": 1145,
+  "attempts": 11558,
+  "fen": "2k3r1/pp3pR1/5P1p/2p1p2P/4r3/4P3/P1PR4/5K2 b - - 0 29",
+  "color": "white",
+  "initialPly": 58,
+  "gameId": "7MwRFTRs",
+  "lines": {
+    "f6g7": {
+      "e4g4": {
+        "d2g2": {
+          "g4g7": {
+            "g2g7": {
+              "a7a6": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 211,
+  "enabled": true
+}

@@ -1,0 +1,24 @@
+{
+  "id": 80747,
+  "rating": 1975,
+  "attempts": 11896,
+  "fen": "r4rk1/pp3ppp/2n5/2bb4/5B2/1P3N2/P1P3PP/RN3R1K w - - 1 14",
+  "color": "black",
+  "initialPly": 27,
+  "gameId": "mZISCmlM",
+  "lines": {
+    "d5f3": {
+      "f1f3": {
+        "c6d4": {
+          "b1c3": {
+            "d4f3": {
+              "g2f3": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 247,
+  "enabled": true
+}

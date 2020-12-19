@@ -1,0 +1,24 @@
+{
+  "id": 81999,
+  "rating": 2100,
+  "attempts": 9790,
+  "fen": "3r4/6kp/1p1P2p1/3Bbp2/bB6/7P/P2R1PP1/6K1 b - - 9 33",
+  "color": "white",
+  "initialPly": 66,
+  "gameId": "Keu99Bic",
+  "lines": {
+    "d5b3": {
+      "a4b3": {
+        "b4d6": {
+          "d8d6": {
+            "d2d6": {
+              "b3a2": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 266,
+  "enabled": true
+}

@@ -1,0 +1,24 @@
+{
+  "id": 72420,
+  "rating": 1130,
+  "attempts": 6444,
+  "fen": "r2r2k1/5p1p/pp3Q2/2qp4/P7/2PRnP2/2P1N1PP/5R1K b - - 0 22",
+  "color": "white",
+  "initialPly": 44,
+  "gameId": "U65d1apK",
+  "lines": {
+    "f6g5": {
+      "d6g6": {
+        "g5e3": {
+          "c5e3": {
+            "d3e3": {
+              "g6c6": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 113,
+  "enabled": true
+}

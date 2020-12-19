@@ -1,0 +1,28 @@
+{
+  "id": 81194,
+  "rating": 2370,
+  "attempts": 5641,
+  "fen": "1k1r1b1r/pp6/2n3qp/3P1pp1/2B1p3/P3B3/1P3PPP/2RQ1RK1 b - - 0 18",
+  "color": "white",
+  "initialPly": 36,
+  "gameId": "NjGidRi1",
+  "lines": {
+    "d1d4": {
+      "e5c6": {
+        "d4h8": {
+          "f8g7": {
+            "h8g7": {
+              "g6g7": {
+                "d5c6": {
+                  "b7c6": "win"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 83,
+  "enabled": true
+}

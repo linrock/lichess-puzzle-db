@@ -1,0 +1,20 @@
+{
+  "id": 121895,
+  "rating": 880,
+  "attempts": 83,
+  "fen": "r2q1rk1/pp1bnppp/4p3/4P3/8/2NB1Q2/PP4PP/R4RK1 w - - 0 16",
+  "color": "black",
+  "initialPly": 31,
+  "gameId": "TCDrsxun",
+  "lines": {
+    "g8h7": {
+      "f3h5": {
+        "h7g8": {
+          "f1f3": "win"
+        }
+      }
+    }
+  },
+  "vote": 1,
+  "enabled": true
+}

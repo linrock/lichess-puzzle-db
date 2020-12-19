@@ -1,0 +1,24 @@
+{
+  "id": 122922,
+  "rating": 1942,
+  "attempts": 11810,
+  "fen": "5rk1/5ppp/3R4/6PP/1Qp1PP2/5q2/r1B4R/2K5 w - - 0 30",
+  "color": "black",
+  "initialPly": 59,
+  "gameId": "wTDOql29",
+  "lines": {
+    "c4c3": {
+      "c1b1": {
+        "a2b2": {
+          "b4b2": {
+            "c3b2": {
+              "d6d3": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 167,
+  "enabled": true
+}

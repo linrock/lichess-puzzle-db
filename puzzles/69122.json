@@ -1,0 +1,24 @@
+{
+  "id": 69122,
+  "rating": 849,
+  "attempts": 1994,
+  "fen": "5rk1/p2b1ppp/p7/2bn4/1r3B2/1P3N1P/P1N2PP1/3R1RK1 b - - 6 17",
+  "color": "white",
+  "initialPly": 34,
+  "gameId": "LjqXntlw",
+  "lines": {
+    "d1d5": {
+      "d7b5": {
+        "d5c5": {
+          "b5f1": {
+            "g1f1": {
+              "h7h6": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 18,
+  "enabled": true
+}

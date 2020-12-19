@@ -1,0 +1,24 @@
+{
+  "id": 104173,
+  "rating": 1674,
+  "attempts": 9181,
+  "fen": "r4r1k/ppn1p1bp/4P1p1/2p3B1/N1Ppq3/1P3N1P/P2Q1PP1/4R1K1 b - - 1 20",
+  "color": "white",
+  "initialPly": 40,
+  "gameId": "nUWMvSIZ",
+  "lines": {
+    "f3h4": {
+      "f5f2": {
+        "d2f2": {
+          "f8f2": {
+            "g1f2": {
+              "b7b6": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 206,
+  "enabled": true
+}

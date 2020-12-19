@@ -1,0 +1,28 @@
+{
+  "id": 125140,
+  "rating": 2354,
+  "attempts": 6077,
+  "fen": "3r2k1/pp5p/2pN4/4pb1q/2P3n1/1P4P1/P2Q3P/2BR1B1K w - - 2 29",
+  "color": "black",
+  "initialPly": 57,
+  "gameId": "xPftpnDo",
+  "lines": {
+    "d8d6": {
+      "d1e1": {
+        "d6d1": {
+          "e1d1": {
+            "f5e4": {
+              "h1g1": {
+                "e4g2": {
+                  "g1g2": "win"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 90,
+  "enabled": true
+}

@@ -1,0 +1,24 @@
+{
+  "id": 82426,
+  "rating": 1101,
+  "attempts": 20210,
+  "fen": "2r2rk1/3R1p1p/p3p1p1/P1P5/8/2b2PBP/6PK/3R4 w - - 1 33",
+  "color": "black",
+  "initialPly": 65,
+  "gameId": "ttdLan3R",
+  "lines": {
+    "c8c7": {
+      "d7c7": {
+        "c3e5": {
+          "g2g3": {
+            "e5c7": {
+              "d1d7": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 65,
+  "enabled": true
+}

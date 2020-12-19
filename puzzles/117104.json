@@ -1,0 +1,28 @@
+{
+  "id": 117104,
+  "rating": 1322,
+  "attempts": 11415,
+  "fen": "8/1b4pk/1p4p1/p7/2R5/P6r/5R2/6K1 w - - 0 47",
+  "color": "black",
+  "initialPly": 93,
+  "gameId": "LHoXwDSL",
+  "lines": {
+    "h3h1": {
+      "g1f2": {
+        "h1h2": {
+          "f2e3": {
+            "h2b2": {
+              "c4h4": {
+                "h7g8": {
+                  "h4g4": "win"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 106,
+  "enabled": true
+}

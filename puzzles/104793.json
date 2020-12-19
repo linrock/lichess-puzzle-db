@@ -1,0 +1,24 @@
+{
+  "id": 104793,
+  "rating": 1741,
+  "attempts": 15529,
+  "fen": "4k2r/4pp1p/2bp2pn/r7/pq6/2N1P3/1PPQBPPP/R4RK1 b k - 1 16",
+  "color": "white",
+  "initialPly": 32,
+  "gameId": "ZuGxgr46",
+  "lines": {
+    "e3e4": {
+      "f7f6": {
+        "h2h4": {
+          "g5a5": {
+            "d2h6": {
+              "e8f7": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 204,
+  "enabled": true
+}

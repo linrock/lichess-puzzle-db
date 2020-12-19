@@ -1,0 +1,24 @@
+{
+  "id": 86947,
+  "rating": 2525,
+  "attempts": 3395,
+  "fen": "5r2/2R2pkp/p2pp1p1/1b6/3NP1N1/7P/1r1b1PP1/R5K1 b - - 3 32",
+  "color": "white",
+  "initialPly": 64,
+  "gameId": "TBZPasIA",
+  "lines": {
+    "d4e6": {
+      "g7h8": {
+        "g4f6": {
+          "d2c3": {
+            "e6f8": {
+              "c3f6": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": -17,
+  "enabled": true
+}

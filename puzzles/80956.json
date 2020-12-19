@@ -1,0 +1,24 @@
+{
+  "id": 80956,
+  "rating": 1547,
+  "attempts": 115508,
+  "fen": "3r2k1/r4pb1/p3n1bp/3N2p1/2BP4/R4NP1/5PP1/3R2K1 b - - 4 26",
+  "color": "white",
+  "initialPly": 52,
+  "gameId": "BF5Pcau2",
+  "lines": {
+    "d5e7": {
+      "g8f8": {
+        "e7c6": {
+          "a7a8": {
+            "c6d8": {
+              "a8d8": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 494,
+  "enabled": true
+}

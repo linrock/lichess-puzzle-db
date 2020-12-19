@@ -1,0 +1,28 @@
+{
+  "id": 119969,
+  "rating": 2049,
+  "attempts": 7260,
+  "fen": "r2q1rk1/p1p2ppp/2pb4/2n2b2/P1B5/2N1B3/1PP2PPP/R2QR1K1 b - - 3 13",
+  "color": "white",
+  "initialPly": 26,
+  "gameId": "RHMSGqje",
+  "lines": {
+    "e3c5": {
+      "d6c5": {
+        "d1d8": {
+          "f8d8": {
+            "e1e5": {
+              "c5f2": {
+                "g1f2": {
+                  "f5c2": "win"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 141,
+  "enabled": true
+}

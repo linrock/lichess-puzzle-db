@@ -1,0 +1,24 @@
+{
+  "id": 108500,
+  "rating": 1176,
+  "attempts": 5129,
+  "fen": "r4r1k/3R3p/p2R1p2/1pp4N/2P1p2P/1P2n3/1P4PK/8 w - - 0 36",
+  "color": "black",
+  "initialPly": 71,
+  "gameId": "QUzl298i",
+  "lines": {
+    "f8f6": {
+      "d6f6": {
+        "e3g4": {
+          "h2g1": {
+            "g4f6": {
+              "d7f7": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 70,
+  "enabled": true
+}

@@ -1,0 +1,24 @@
+{
+  "id": 93161,
+  "rating": 2091,
+  "attempts": 6200,
+  "fen": "7r/QN6/2p2qk1/3p2p1/4p1b1/P4nP1/1PP1B2r/2K1RR2 b - - 8 42",
+  "color": "white",
+  "initialPly": 84,
+  "gameId": "JJubTuGB",
+  "lines": {
+    "f1h1": {
+      "f3e1": {
+        "h1h8": {
+          "f6h8": {
+            "e2g4": {
+              "e1f3": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": -7,
+  "enabled": true
+}

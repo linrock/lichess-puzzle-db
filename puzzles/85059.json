@@ -1,0 +1,28 @@
+{
+  "id": 85059,
+  "rating": 1508,
+  "attempts": 11588,
+  "fen": "1r6/p1pqb1pk/2nr2p1/3N2Pn/2P5/3BB2P/PP4Q1/R4RK1 w - - 3 27",
+  "color": "black",
+  "initialPly": 53,
+  "gameId": "ckmETlLB",
+  "lines": {
+    "d6d5": {
+      "d3g6": {
+        "h7g6": {
+          "g2e4": {
+            "d5f5": {
+              "f1f5": {
+                "d7f5": {
+                  "e4c6": "win"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 139,
+  "enabled": true
+}

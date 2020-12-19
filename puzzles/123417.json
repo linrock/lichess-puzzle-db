@@ -1,0 +1,20 @@
+{
+  "id": 123417,
+  "rating": 1502,
+  "attempts": 6130,
+  "fen": "6k1/p1q1rpbp/bp4p1/3np3/P1PpPn2/1Q5P/1P3PPB/1BR1R1K1 w - - 0 25",
+  "color": "black",
+  "initialPly": 49,
+  "gameId": "LWDUX23v",
+  "lines": {
+    "f4e2": {
+      "g1h1": {
+        "e2c1": {
+          "b3a3": "win"
+        }
+      }
+    }
+  },
+  "vote": 100,
+  "enabled": true
+}

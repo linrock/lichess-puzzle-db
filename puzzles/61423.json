@@ -1,0 +1,23 @@
+{
+  "id": 61423,
+  "rating": 2233,
+  "attempts": 1012,
+  "fen": "5rk1/pp2q2p/3b2p1/2pPp3/2P1B3/1P4Pb/PBQ4P/4R1K1 w - - 0 29",
+  "color": "black",
+  "initialPly": 57,
+  "gameId": "vy0805gS",
+  "lines": {
+    "h7g6": {
+      "c2g6": {
+        "e7g7": {
+          "g6g7": {
+            "g8g7": {
+              "b2c1": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": -26
+}

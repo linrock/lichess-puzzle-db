@@ -1,0 +1,24 @@
+{
+  "id": 107835,
+  "rating": 1113,
+  "attempts": 971,
+  "fen": "3r4/1p2kp2/1p2p1p1/1b6/8/P7/1PP1pRPP/4R1K1 w - - 5 25",
+  "color": "black",
+  "initialPly": 49,
+  "gameId": "EGAnZ7x4",
+  "lines": {
+    "d8d1": {
+      "f2e2": {
+        "b5e2": {
+          "e1d1": {
+            "e2d1": {
+              "c2c3": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 32,
+  "enabled": true
+}

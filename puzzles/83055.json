@@ -1,0 +1,24 @@
+{
+  "id": 83055,
+  "rating": 2212,
+  "attempts": 9690,
+  "fen": "3r1k2/p2q3p/2nbp1p1/3p1p2/Q1pP1P1B/2P1PB2/PR4PP/6K1 b - - 4 22",
+  "color": "white",
+  "initialPly": 44,
+  "gameId": "MaiwkT7g",
+  "lines": {
+    "f3d1": {
+      "d4e2": {
+        "b2e2": {
+          "d7a4": {
+            "d1a4": {
+              "d8b8": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 321,
+  "enabled": true
+}

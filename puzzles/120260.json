@@ -1,0 +1,20 @@
+{
+  "id": 120260,
+  "rating": 1033,
+  "attempts": 1116,
+  "fen": "8/5p1p/P1Pkn1p1/1B1pp3/1p4P1/8/5P1P/4K3 b - - 0 37",
+  "color": "white",
+  "initialPly": 74,
+  "gameId": "NUCBUfhU",
+  "lines": {
+    "a6a7": {
+      "d4b5": {
+        "a7a8q": {
+          "b4b3": "win"
+        }
+      }
+    }
+  },
+  "vote": 23,
+  "enabled": true
+}

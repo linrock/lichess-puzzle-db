@@ -1,0 +1,24 @@
+{
+  "id": 106752,
+  "rating": 1786,
+  "attempts": 31272,
+  "fen": "1q1r2k1/1rb3p1/4p2p/pNPpPp2/P2Pn2P/B4Q2/6P1/1R3RK1 w - f6 0 26",
+  "color": "black",
+  "initialPly": 51,
+  "gameId": "ZmogsOMv",
+  "lines": {
+    "c7h2": {
+      "g1h1": {
+        "e4g3": {
+          "h1h2": {
+            "g3f1": {
+              "h2g1": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 192,
+  "enabled": true
+}

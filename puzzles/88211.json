@@ -1,0 +1,28 @@
+{
+  "id": 88211,
+  "rating": 2394,
+  "attempts": 3172,
+  "fen": "2kr3r/1p6/pP1pnq2/7p/2P2pnR/2BP1NP1/5PK1/2RQ4 b - - 1 24",
+  "color": "white",
+  "initialPly": 48,
+  "gameId": "Ma83fvbL",
+  "lines": {
+    "c4c5": {
+      "f4g3": {
+        "c5d6": {
+          "f6f3": {
+            "d1f3": {
+              "e5f3": {
+                "c3h8": {
+                  "c8d7": "win"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 58,
+  "enabled": true
+}

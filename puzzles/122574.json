@@ -1,0 +1,44 @@
+{
+  "id": 122574,
+  "rating": 2916,
+  "attempts": 17,
+  "fen": "8/8/K7/P4kp1/1P5p/5r1P/4p3/4R3 b - - 1 51",
+  "color": "white",
+  "initialPly": 102,
+  "gameId": "NDRtQktB",
+  "lines": {
+    "b4b5": {
+      "f5e4": {
+        "b5b6": {
+          "e4f3": {
+            "a6b5": {
+              "g5g4": {
+                "a5a6": {
+                  "f3f2": {
+                    "e1e2": {
+                      "e3e2": {
+                        "a6a7": {
+                          "g4g3": {
+                            "a7a8q": {
+                              "g3g2": {
+                                "a8f8": {
+                                  "f2g1": "win"
+                                }
+                              }
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 1,
+  "enabled": true
+}

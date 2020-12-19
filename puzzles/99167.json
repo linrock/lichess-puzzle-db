@@ -1,0 +1,44 @@
+{
+  "id": 99167,
+  "rating": 2327,
+  "attempts": 2977,
+  "fen": "6rr/p2bk1b1/2ppnnQ1/6B1/2p1P3/2N5/PPP3P1/5RK1 b - - 4 21",
+  "color": "white",
+  "initialPly": 42,
+  "gameId": "ikovkFSF",
+  "lines": {
+    "e4e5": {
+      "d6e5": {
+        "c3e4": {
+          "d7e8": {
+            "g6f5": {
+              "e6g5": {
+                "f5g5": {
+                  "h8h5": {
+                    "g5g7": {
+                      "f8f7": {
+                        "g7g6": {
+                          "h5h1": {
+                            "g1h1": {
+                              "f7h7": {
+                                "g6h7": {
+                                  "f6h7": "win"
+                                }
+                              }
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 34,
+  "enabled": true
+}

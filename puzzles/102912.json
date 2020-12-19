@@ -1,0 +1,28 @@
+{
+  "id": 102912,
+  "rating": 1562,
+  "attempts": 53682,
+  "fen": "r3r1k1/pp2qbp1/2p2pBp/3p3n/3P1P2/2N1PR2/PPQ3PP/4R1K1 b - - 2 18",
+  "color": "white",
+  "initialPly": 36,
+  "gameId": "AfxhpiGo",
+  "lines": {
+    "c2g6": {
+      "e7f7": {
+        "g6f7": {
+          "g8f7": {
+            "g2g4": {
+              "h5f4": {
+                "f3f4": {
+                  "a8d8": "win"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 268,
+  "enabled": true
+}

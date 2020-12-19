@@ -1,0 +1,24 @@
+{
+  "id": 80058,
+  "rating": 1675,
+  "attempts": 14957,
+  "fen": "r2qr1k1/1pp2ppp/p2p4/2n1P3/2b2PP1/2P1BQ1P/P1B2R2/R5K1 b - - 0 19",
+  "color": "white",
+  "initialPly": 38,
+  "gameId": "773ovpvx",
+  "lines": {
+    "e3c5": {
+      "d6c5": {
+        "f3e4": {
+          "e7h4": {
+            "e4c4": {
+              "h4h3": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 292,
+  "enabled": true
+}

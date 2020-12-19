@@ -1,0 +1,31 @@
+{
+  "id": 67769,
+  "rating": 2073,
+  "attempts": 20,
+  "fen": "8/7p/5kp1/2NP4/6r1/3K4/7P/8 b - - 0 52",
+  "color": "white",
+  "initialPly": 104,
+  "gameId": "ticvl2Sl",
+  "lines": {
+    "c5e4": {
+      "f6f5": {
+        "d5d6": {
+          "g5h5": {
+            "d6d7": {
+              "f5e6": {
+                "d7d8q": {
+                  "h5d5": {
+                    "d8d5": {
+                      "e6d5": "win"
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": -9000
+}

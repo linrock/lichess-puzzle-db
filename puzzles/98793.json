@@ -1,0 +1,24 @@
+{
+  "id": 98793,
+  "rating": 1360,
+  "attempts": 52986,
+  "fen": "7k/p1p2R2/N1b3pp/8/1P6/7P/P1P1r1PK/8 w - - 1 35",
+  "color": "black",
+  "initialPly": 69,
+  "gameId": "MncTseux",
+  "lines": {
+    "e2g2": {
+      "g3f4": {
+        "g2f2": {
+          "f4e5": {
+            "f2f7": {
+              "h3h4": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 138,
+  "enabled": true
+}

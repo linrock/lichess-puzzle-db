@@ -1,0 +1,28 @@
+{
+  "id": 86854,
+  "rating": 2181,
+  "attempts": 6931,
+  "fen": "5rk1/pp3p1p/4n1p1/2r3P1/2q1P2P/Q4P2/1PP5/2KR2NR w - - 2 21",
+  "color": "black",
+  "initialPly": 41,
+  "gameId": "XCceCXSD",
+  "lines": {
+    "c4a4": {
+      "c2c3": {
+        "f8d8": {
+          "d3d8": {
+            "e6d8": {
+              "d1d8": {
+                "g8g7": {
+                  "c1d2": "win"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 107,
+  "enabled": true
+}

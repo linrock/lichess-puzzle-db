@@ -1,0 +1,24 @@
+{
+  "id": 70055,
+  "rating": 1098,
+  "attempts": 9917,
+  "fen": "r3kb1r/pp1q1ppp/4p3/2p1P3/2P1n3/8/PP1P2PP/RNBQ1RK1 w kq - 1 11",
+  "color": "black",
+  "initialPly": 21,
+  "gameId": "ByzHaXAW",
+  "lines": {
+    "d7d4": {
+      "g1h1": {
+        "e4f2": {
+          "f1f2": {
+            "d4f2": {
+              "d1a4": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 121,
+  "enabled": true
+}

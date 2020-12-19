@@ -1,0 +1,24 @@
+{
+  "id": 79667,
+  "rating": 1561,
+  "attempts": 109968,
+  "fen": "3r4/4npkp/4b1p1/2q5/ppPr2N1/PP2QP2/2P3PP/R3R2K b - - 0 27",
+  "color": "white",
+  "initialPly": 54,
+  "gameId": "LIRicgfW",
+  "lines": {
+    "e3h6": {
+      "g7h8": {
+        "g4f6": {
+          "d4h4": {
+            "h6h4": {
+              "h8g7": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 523,
+  "enabled": true
+}

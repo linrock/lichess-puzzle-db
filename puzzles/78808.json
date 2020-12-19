@@ -1,0 +1,36 @@
+{
+  "id": 78808,
+  "rating": 1998,
+  "attempts": 12934,
+  "fen": "7k/pp3r1p/1bp2pn1/5R1P/4P3/1qP3Q1/6P1/5R1K b - - 0 33",
+  "color": "white",
+  "initialPly": 66,
+  "gameId": "DCpL9Foi",
+  "lines": {
+    "f5e5": {
+      "f6e5": {
+        "g3e5": {
+          "h8g8": {
+            "e5e8": {
+              "g8g7": {
+                "h5h6": {
+                  "g7h6": {
+                    "e8f7": {
+                      "b3f7": {
+                        "f1f7": {
+                          "h6g6": "win"
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 369,
+  "enabled": true
+}

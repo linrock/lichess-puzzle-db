@@ -1,0 +1,32 @@
+{
+  "id": 65442,
+  "rating": 897,
+  "attempts": 6451,
+  "fen": "8/1p5k/1p1p3P/pP1Pp1K1/P1P5/8/8/8 w - - 1 51",
+  "color": "black",
+  "initialPly": 101,
+  "gameId": "CbGxsGa5",
+  "lines": {
+    "h7h6": {
+      "f5e6": {
+        "e5e4": {
+          "e6d6": {
+            "e4e3": {
+              "d6c7": {
+                "e3e2": {
+                  "d5d6": {
+                    "e2e1q": {
+                      "d6d7": "win"
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 124,
+  "enabled": true
+}

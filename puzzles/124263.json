@@ -1,0 +1,28 @@
+{
+  "id": 124263,
+  "rating": 2901,
+  "attempts": 449,
+  "fen": "r4rk1/pp5p/4b1p1/2ppPp2/2P1n3/P2BqP2/1BQ3PP/R4R1K b - - 1 19",
+  "color": "white",
+  "initialPly": 38,
+  "gameId": "EkkkDPwo",
+  "lines": {
+    "d3c4": {
+      "e4g5": {
+        "f3f4": {
+          "e3e4": {
+            "c4d3": {
+              "e4d5": {
+                "f4g5": {
+                  "f8d8": "win"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 6,
+  "enabled": true
+}

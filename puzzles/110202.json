@@ -1,0 +1,20 @@
+{
+  "id": 110202,
+  "rating": 1270,
+  "attempts": 35765,
+  "fen": "1k1r2nr/pp4pp/2pb1q2/8/2Q5/5N2/PP3PPP/R1B2RK1 b - - 6 16",
+  "color": "white",
+  "initialPly": 32,
+  "gameId": "JELDzCnO",
+  "lines": {
+    "c1g5": {
+      "f6f5": {
+        "g5d8": {
+          "h8d8": "win"
+        }
+      }
+    }
+  },
+  "vote": 90,
+  "enabled": true
+}

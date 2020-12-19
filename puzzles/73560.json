@@ -1,0 +1,20 @@
+{
+  "id": 73560,
+  "rating": 806,
+  "attempts": 614,
+  "fen": "rnb2rk1/1pq1bpp1/p2p3p/4p2P/3NP3/2N1QP2/PPP3P1/2KR1B1R w - - 0 14",
+  "color": "black",
+  "initialPly": 27,
+  "gameId": "AwzieNW8",
+  "lines": {
+    "e7g5": {
+      "e3g5": {
+        "h6g5": {
+          "c3d5": "win"
+        }
+      }
+    }
+  },
+  "vote": 15,
+  "enabled": true
+}

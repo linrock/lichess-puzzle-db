@@ -1,0 +1,28 @@
+{
+  "id": 93012,
+  "rating": 2378,
+  "attempts": 3032,
+  "fen": "8/1P6/1q1P3k/4p2p/8/4P3/P5p1/3R2K1 b - - 0 42",
+  "color": "white",
+  "initialPly": 84,
+  "gameId": "zm68RPs7",
+  "lines": {
+    "d6d7": {
+      "b7f3": {
+        "d7d8q": {
+          "f3e3": {
+            "g1h2": {
+              "g2g1b": {
+                "d1g1": {
+                  "e3f4": "win"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 7,
+  "enabled": true
+}

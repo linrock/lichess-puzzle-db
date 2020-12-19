@@ -1,0 +1,28 @@
+{
+  "id": 76788,
+  "rating": 1833,
+  "attempts": 125602,
+  "fen": "2R5/5pk1/3r4/r4pK1/5P2/6PR/8/8 w - - 2 39",
+  "color": "black",
+  "initialPly": 77,
+  "gameId": "DKfixqFF",
+  "lines": {
+    "d6g6": {
+      "g5h4": {
+        "a5a1": {
+          "h4h3": {
+            "a1h1": {
+              "h3g2": {
+                "h1h5": {
+                  "c8c3": "win"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 569,
+  "enabled": true
+}

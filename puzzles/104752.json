@@ -1,0 +1,24 @@
+{
+  "id": 104752,
+  "rating": 1296,
+  "attempts": 9740,
+  "fen": "r2qk2r/3n1p1p/4p1p1/1Qp5/4N3/1P3P2/1R1P1P1P/5RK1 b k - 3 20",
+  "color": "white",
+  "initialPly": 40,
+  "gameId": "pdrSX17W",
+  "lines": {
+    "b5d7": {
+      "d8d7": {
+        "e4f6": {
+          "g8g7": {
+            "f6d7": {
+              "f8d8": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 107,
+  "enabled": true
+}

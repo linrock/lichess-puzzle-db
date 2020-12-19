@@ -1,0 +1,24 @@
+{
+  "id": 124486,
+  "rating": 1315,
+  "attempts": 2755,
+  "fen": "5k2/R7/2p1n3/2nb1ppp/8/3pKPP1/3N3P/5B2 w - - 0 38",
+  "color": "black",
+  "initialPly": 75,
+  "gameId": "SPpfbdhs",
+  "lines": {
+    "f5f4": {
+      "g3f4": {
+        "g5f4": {
+          "e3f2": {
+            "c5d3": {
+              "f2f1": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 42,
+  "enabled": true
+}

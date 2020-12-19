@@ -1,0 +1,28 @@
+{
+  "id": 88801,
+  "rating": 1776,
+  "attempts": 34465,
+  "fen": "3r2k1/2pr1ppp/ppn1p3/3nP3/5P2/1NPR2PP/PP4B1/3R3K b - - 4 23",
+  "color": "white",
+  "initialPly": 46,
+  "gameId": "StpIBggp",
+  "lines": {
+    "c3c4": {
+      "d5c3": {
+        "d3d7": {
+          "c3d1": {
+            "g2c6": {
+              "d8d7": {
+                "c6d7": {
+                  "d1b2": "win"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 432,
+  "enabled": true
+}

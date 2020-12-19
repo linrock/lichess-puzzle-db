@@ -1,0 +1,28 @@
+{
+  "id": 81336,
+  "rating": 2021,
+  "attempts": 14664,
+  "fen": "r1b1r1k1/p3pp1p/2p5/1p6/4NnPp/1B3R2/PPP2P2/1K5R b - - 1 22",
+  "color": "white",
+  "initialPly": 44,
+  "gameId": "nAlewOaX",
+  "lines": {
+    "e4f6": {
+      "g8f8": {
+        "f6e8": {
+          "c8g4": {
+            "f3f4": {
+              "e5f4": {
+                "e8f6": {
+                  "g4f5": "win"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 171,
+  "enabled": true
+}

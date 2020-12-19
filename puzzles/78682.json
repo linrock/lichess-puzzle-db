@@ -1,0 +1,24 @@
+{
+  "id": 78682,
+  "rating": 767,
+  "attempts": 410,
+  "fen": "3r2k1/p3b2p/1q2p1p1/5p2/2R5/1P2BP2/P3Q1PP/7K b - - 0 45",
+  "color": "white",
+  "initialPly": 90,
+  "gameId": "CQmejeuW",
+  "lines": {
+    "e2e3": {
+      "d8d1": {
+        "e3g1": {
+          "d1g1": {
+            "h1g1": {
+              "e7f6": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 18,
+  "enabled": true
+}

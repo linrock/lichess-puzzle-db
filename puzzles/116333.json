@@ -1,0 +1,24 @@
+{
+  "id": 116333,
+  "rating": 1854,
+  "attempts": 11376,
+  "fen": "5rk1/5rp1/6R1/p3RpQ1/8/6PP/1P3PK1/3q4 w - - 3 39",
+  "color": "black",
+  "initialPly": 77,
+  "gameId": "VGZdSVEM",
+  "lines": {
+    "d1d5": {
+      "f2f3": {
+        "d5f5": {
+          "g5f5": {
+            "f7f5": {
+              "g6b6": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 301,
+  "enabled": true
+}

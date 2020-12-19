@@ -1,0 +1,28 @@
+{
+  "id": 83108,
+  "rating": 2252,
+  "attempts": 6752,
+  "fen": "2r5/2N1kr2/p5Q1/1p1p2P1/8/2q5/P4PK1/4R3 b - - 4 42",
+  "color": "white",
+  "initialPly": 84,
+  "gameId": "WFNLMUCg",
+  "lines": {
+    "c7e6": {
+      "f8e7": {
+        "e1e3": {
+          "f7f2": {
+            "g2f2": {
+              "c3c2": {
+                "g6c2": {
+                  "c8c2": "win"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 56,
+  "enabled": true
+}

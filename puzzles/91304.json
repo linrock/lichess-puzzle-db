@@ -1,0 +1,20 @@
+{
+  "id": 91304,
+  "rating": 698,
+  "attempts": 91,
+  "fen": "4r3/p4pp1/N1pk3p/3p4/3Pn3/4P1P1/P4PP1/1R3K2 w - - 3 32",
+  "color": "black",
+  "initialPly": 63,
+  "gameId": "CiTcABM9",
+  "lines": {
+    "e4c3": {
+      "e2d2": {
+        "c3b1": {
+          "d2c2": "win"
+        }
+      }
+    }
+  },
+  "vote": 3,
+  "enabled": true
+}

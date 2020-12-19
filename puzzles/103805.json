@@ -1,0 +1,20 @@
+{
+  "id": 103805,
+  "rating": 1400,
+  "attempts": 19708,
+  "fen": "r4rk1/1pqb1ppp/p1p5/4b1Q1/3BN1n1/1BP5/PP3PP1/R3RK2 w - - 6 23",
+  "color": "black",
+  "initialPly": 45,
+  "gameId": "AMvNnaca",
+  "lines": {
+    "e5f6": {
+      "d4f6": {
+        "g4f6": {
+          "g5e5": "win"
+        }
+      }
+    }
+  },
+  "vote": 118,
+  "enabled": true
+}

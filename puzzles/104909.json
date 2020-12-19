@@ -1,0 +1,24 @@
+{
+  "id": 104909,
+  "rating": 1406,
+  "attempts": 52010,
+  "fen": "r5k1/5p2/b2p1Rp1/1Bpr4/6P1/8/q5P1/R4QK1 b - - 1 27",
+  "color": "white",
+  "initialPly": 54,
+  "gameId": "D66LnGeU",
+  "lines": {
+    "a1a2": {
+      "b5f1": {
+        "a2a8": {
+          "g8g7": {
+            "f6f1": {
+              "g7h6": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 104,
+  "enabled": true
+}

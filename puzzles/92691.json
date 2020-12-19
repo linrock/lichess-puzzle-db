@@ -1,0 +1,24 @@
+{
+  "id": 92691,
+  "rating": 1272,
+  "attempts": 4248,
+  "fen": "2r5/3b1pbk/R2B2p1/4n2p/4P2q/4NP2/1rPQB1P1/5RK1 w - - 0 23",
+  "color": "black",
+  "initialPly": 45,
+  "gameId": "ApMvcVDC",
+  "lines": {
+    "g7e5": {
+      "f3f4": {
+        "e5f4": {
+          "f1f4": {
+            "h4f4": {
+              "e2d1": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 18,
+  "enabled": true
+}

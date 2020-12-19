@@ -1,0 +1,20 @@
+{
+  "id": 67005,
+  "rating": 945,
+  "attempts": 8370,
+  "fen": "4r1k1/1p5p/1Q1p2p1/8/1PP1q2P/p5P1/P7/2R3K1 w - - 0 32",
+  "color": "black",
+  "initialPly": 63,
+  "gameId": "PDEsbrEd",
+  "lines": {
+    "e4e3": {
+      "g1g2": {
+        "e3c1": {
+          "d6d5": "win"
+        }
+      }
+    }
+  },
+  "vote": 90,
+  "enabled": true
+}

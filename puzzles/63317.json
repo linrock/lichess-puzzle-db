@@ -1,0 +1,24 @@
+{
+  "id": 63317,
+  "rating": 1996,
+  "attempts": 113529,
+  "fen": "2r3k1/pp1b4/4p1q1/4B3/3P2p1/6R1/P2Q2P1/6K1 w - - 0 31",
+  "color": "black",
+  "initialPly": 61,
+  "gameId": "ToaNejlg",
+  "lines": {
+    "c8c1": {
+      "g1f2": {
+        "c1c2": {
+          "e2c2": {
+            "g6c2": {
+              "f2g1": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 2010,
+  "enabled": true
+}

@@ -1,0 +1,24 @@
+{
+  "id": 68986,
+  "rating": 1477,
+  "attempts": 35606,
+  "fen": "1r3rk1/p4pbp/2q2np1/N1pb4/1P6/8/BB3PPP/R2QR1K1 b - - 3 23",
+  "color": "white",
+  "initialPly": 46,
+  "gameId": "WRyKAEn2",
+  "lines": {
+    "b2f6": {
+      "d5a2": {
+        "f6g7": {
+          "g8g7": {
+            "a1a2": {
+              "c5b4": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 360,
+  "enabled": true
+}

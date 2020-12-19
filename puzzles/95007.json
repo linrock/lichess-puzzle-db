@@ -1,0 +1,24 @@
+{
+  "id": 95007,
+  "rating": 2013,
+  "attempts": 8352,
+  "fen": "2qRr1k1/p3ppbp/1p4p1/2p1N3/2P2P2/1P2QBPb/P4P2/4R1K1 b - - 0 24",
+  "color": "white",
+  "initialPly": 48,
+  "gameId": "Mw0KVl21",
+  "lines": {
+    "e5c6": {
+      "g7f6": {
+        "c6d8": {
+          "c8d8": {
+            "g3g4": {
+              "e7e6": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 122,
+  "enabled": true
+}

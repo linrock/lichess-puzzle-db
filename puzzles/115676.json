@@ -1,0 +1,24 @@
+{
+  "id": 115676,
+  "rating": 1952,
+  "attempts": 8710,
+  "fen": "1r4k1/4p2p/1r1p1pp1/2pPb3/2q1P3/2N2PP1/PPQ1R1KP/R7 w - - 3 26",
+  "color": "black",
+  "initialPly": 51,
+  "gameId": "VYNjEOAX",
+  "lines": {
+    "c4c2": {
+      "e2c2": {
+        "b6b4": {
+          "a1c1": {
+            "b4a4": {
+              "b2b3": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 118,
+  "enabled": true
+}

@@ -1,0 +1,35 @@
+{
+  "id": 71200,
+  "rating": 1968,
+  "attempts": 1525,
+  "fen": "8/2p5/7p/3KR1rP/2P4k/8/8/8 w - - 4 45",
+  "color": "black",
+  "initialPly": 89,
+  "gameId": "KcpY8ovG",
+  "lines": {
+    "h4h5": {
+      "e5g5": {
+        "h6g5": {
+          "d5c6": {
+            "g5g4": {
+              "c6c7": {
+                "g4g3": {
+                  "c5c6": {
+                    "g3g2": {
+                      "c7b7": {
+                        "g2g1q": {
+                          "c6c7": "win"
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": -9000
+}

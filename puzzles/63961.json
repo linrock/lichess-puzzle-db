@@ -1,0 +1,28 @@
+{
+  "id": 63961,
+  "rating": 1870,
+  "attempts": 97948,
+  "fen": "4r1k1/pp3p1p/4p1b1/8/3r4/3B2P1/PP3RPP/3R2K1 w - - 0 22",
+  "color": "black",
+  "initialPly": 43,
+  "gameId": "9680GtXb",
+  "lines": {
+    "e8d8": {
+      "g1f2": {
+        "d4d3": {
+          "d2d3": {
+            "d8d3": {
+              "d1d3": {
+                "g6d3": {
+                  "g3g4": "win"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 688,
+  "enabled": true
+}

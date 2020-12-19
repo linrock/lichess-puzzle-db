@@ -1,0 +1,24 @@
+{
+  "id": 79634,
+  "rating": 1399,
+  "attempts": 89312,
+  "fen": "2k4r/pp1r1pp1/2p4p/2PnP3/8/7P/P2B1PP1/2RR2K1 w - - 1 22",
+  "color": "black",
+  "initialPly": 43,
+  "gameId": "TJdGWcCo",
+  "lines": {
+    "d5c3": {
+      "d1d7": {
+        "c3e2": {
+          "g1f1": {
+            "e2c1": {
+              "d7f7": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 300,
+  "enabled": true
+}

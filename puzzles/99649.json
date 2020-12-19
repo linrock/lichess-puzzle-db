@@ -1,0 +1,24 @@
+{
+  "id": 99649,
+  "rating": 2245,
+  "attempts": 4439,
+  "fen": "3R4/1kp5/1p6/2b5/2r5/1p4P1/7P/R6K w - - 0 43",
+  "color": "black",
+  "initialPly": 85,
+  "gameId": "UKCi3Eo0",
+  "lines": {
+    "c5e3": {
+      "d2b2": {
+        "e3d4": {
+          "b2b3": {
+            "d4a1": {
+              "b3b1": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 82,
+  "enabled": true
+}

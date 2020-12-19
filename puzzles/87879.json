@@ -1,0 +1,26 @@
+{
+  "id": 87879,
+  "rating": 1892,
+  "attempts": 156430,
+  "fen": "8/1Rbr2kp/8/p3p3/P1N1nn1N/2P5/5PPP/5RK1 w - - 0 28",
+  "color": "black",
+  "initialPly": 55,
+  "gameId": "JEFiT1Ow",
+  "lines": {
+    "f4e2": {
+      "g1h1": {
+        "e4f2": {
+          "f1f2": {
+            "d7d1": {
+              "f2f1": {
+                "d1f1": "win"
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 2538,
+  "enabled": true
+}

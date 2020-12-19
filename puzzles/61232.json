@@ -1,0 +1,24 @@
+{
+  "id": 61232,
+  "rating": 2231,
+  "attempts": 384184,
+  "fen": "r1bq1rk1/3nbppp/p3pn2/1p1p4/3P4/2NBPN2/PP1B1PPP/2RQK2R w K - 0 12",
+  "color": "black",
+  "initialPly": 23,
+  "gameId": "OSGSGUl1",
+  "lines": {
+    "b5b4": {
+      "c3d5": {
+        "e6d5": {
+          "e4e5": {
+            "f6e4": {
+              "d2e3": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 4876,
+  "enabled": true
+}

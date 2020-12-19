@@ -1,0 +1,24 @@
+{
+  "id": 62869,
+  "rating": 911,
+  "attempts": 26728,
+  "fen": "4B3/1p5p/5p2/1P2kp2/2b1p2P/1r2P1P1/5PK1/2R5 b - - 2 36",
+  "color": "white",
+  "initialPly": 72,
+  "gameId": "Itbm72WG",
+  "lines": {
+    "c1c5": {
+      "e5d6": {
+        "c5b5": {
+          "b3b5": {
+            "e8b5": {
+              "h7h6": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 396,
+  "enabled": true
+}

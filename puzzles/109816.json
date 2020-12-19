@@ -1,0 +1,24 @@
+{
+  "id": 109816,
+  "rating": 1934,
+  "attempts": 6657,
+  "fen": "2b3k1/R4ppp/5n2/3p4/2P5/8/3N1PPP/2r2BK1 b - - 0 25",
+  "color": "white",
+  "initialPly": 50,
+  "gameId": "XAhThuBG",
+  "lines": {
+    "a7a8": {
+      "e8d6": {
+        "d2b3": {
+          "c1c4": {
+            "f1c4": {
+              "d5c4": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 85,
+  "enabled": true
+}

@@ -1,0 +1,32 @@
+{
+  "id": 112137,
+  "rating": 1694,
+  "attempts": 8156,
+  "fen": "2rq2k1/4prbp/3p4/6B1/1nPPB1n1/1p3N2/1P3PP1/1QKR3R w - - 0 22",
+  "color": "black",
+  "initialPly": 43,
+  "gameId": "mTSivG18",
+  "lines": {
+    "b4d5": {
+      "b1h7": {
+        "g8f8": {
+          "h7h8": {
+            "g7h8": {
+              "h1h8": {
+                "f8g7": {
+                  "h8d8": {
+                    "c8d8": {
+                      "c4d5": "win"
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 102,
+  "enabled": true
+}

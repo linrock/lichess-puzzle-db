@@ -1,0 +1,32 @@
+{
+  "id": 111955,
+  "rating": 1405,
+  "attempts": 54055,
+  "fen": "2kr3r/pp4p1/2n1pbp1/8/1P2p2P/P7/R1P1PPB1/2B1K2R w K - 2 18",
+  "color": "black",
+  "initialPly": 35,
+  "gameId": "ZIKLlKpU",
+  "lines": {
+    "f6c3": {
+      "e1f1": {
+        "d8d1": {
+          "f1g2": {
+            "d1h1": {
+              "g2h1": {
+                "h8h4": {
+                  "h1g1": {
+                    "h4e4": {
+                      "c1e3": "win"
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 206,
+  "enabled": true
+}

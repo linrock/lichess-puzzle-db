@@ -1,0 +1,24 @@
+{
+  "id": 98135,
+  "rating": 1909,
+  "attempts": 16992,
+  "fen": "r4rk1/pp3ppp/1qnb1n2/2pP3b/3P4/1P2BN1P/P3BPP1/RN1Q1RK1 b - - 0 12",
+  "color": "white",
+  "initialPly": 24,
+  "gameId": "FoxNEXH9",
+  "lines": {
+    "d4c5": {
+      "d5e3": {
+        "d1d6": {
+          "b6a5": {
+            "f2e3": {
+              "a8d8": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 263,
+  "enabled": true
+}

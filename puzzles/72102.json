@@ -1,0 +1,24 @@
+{
+  "id": 72102,
+  "rating": 1295,
+  "attempts": 8296,
+  "fen": "r2r4/1p3pp1/pk6/7p/1P2Nnb1/P4B2/5PPP/2R2RK1 w - - 1 25",
+  "color": "black",
+  "initialPly": 49,
+  "gameId": "TOBTnznj",
+  "lines": {
+    "g4f3": {
+      "g2f3": {
+        "f4e2": {
+          "g1g2": {
+            "e2c1": {
+              "f1c1": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 152,
+  "enabled": true
+}

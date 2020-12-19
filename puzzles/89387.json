@@ -1,0 +1,24 @@
+{
+  "id": 89387,
+  "rating": 1918,
+  "attempts": 11648,
+  "fen": "r5k1/pp3q2/2b1p2Q/3p4/8/6P1/PPP2P2/1K2R3 b - - 0 25",
+  "color": "white",
+  "initialPly": 50,
+  "gameId": "enspvNpC",
+  "lines": {
+    "e1e5": {
+      "f7g7": {
+        "e5g5": {
+          "g7g5": {
+            "h6g5": {
+              "g8f7": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 266,
+  "enabled": true
+}

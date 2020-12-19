@@ -1,0 +1,28 @@
+{
+  "id": 119897,
+  "rating": 1203,
+  "attempts": 5686,
+  "fen": "r4k2/3n4/p4pB1/1p1b2p1/2pP4/P1P3B1/1P4P1/4R1K1 b - - 5 38",
+  "color": "white",
+  "initialPly": 76,
+  "gameId": "G71mmMwU",
+  "lines": {
+    "g3d6": {
+      "f8g7": {
+        "g6f7": {
+          "g7f7": {
+            "e1e7": {
+              "f7g6": {
+                "e7d7": {
+                  "g5g4": "win"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 101,
+  "enabled": true
+}

@@ -1,0 +1,28 @@
+{
+  "id": 103255,
+  "rating": 1434,
+  "attempts": 42666,
+  "fen": "r1bq1rk1/1pp2pp1/pbnp1n1p/8/PPBNP3/2P1B3/5PPP/RN1QR1K1 b - - 1 11",
+  "color": "white",
+  "initialPly": 22,
+  "gameId": "YNVDczks",
+  "lines": {
+    "d4c6": {
+      "b7c6": {
+        "e3b6": {
+          "c7b6": {
+            "e1e4": {
+              "d6d5": {
+                "e4d4": {
+                  "c8e6": "win"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 300,
+  "enabled": true
+}

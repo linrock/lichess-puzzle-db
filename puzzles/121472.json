@@ -1,0 +1,24 @@
+{
+  "id": 121472,
+  "rating": 2198,
+  "attempts": 5026,
+  "fen": "5Q2/2b3pk/p1r4p/1p1q4/1P6/P3p2R/4B3/4NK2 w - - 8 45",
+  "color": "black",
+  "initialPly": 89,
+  "gameId": "XFvyR10z",
+  "lines": {
+    "e3e2": {
+      "f3e2": {
+        "c6f6": {
+          "f8f6": {
+            "g7f6": {
+              "h3f3": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 61,
+  "enabled": true
+}

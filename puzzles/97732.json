@@ -1,0 +1,24 @@
+{
+  "id": 97732,
+  "rating": 1577,
+  "attempts": 9867,
+  "fen": "8/1p1Pk3/pN6/P3pB2/4P3/6rp/8/5K2 w - - 4 55",
+  "color": "black",
+  "initialPly": 109,
+  "gameId": "HrswlTtd",
+  "lines": {
+    "e7d8": {
+      "f1f2": {
+        "h3h2": {
+          "f2g3": {
+            "h2h1q": {
+              "d5f6": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 236,
+  "enabled": true
+}

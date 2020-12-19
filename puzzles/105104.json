@@ -1,0 +1,20 @@
+{
+  "id": 105104,
+  "rating": 1393,
+  "attempts": 5302,
+  "fen": "1kr3r1/1b2bp1p/pB1pp3/1p4Pp/2q1P2P/1N3P2/PPP2Q2/2KR3R w - - 11 22",
+  "color": "black",
+  "initialPly": 43,
+  "gameId": "TCMQApfw",
+  "lines": {
+    "c4d3": {
+      "c1b1": {
+        "d3c4": {
+          "b3a5": "win"
+        }
+      }
+    }
+  },
+  "vote": 100,
+  "enabled": true
+}

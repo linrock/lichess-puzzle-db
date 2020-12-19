@@ -1,0 +1,24 @@
+{
+  "id": 68851,
+  "rating": 1451,
+  "attempts": 32415,
+  "fen": "2r2rk1/pp3pbp/2q3p1/8/2Ppn3/6P1/PP1B1PBP/2RQ1RK1 b - - 1 16",
+  "color": "white",
+  "initialPly": 32,
+  "gameId": "pyCsCXDG",
+  "lines": {
+    "f1e1": {
+      "f7f5": {
+        "f2f3": {
+          "d4d3": {
+            "f3e4": {
+              "f5f4": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 334,
+  "enabled": true
+}

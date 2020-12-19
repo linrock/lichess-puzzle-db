@@ -1,0 +1,28 @@
+{
+  "id": 112892,
+  "rating": 1933,
+  "attempts": 7348,
+  "fen": "6k1/ppp2ppp/5q2/3Pr3/2Pn1PP1/3P4/P2Q3P/4R1K1 w - - 0 25",
+  "color": "black",
+  "initialPly": 49,
+  "gameId": "szsHELmT",
+  "lines": {
+    "f6e5": {
+      "f4e5": {
+        "d4f3": {
+          "g1f2": {
+            "f3d2": {
+              "f2e2": {
+                "d2b1": {
+                  "e2e3": "win"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 156,
+  "enabled": true
+}

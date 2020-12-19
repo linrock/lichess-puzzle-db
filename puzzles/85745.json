@@ -1,0 +1,24 @@
+{
+  "id": 85745,
+  "rating": 1876,
+  "attempts": 13347,
+  "fen": "r4rk1/1b2qpp1/p3pn1p/1p6/2pP3Q/2N1P3/PP3PPP/1BR2RK1 w - - 0 18",
+  "color": "black",
+  "initialPly": 35,
+  "gameId": "BBV6DrAP",
+  "lines": {
+    "b7e4": {
+      "b1e4": {
+        "g7g5": {
+          "h4h6": {
+            "f6e4": {
+              "f2f3": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 259,
+  "enabled": true
+}

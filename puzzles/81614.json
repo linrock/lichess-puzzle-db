@@ -1,0 +1,24 @@
+{
+  "id": 81614,
+  "rating": 2027,
+  "attempts": 11162,
+  "fen": "3r1rk1/pp2pp1p/6pb/4Pb2/5P2/1qN1Q1P1/1PP4P/1K1RN2R b - - 1 22",
+  "color": "white",
+  "initialPly": 44,
+  "gameId": "JS66s6rY",
+  "lines": {
+    "d1d8": {
+      "f8d8": {
+        "g3g4": {
+          "f5c2": {
+            "e1c2": {
+              "g7f8": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 222,
+  "enabled": true
+}

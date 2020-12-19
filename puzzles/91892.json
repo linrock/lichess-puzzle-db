@@ -1,0 +1,24 @@
+{
+  "id": 91892,
+  "rating": 2445,
+  "attempts": 2248,
+  "fen": "r4k2/p4pbp/1p1N2p1/3p4/7P/2P3P1/PP2RP2/6K1 w - - 0 25",
+  "color": "black",
+  "initialPly": 49,
+  "gameId": "tMgTVH2L",
+  "lines": {
+    "a7a6": {
+      "e2d2": {
+        "f8e7": {
+          "d6f7": {
+            "e7f7": {
+              "d2d5": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 67,
+  "enabled": true
+}

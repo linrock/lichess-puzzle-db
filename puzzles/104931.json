@@ -1,0 +1,24 @@
+{
+  "id": 104931,
+  "rating": 1648,
+  "attempts": 78412,
+  "fen": "8/p1R2pkp/3pp1p1/P5N1/3Pp1n1/4P1P1/1r3P1P/4K3 b - - 1 30",
+  "color": "white",
+  "initialPly": 60,
+  "gameId": "61DoxNXH",
+  "lines": {
+    "h2h3": {
+      "f2f5": {
+        "g5e6": {
+          "g7f6": {
+            "h3g4": {
+              "f5a5": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 243,
+  "enabled": true
+}

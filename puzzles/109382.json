@@ -1,0 +1,24 @@
+{
+  "id": 109382,
+  "rating": 1792,
+  "attempts": 7533,
+  "fen": "r6k/2pqb1pp/p2p4/1p2nr1Q/5p2/2PP3P/PPB2PP1/R1B1R1K1 w - - 0 19",
+  "color": "black",
+  "initialPly": 37,
+  "gameId": "KEMN59ia",
+  "lines": {
+    "f4f3": {
+      "e2e4": {
+        "d6d5": {
+          "e4e5": {
+            "f5e5": {
+              "e1e5": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 78,
+  "enabled": true
+}

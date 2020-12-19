@@ -1,0 +1,24 @@
+{
+  "id": 64817,
+  "rating": 1982,
+  "attempts": 63367,
+  "fen": "rn2r1k1/pp4pp/2q2n2/2b1p1N1/8/2N3B1/PP2QPPP/R4RK1 b - - 1 15",
+  "color": "white",
+  "initialPly": 30,
+  "gameId": "nadftyKY",
+  "lines": {
+    "e2c4": {
+      "f6d5": {
+        "c4d5": {
+          "c6d5": {
+            "c3d5": {
+              "a8c8": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 744,
+  "enabled": true
+}

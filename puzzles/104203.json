@@ -1,0 +1,20 @@
+{
+  "id": 104203,
+  "rating": 1248,
+  "attempts": 3586,
+  "fen": "2rr4/1q3pkp/1n4p1/p2P4/Pp2Q3/2p1N1P1/4PP1P/1R1R2K1 b - - 1 25",
+  "color": "white",
+  "initialPly": 50,
+  "gameId": "CIdsRK19",
+  "lines": {
+    "e4d4": {
+      "g7g8": {
+        "d4c5": {
+          "d8a8": "win"
+        }
+      }
+    }
+  },
+  "vote": 80,
+  "enabled": true
+}

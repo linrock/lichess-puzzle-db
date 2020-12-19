@@ -1,0 +1,24 @@
+{
+  "id": 64025,
+  "rating": 1991,
+  "attempts": 92527,
+  "fen": "r4r1k/pb4p1/2pb1n2/1p1p3q/3P4/2NBP1P1/PP3P1P/R1B1RQK1 w - - 5 19",
+  "color": "black",
+  "initialPly": 37,
+  "gameId": "hkAnGKEw",
+  "lines": {
+    "f6g4": {
+      "h2h4": {
+        "f8f2": {
+          "f1f2": {
+            "g4f2": {
+              "g1f2": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 910,
+  "enabled": true
+}

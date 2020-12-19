@@ -1,0 +1,20 @@
+{
+  "id": 85039,
+  "rating": 1200,
+  "attempts": 10679,
+  "fen": "2r5/N2r4/R2Pkpp1/1p1p2p1/3P4/2P3P1/5K1P/8 b - - 2 40",
+  "color": "white",
+  "initialPly": 80,
+  "gameId": "TPdpmGoP",
+  "lines": {
+    "a6d6": {
+      "e6d6": {
+        "a7c8": {
+          "d6e6": "win"
+        }
+      }
+    }
+  },
+  "vote": 77,
+  "enabled": true
+}

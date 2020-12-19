@@ -1,0 +1,28 @@
+{
+  "id": 68340,
+  "rating": 2021,
+  "attempts": 30879,
+  "fen": "r1bq1rk1/pp2npb1/2np2pp/2p2pB1/2B1P2Q/2NP1N2/PPP3PP/R4RK1 b - - 1 11",
+  "color": "white",
+  "initialPly": 22,
+  "gameId": "DyKnztzB",
+  "lines": {
+    "c3d5": {
+      "f7f6": {
+        "d5f6": {
+          "f8f6": {
+            "g5f6": {
+              "g7f6": {
+                "h4f6": {
+                  "c8d7": "win"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 554,
+  "enabled": true
+}

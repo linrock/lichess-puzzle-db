@@ -1,0 +1,24 @@
+{
+  "id": 121966,
+  "rating": 1664,
+  "attempts": 10286,
+  "fen": "6rk/p1p2p1p/1p1rqp2/5R1Q/4P3/2P5/PP4PP/4R2K w - - 6 23",
+  "color": "black",
+  "initialPly": 45,
+  "gameId": "NAFOQ4YN",
+  "lines": {
+    "e6e4": {
+      "h6f6": {
+        "d6f6": {
+          "e1e4": {
+            "f6f5": {
+              "h1g1": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 163,
+  "enabled": true
+}

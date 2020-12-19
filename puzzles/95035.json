@@ -1,0 +1,28 @@
+{
+  "id": 95035,
+  "rating": 1696,
+  "attempts": 13096,
+  "fen": "r4rk1/1p2bppp/p2q1n2/2pp4/B2n1P2/2NP3P/PPP2QP1/R1B2RK1 w - - 0 14",
+  "color": "black",
+  "initialPly": 27,
+  "gameId": "PjB5lSZL",
+  "lines": {
+    "d4e2": {
+      "f2e2": {
+        "b7b5": {
+          "a4b3": {
+            "c5c4": {
+              "c2c3": {
+                "c4b3": {
+                  "a2b3": "win"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 273,
+  "enabled": true
+}

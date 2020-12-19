@@ -1,0 +1,28 @@
+{
+  "id": 114133,
+  "rating": 2310,
+  "attempts": 3748,
+  "fen": "8/5k2/2rPb3/8/1B3K1p/2P5/8/4R3 b - - 1 40",
+  "color": "white",
+  "initialPly": 80,
+  "gameId": "NRNcHDLK",
+  "lines": {
+    "d6d7": {
+      "c6c4": {
+        "f4f3": {
+          "e6d7": {
+            "e1e7": {
+              "f7g6": {
+                "e7d7": {
+                  "c4h4": "win"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 52,
+  "enabled": true
+}

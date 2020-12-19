@@ -1,0 +1,24 @@
+{
+  "id": 122052,
+  "rating": 1673,
+  "attempts": 10408,
+  "fen": "3r4/2q4k/6pp/pp6/8/P4QnP/1P4P1/R1B3K1 w - - 0 36",
+  "color": "black",
+  "initialPly": 71,
+  "gameId": "oTgcbksN",
+  "lines": {
+    "c7f4": {
+      "f3f4": {
+        "g3e2": {
+          "g1f2": {
+            "e2f4": {
+              "f2f3": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 163,
+  "enabled": true
+}

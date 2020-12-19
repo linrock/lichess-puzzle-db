@@ -1,0 +1,28 @@
+{
+  "id": 120835,
+  "rating": 2024,
+  "attempts": 6628,
+  "fen": "6k1/6p1/2Pr3p/4q3/1p2p3/pP2Q3/P1R3P1/1K6 w - - 0 35",
+  "color": "black",
+  "initialPly": 69,
+  "gameId": "gRyYNFPP",
+  "lines": {
+    "d6d1": {
+      "e3c1": {
+        "d1c1": {
+          "b1c1": {
+            "e5a1": {
+              "c1d2": {
+                "a1d4": {
+                  "d2e1": "win"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": -103,
+  "enabled": true
+}

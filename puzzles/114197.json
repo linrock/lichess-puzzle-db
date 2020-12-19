@@ -1,0 +1,24 @@
+{
+  "id": 114197,
+  "rating": 1906,
+  "attempts": 7902,
+  "fen": "2b3k1/2p2rbp/3p2p1/3Pp3/r3PpNq/5PnP/2Q1B1PB/2RR2K1 b - - 1 30",
+  "color": "white",
+  "initialPly": 60,
+  "gameId": "nSiHNi55",
+  "lines": {
+    "h2g3": {
+      "f4g3": {
+        "c2a4": {
+          "h5g4": {
+            "f3g4": {
+              "h4d8": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 109,
+  "enabled": true
+}

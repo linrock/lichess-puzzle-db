@@ -1,0 +1,24 @@
+{
+  "id": 73360,
+  "rating": 1441,
+  "attempts": 191956,
+  "fen": "1r6/5pkp/6p1/p7/3p1PP1/P2qnQ1P/1P6/R3R2K w - - 2 38",
+  "color": "black",
+  "initialPly": 75,
+  "gameId": "TDC69Sv1",
+  "lines": {
+    "e3d1": {
+      "f3d3": {
+        "d1f2": {
+          "h1g2": {
+            "f2d3": {
+              "e1d1": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 2280,
+  "enabled": true
+}

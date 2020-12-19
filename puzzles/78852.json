@@ -1,0 +1,28 @@
+{
+  "id": 78852,
+  "rating": 1505,
+  "attempts": 80671,
+  "fen": "6k1/1p1r2pp/1P3p2/3n1N2/n1N5/1R1P2P1/5P1P/5K2 b - - 8 31",
+  "color": "white",
+  "initialPly": 62,
+  "gameId": "lRakMU1r",
+  "lines": {
+    "b3b5": {
+      "c5d3": {
+        "b5d5": {
+          "d7d5": {
+            "f5e7": {
+              "g8f7": {
+                "e7d5": {
+                  "d3c5": "win"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 579,
+  "enabled": true
+}

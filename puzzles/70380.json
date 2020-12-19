@@ -1,0 +1,24 @@
+{
+  "id": 70380,
+  "rating": 1956,
+  "attempts": 28284,
+  "fen": "3r2k1/4bppp/p2pn3/1p1Pp3/1Pr5/P3B1P1/1P1R1PBP/3R2K1 b - - 0 22",
+  "color": "white",
+  "initialPly": 44,
+  "gameId": "PTLM6PLI",
+  "lines": {
+    "b2b3": {
+      "c4c3": {
+        "h2h4": {
+          "h7h6": {
+            "h4g5": {
+              "e7g5": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 514,
+  "enabled": true
+}

@@ -1,0 +1,24 @@
+{
+  "id": 100664,
+  "rating": 1360,
+  "attempts": 13112,
+  "fen": "rn2r3/ppb2p1k/2p2pb1/4q3/4N2N/3P3P/PPQ1BPK1/R3R3 w - - 10 23",
+  "color": "black",
+  "initialPly": 45,
+  "gameId": "WiEIicSM",
+  "lines": {
+    "g6e4": {
+      "d3e4": {
+        "e5g5": {
+          "e2g4": {
+            "g5h4": {
+              "c2b3": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 160,
+  "enabled": true
+}

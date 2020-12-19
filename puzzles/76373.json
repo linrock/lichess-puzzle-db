@@ -1,0 +1,24 @@
+{
+  "id": 76373,
+  "rating": 2089,
+  "attempts": 13162,
+  "fen": "1rbq1rk1/4bppp/p3pn2/8/2PN4/3Q4/PBB2PPP/1R3RK1 b - - 0 17",
+  "color": "white",
+  "initialPly": 34,
+  "gameId": "CK80t7MF",
+  "lines": {
+    "d4c6": {
+      "b8b2": {
+        "c6e7": {
+          "c7e7": {
+            "b1b2": {
+              "e7c7": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 227,
+  "enabled": true
+}

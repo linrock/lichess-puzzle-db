@@ -1,0 +1,36 @@
+{
+  "id": 88054,
+  "rating": 2643,
+  "attempts": 444,
+  "fen": "5r2/Q4ppk/4p3/4P1q1/1P1Pp3/8/6P1/5RK1 w - - 0 35",
+  "color": "black",
+  "initialPly": 69,
+  "gameId": "ErxhltuB",
+  "lines": {
+    "e4e3": {
+      "a7b7": {
+        "e3e2": {
+          "b7e4": {
+            "h7h6": {
+              "f7f8": {
+                "g5c1": {
+                  "g1h2": {
+                    "e2e1q": {
+                      "e4e1": {
+                        "c1e1": {
+                          "f8h8": "win"
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 1,
+  "enabled": true
+}

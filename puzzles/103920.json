@@ -1,0 +1,24 @@
+{
+  "id": 103920,
+  "rating": 1458,
+  "attempts": 7648,
+  "fen": "5rk1/2R4p/p2Qp1qb/1p1pB2b/3P1p2/PP3P1P/4N1P1/6K1 w - - 1 36",
+  "color": "black",
+  "initialPly": 71,
+  "gameId": "ZwakcDlt",
+  "lines": {
+    "h5f3": {
+      "e7h7": {
+        "g6h7": {
+          "c7h7": {
+            "g8h7": {
+              "g2f3": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 96,
+  "enabled": true
+}

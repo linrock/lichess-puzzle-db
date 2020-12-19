@@ -1,0 +1,20 @@
+{
+  "id": 98860,
+  "rating": 1872,
+  "attempts": 10171,
+  "fen": "1r2r1k1/2q2pb1/2p1n1pp/p3p3/PpP1P3/1P2QBBP/3R1PP1/3R2K1 b - - 0 27",
+  "color": "white",
+  "initialPly": 54,
+  "gameId": "jLoIsMnD",
+  "lines": {
+    "e3d4": {
+      "e5d4": {
+        "g3c7": {
+          "c6c5": "win"
+        }
+      }
+    }
+  },
+  "vote": 120,
+  "enabled": true
+}

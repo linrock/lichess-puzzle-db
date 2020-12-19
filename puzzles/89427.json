@@ -1,0 +1,26 @@
+{
+  "id": 89427,
+  "rating": 1743,
+  "attempts": 219380,
+  "fen": "5r1k/pp5q/2pbQ3/3P4/2n2p2/2P2B2/PPK3R1/8 w - - 4 40",
+  "color": "black",
+  "initialPly": 79,
+  "gameId": "H65Raosk",
+  "lines": {
+    "c4a5": {
+      "b3a4": {
+        "b7b5": {
+          "a4a5": {
+            "h7c7": {
+              "a5a6": {
+                "c7b6": "win"
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 2946,
+  "enabled": true
+}

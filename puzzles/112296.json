@@ -1,0 +1,28 @@
+{
+  "id": 112296,
+  "rating": 836,
+  "attempts": 256,
+  "fen": "5rk1/pp2nrp1/6p1/3p2q1/3P1bB1/1P2B2P/P2Q1PK1/R4R2 w - - 1 26",
+  "color": "black",
+  "initialPly": 51,
+  "gameId": "BPDDONY1",
+  "lines": {
+    "f4e3": {
+      "d2e3": {
+        "g5e3": {
+          "f2e3": {
+            "f7f1": {
+              "a1f1": {
+                "f8f1": {
+                  "h1g2": "win"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 19,
+  "enabled": true
+}

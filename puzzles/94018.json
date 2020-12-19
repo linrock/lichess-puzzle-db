@@ -1,0 +1,24 @@
+{
+  "id": 94018,
+  "rating": 2089,
+  "attempts": 8500,
+  "fen": "6k1/4b1pp/pn2p3/1p1bP3/1n1P3P/1P2B1P1/P1R3BK/8 w - - 9 33",
+  "color": "black",
+  "initialPly": 65,
+  "gameId": "j4rigdNx",
+  "lines": {
+    "d5g2": {
+      "c7e7": {
+        "b6d5": {
+          "e3d2": {
+            "d5e7": {
+              "d2b4": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 116,
+  "enabled": true
+}

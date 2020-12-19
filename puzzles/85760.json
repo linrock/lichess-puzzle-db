@@ -1,0 +1,24 @@
+{
+  "id": 85760,
+  "rating": 1944,
+  "attempts": 10197,
+  "fen": "7k/pp4p1/7p/4r3/1P3p2/P1P2P1q/1B3R2/1Q4K1 w - - 5 42",
+  "color": "black",
+  "initialPly": 83,
+  "gameId": "DIaOSRE5",
+  "lines": {
+    "h3h4": {
+      "c3c4": {
+        "e5e1": {
+          "b1e1": {
+            "h4e1": {
+              "g1h2": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 217,
+  "enabled": true
+}

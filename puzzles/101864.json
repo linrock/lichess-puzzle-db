@@ -1,0 +1,24 @@
+{
+  "id": 101864,
+  "rating": 1891,
+  "attempts": 7376,
+  "fen": "7r/1k5q/2p5/1p1nQ1B1/p6P/8/PP1K4/2R5 b - - 0 32",
+  "color": "white",
+  "initialPly": 64,
+  "gameId": "biPL2lnr",
+  "lines": {
+    "e5h8": {
+      "f7f2": {
+        "d2d3": {
+          "d5b4": {
+            "d3e4": {
+              "f2g2": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": -22,
+  "enabled": true
+}

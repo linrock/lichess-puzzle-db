@@ -1,0 +1,24 @@
+{
+  "id": 73042,
+  "rating": 1414,
+  "attempts": 54796,
+  "fen": "5b1R/2p2k2/5n2/pp2r3/2p1PN2/3P2N1/PP4P1/2K5 b - - 1 27",
+  "color": "white",
+  "initialPly": 54,
+  "gameId": "SpHlCGEr",
+  "lines": {
+    "h8f8": {
+      "f7f8": {
+        "f4g6": {
+          "f8e8": {
+            "g6e5": {
+              "c7c5": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 387,
+  "enabled": true
+}

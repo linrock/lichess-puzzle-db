@@ -1,0 +1,24 @@
+{
+  "id": 76539,
+  "rating": 1127,
+  "attempts": 4487,
+  "fen": "r2q1rk1/3nbppp/p2ppn2/1p4B1/3PP3/2N5/PP1NQPPP/3RR1K1 b - - 1 13",
+  "color": "white",
+  "initialPly": 26,
+  "gameId": "EialVphs",
+  "lines": {
+    "e4e5": {
+      "d6e5": {
+        "d4e5": {
+          "d7e5": {
+            "e2e5": {
+              "f6g4": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 82,
+  "enabled": true
+}

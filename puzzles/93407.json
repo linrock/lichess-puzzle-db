@@ -1,0 +1,24 @@
+{
+  "id": 93407,
+  "rating": 1755,
+  "attempts": 12381,
+  "fen": "4r1k1/1p3pb1/p1p2n2/5P2/2Pq1B2/2N3rP/P1R3P1/2Q2R1K b - - 2 29",
+  "color": "white",
+  "initialPly": 58,
+  "gameId": "WBkahtIt",
+  "lines": {
+    "c3e2": {
+      "d4d3": {
+        "e2g3": {
+          "h5g3": {
+            "f4g3": {
+              "d3g3": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 235,
+  "enabled": true
+}

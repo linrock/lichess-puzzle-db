@@ -1,0 +1,28 @@
+{
+  "id": 124322,
+  "rating": 1935,
+  "attempts": 58060,
+  "fen": "4k3/pp4pp/8/8/4q2N/3r4/PP3QR1/7K w - - 2 30",
+  "color": "black",
+  "initialPly": 59,
+  "gameId": "SSJ1Sez9",
+  "lines": {
+    "d3h3": {
+      "h1g1": {
+        "e4b1": {
+          "f2f1": {
+            "h3h1": {
+              "g1h1": {
+                "b1f1": {
+                  "h1h2": "win"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 228,
+  "enabled": true
+}

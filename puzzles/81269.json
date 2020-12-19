@@ -1,0 +1,20 @@
+{
+  "id": 81269,
+  "rating": 756,
+  "attempts": 128,
+  "fen": "rnbq1rk1/pp4pp/2p1p3/4bp2/2PNp3/1P1P2P1/P3PPBP/R1BQ1RK1 w - - 1 11",
+  "color": "black",
+  "initialPly": 21,
+  "gameId": "HNPhOkow",
+  "lines": {
+    "e5d4": {
+      "b2d4": {
+        "d8d4": {
+          "d3e4": "win"
+        }
+      }
+    }
+  },
+  "vote": 4,
+  "enabled": true
+}

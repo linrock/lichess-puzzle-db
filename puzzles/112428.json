@@ -1,0 +1,20 @@
+{
+  "id": 112428,
+  "rating": 1185,
+  "attempts": 2160,
+  "fen": "r1bqk1nr/ppp1n1bp/3p2p1/3Ppp2/4P3/2NBBN2/PPP2PPP/R2QK2R w KQkq - 0 8",
+  "color": "black",
+  "initialPly": 15,
+  "gameId": "MDbAnagL",
+  "lines": {
+    "f5f4": {
+      "e3f4": {
+        "e5f4": {
+          "c3e2": "win"
+        }
+      }
+    }
+  },
+  "vote": 28,
+  "enabled": true
+}

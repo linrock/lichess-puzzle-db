@@ -1,0 +1,24 @@
+{
+  "id": 92677,
+  "rating": 1414,
+  "attempts": 7980,
+  "fen": "1r1q4/6pk/p1p5/NPPp3p/P2PpPp1/Q3Pn2/6K1/R7 w - - 3 38",
+  "color": "black",
+  "initialPly": 75,
+  "gameId": "tLOCozyp",
+  "lines": {
+    "d8h4": {
+      "a1h1": {
+        "f3e1": {
+          "h1e1": {
+            "h4e1": {
+              "a3a2": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 140,
+  "enabled": true
+}

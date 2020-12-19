@@ -1,0 +1,24 @@
+{
+  "id": 124067,
+  "rating": 2126,
+  "attempts": 5602,
+  "fen": "r3r3/ppp3pk/1bn3Np/3Q1p2/1P6/2qP1N1P/P4PP1/R3R1K1 w - - 2 22",
+  "color": "black",
+  "initialPly": 43,
+  "gameId": "tsfGUDOo",
+  "lines": {
+    "c6d4": {
+      "g6f8": {
+        "h7g8": {
+          "f5d5": {
+            "g8f8": {
+              "f3e5": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 78,
+  "enabled": true
+}

@@ -1,0 +1,22 @@
+{
+  "id": 105735,
+  "rating": 1147,
+  "attempts": 1625,
+  "fen": "4R3/1p3rkp/3P2p1/p7/3b1q2/1Q6/PP3PPP/3R2K1 w - - 1 25",
+  "color": "black",
+  "initialPly": 49,
+  "gameId": "igSKab30",
+  "lines": {
+    "f4f2": {
+      "g1h1": {
+        "f2f1": {
+          "d1f1": {
+            "f7f1": "win"
+          }
+        }
+      }
+    }
+  },
+  "vote": 63,
+  "enabled": true
+}

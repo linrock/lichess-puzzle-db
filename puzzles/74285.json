@@ -1,0 +1,24 @@
+{
+  "id": 74285,
+  "rating": 1374,
+  "attempts": 16939,
+  "fen": "2r2rk1/p2qbppp/1p2pn2/1B1b4/Q2P1B2/P4N1P/1P3PP1/2R2RK1 b - - 5 17",
+  "color": "white",
+  "initialPly": 34,
+  "gameId": "ETpBnooq",
+  "lines": {
+    "b5a6": {
+      "c8c1": {
+        "a6b7": {
+          "c1f1": {
+            "g1f1": {
+              "d5b7": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 237,
+  "enabled": true
+}

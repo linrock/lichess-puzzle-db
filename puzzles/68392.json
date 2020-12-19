@@ -1,0 +1,24 @@
+{
+  "id": 68392,
+  "rating": 2136,
+  "attempts": 29405,
+  "fen": "rn3rk1/ppp2ppp/8/2bq4/4p1b1/1P6/PBPPNPPP/R2QKB1R w KQ - 6 10",
+  "color": "black",
+  "initialPly": 19,
+  "gameId": "JitorVdH",
+  "lines": {
+    "d5f5": {
+      "b2d4": {
+        "g4e2": {
+          "d1e2": {
+            "c5d4": {
+              "c2c3": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 451,
+  "enabled": true
+}

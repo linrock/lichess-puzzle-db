@@ -1,0 +1,28 @@
+{
+  "id": 107476,
+  "rating": 1859,
+  "attempts": 7702,
+  "fen": "r2r2k1/pb3pp1/1pnb3p/3Bq3/1P1Np3/P3P2P/4QPP1/2BR1RK1 w - - 2 20",
+  "color": "black",
+  "initialPly": 39,
+  "gameId": "hkcro07u",
+  "lines": {
+    "e5d5": {
+      "d4b5": {
+        "d5e6": {
+          "b5d6": {
+            "d8d6": {
+              "d1d6": {
+                "e6d6": {
+                  "f1d1": "win"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 86,
+  "enabled": true
+}

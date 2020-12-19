@@ -1,0 +1,28 @@
+{
+  "id": 86930,
+  "rating": 1746,
+  "attempts": 15115,
+  "fen": "n1r2rk1/pR4bp/3p1qp1/2p1p3/Q1P1P3/P5P1/3B1PKP/5RN1 b - - 8 25",
+  "color": "white",
+  "initialPly": 50,
+  "gameId": "DlhnaMO0",
+  "lines": {
+    "a4a7": {
+      "b6c4": {
+        "d2g5": {
+          "c8a8": {
+            "g5f6": {
+              "a8a7": {
+                "b7a7": {
+                  "g7f6": "win"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 276,
+  "enabled": true
+}

@@ -1,0 +1,24 @@
+{
+  "id": 72981,
+  "rating": 2431,
+  "attempts": 4686,
+  "fen": "r3r1k1/2pn1p2/1pnp2p1/pR4B1/2q5/2P2B1P/P2Q2P1/5RK1 w - - 0 24",
+  "color": "black",
+  "initialPly": 47,
+  "gameId": "Dxv5ZV49",
+  "lines": {
+    "c4b5": {
+      "d5f7": {
+        "g8g7": {
+          "g5h6": {
+            "g7h8": {
+              "f7d5": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": -14,
+  "enabled": true
+}

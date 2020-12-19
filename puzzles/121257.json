@@ -1,0 +1,24 @@
+{
+  "id": 121257,
+  "rating": 1978,
+  "attempts": 7696,
+  "fen": "4Q3/1p1r2p1/p5k1/3q3p/5R2/3p2P1/1P3P1P/6K1 b - - 1 44",
+  "color": "white",
+  "initialPly": 88,
+  "gameId": "BebNtHBM",
+  "lines": {
+    "f4f8": {
+      "d7f7": {
+        "e8f7": {
+          "d5f7": {
+            "f8f7": {
+              "b7b5": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 96,
+  "enabled": true
+}

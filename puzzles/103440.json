@@ -1,0 +1,24 @@
+{
+  "id": 103440,
+  "rating": 1751,
+  "attempts": 10278,
+  "fen": "r4rn1/1pp4k/p4pp1/3P2P1/3pP3/8/1P3RN1/5RK1 b - - 0 32",
+  "color": "white",
+  "initialPly": 64,
+  "gameId": "1YFluude",
+  "lines": {
+    "g2f4": {
+      "a8e8": {
+        "f4e6": {
+          "e8e6": {
+            "d5e6": {
+              "d4d3": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 221,
+  "enabled": true
+}

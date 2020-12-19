@@ -1,0 +1,28 @@
+{
+  "id": 65938,
+  "rating": 1970,
+  "attempts": 149776,
+  "fen": "rqb2rk1/4bppp/p3pn2/BpN1p3/4P3/1B6/PP2QPPP/2RR2K1 b - - 3 17",
+  "color": "white",
+  "initialPly": 34,
+  "gameId": "RKfyhyTM",
+  "lines": {
+    "c5b7": {
+      "b8b7": {
+        "c1c7": {
+          "b7e4": {
+            "e2e4": {
+              "f6e4": {
+                "c7e7": {
+                  "e4c5": "win"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 1360,
+  "enabled": true
+}

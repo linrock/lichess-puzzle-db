@@ -1,0 +1,24 @@
+{
+  "id": 112128,
+  "rating": 2412,
+  "attempts": 3572,
+  "fen": "r5k1/1p2Q2p/p4rp1/1BpP1b2/1q6/8/P5P1/B5KR b - - 0 28",
+  "color": "white",
+  "initialPly": 56,
+  "gameId": "KEnHCebg",
+  "lines": {
+    "e7e5": {
+      "b4b1": {
+        "b5f1": {
+          "b1a1": {
+            "e5a1": {
+              "a8e8": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 30,
+  "enabled": true
+}

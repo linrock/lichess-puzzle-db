@@ -1,0 +1,24 @@
+{
+  "id": 95747,
+  "rating": 1567,
+  "attempts": 10692,
+  "fen": "2r3k1/2qn1pp1/7p/3QR3/3P4/1NP4P/2PK2P1/8 w - - 6 30",
+  "color": "black",
+  "initialPly": 59,
+  "gameId": "MMyxkAON",
+  "lines": {
+    "d7b6": {
+      "d5f3": {
+        "b6c4": {
+          "d2d1": {
+            "c4e3": {
+              "f3e3": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 273,
+  "enabled": true
+}

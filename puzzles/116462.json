@@ -1,0 +1,28 @@
+{
+  "id": 116462,
+  "rating": 1336,
+  "attempts": 3753,
+  "fen": "6k1/p1B2p1p/5p2/2pP4/1rP5/7P/P2R1PP1/1b4K1 b - - 0 26",
+  "color": "white",
+  "initialPly": 52,
+  "gameId": "PACSUjce",
+  "lines": {
+    "d5d6": {
+      "b1f5": {
+        "d6d7": {
+          "f5d7": {
+            "d2d7": {
+              "c4c1": {
+                "g1h2": {
+                  "c1c2": "win"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 85,
+  "enabled": true
+}

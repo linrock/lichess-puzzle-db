@@ -1,0 +1,28 @@
+{
+  "id": 67880,
+  "rating": 2612,
+  "attempts": 7562,
+  "fen": "2k4r/1pp5/p2b1npN/6B1/3Pr3/8/PP3PPP/1R3RK1 b - - 2 24",
+  "color": "white",
+  "initialPly": 48,
+  "gameId": "MfCXv3rs",
+  "lines": {
+    "h6g4": {
+      "e4g4": {
+        "f2f4": {
+          "g4g5": {
+            "f4g5": {
+              "d6h2": {
+                "g1f2": {
+                  "h2f4": "win"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 120,
+  "enabled": true
+}

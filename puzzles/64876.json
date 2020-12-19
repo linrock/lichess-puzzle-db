@@ -1,0 +1,20 @@
+{
+  "id": 64876,
+  "rating": 1584,
+  "attempts": 73371,
+  "fen": "3r1rk1/1p1q2pp/p1n1p1b1/6B1/1P1P2P1/P7/3Q1PB1/2RR2K1 b - - 0 25",
+  "color": "white",
+  "initialPly": 50,
+  "gameId": "O965HOLI",
+  "lines": {
+    "g5d8": {
+      "d4d2": {
+        "d1d2": {
+          "c6d8": "win"
+        }
+      }
+    }
+  },
+  "vote": 623,
+  "enabled": true
+}

@@ -1,0 +1,24 @@
+{
+  "id": 90263,
+  "rating": 1099,
+  "attempts": 1898,
+  "fen": "2r4k/5Qbp/4p1p1/pp2q3/4P3/P6P/BP4P1/5R1K w - - 1 27",
+  "color": "black",
+  "initialPly": 53,
+  "gameId": "sLmioBoR",
+  "lines": {
+    "c8f8": {
+      "f7f8": {
+        "g7f8": {
+          "f1f8": {
+            "h8g7": {
+              "f8f7": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 38,
+  "enabled": true
+}

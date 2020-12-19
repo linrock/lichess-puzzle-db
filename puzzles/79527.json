@@ -1,0 +1,24 @@
+{
+  "id": 79527,
+  "rating": 1570,
+  "attempts": 17382,
+  "fen": "3r2k1/1pp2p1p/1pn2p2/4p3/r3P3/P7/RPPN1PPP/3R2K1 w - - 3 17",
+  "color": "black",
+  "initialPly": 33,
+  "gameId": "TckMlc1s",
+  "lines": {
+    "a4d4": {
+      "g1f1": {
+        "d4d2": {
+          "d1d2": {
+            "d8d2": {
+              "f1e1": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 321,
+  "enabled": true
+}

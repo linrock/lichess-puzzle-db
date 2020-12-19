@@ -1,0 +1,28 @@
+{
+  "id": 68874,
+  "rating": 1850,
+  "attempts": 51134,
+  "fen": "1r3rk1/5ppp/1Q1Pp3/5n2/5Pq1/6P1/P4P2/R2R1BK1 w - - 1 28",
+  "color": "black",
+  "initialPly": 55,
+  "gameId": "XZQ53esi",
+  "lines": {
+    "f5g3": {
+      "f2g3": {
+        "g4g3": {
+          "f1g2": {
+            "b8b2": {
+              "d1d2": {
+                "b2d2": {
+                  "a7b7": "win"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 838,
+  "enabled": true
+}

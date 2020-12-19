@@ -1,0 +1,28 @@
+{
+  "id": 97919,
+  "rating": 2535,
+  "attempts": 1433,
+  "fen": "5b2/8/1p2N2p/4p2P/3kP3/5K2/8/8 b - - 1 48",
+  "color": "white",
+  "initialPly": 96,
+  "gameId": "L60Yjpnc",
+  "lines": {
+    "e6f8": {
+      "b6b5": {
+        "f8d7": {
+          "d3d4": {
+            "d7f6": {
+              "b5b4": {
+                "f3e2": {
+                  "d4c3": "win"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 34,
+  "enabled": true
+}

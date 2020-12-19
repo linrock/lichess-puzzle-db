@@ -1,0 +1,24 @@
+{
+  "id": 78700,
+  "rating": 1380,
+  "attempts": 10429,
+  "fen": "1rr3k1/p1q2pbp/b3p1p1/8/BB1p4/1PP2Q1P/P4PP1/2R1R1K1 w - - 0 22",
+  "color": "black",
+  "initialPly": 43,
+  "gameId": "dGoPg14j",
+  "lines": {
+    "c7c1": {
+      "e1c1": {
+        "c8c1": {
+          "g1h2": {
+            "b8b4": {
+              "a4e8": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 142,
+  "enabled": true
+}

@@ -1,0 +1,28 @@
+{
+  "id": 108232,
+  "rating": 1257,
+  "attempts": 4719,
+  "fen": "r5k1/5p1p/r2p2p1/3PpP2/3pP3/2qPb1PP/6BK/R2Q1R2 w - - 0 29",
+  "color": "black",
+  "initialPly": 57,
+  "gameId": "NPoRDPBO",
+  "lines": {
+    "a6a1": {
+      "g6f7": {
+        "g8f8": {
+          "d1g4": {
+            "a1f1": {
+              "g4g8": {
+                "f8e7": {
+                  "g8a8": "win"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 50,
+  "enabled": true
+}

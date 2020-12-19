@@ -1,0 +1,24 @@
+{
+  "id": 68369,
+  "rating": 1778,
+  "attempts": 235269,
+  "fen": "6k1/pRQ2pb1/4p1pp/8/8/7P/6PN/q5K1 w - - 2 30",
+  "color": "black",
+  "initialPly": 59,
+  "gameId": "kvpW392c",
+  "lines": {
+    "g7d4": {
+      "g1h2": {
+        "d4e5": {
+          "f1g3": {
+            "e5c7": {
+              "b7c7": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 1300,
+  "enabled": true
+}

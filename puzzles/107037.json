@@ -1,0 +1,24 @@
+{
+  "id": 107037,
+  "rating": 1721,
+  "attempts": 7542,
+  "fen": "6k1/4ppbp/3p2p1/2pP4/2n1P3/2B2P2/Pr2N1PP/R4K2 b - - 4 29",
+  "color": "white",
+  "initialPly": 58,
+  "gameId": "P9PdGe69",
+  "lines": {
+    "f1e2": {
+      "g7c3": {
+        "a1c1": {
+          "c3b4": {
+            "c1c4": {
+              "f7f6": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 142,
+  "enabled": true
+}

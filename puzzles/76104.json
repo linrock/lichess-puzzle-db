@@ -1,0 +1,26 @@
+{
+  "id": 76104,
+  "rating": 1861,
+  "attempts": 126482,
+  "fen": "6k1/4b1pR/4p1P1/1q1p4/p4r2/P1Q5/1Pp2P2/2K5 b - - 0 29",
+  "color": "white",
+  "initialPly": 58,
+  "gameId": "EcNHNYHG",
+  "lines": {
+    "h7h8": {
+      "g8h8": {
+        "c3h3": {
+          "h8g8": {
+            "h3h7": {
+              "g8f8": {
+                "h7h8": "win"
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 841,
+  "enabled": true
+}

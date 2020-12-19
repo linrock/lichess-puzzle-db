@@ -1,0 +1,24 @@
+{
+  "id": 123855,
+  "rating": 1791,
+  "attempts": 7278,
+  "fen": "r5k1/ppq1n2p/2n1prp1/1B1pNb2/Q2P4/2N5/PP3PPP/2R2RK1 b - - 1 16",
+  "color": "white",
+  "initialPly": 32,
+  "gameId": "SAAAGgBR",
+  "lines": {
+    "c3d5": {
+      "e5f3": {
+        "g2f3": {
+          "e7d5": {
+            "c1c7": {
+              "d5c7": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 85,
+  "enabled": true
+}

@@ -1,0 +1,20 @@
+{
+  "id": 86512,
+  "rating": 1803,
+  "attempts": 15710,
+  "fen": "r1b2rk1/3nppbp/5np1/2pPp3/ppP5/1P1B1N2/PB1N1PPP/R3R1K1 w - - 0 15",
+  "color": "black",
+  "initialPly": 29,
+  "gameId": "AipoXSmu",
+  "lines": {
+    "a4a3": {
+      "b2d4": {
+        "c5d4": {
+          "e5c6": "win"
+        }
+      }
+    }
+  },
+  "vote": 230,
+  "enabled": true
+}

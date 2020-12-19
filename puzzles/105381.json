@@ -1,0 +1,24 @@
+{
+  "id": 105381,
+  "rating": 1285,
+  "attempts": 6743,
+  "fen": "8/R7/1p3kp1/2p4p/6nP/1Pr2NP1/P4PK1/8 w - - 1 37",
+  "color": "black",
+  "initialPly": 73,
+  "gameId": "AjaUMoFM",
+  "lines": {
+    "c3f3": {
+      "g2f3": {
+        "g4e5": {
+          "f3e4": {
+            "e5d7": {
+              "e4d5": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 101,
+  "enabled": true
+}

@@ -1,0 +1,20 @@
+{
+  "id": 109970,
+  "rating": 1196,
+  "attempts": 2341,
+  "fen": "r1bq1rk1/pp2b1pp/2n1pP1n/2p5/2PpNPP1/3B1N1P/PP1P4/R1BQ1RK1 b - - 0 12",
+  "color": "white",
+  "initialPly": 24,
+  "gameId": "XLpMgOrj",
+  "lines": {
+    "g4g5": {
+      "f6e7": {
+        "g5h6": {
+          "g7h6": "win"
+        }
+      }
+    }
+  },
+  "vote": 58,
+  "enabled": true
+}

@@ -1,0 +1,28 @@
+{
+  "id": 78166,
+  "rating": 1309,
+  "attempts": 31780,
+  "fen": "3r4/3k4/r1p1pp1p/ppRn4/3PN3/PP4P1/5P1P/3R2K1 b - - 1 26",
+  "color": "white",
+  "initialPly": 52,
+  "gameId": "MCZCFX8y",
+  "lines": {
+    "c5d5": {
+      "c6d5": {
+        "e4c5": {
+          "d7d6": {
+            "c5a6": {
+              "d8a8": {
+                "a6c5": {
+                  "e6e5": "win"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 362,
+  "enabled": true
+}

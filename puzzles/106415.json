@@ -1,0 +1,24 @@
+{
+  "id": 106415,
+  "rating": 1567,
+  "attempts": 47936,
+  "fen": "r4rk1/2pnqp2/3p1n1p/1p1Pp1p1/PP1bP1b1/3BNNB1/R4PPP/3Q1RK1 b - - 1 18",
+  "color": "white",
+  "initialPly": 36,
+  "gameId": "HDRCPnQA",
+  "lines": {
+    "e3g4": {
+      "f6g4": {
+        "f3d4": {
+          "e5d4": {
+            "d1g4": {
+              "a4a3": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 193,
+  "enabled": true
+}

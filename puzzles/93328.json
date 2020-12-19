@@ -1,0 +1,32 @@
+{
+  "id": 93328,
+  "rating": 2136,
+  "attempts": 7180,
+  "fen": "3B2k1/1p4b1/p5p1/PPP1p3/6P1/8/n4K2/8 b - - 0 37",
+  "color": "white",
+  "initialPly": 74,
+  "gameId": "kpOpNECF",
+  "lines": {
+    "c5c6": {
+      "b7c6": {
+        "a5a6": {
+          "g7f8": {
+            "d8b6": {
+              "b5b4": {
+                "a6a7": {
+                  "b4b3": {
+                    "a7a8q": {
+                      "a2c3": "win"
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 188,
+  "enabled": true
+}

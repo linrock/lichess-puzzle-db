@@ -1,0 +1,24 @@
+{
+  "id": 97656,
+  "rating": 2168,
+  "attempts": 3620,
+  "fen": "7k/6b1/p1r5/1p1p1Q2/8/2q5/P5B1/5R1K w - - 3 39",
+  "color": "black",
+  "initialPly": 77,
+  "gameId": "GneVz6TS",
+  "lines": {
+    "c6f6": {
+      "f5h5": {
+        "f6h6": {
+          "h5h6": {
+            "g7h6": {
+              "d5g2": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 84,
+  "enabled": true
+}

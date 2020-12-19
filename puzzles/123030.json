@@ -1,0 +1,24 @@
+{
+  "id": 123030,
+  "rating": 1591,
+  "attempts": 8105,
+  "fen": "1r1qr1k1/pppbnpbp/3P2p1/8/8/B1P3P1/P3NPBP/1R1Q1RK1 b - - 0 15",
+  "color": "white",
+  "initialPly": 30,
+  "gameId": "VAKlEZr1",
+  "lines": {
+    "d6c7": {
+      "d8c7": {
+        "a3d6": {
+          "c7c8": {
+            "d6b8": {
+              "d7g4": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 158,
+  "enabled": true
+}

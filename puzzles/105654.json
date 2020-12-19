@@ -1,0 +1,24 @@
+{
+  "id": 105654,
+  "rating": 1729,
+  "attempts": 8629,
+  "fen": "1r2k2r/2Qnbp1p/1P4p1/2q5/P2p4/7P/2PB4/R1K1R3 w - - 1 30",
+  "color": "black",
+  "initialPly": 59,
+  "gameId": "JCoLvDUV",
+  "lines": {
+    "d7c5": {
+      "d2b4": {
+        "c5e6": {
+          "b4e7": {
+            "e8e7": {
+              "a4a5": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 131,
+  "enabled": true
+}

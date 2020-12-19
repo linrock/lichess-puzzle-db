@@ -1,0 +1,28 @@
+{
+  "id": 89307,
+  "rating": 2282,
+  "attempts": 5100,
+  "fen": "r5k1/p2q2pp/1p3n2/4Q3/6P1/2PB4/P1KN1P1P/R6b b - - 0 20",
+  "color": "white",
+  "initialPly": 40,
+  "gameId": "M9rQiboz",
+  "lines": {
+    "e5f5": {
+      "d7f5": {
+        "d3f5": {
+          "g4f2": {
+            "a1f1": {
+              "a8f8": {
+                "f1f2": {
+                  "f8f6": "win"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 115,
+  "enabled": true
+}

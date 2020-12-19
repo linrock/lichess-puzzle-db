@@ -1,0 +1,28 @@
+{
+  "id": 80760,
+  "rating": 2383,
+  "attempts": 3873,
+  "fen": "3r1r1k/pp2q1p1/7p/2P5/8/1P1n1BP1/P5QP/2R2RK1 w - - 3 28",
+  "color": "black",
+  "initialPly": 55,
+  "gameId": "BTeL73xb",
+  "lines": {
+    "e7c5": {
+      "g1h1": {
+        "d3f2": {
+          "g2f2": {
+            "c5f2": {
+              "f1f2": {
+                "d8d1": {
+                  "h1g2": "win"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 34,
+  "enabled": true
+}

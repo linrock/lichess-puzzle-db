@@ -1,0 +1,40 @@
+{
+  "id": 81631,
+  "rating": 2778,
+  "attempts": 276,
+  "fen": "2k4r/ppp4p/5p1n/6p1/3R1b2/P1NN1P2/1Pq3PP/4Q1K1 b - - 1 23",
+  "color": "white",
+  "initialPly": 46,
+  "gameId": "GOPdXN9T",
+  "lines": {
+    "e1e7": {
+      "a7a6": {
+        "d4c4": {
+          "c8b8": {
+            "e7c7": {
+              "b8a8": {
+                "c7c8": {
+                  "h8c8": {
+                    "c4c8": {
+                      "a8a7": {
+                        "c3b5": {
+                          "a6b5": {
+                            "c8c2": {
+                              "d2e3": "win"
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 2,
+  "enabled": true
+}

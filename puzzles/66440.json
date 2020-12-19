@@ -1,0 +1,32 @@
+{
+  "id": 66440,
+  "rating": 2021,
+  "attempts": 162718,
+  "fen": "4r3/6kp/p3rpnN/1p6/3q4/7Q/PP4PP/2R2R1K b - - 2 34",
+  "color": "white",
+  "initialPly": 68,
+  "gameId": "8jgrVgOd",
+  "lines": {
+    "h3e6": {
+      "e8e6": {
+        "c1c8": {
+          "g6f8": {
+            "c8f8": {
+              "h8g7": {
+                "h6f5": {
+                  "g7f8": {
+                    "f5d4": {
+                      "e6e4": "win"
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 1452,
+  "enabled": true
+}

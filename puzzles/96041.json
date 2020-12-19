@@ -1,0 +1,24 @@
+{
+  "id": 96041,
+  "rating": 1109,
+  "attempts": 1626,
+  "fen": "4kb1r/p1r2pp1/4p3/4P2p/5Bn1/2NP4/PP4PP/R4RK1 w k - 0 17",
+  "color": "black",
+  "initialPly": 33,
+  "gameId": "ZOmQ2Yvb",
+  "lines": {
+    "f8c5": {
+      "g1h1": {
+        "g4f2": {
+          "f1f2": {
+            "c5f2": {
+              "c1f1": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 52,
+  "enabled": true
+}

@@ -1,0 +1,24 @@
+{
+  "id": 65218,
+  "rating": 1822,
+  "attempts": 120789,
+  "fen": "2r2r2/pp2npkp/1q1p1np1/3Pp3/4P2P/2N2BP1/PP1Q1P2/2R2RK1 b - - 0 17",
+  "color": "white",
+  "initialPly": 34,
+  "gameId": "ShO7AmaK",
+  "lines": {
+    "c3a4": {
+      "b6a5": {
+        "b2b4": {
+          "a5a4": {
+            "b4c5": {
+              "f6e4": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 1550,
+  "enabled": true
+}

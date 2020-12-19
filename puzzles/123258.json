@@ -1,0 +1,20 @@
+{
+  "id": 123258,
+  "rating": 1540,
+  "attempts": 6785,
+  "fen": "2kr2r1/p1pn1p2/1p2p3/3pN3/2nP2R1/P1P3B1/2Pq2P1/4QRK1 w - - 2 25",
+  "color": "black",
+  "initialPly": 49,
+  "gameId": "TxF8Cref",
+  "lines": {
+    "d2e1": {
+      "g3e1": {
+        "g8g4": {
+          "c4e3": "win"
+        }
+      }
+    }
+  },
+  "vote": 107,
+  "enabled": true
+}

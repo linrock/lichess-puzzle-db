@@ -1,0 +1,24 @@
+{
+  "id": 121656,
+  "rating": 2234,
+  "attempts": 4691,
+  "fen": "r1r3k1/3q2p1/p1p1R1Qp/1p1n4/1PnP4/2b3P1/4RPBP/B5K1 w - - 0 31",
+  "color": "black",
+  "initialPly": 61,
+  "gameId": "MEogkFld",
+  "lines": {
+    "d5c3": {
+      "e2e1": {
+        "d7f7": {
+          "g6f7": {
+            "g8f7": {
+              "g2c6": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": -35,
+  "enabled": true
+}

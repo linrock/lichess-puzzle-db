@@ -1,0 +1,32 @@
+{
+  "id": 94470,
+  "rating": 1945,
+  "attempts": 11694,
+  "fen": "2R5/8/8/3p4/4b3/B3k3/PP4r1/4K3 w - - 6 43",
+  "color": "black",
+  "initialPly": 85,
+  "gameId": "VCS1GUXK",
+  "lines": {
+    "e4d3": {
+      "a3c5": {
+        "d5d4": {
+          "c5d4": {
+            "e3d4": {
+              "c3c7": {
+                "d4e3": {
+                  "c7e7": {
+                    "d3e4": {
+                      "e7f7": "win"
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 224,
+  "enabled": true
+}

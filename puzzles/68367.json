@@ -1,0 +1,24 @@
+{
+  "id": 68367,
+  "rating": 1115,
+  "attempts": 10526,
+  "fen": "r1b1kbnr/2qp1ppp/p3p3/1p6/4P3/2P2Q2/PPB2PPP/RNB2RK1 b kq - 3 10",
+  "color": "white",
+  "initialPly": 20,
+  "gameId": "cMQin2My",
+  "lines": {
+    "e4e5": {
+      "d6e5": {
+        "f3a8": {
+          "e5h2": {
+            "g1h1": {
+              "g8f6": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 134,
+  "enabled": true
+}

@@ -1,0 +1,24 @@
+{
+  "id": 96565,
+  "rating": 1296,
+  "attempts": 4107,
+  "fen": "rn3rk1/2p1pp1p/p2q1bp1/1p6/4Q3/1B1P1N2/PPP2PPP/R4RK1 b - - 0 13",
+  "color": "white",
+  "initialPly": 26,
+  "gameId": "TzlTWAO1",
+  "lines": {
+    "b3d5": {
+      "a8b8": {
+        "d5c6": {
+          "b8b6": {
+            "c6d5": {
+              "f6b2": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 93,
+  "enabled": true
+}

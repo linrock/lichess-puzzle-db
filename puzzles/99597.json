@@ -1,0 +1,24 @@
+{
+  "id": 99597,
+  "rating": 1365,
+  "attempts": 5527,
+  "fen": "5rk1/2q1ppbp/3p2p1/N7/1n1P4/1P2P2P/1Br2PP1/RQ3RK1 b - - 0 26",
+  "color": "white",
+  "initialPly": 52,
+  "gameId": "lCN5Tenr",
+  "lines": {
+    "a5c4": {
+      "c2c4": {
+        "b3c4": {
+          "d3b2": {
+            "b1b2": {
+              "c7c4": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 93,
+  "enabled": true
+}

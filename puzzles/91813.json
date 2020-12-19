@@ -1,0 +1,24 @@
+{
+  "id": 91813,
+  "rating": 2087,
+  "attempts": 8458,
+  "fen": "r1b1n1rk/pnp3b1/1p1p2qp/1N1Pp3/PPP1Pp2/7P/2BQNBPK/R4R2 w - - 5 22",
+  "color": "black",
+  "initialPly": 43,
+  "gameId": "L89enxnG",
+  "lines": {
+    "e5f4": {
+      "e4e5": {
+        "c8f5": {
+          "c2f5": {
+            "g6f5": {
+              "b5d4": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 143,
+  "enabled": true
+}

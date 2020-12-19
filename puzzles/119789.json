@@ -1,0 +1,24 @@
+{
+  "id": 119789,
+  "rating": 1708,
+  "attempts": 189262,
+  "fen": "r4rk1/2p2pp1/p1n2n1p/1p1pp3/1P4q1/P1PPPR2/BB3QPP/5RK1 b - - 8 21",
+  "color": "white",
+  "initialPly": 42,
+  "gameId": "MhbqoaLK",
+  "lines": {
+    "f3g3": {
+      "g4e6": {
+        "f2f6": {
+          "e6f6": {
+            "f1f6": {
+              "c6e7": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 1471,
+  "enabled": true
+}

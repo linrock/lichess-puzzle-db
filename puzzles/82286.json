@@ -1,0 +1,24 @@
+{
+  "id": 82286,
+  "rating": 1376,
+  "attempts": 58862,
+  "fen": "3r4/1p3pk1/p2bb1pp/4N3/8/1P2P1PP/P2RB1PK/8 w - - 1 37",
+  "color": "black",
+  "initialPly": 73,
+  "gameId": "Ns3LOpYS",
+  "lines": {
+    "e6c4": {
+      "e2c4": {
+        "d6g3": {
+          "h2g3": {
+            "d8d2": {
+              "a2a4": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 214,
+  "enabled": true
+}

@@ -1,0 +1,32 @@
+{
+  "id": 101967,
+  "rating": 1663,
+  "attempts": 10160,
+  "fen": "r1br2k1/pp2bp2/2p1pqpB/8/2P5/2NRQ1P1/PP3P1P/R5K1 w - - 1 20",
+  "color": "black",
+  "initialPly": 39,
+  "gameId": "RRR2Pumc",
+  "lines": {
+    "d8d3": {
+      "d1d3": {
+        "g6g5": {
+          "h6g5": {
+            "f6g5": {
+              "e3g5": {
+                "e7g5": {
+                  "c3e4": {
+                    "g5e7": {
+                      "f2f4": "win"
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 261,
+  "enabled": true
+}

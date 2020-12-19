@@ -1,0 +1,24 @@
+{
+  "id": 97177,
+  "rating": 1758,
+  "attempts": 10575,
+  "fen": "3r1rk1/1bq1b1pp/p1p1Nnn1/1pP5/1P1Pp3/3BBN2/P2Q2PP/3R1R1K b - - 1 21",
+  "color": "white",
+  "initialPly": 42,
+  "gameId": "kVymtarC",
+  "lines": {
+    "e6f8": {
+      "e7f8": {
+        "f3e5": {
+          "d7e8": {
+            "e5g6": {
+              "e8g6": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 59,
+  "enabled": true
+}

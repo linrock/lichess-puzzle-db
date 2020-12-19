@@ -1,0 +1,28 @@
+{
+  "id": 120305,
+  "rating": 2321,
+  "attempts": 3879,
+  "fen": "r3r1k1/1p1n1ppp/p1p2n2/3P3b/2P2q2/3B1N1P/P1QN1PP1/2R1R1K1 b - - 0 17",
+  "color": "white",
+  "initialPly": 34,
+  "gameId": "stjLgivg",
+  "lines": {
+    "e1e5": {
+      "e8e5": {
+        "g2g3": {
+          "e5g5": {
+            "g1h2": {
+              "g5g3": {
+                "f2g3": {
+                  "f4d6": "win"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 20,
+  "enabled": true
+}

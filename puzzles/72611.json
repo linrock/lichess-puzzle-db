@@ -1,0 +1,24 @@
+{
+  "id": 72611,
+  "rating": 2186,
+  "attempts": 12957,
+  "fen": "5nkb/2nb1r1p/p2p2pP/2pP1pP1/1pP2P2/1Pq3N1/4RBBK/1QN5 b - - 6 35",
+  "color": "white",
+  "initialPly": 70,
+  "gameId": "MkligzGZ",
+  "lines": {
+    "e2a2": {
+      "a5a4": {
+        "g3e2": {
+          "a4b3": {
+            "e2c3": {
+              "b3a2": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 238,
+  "enabled": true
+}

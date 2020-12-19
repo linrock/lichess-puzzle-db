@@ -1,0 +1,28 @@
+{
+  "id": 88223,
+  "rating": 1816,
+  "attempts": 13787,
+  "fen": "r2qk1nr/ppp2ppp/2np4/1Bb1p3/4P1b1/2PP1N2/PP3PPP/RNBQ1RK1 b kq - 0 6",
+  "color": "white",
+  "initialPly": 12,
+  "gameId": "514RKrWI",
+  "lines": {
+    "d3d4": {
+      "g4f3": {
+        "g2f3": {
+          "c5b6": {
+            "d4d5": {
+              "e8g8": {
+                "d5c6": {
+                  "b7c6": "win"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 213,
+  "enabled": true
+}

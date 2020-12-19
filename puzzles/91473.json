@@ -1,0 +1,24 @@
+{
+  "id": 91473,
+  "rating": 2038,
+  "attempts": 6117,
+  "fen": "b3r1k1/5pbp/3R2p1/3NP3/2p2PP1/7P/2r3BK/6R1 b - - 3 33",
+  "color": "white",
+  "initialPly": 66,
+  "gameId": "GREQwwf5",
+  "lines": {
+    "d5f6": {
+      "g8h8": {
+        "f6e8": {
+          "f8d6": {
+            "e5d6": {
+              "c4c3": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 93,
+  "enabled": true
+}

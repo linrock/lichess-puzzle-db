@@ -1,0 +1,24 @@
+{
+  "id": 69902,
+  "rating": 1944,
+  "attempts": 38855,
+  "fen": "r2q1rk1/1pp1ppbp/p5p1/5b2/1n1P4/P1P1PNBP/4BPP1/2RQ1RK1 b - - 0 14",
+  "color": "white",
+  "initialPly": 28,
+  "gameId": "OWVPSBvB",
+  "lines": {
+    "c1c2": {
+      "f5c2": {
+        "d1c2": {
+          "a2c3": {
+            "c2c3": {
+              "a8c8": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 314,
+  "enabled": true
+}

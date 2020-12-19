@@ -1,0 +1,28 @@
+{
+  "id": 75980,
+  "rating": 2064,
+  "attempts": 13811,
+  "fen": "3r1rk1/pp1q1ppp/2n1p3/8/1b1PN3/P1N1P3/1P4PP/R2Q1RK1 b - - 0 15",
+  "color": "white",
+  "initialPly": 30,
+  "gameId": "ODwMni3o",
+  "lines": {
+    "e4f6": {
+      "g7f6": {
+        "c3e4": {
+          "f6f5": {
+            "e4f6": {
+              "g8g7": {
+                "f6d7": {
+                  "d8d7": "win"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 347,
+  "enabled": true
+}

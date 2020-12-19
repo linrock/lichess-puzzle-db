@@ -1,0 +1,28 @@
+{
+  "id": 102810,
+  "rating": 2000,
+  "attempts": 7797,
+  "fen": "4rrk1/pp1n1ppp/2p2n2/q2p4/1b1P2P1/2NP1N1P/PP1B1P2/1K1R2QR b - - 0 16",
+  "color": "white",
+  "initialPly": 32,
+  "gameId": "LFCQuwGk",
+  "lines": {
+    "g4g5": {
+      "f6e4": {
+        "d3e4": {
+          "d5e4": {
+            "f3e5": {
+              "c5d4": {
+                "e5d7": {
+                  "d4c3": "win"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 48,
+  "enabled": true
+}

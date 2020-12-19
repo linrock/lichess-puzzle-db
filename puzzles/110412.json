@@ -1,0 +1,20 @@
+{
+  "id": 110412,
+  "rating": 1297,
+  "attempts": 2067,
+  "fen": "3r1rk1/1p4pp/p1n5/3N2n1/2Bp4/8/PP3PPP/R4RK1 b - - 3 21",
+  "color": "white",
+  "initialPly": 42,
+  "gameId": "rokWoS3s",
+  "lines": {
+    "d5e7": {
+      "g8h8": {
+        "e7c6": {
+          "d8d6": "win"
+        }
+      }
+    }
+  },
+  "vote": 49,
+  "enabled": true
+}

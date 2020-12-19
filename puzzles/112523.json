@@ -1,0 +1,28 @@
+{
+  "id": 112523,
+  "rating": 1988,
+  "attempts": 6856,
+  "fen": "r3k2r/2p3pp/p1n2n2/1p3b2/1b1p4/1P1Pq3/PNPNB1PP/R1BQ1R1K b kq - 1 15",
+  "color": "white",
+  "initialPly": 30,
+  "gameId": "13v6pGMu",
+  "lines": {
+    "c1d2": {
+      "e3e6": {
+        "e2f3": {
+          "e8g8": {
+            "f3c6": {
+              "e6c6": {
+                "f1f5": {
+                  "f6d5": "win"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 101,
+  "enabled": true
+}

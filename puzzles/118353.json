@@ -1,0 +1,24 @@
+{
+  "id": 118353,
+  "rating": 1943,
+  "attempts": 8530,
+  "fen": "4rrk1/p5p1/3p2p1/3bbp2/8/2P2P2/PP1N2PP/R1B1R1K1 w - - 0 24",
+  "color": "black",
+  "initialPly": 47,
+  "gameId": "Heicx9EM",
+  "lines": {
+    "e5h2": {
+      "g1f2": {
+        "h2g1": {
+          "f2g1": {
+            "e8e1": {
+              "b2b3": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 210,
+  "enabled": true
+}

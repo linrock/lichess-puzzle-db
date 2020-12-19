@@ -1,0 +1,28 @@
+{
+  "id": 84620,
+  "rating": 1749,
+  "attempts": 33736,
+  "fen": "2kr2r1/p4p1p/4bp2/2bq4/3N4/2N1Q1P1/P4P1P/R2R2K1 b - - 2 20",
+  "color": "white",
+  "initialPly": 40,
+  "gameId": "YaWgWNSG",
+  "lines": {
+    "c3d5": {
+      "d4e3": {
+        "d5e7": {
+          "c8b7": {
+            "e7g8": {
+              "e3f2": {
+                "g1f2": {
+                  "d8g8": "win"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 427,
+  "enabled": true
+}

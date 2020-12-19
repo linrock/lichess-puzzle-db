@@ -1,0 +1,24 @@
+{
+  "id": 90105,
+  "rating": 2237,
+  "attempts": 4856,
+  "fen": "r1b2rk1/pppp1ppp/3b1q2/3nn3/2B1P3/P1N5/1P1B1PPP/R2Q1RK1 w - - 0 12",
+  "color": "black",
+  "initialPly": 23,
+  "gameId": "TGKp914G",
+  "lines": {
+    "f6h4": {
+      "d2f4": {
+        "e5c4": {
+          "f4d6": {
+            "c7d6": {
+              "b2b3": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 62,
+  "enabled": true
+}

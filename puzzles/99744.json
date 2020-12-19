@@ -1,0 +1,28 @@
+{
+  "id": 99744,
+  "rating": 1647,
+  "attempts": 61198,
+  "fen": "6k1/6p1/7p/RN2b1Bn/1P6/2P5/1r6/6K1 w - - 0 34",
+  "color": "black",
+  "initialPly": 67,
+  "gameId": "FrpL1Of7",
+  "lines": {
+    "e5h2": {
+      "g1f1": {
+        "h5g3": {
+          "f1e1": {
+            "b2e2": {
+              "e1d1": {
+                "e2e7": {
+                  "a5a8": "win"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 347,
+  "enabled": true
+}

@@ -1,0 +1,24 @@
+{
+  "id": 116783,
+  "rating": 1685,
+  "attempts": 9010,
+  "fen": "2rq1rk1/1p1b1pp1/p3p1n1/3pP2p/1b1P1P1P/2NQ1N2/PP1B2PK/R4R2 w - - 2 19",
+  "color": "black",
+  "initialPly": 37,
+  "gameId": "jp2Smysv",
+  "lines": {
+    "b4c3": {
+      "d2c3": {
+        "d7b5": {
+          "d3d2": {
+            "b5f1": {
+              "a1f1": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 168,
+  "enabled": true
+}

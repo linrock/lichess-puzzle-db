@@ -1,0 +1,24 @@
+{
+  "id": 98478,
+  "rating": 1941,
+  "attempts": 8685,
+  "fen": "r1b2rk1/ppp5/3p2p1/3Ppnqp/2P1Bb2/1N5P/PP2QPPN/R5RK b - - 5 20",
+  "color": "white",
+  "initialPly": 40,
+  "gameId": "N31668mG",
+  "lines": {
+    "h2f3": {
+      "g3f2": {
+        "e2f2": {
+          "f5g3": {
+            "f2g3": {
+              "f4g3": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 181,
+  "enabled": true
+}

@@ -1,0 +1,26 @@
+{
+  "id": 83929,
+  "rating": 1236,
+  "attempts": 211873,
+  "fen": "4b1r1/ppq3pk/2p2pNp/3p1P1P/3P3R/4P2Q/P7/6K1 b - - 2 38",
+  "color": "white",
+  "initialPly": 76,
+  "gameId": "LOwPC6Ak",
+  "lines": {
+    "h5g6": {
+      "h7h8": {
+        "h4h6": {
+          "g7h6": {
+            "h3h6": {
+              "c7h7": {
+                "h6h7": "win"
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 1943,
+  "enabled": true
+}

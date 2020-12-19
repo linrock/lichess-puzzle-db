@@ -1,0 +1,32 @@
+{
+  "id": 113908,
+  "rating": 2397,
+  "attempts": 1196,
+  "fen": "r3k3/1pqnn1p1/p3B1p1/2P2rPp/7P/2P2P2/PPQ5/2KRR3 b - - 2 25",
+  "color": "white",
+  "initialPly": 50,
+  "gameId": "B2GCGWAR",
+  "lines": {
+    "e6f5": {
+      "c7f4": {
+        "c2d2": {
+          "f4d2": {
+            "d1d2": {
+              "g6f5": {
+                "b2b4": {
+                  "a8c8": {
+                    "b4c5": {
+                      "c8c5": "win"
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 2,
+  "enabled": true
+}

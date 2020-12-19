@@ -1,0 +1,20 @@
+{
+  "id": 111247,
+  "rating": 1086,
+  "attempts": 1179,
+  "fen": "r4rk1/p3b1pp/2p1pq2/4N3/Nn2n1P1/1P5P/2P1QP2/R1B2RK1 w - - 3 22",
+  "color": "black",
+  "initialPly": 43,
+  "gameId": "VNSpRKWN",
+  "lines": {
+    "e4g3": {
+      "e2g2": {
+        "g3f1": {
+          "c2c3": "win"
+        }
+      }
+    }
+  },
+  "vote": 37,
+  "enabled": true
+}

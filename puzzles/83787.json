@@ -1,0 +1,24 @@
+{
+  "id": 83787,
+  "rating": 904,
+  "attempts": 551,
+  "fen": "1q5k/1P3rpp/5r2/2p5/2Q1p3/1R5P/1P4P1/2R4K w - - 3 41",
+  "color": "black",
+  "initialPly": 81,
+  "gameId": "RsIOHUOR",
+  "lines": {
+    "f6f1": {
+      "c1f1": {
+        "f7f1": {
+          "c5g1": {
+            "f1g1": {
+              "h1g1": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 15,
+  "enabled": true
+}

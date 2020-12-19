@@ -1,0 +1,24 @@
+{
+  "id": 62852,
+  "rating": 1147,
+  "attempts": 58790,
+  "fen": "1r1r1b1k/1bpq1pp1/ppn1p2p/4P3/1P1PB3/P3BN2/2Q2PPP/2R2RK1 b - - 7 23",
+  "color": "white",
+  "initialPly": 46,
+  "gameId": "LmoDgNGl",
+  "lines": {
+    "e4c6": {
+      "d7c6": {
+        "c2c6": {
+          "b7c6": {
+            "c1c6": {
+              "a6a5": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 490,
+  "enabled": true
+}

@@ -1,0 +1,36 @@
+{
+  "id": 65037,
+  "rating": 2816,
+  "attempts": 1380,
+  "fen": "3b3r/pRN5/3p4/P3p3/1P2P3/1kNP4/5KP1/2n5 w - - 2 47",
+  "color": "black",
+  "initialPly": 93,
+  "gameId": "vPG46PH0",
+  "lines": {
+    "h8f8": {
+      "f2e1": {
+        "d8h4": {
+          "g2g3": {
+            "c1d3": {
+              "e1d2": {
+                "h4g5": {
+                  "e2f4": {
+                    "e5f4": {
+                      "g3f4": {
+                        "d3f4": {
+                          "c7b5": "win"
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 19,
+  "enabled": true
+}

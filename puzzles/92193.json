@@ -1,0 +1,24 @@
+{
+  "id": 92193,
+  "rating": 1119,
+  "attempts": 1856,
+  "fen": "r2q1r1k/pbpnbppp/1p2p3/6NQ/8/3P2P1/PPP2PBP/R1B2RK1 b - - 4 12",
+  "color": "white",
+  "initialPly": 24,
+  "gameId": "AmO2TYcs",
+  "lines": {
+    "g5f7": {
+      "f8f7": {
+        "h5f7": {
+          "b7g2": {
+            "g1g2": {
+              "d8d6": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 58,
+  "enabled": true
+}

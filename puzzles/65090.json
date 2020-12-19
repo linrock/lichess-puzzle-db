@@ -1,0 +1,20 @@
+{
+  "id": 65090,
+  "rating": 600,
+  "attempts": 1037,
+  "fen": "r4r1k/1p2Q3/2pP3p/1p3p2/8/6R1/2P3PP/q3R2K w - - 5 27",
+  "color": "black",
+  "initialPly": 53,
+  "gameId": "Madky6SF",
+  "lines": {
+    "a1g7": {
+      "g3g7": {
+        "h8g7": {
+          "h2h3": "win"
+        }
+      }
+    }
+  },
+  "vote": -4,
+  "enabled": true
+}

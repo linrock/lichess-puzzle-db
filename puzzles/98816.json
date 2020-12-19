@@ -1,0 +1,28 @@
+{
+  "id": 98816,
+  "rating": 1293,
+  "attempts": 53756,
+  "fen": "3q1k1r/2r5/p3p1R1/1p1bP2p/2nP3P/P5Q1/5PP1/R1B1K3 b Q - 0 28",
+  "color": "white",
+  "initialPly": 56,
+  "gameId": "BvlXRM5e",
+  "lines": {
+    "c1h6": {
+      "f8e8": {
+        "g6g8": {
+          "h8g8": {
+            "g3g8": {
+              "e8d7": {
+                "g8f7": {
+                  "d7c8": "win"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 158,
+  "enabled": true
+}

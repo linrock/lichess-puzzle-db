@@ -1,0 +1,28 @@
+{
+  "id": 114833,
+  "rating": 2069,
+  "attempts": 7761,
+  "fen": "8/p4k2/8/1bPQ4/3R4/8/P5K1/4qr2 b - - 1 49",
+  "color": "white",
+  "initialPly": 98,
+  "gameId": "ThAkQegV",
+  "lines": {
+    "d4g4": {
+      "g7f6": {
+        "d5d6": {
+          "e1e6": {
+            "g4g6": {
+              "f6g6": {
+                "d6e6": {
+                  "f1f6": "win"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 15,
+  "enabled": true
+}

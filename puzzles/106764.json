@@ -1,0 +1,28 @@
+{
+  "id": 106764,
+  "rating": 2152,
+  "attempts": 4109,
+  "fen": "1k5r/1p3pq1/p1pPp3/P3P1p1/8/5QP1/1P3P2/R4K2 w - - 3 31",
+  "color": "black",
+  "initialPly": 61,
+  "gameId": "opGLBsHS",
+  "lines": {
+    "h8h1": {
+      "f1e2": {
+        "h1a1": {
+          "d6d7": {
+            "g7h8": {
+              "e3d4": {
+                "h8d8": {
+                  "b2b4": "win"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 34,
+  "enabled": true
+}

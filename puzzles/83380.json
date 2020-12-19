@@ -1,0 +1,28 @@
+{
+  "id": 83380,
+  "rating": 2388,
+  "attempts": 2805,
+  "fen": "2k1r3/1p1bb3/p7/2pnP3/7p/P3B3/1P4NP/R3R1K1 w - - 1 30",
+  "color": "black",
+  "initialPly": 59,
+  "gameId": "sAv070Pu",
+  "lines": {
+    "e8g8": {
+      "g1f2": {
+        "g8f8": {
+          "f2f3": {
+            "e7g5": {
+              "e1g1": {
+                "g5f4": {
+                  "e3c5": "win"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 54,
+  "enabled": true
+}

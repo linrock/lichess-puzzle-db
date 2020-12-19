@@ -1,0 +1,24 @@
+{
+  "id": 97009,
+  "rating": 2162,
+  "attempts": 4189,
+  "fen": "1r4k1/1r1bbp1p/Q2p2pP/4p3/p3P1P1/2P1BP2/P1P5/K6R w - - 1 29",
+  "color": "black",
+  "initialPly": 57,
+  "gameId": "TrBy12rw",
+  "lines": {
+    "d6d5": {
+      "c4d5": {
+        "e7a3": {
+          "d5b7": {
+            "b8b7": {
+              "e3c1": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 107,
+  "enabled": true
+}

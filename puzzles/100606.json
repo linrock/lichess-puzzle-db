@@ -1,0 +1,20 @@
+{
+  "id": 100606,
+  "rating": 951,
+  "attempts": 125,
+  "fen": "8/5k2/1P2r3/6Rp/p4Pb1/2B5/1P6/5K2 w - - 7 46",
+  "color": "black",
+  "initialPly": 91,
+  "gameId": "XpITGNHt",
+  "lines": {
+    "g4e2": {
+      "f1f2": {
+        "e2b5": {
+          "c3d4": "win"
+        }
+      }
+    }
+  },
+  "vote": -3,
+  "enabled": true
+}

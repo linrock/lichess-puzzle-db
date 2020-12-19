@@ -1,0 +1,20 @@
+{
+  "id": 64148,
+  "rating": 2030,
+  "attempts": 73728,
+  "fen": "3r1rk1/BB3pp1/3bb2p/2R5/1P6/6P1/4PP1P/5RK1 w - - 3 24",
+  "color": "black",
+  "initialPly": 47,
+  "gameId": "qaieAIKU",
+  "lines": {
+    "d6c5": {
+      "d1d8": {
+        "c5a7": {
+          "d8d1": "win"
+        }
+      }
+    }
+  },
+  "vote": 944,
+  "enabled": true
+}

@@ -1,0 +1,20 @@
+{
+  "id": 82501,
+  "rating": 1340,
+  "attempts": 10280,
+  "fen": "1r1r2k1/3Bnpb1/1p1p1q1p/pPpPp3/P1P1PpQ1/2N4P/5PP1/1R3RK1 w - - 0 25",
+  "color": "black",
+  "initialPly": 49,
+  "gameId": "VcBCXG83",
+  "lines": {
+    "h6h5": {
+      "g4h5": {
+        "d8d7": {
+          "g1h2": "win"
+        }
+      }
+    }
+  },
+  "vote": 218,
+  "enabled": true
+}

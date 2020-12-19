@@ -1,0 +1,24 @@
+{
+  "id": 100587,
+  "rating": 1117,
+  "attempts": 1520,
+  "fen": "7k/pp2pQ1p/2p3p1/4b3/3q4/6PP/PPP2n1K/4R3 b - - 0 28",
+  "color": "white",
+  "initialPly": 56,
+  "gameId": "WOmbojek",
+  "lines": {
+    "h3g4": {
+      "d4d2": {
+        "h2h3": {
+          "d2h6": {
+            "h3g2": {
+              "e5d6": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": -45,
+  "enabled": true
+}

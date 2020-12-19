@@ -1,0 +1,24 @@
+{
+  "id": 78170,
+  "rating": 1627,
+  "attempts": 30810,
+  "fen": "r2qkb1r/ppp1pppp/2n5/3n1b2/3P4/2N1PN2/PP3PPP/R1BQKB1R b KQkq - 0 6",
+  "color": "white",
+  "initialPly": 12,
+  "gameId": "RK210lDa",
+  "lines": {
+    "e3e4": {
+      "d5c3": {
+        "b2c3": {
+          "f5e4": {
+            "c3b4": {
+              "e7e6": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 428,
+  "enabled": true
+}

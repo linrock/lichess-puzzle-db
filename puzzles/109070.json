@@ -1,0 +1,24 @@
+{
+  "id": 109070,
+  "rating": 1829,
+  "attempts": 7838,
+  "fen": "1r2k2r/5ppp/p1b1p3/2qpP3/8/4R2P/PP1QNPP1/1R4K1 b k - 1 20",
+  "color": "white",
+  "initialPly": 40,
+  "gameId": "vZnanBtG",
+  "lines": {
+    "b1c1": {
+      "c5b4": {
+        "d2b4": {
+          "b8b4": {
+            "c1c6": {
+              "b4b2": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 122,
+  "enabled": true
+}

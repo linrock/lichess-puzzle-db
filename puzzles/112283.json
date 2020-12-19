@@ -1,0 +1,24 @@
+{
+  "id": 112283,
+  "rating": 1909,
+  "attempts": 7805,
+  "fen": "r5k1/p1pp2pp/1p2p1q1/4P3/4b2Q/2P5/P1P1BRPP/6K1 b - - 9 21",
+  "color": "white",
+  "initialPly": 42,
+  "gameId": "hdUlmBoG",
+  "lines": {
+    "e2h5": {
+      "f8f2": {
+        "h5g6": {
+          "f2g2": {
+            "g1f1": {
+              "h7g6": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 157,
+  "enabled": true
+}

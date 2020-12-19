@@ -1,0 +1,24 @@
+{
+  "id": 76530,
+  "rating": 2188,
+  "attempts": 10350,
+  "fen": "1R6/p4pkp/6p1/2Br4/4b3/5qP1/4NP1P/3Q1RK1 w - - 3 24",
+  "color": "black",
+  "initialPly": 47,
+  "gameId": "EVRaNzCg",
+  "lines": {
+    "g7f6": {
+      "d1a1": {
+        "f6f5": {
+          "a1e5": {
+            "f5e5": {
+              "b8e8": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 192,
+  "enabled": true
+}

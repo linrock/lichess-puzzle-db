@@ -1,0 +1,24 @@
+{
+  "id": 72077,
+  "rating": 1264,
+  "attempts": 10413,
+  "fen": "2k4r/1p5q/8/pP1Q1p2/P2PpPp1/4P1P1/6K1/5R2 w - - 1 33",
+  "color": "black",
+  "initialPly": 65,
+  "gameId": "l73cutsu",
+  "lines": {
+    "c8b8": {
+      "d5e5": {
+        "b8a8": {
+          "e5h8": {
+            "h7h8": {
+              "c1h1": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": -290,
+  "enabled": true
+}

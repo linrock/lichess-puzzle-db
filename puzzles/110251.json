@@ -1,0 +1,28 @@
+{
+  "id": 110251,
+  "rating": 2039,
+  "attempts": 6113,
+  "fen": "q4rk1/2pbbppp/3p4/1p1nP3/1n1P4/1BN2N2/1P3PPP/2BQR1K1 b - - 2 15",
+  "color": "white",
+  "initialPly": 30,
+  "gameId": "vZeyNraj",
+  "lines": {
+    "c3d5": {
+      "b4d5": {
+        "e1e5": {
+          "d7c6": {
+            "b3d5": {
+              "c6d5": {
+                "e5e7": {
+                  "c7c6": "win"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 117,
+  "enabled": true
+}

@@ -1,0 +1,28 @@
+{
+  "id": 122017,
+  "rating": 1740,
+  "attempts": 36916,
+  "fen": "3r1rk1/pp4p1/3qpn1p/8/3np3/1NN5/PP3PPP/R2QR1K1 w - - 0 18",
+  "color": "black",
+  "initialPly": 35,
+  "gameId": "iCltoAO7",
+  "lines": {
+    "f6e4": {
+      "e1e4": {
+        "d4f3": {
+          "g2f3": {
+            "d6d1": {
+              "a1d1": {
+                "d8d1": {
+                  "g1g2": "win"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 164,
+  "enabled": true
+}

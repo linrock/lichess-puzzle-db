@@ -1,0 +1,28 @@
+{
+  "id": 93405,
+  "rating": 1536,
+  "attempts": 38423,
+  "fen": "6k1/p2r4/1p4p1/4p2p/P4B2/1P3RPP/1b3PK1/8 w - - 0 43",
+  "color": "black",
+  "initialPly": 85,
+  "gameId": "Ds787mf3",
+  "lines": {
+    "e5e4": {
+      "f3f4": {
+        "b2c1": {
+          "f4f6": {
+            "c1g5": {
+              "f6g6": {
+                "d7g7": {
+                  "g6d6": "win"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 353,
+  "enabled": true
+}

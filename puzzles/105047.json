@@ -1,0 +1,28 @@
+{
+  "id": 105047,
+  "rating": 1000,
+  "attempts": 945,
+  "fen": "r3r1k1/pp3p2/1nn3p1/6Qp/8/qN3PP1/P2R2BP/2R4K w - - 4 27",
+  "color": "black",
+  "initialPly": 53,
+  "gameId": "CstxjYS3",
+  "lines": {
+    "a3c1": {
+      "b3c1": {
+        "e8e1": {
+          "g2f1": {
+            "e1f1": {
+              "h1g2": {
+                "f1c1": {
+                  "f4f5": "win"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 19,
+  "enabled": true
+}

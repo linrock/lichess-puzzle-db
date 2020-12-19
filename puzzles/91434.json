@@ -1,0 +1,28 @@
+{
+  "id": 91434,
+  "rating": 1448,
+  "attempts": 81058,
+  "fen": "1Qb3k1/1p3qp1/p1p4p/2Pp4/1P1PpN1P/8/P5P1/6K1 b - - 1 27",
+  "color": "white",
+  "initialPly": 54,
+  "gameId": "GCFUBFoh",
+  "lines": {
+    "f4g6": {
+      "f8e8": {
+        "b8c8": {
+          "e8c8": {
+            "g6e7": {
+              "g8f7": {
+                "e7c8": {
+                  "f7e6": "win"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 242,
+  "enabled": true
+}

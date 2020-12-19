@@ -1,0 +1,24 @@
+{
+  "id": 79561,
+  "rating": 1744,
+  "attempts": 28798,
+  "fen": "8/1p4bk/p5pp/8/3Br3/3n1KPP/PPN5/1R6 b - - 2 37",
+  "color": "white",
+  "initialPly": 74,
+  "gameId": "yxdpORTd",
+  "lines": {
+    "c2d4": {
+      "g7d4": {
+        "f3e4": {
+          "d4c5": {
+            "e4d3": {
+              "c5d6": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 407,
+  "enabled": true
+}

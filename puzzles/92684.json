@@ -1,0 +1,24 @@
+{
+  "id": 92684,
+  "rating": 1494,
+  "attempts": 36873,
+  "fen": "r4r1k/pp1b1pqp/8/5P2/3pP2Q/3R3P/PP4B1/R6K b - - 0 25",
+  "color": "white",
+  "initialPly": 50,
+  "gameId": "CzopNcES",
+  "lines": {
+    "f5f6": {
+      "g7g6": {
+        "d3g3": {
+          "g6g3": {
+            "h4g3": {
+              "f8g8": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 273,
+  "enabled": true
+}

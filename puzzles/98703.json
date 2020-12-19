@@ -1,0 +1,24 @@
+{
+  "id": 98703,
+  "rating": 1470,
+  "attempts": 8651,
+  "fen": "r1bqkb1r/1pp2ppp/p1np1n2/1B1P4/Q3p3/2P2N2/PP3PPP/RNB1R1K1 b kq - 1 9",
+  "color": "white",
+  "initialPly": 18,
+  "gameId": "RyNbg846",
+  "lines": {
+    "d5c6": {
+      "a6b5": {
+        "c6d7": {
+          "e8d7": {
+            "a4b5": {
+              "d7c8": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 186,
+  "enabled": true
+}

@@ -1,0 +1,24 @@
+{
+  "id": 92940,
+  "rating": 1445,
+  "attempts": 10310,
+  "fen": "rn1qr1k1/1b1pnpbp/p3p1p1/1p4B1/3PP3/1BN2N2/PP1Q1PPP/R3R1K1 b - - 3 12",
+  "color": "white",
+  "initialPly": 24,
+  "gameId": "sesCYGDX",
+  "lines": {
+    "d4d5": {
+      "c6a5": {
+        "d5d6": {
+          "f7f6": {
+            "d6e7": {
+              "d8e7": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 168,
+  "enabled": true
+}

@@ -1,0 +1,20 @@
+{
+  "id": 100759,
+  "rating": 794,
+  "attempts": 166,
+  "fen": "r1bq2k1/1p1pn1b1/p3p2p/2p1Pp1Q/2Bn1P2/3P4/PPP3P1/R1B1K1NR w KQ - 2 15",
+  "color": "black",
+  "initialPly": 29,
+  "gameId": "6nEgurLp",
+  "lines": {
+    "d4c2": {
+      "e1f2": {
+        "c2a1": {
+          "g1f3": "win"
+        }
+      }
+    }
+  },
+  "vote": 6,
+  "enabled": true
+}

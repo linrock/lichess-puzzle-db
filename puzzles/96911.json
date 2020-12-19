@@ -1,0 +1,24 @@
+{
+  "id": 96911,
+  "rating": 2101,
+  "attempts": 4481,
+  "fen": "r2qk2r/1p2b1pp/2p1pnp1/4N1B1/3P2P1/1PP5/2P1QP2/2KR3R w kq - 0 18",
+  "color": "black",
+  "initialPly": 35,
+  "gameId": "tfK2Fx42",
+  "lines": {
+    "d8a5": {
+      "e2e6": {
+        "a5g5": {
+          "c1b2": {
+            "g5g6": {
+              "d1a1": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 124,
+  "enabled": true
+}

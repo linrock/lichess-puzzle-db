@@ -1,0 +1,24 @@
+{
+  "id": 62040,
+  "rating": 1498,
+  "attempts": 123797,
+  "fen": "8/4r1k1/pp2pr1p/1b1p3R/1P1K1P2/2P3P1/1PB5/4R3 w - - 1 36",
+  "color": "black",
+  "initialPly": 71,
+  "gameId": "gcMonpvh",
+  "lines": {
+    "f6f5": {
+      "c2f5": {
+        "e6f5": {
+          "e5d6": {
+            "e7e1": {
+              "h5f5": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 1958,
+  "enabled": true
+}

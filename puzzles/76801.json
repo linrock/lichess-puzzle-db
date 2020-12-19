@@ -1,0 +1,28 @@
+{
+  "id": 76801,
+  "rating": 1355,
+  "attempts": 20300,
+  "fen": "r1br2k1/1p2ppbp/n2q2p1/p1p5/2BP4/PP2PN1P/1B3PP1/R2Q1RK1 w - - 4 14",
+  "color": "black",
+  "initialPly": 27,
+  "gameId": "Z744BUmT",
+  "lines": {
+    "d6d1": {
+      "a1d1": {
+        "d8d1": {
+          "f1d1": {
+            "g7b2": {
+              "d1d8": {
+                "g8g7": {
+                  "c5c6": "win"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 314,
+  "enabled": true
+}

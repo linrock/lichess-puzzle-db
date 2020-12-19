@@ -1,0 +1,28 @@
+{
+  "id": 119896,
+  "rating": 2125,
+  "attempts": 4047,
+  "fen": "rnk4r/pp1q2p1/1bp1RnBp/3b1P2/Q4B2/2N5/PP4PP/3R3K b - - 4 22",
+  "color": "white",
+  "initialPly": 44,
+  "gameId": "gkwILOv4",
+  "lines": {
+    "c3d5": {
+      "c6d5": {
+        "d1c1": {
+          "c8d8": {
+            "e6d6": {
+              "d7d6": {
+                "f4d6": {
+                  "a8c8": "win"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": -1,
+  "enabled": true
+}

@@ -1,0 +1,24 @@
+{
+  "id": 92510,
+  "rating": 1295,
+  "attempts": 37936,
+  "fen": "2r2bk1/ppr2p1p/2nq2p1/4p3/1PR1P3/PQ4P1/1B3PBP/2R3K1 w - - 0 28",
+  "color": "black",
+  "initialPly": 55,
+  "gameId": "wN64sFBM",
+  "lines": {
+    "c6a5": {
+      "c4c7": {
+        "a5b3": {
+          "c7c8": {
+            "b3c1": {
+              "b2c1": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 195,
+  "enabled": true
+}

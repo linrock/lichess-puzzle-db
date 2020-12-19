@@ -1,0 +1,28 @@
+{
+  "id": 124164,
+  "rating": 2215,
+  "attempts": 4978,
+  "fen": "2r3k1/4Qp2/p1r3p1/1p4Pp/5PqP/1P1R4/1KPR4/8 b - - 10 34",
+  "color": "white",
+  "initialPly": 68,
+  "gameId": "LMctbhQs",
+  "lines": {
+    "d3d8": {
+      "g8h7": {
+        "e7e8": {
+          "c6c2": {
+            "d2c2": {
+              "f4d4": {
+                "d8d4": {
+                  "c8e8": "win"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 57,
+  "enabled": true
+}

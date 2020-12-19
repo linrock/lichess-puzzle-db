@@ -1,0 +1,24 @@
+{
+  "id": 68035,
+  "rating": 1812,
+  "attempts": 47747,
+  "fen": "8/kp6/p2p1p2/2pPpB2/Q3P2r/P1N5/KPP4b/5q2 b - - 1 42",
+  "color": "white",
+  "initialPly": 84,
+  "gameId": "oKEKdsOV",
+  "lines": {
+    "a4a5": {
+      "f1c4": {
+        "b2b3": {
+          "c4c3": {
+            "a5c3": {
+              "a7b6": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 309,
+  "enabled": true
+}

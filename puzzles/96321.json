@@ -1,0 +1,24 @@
+{
+  "id": 96321,
+  "rating": 2452,
+  "attempts": 808,
+  "fen": "rnbk4/1p1p2Q1/8/p1p3N1/2P2P2/8/P2q1PPP/5RK1 b - - 0 20",
+  "color": "white",
+  "initialPly": 40,
+  "gameId": "MqiaRnnu",
+  "lines": {
+    "g7h6": {
+      "a8a6": {
+        "g5e6": {
+          "a6e6": {
+            "h6f4": {
+              "b8c6": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 24,
+  "enabled": true
+}

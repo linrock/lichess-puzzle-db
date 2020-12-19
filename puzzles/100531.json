@@ -1,0 +1,20 @@
+{
+  "id": 100531,
+  "rating": 1400,
+  "attempts": 5583,
+  "fen": "2q1rrk1/p1p3p1/2p4p/2b1pp2/8/1PNQP2P/1P4P1/3R1RK1 b - - 0 21",
+  "color": "white",
+  "initialPly": 42,
+  "gameId": "AZtex18I",
+  "lines": {
+    "d3c4": {
+      "g8h7": {
+        "c4c5": {
+          "c8e6": "win"
+        }
+      }
+    }
+  },
+  "vote": 107,
+  "enabled": true
+}

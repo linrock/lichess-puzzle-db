@@ -1,0 +1,28 @@
+{
+  "id": 110840,
+  "rating": 1750,
+  "attempts": 77618,
+  "fen": "5k2/3R4/6n1/5Np1/4r1P1/6P1/5K2/8 b - - 2 50",
+  "color": "white",
+  "initialPly": 100,
+  "gameId": "EDoGy6sX",
+  "lines": {
+    "d7d8": {
+      "f8f7": {
+        "f5h6": {
+          "f7e7": {
+            "d8g8": {
+              "g4b4": {
+                "g8g6": {
+                  "b4b3": "win"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 245,
+  "enabled": true
+}

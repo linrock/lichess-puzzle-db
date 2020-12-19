@@ -1,0 +1,24 @@
+{
+  "id": 106518,
+  "rating": 2016,
+  "attempts": 7574,
+  "fen": "r3r1k1/pp3pp1/3bbq1p/3pn3/8/1NPQ1N2/PP2BPPP/R3R1K1 w - - 5 15",
+  "color": "black",
+  "initialPly": 29,
+  "gameId": "Jl2W402S",
+  "lines": {
+    "e5f3": {
+      "e2f3": {
+        "f6f4": {
+          "g2g3": {
+            "f4f3": {
+              "b3d4": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 179,
+  "enabled": true
+}

@@ -1,0 +1,28 @@
+{
+  "id": 94950,
+  "rating": 2121,
+  "attempts": 6318,
+  "fen": "r1bq1rk1/pp2bpp1/4pn1p/2p3B1/3n3Q/2NB1N2/PPP3PP/3R1RK1 w - - 0 12",
+  "color": "black",
+  "initialPly": 23,
+  "gameId": "MmP5GW97",
+  "lines": {
+    "d4f3": {
+      "f1f3": {
+        "d8d4": {
+          "h4d4": {
+            "c5d4": {
+              "h6g7": {
+                "g8g7": {
+                  "f3g3": "win"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 143,
+  "enabled": true
+}

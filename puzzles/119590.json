@@ -1,0 +1,24 @@
+{
+  "id": 119590,
+  "rating": 1241,
+  "attempts": 2359,
+  "fen": "r1b1kb1r/p3pppp/2p2n2/2pq4/8/2P5/PP1PBPPP/RNBQK2R b KQkq - 1 8",
+  "color": "white",
+  "initialPly": 16,
+  "gameId": "LoNUiFIR",
+  "lines": {
+    "e2f3": {
+      "g2g6": {
+        "f3c6": {
+          "c8d7": {
+            "c6a8": {
+              "e7e5": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 60,
+  "enabled": true
+}

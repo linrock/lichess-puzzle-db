@@ -1,0 +1,28 @@
+{
+  "id": 76064,
+  "rating": 1996,
+  "attempts": 19688,
+  "fen": "4b1r1/2n1k3/1p1p1p1q/p1pPpP1N/P1PnP1BQ/1P1R3P/5K2/6R1 b - - 6 44",
+  "color": "white",
+  "initialPly": 88,
+  "gameId": "mszzBnun",
+  "lines": {
+    "h4h5": {
+      "h6f4": {
+        "g4f3": {
+          "f4h2": {
+            "g1g2": {
+              "g8g2": {
+                "f3g2": {
+                  "h2f4": "win"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 100,
+  "enabled": true
+}

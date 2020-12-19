@@ -1,0 +1,28 @@
+{
+  "id": 91815,
+  "rating": 1954,
+  "attempts": 10182,
+  "fen": "1r3k1r/p4ppp/Qpn4q/8/3P4/2P2P1B/2P4P/2KRR3 w - - 10 22",
+  "color": "black",
+  "initialPly": 43,
+  "gameId": "N1Boimsi",
+  "lines": {
+    "h6h3": {
+      "d4d5": {
+        "c6a5": {
+          "a6a7": {
+            "h3c8": {
+              "a7e7": {
+                "f8g8": {
+                  "d5d6": "win"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 147,
+  "enabled": true
+}

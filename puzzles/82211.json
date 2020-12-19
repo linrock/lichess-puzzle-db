@@ -1,0 +1,20 @@
+{
+  "id": 82211,
+  "rating": 785,
+  "attempts": 174,
+  "fen": "r4bk1/1p3p1p/pNp1b1p1/2n5/2P1P3/1P2BP2/1P2B1PP/3R2K1 w - - 2 23",
+  "color": "black",
+  "initialPly": 45,
+  "gameId": "pSetDlII",
+  "lines": {
+    "f8c5": {
+      "g1f1": {
+        "c5b6": {
+          "f1e1": "win"
+        }
+      }
+    }
+  },
+  "vote": 6,
+  "enabled": true
+}

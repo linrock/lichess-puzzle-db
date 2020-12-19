@@ -1,0 +1,24 @@
+{
+  "id": 63363,
+  "rating": 1835,
+  "attempts": 117810,
+  "fen": "rn1qr1k1/5ppp/2p1bp2/pp6/3P2P1/3BPN1P/PPPQ4/2KR3R w - - 1 14",
+  "color": "black",
+  "initialPly": 27,
+  "gameId": "Wolnsh8m",
+  "lines": {
+    "d8d5": {
+      "c2c4": {
+        "d5f3": {
+          "d1f1": {
+            "f3g3": {
+              "c4b5": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 1545,
+  "enabled": true
+}

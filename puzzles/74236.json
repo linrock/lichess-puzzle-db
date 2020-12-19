@@ -1,0 +1,24 @@
+{
+  "id": 74236,
+  "rating": 1061,
+  "attempts": 5825,
+  "fen": "r4rk1/pp5p/3p1p1b/2pP1Pq1/2PpP3/3B2Q1/PP4P1/R4RK1 w - - 0 20",
+  "color": "black",
+  "initialPly": 39,
+  "gameId": "AKaZes10",
+  "lines": {
+    "g5e3": {
+      "g1h2": {
+        "e3d3": {
+          "d6g3": {
+            "d3g3": {
+              "h2g3": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 67,
+  "enabled": true
+}

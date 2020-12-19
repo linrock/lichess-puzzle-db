@@ -1,0 +1,24 @@
+{
+  "id": 115478,
+  "rating": 1598,
+  "attempts": 10006,
+  "fen": "2kr1bnr/ppp2ppp/4p3/4q3/8/2NPBP2/PPP1QP1P/2KR3R w - - 0 11",
+  "color": "black",
+  "initialPly": 21,
+  "gameId": "gvBvia65",
+  "lines": {
+    "e5e2": {
+      "c3e2": {
+        "b7b6": {
+          "a7b6": {
+            "c7b6": {
+              "d3d4": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 152,
+  "enabled": true
+}

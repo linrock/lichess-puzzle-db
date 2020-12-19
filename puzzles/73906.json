@@ -1,0 +1,24 @@
+{
+  "id": 73906,
+  "rating": 1174,
+  "attempts": 8557,
+  "fen": "r1b1k1nr/ppp1bppp/2n1q3/8/3P1p1P/2N2N2/PPP1B1P1/R1BQK2R b KQkq - 0 8",
+  "color": "white",
+  "initialPly": 16,
+  "gameId": "Z4YBiosK",
+  "lines": {
+    "d4d5": {
+      "e6f6": {
+        "d5c6": {
+          "b4c3": {
+            "b2c3": {
+              "f6c3": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 104,
+  "enabled": true
+}

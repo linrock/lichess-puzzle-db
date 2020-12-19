@@ -1,0 +1,32 @@
+{
+  "id": 86952,
+  "rating": 2244,
+  "attempts": 7826,
+  "fen": "5rk1/bbp1rpp1/p1np3p/1p1Bp3/4P1q1/2PPPN2/PP1BQ1PP/4RRK1 b - - 8 20",
+  "color": "white",
+  "initialPly": 40,
+  "gameId": "duteez8T",
+  "lines": {
+    "d5c6": {
+      "b7c6": {
+        "f3e5": {
+          "g4e2": {
+            "e5g6": {
+              "h8h7": {
+                "g6f8": {
+                  "h7g8": {
+                    "e1e2": {
+                      "g8f8": "win"
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 319,
+  "enabled": true
+}

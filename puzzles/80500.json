@@ -1,0 +1,20 @@
+{
+  "id": 80500,
+  "rating": 1535,
+  "attempts": 17375,
+  "fen": "3r3k/pp4p1/2nq1b1p/2pn1b2/3pNP2/P2P1Q2/BPPB3P/R5KN b - - 1 26",
+  "color": "white",
+  "initialPly": 52,
+  "gameId": "MILLd51b",
+  "lines": {
+    "a2d5": {
+      "d8d5": {
+        "e4f6": {
+          "d5d6": "win"
+        }
+      }
+    }
+  },
+  "vote": 318,
+  "enabled": true
+}

@@ -1,0 +1,24 @@
+{
+  "id": 89710,
+  "rating": 1118,
+  "attempts": 2659,
+  "fen": "k6r/pp2q3/2p2p2/4n2p/4PQn1/2N4B/PPP3P1/2KR4 w - - 3 23",
+  "color": "black",
+  "initialPly": 45,
+  "gameId": "FTCYHD5L",
+  "lines": {
+    "g4e3": {
+      "f5e6": {
+        "e7e6": {
+          "h3e6": {
+            "e3d1": {
+              "c1d1": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 50,
+  "enabled": true
+}

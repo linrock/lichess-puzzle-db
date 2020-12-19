@@ -1,0 +1,24 @@
+{
+  "id": 80777,
+  "rating": 1591,
+  "attempts": 19898,
+  "fen": "r4rk1/1bpN1pp1/p1n1p2p/1p4q1/3P1n2/2PB4/PPQB1PPP/R3R1K1 w - - 4 20",
+  "color": "black",
+  "initialPly": 39,
+  "gameId": "YiVow727",
+  "lines": {
+    "f4h3": {
+      "g1f1": {
+        "g5d5": {
+          "d7f6": {
+            "g7f6": {
+              "d3e4": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 208,
+  "enabled": true
+}

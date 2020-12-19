@@ -1,0 +1,28 @@
+{
+  "id": 74976,
+  "rating": 1533,
+  "attempts": 108951,
+  "fen": "2kr3r/ppq1bppp/2p2n2/4nP2/8/2NB2QP/PPPB2P1/R3R1K1 b - - 1 15",
+  "color": "white",
+  "initialPly": 30,
+  "gameId": "MK35qSSV",
+  "lines": {
+    "g3c7": {
+      "c8c7": {
+        "e1e7": {
+          "d8d7": {
+            "e7d7": {
+              "c7d7": {
+                "c2d3": {
+                  "b7b6": "win"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 527,
+  "enabled": true
+}

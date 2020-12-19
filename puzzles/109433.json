@@ -1,0 +1,24 @@
+{
+  "id": 109433,
+  "rating": 1924,
+  "attempts": 7820,
+  "fen": "3r2k1/1pq2pp1/p1n2b1p/8/1PQP4/P2B1N1P/5PP1/4R1K1 b - - 2 21",
+  "color": "white",
+  "initialPly": 42,
+  "gameId": "VB1TIpsU",
+  "lines": {
+    "c4c5": {
+      "f6e7": {
+        "e1e7": {
+          "c7e7": {
+            "c5c6": {
+              "e7d6": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 26,
+  "enabled": true
+}

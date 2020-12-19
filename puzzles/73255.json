@@ -1,0 +1,19 @@
+{
+  "id": 73255,
+  "rating": 1500,
+  "attempts": 5,
+  "fen": "6R1/8/8/2b5/3kp1P1/2n5/5PK1/8 b - - 0 62",
+  "color": "white",
+  "initialPly": 124,
+  "gameId": "Kinpa80p",
+  "lines": {
+    "g8d8": {
+      "d4e5": {
+        "d8d1": {
+          "e4e3": "win"
+        }
+      }
+    }
+  },
+  "vote": -9000
+}

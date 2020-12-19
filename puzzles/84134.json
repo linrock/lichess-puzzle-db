@@ -1,0 +1,20 @@
+{
+  "id": 84134,
+  "rating": 884,
+  "attempts": 445,
+  "fen": "Q5k1/p4p2/1p2p3/2p3p1/7b/8/2KB3P/q7 b - - 1 42",
+  "color": "white",
+  "initialPly": 84,
+  "gameId": "GNVKIHQ1",
+  "lines": {
+    "d2c3": {
+      "a1c3": {
+        "c2c3": {
+          "b6b5": "win"
+        }
+      }
+    }
+  },
+  "vote": 15,
+  "enabled": true
+}

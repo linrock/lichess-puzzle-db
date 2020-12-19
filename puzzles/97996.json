@@ -1,0 +1,28 @@
+{
+  "id": 97996,
+  "rating": 1812,
+  "attempts": 11453,
+  "fen": "5rk1/5p1p/5R2/8/8/1q6/6PP/4Q2K b - - 0 31",
+  "color": "white",
+  "initialPly": 62,
+  "gameId": "HPHY7QDs",
+  "lines": {
+    "e1a1": {
+      "h8g8": {
+        "f6f3": {
+          "b3b8": {
+            "f3g3": {
+              "b8g3": {
+                "h2g3": {
+                  "f8e8": "win"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 334,
+  "enabled": true
+}

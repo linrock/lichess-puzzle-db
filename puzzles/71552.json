@@ -1,0 +1,28 @@
+{
+  "id": 71552,
+  "rating": 1681,
+  "attempts": 37872,
+  "fen": "2kr1b2/pppq1pp1/2n1b1n1/4P2r/2Pp3p/PN3N1P/1PQ1PPPB/2KR1B1R b - - 3 13",
+  "color": "white",
+  "initialPly": 26,
+  "gameId": "Edy1MnWn",
+  "lines": {
+    "e2e4": {
+      "d4e3": {
+        "d1d7": {
+          "f5c2": {
+            "d7d8": {
+              "c8d8": {
+                "c1c2": {
+                  "e3f2": "win"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 571,
+  "enabled": true
+}

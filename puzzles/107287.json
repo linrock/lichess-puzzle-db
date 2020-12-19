@@ -1,0 +1,28 @@
+{
+  "id": 107287,
+  "rating": 1826,
+  "attempts": 7995,
+  "fen": "3r2k1/p4p1p/2Q1pbp1/8/N7/1P4P1/P1R2PKP/4q3 w - - 0 25",
+  "color": "black",
+  "initialPly": 49,
+  "gameId": "LLURptsm",
+  "lines": {
+    "d8d1": {
+      "c6e8": {
+        "g8g7": {
+          "c5e6": {
+            "e1e6": {
+              "e8e6": {
+                "f7e6": {
+                  "c2c7": "win"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 62,
+  "enabled": true
+}

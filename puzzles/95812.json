@@ -1,0 +1,24 @@
+{
+  "id": 95812,
+  "rating": 2543,
+  "attempts": 1154,
+  "fen": "1rb2rk1/p4p1p/2n1p1pb/2NpP1N1/2qP1P2/2P5/1B3RPP/R2Q2K1 w - - 3 21",
+  "color": "black",
+  "initialPly": 41,
+  "gameId": "LLnPzMek",
+  "lines": {
+    "b8b2": {
+      "g4h3": {
+        "h6g5": {
+          "f2b2": {
+            "c6d4": {
+              "c5d3": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 24,
+  "enabled": true
+}

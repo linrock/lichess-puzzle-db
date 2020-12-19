@@ -1,0 +1,44 @@
+{
+  "id": 108474,
+  "rating": 2114,
+  "attempts": 5485,
+  "fen": "6k1/4pr1p/3p2pB/3qnr2/2p5/1PQ3PP/P3RP2/1R4K1 w - - 4 26",
+  "color": "black",
+  "initialPly": 51,
+  "gameId": "FSQiMgHn",
+  "lines": {
+    "e5f3": {
+      "g1h1": {
+        "d5a8": {
+          "c3b3": {
+            "f3d4": {
+              "b3b7": {
+                "a8b7": {
+                  "b1b7": {
+                    "d4e2": {
+                      "b7b8": {
+                        "f7f8": {
+                          "h6f8": {
+                            "f5f8": {
+                              "b8f8": {
+                                "g8f8": {
+                                  "h1g2": "win"
+                                }
+                              }
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 132,
+  "enabled": true
+}

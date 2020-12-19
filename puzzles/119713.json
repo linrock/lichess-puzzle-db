@@ -1,0 +1,28 @@
+{
+  "id": 119713,
+  "rating": 1322,
+  "attempts": 4727,
+  "fen": "2r2r2/5pkp/1p1p2p1/pP2p1P1/2PNPn1P/5Bq1/P2Q4/2R2K1R w - - 0 26",
+  "color": "black",
+  "initialPly": 51,
+  "gameId": "DN5Turb3",
+  "lines": {
+    "g3f2": {
+      "f1f2": {
+        "f4d3": {
+          "f2e3": {
+            "d3c1": {
+              "h1c1": {
+                "e5d4": {
+                  "e3d4": "win"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 107,
+  "enabled": true
+}

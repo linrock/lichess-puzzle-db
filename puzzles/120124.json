@@ -1,0 +1,20 @@
+{
+  "id": 120124,
+  "rating": 1040,
+  "attempts": 405,
+  "fen": "r2q1rk1/1pp1ppbp/p1np2p1/5b2/3P1P2/2P1NN2/PP2BPPP/R2Q1RK1 b - - 1 11",
+  "color": "white",
+  "initialPly": 22,
+  "gameId": "MueLL69V",
+  "lines": {
+    "d4d5": {
+      "e6d7": {
+        "d5c6": {
+          "d7c6": "win"
+        }
+      }
+    }
+  },
+  "vote": -1,
+  "enabled": true
+}

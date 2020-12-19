@@ -1,0 +1,24 @@
+{
+  "id": 103996,
+  "rating": 1266,
+  "attempts": 5076,
+  "fen": "1rb2rk1/pp3ppp/1q2pn2/4N1Q1/5P2/1P4P1/P5BP/2R2R1K b - - 4 21",
+  "color": "white",
+  "initialPly": 42,
+  "gameId": "TzHazMWs",
+  "lines": {
+    "c1c8": {
+      "b8c8": {
+        "e5d7": {
+          "b6e3": {
+            "d7f8": {
+              "g8f8": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 102,
+  "enabled": true
+}

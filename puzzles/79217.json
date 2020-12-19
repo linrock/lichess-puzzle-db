@@ -1,0 +1,24 @@
+{
+  "id": 79217,
+  "rating": 1414,
+  "attempts": 16224,
+  "fen": "r2q2k1/pp3r2/4Qp2/3p2n1/3Bb3/P1P3R1/2P3P1/4R1K1 w - - 2 32",
+  "color": "black",
+  "initialPly": 63,
+  "gameId": "VPaLTAjX",
+  "lines": {
+    "d5e4": {
+      "g3g5": {
+        "f6g5": {
+          "e6g6": {
+            "g8f8": {
+              "d4c5": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 213,
+  "enabled": true
+}

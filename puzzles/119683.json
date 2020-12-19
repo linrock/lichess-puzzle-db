@@ -1,0 +1,28 @@
+{
+  "id": 119683,
+  "rating": 2271,
+  "attempts": 4539,
+  "fen": "6r1/1P1nkp2/3rp3/8/2PP3p/Q7/5n1K/1R6 b - - 1 41",
+  "color": "white",
+  "initialPly": 82,
+  "gameId": "NQKULaGn",
+  "lines": {
+    "b1g1": {
+      "f2g4": {
+        "g1g4": {
+          "g8g4": {
+            "c4c5": {
+              "g4d4": {
+                "c5d6": {
+                  "d4d6": "win"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 43,
+  "enabled": true
+}

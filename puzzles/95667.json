@@ -1,0 +1,28 @@
+{
+  "id": 95667,
+  "rating": 2174,
+  "attempts": 4843,
+  "fen": "r4rk1/pp1bnpp1/3q1b1p/3ppP1N/6Q1/P2P4/B1PN2PP/1R3R1K b - - 6 19",
+  "color": "white",
+  "initialPly": 38,
+  "gameId": "VD203sH0",
+  "lines": {
+    "a2d5": {
+      "e7d5": {
+        "d2e4": {
+          "d6e7": {
+            "e4f6": {
+              "e7f6": {
+                "h5f6": {
+                  "d5f6": "win"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 152,
+  "enabled": true
+}

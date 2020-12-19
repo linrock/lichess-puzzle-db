@@ -1,0 +1,24 @@
+{
+  "id": 110054,
+  "rating": 2035,
+  "attempts": 4372,
+  "fen": "4rn1k/ppq3bp/2pR2p1/2P1nbB1/1P2N3/1Q3p1P/P2N2P1/1B4K1 w - - 0 26",
+  "color": "black",
+  "initialPly": 51,
+  "gameId": "HvmPriMM",
+  "lines": {
+    "f5e4": {
+      "b1e4": {
+        "e5f7": {
+          "e4c2": {
+            "f7d6": {
+              "g5f4": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 106,
+  "enabled": true
+}

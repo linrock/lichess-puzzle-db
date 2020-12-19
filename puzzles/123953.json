@@ -1,0 +1,24 @@
+{
+  "id": 123953,
+  "rating": 2222,
+  "attempts": 5309,
+  "fen": "2nr2k1/pp3pp1/2p4p/8/2P1Q2N/1Pq3P1/P4RKP/8 b - - 3 27",
+  "color": "white",
+  "initialPly": 54,
+  "gameId": "NJeR3o50",
+  "lines": {
+    "e4e7": {
+      "c3a5": {
+        "c4c5": {
+          "d8e8": {
+            "e7d6": {
+              "a5e1": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 36,
+  "enabled": true
+}

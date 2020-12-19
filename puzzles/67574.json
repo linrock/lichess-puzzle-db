@@ -1,0 +1,28 @@
+{
+  "id": 67574,
+  "rating": 1361,
+  "attempts": 61729,
+  "fen": "7k/5pp1/1p6/3p4/3Pn3/2P5/2q1QKPP/7R w - - 2 32",
+  "color": "black",
+  "initialPly": 63,
+  "gameId": "IvWIL729",
+  "lines": {
+    "c2c3": {
+      "e2d3": {
+        "c3d3": {
+          "e3d3": {
+            "e4f2": {
+              "d3c3": {
+                "f2h1": {
+                  "c3d3": "win"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 467,
+  "enabled": true
+}

@@ -1,0 +1,24 @@
+{
+  "id": 76130,
+  "rating": 912,
+  "attempts": 1489,
+  "fen": "6k1/3q2pp/4p3/4b3/1pQ5/P3B2P/5PP1/6K1 w - - 0 36",
+  "color": "black",
+  "initialPly": 71,
+  "gameId": "bbPDiIpo",
+  "lines": {
+    "d7d1": {
+      "c4f1": {
+        "e5h2": {
+          "g1h1": {
+            "d1f1": {
+              "h1h2": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 6,
+  "enabled": true
+}

@@ -1,0 +1,24 @@
+{
+  "id": 87274,
+  "rating": 2044,
+  "attempts": 58938,
+  "fen": "r3kb1r/Bp3ppp/2n1p3/8/Q2Nq3/8/PP3PPP/R4RK1 w k - 3 16",
+  "color": "black",
+  "initialPly": 31,
+  "gameId": "3UZazYKI",
+  "lines": {
+    "a8a7": {
+      "a4a7": {
+        "e4e1": {
+          "a1e1": {
+            "c6a7": {
+              "g1f1": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 322,
+  "enabled": true
+}

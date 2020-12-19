@@ -1,0 +1,28 @@
+{
+  "id": 83991,
+  "rating": 2409,
+  "attempts": 18017,
+  "fen": "r5rk/p4p1p/PpN2p2/1Pq5/P4n2/5BPb/7P/R2QR1K1 w - - 2 24",
+  "color": "black",
+  "initialPly": 47,
+  "gameId": "HHXLZRPi",
+  "lines": {
+    "c5f2": {
+      "e1g1": {
+        "a8e8": {
+          "c6d4": {
+            "e8e2": {
+              "d1e2": {
+                "f4e2": {
+                  "f3e2": "win"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 245,
+  "enabled": true
+}

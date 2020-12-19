@@ -1,0 +1,20 @@
+{
+  "id": 66349,
+  "rating": 1430,
+  "attempts": 32733,
+  "fen": "r1n3k1/1ppq1r1p/p2pN1pQ/3Pp1P1/2P1Nn2/7P/PP3P2/R4RK1 b - - 0 21",
+  "color": "white",
+  "initialPly": 42,
+  "gameId": "SCUQQitl",
+  "lines": {
+    "e4f6": {
+      "f4e6": {
+        "f6d7": {
+          "e6d4": "win"
+        }
+      }
+    }
+  },
+  "vote": -151,
+  "enabled": true
+}

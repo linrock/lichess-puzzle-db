@@ -1,0 +1,24 @@
+{
+  "id": 101074,
+  "rating": 2247,
+  "attempts": 3971,
+  "fen": "3N4/4P1k1/3R2pp/pb3p2/5P2/1r4P1/1P1R1K1P/2r5 b - - 0 42",
+  "color": "white",
+  "initialPly": 84,
+  "gameId": "spPpT58e",
+  "lines": {
+    "f2g2": {
+      "h1e1": {
+        "d8e6": {
+          "e1e6": {
+            "d6e6": {
+              "g7f7": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 7,
+  "enabled": true
+}

@@ -1,0 +1,28 @@
+{
+  "id": 107671,
+  "rating": 2513,
+  "attempts": 1718,
+  "fen": "r1b2r1k/pp2q1pp/2n5/2pQ4/2PbN3/1N6/P3BPPP/3R1RK1 w - - 3 18",
+  "color": "black",
+  "initialPly": 35,
+  "gameId": "avSVSc4V",
+  "lines": {
+    "f8f5": {
+      "d5d6": {
+        "d4c5": {
+          "e4c5": {
+            "e7d6": {
+              "d1d6": {
+                "f5c5": {
+                  "f1b1": "win"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 29,
+  "enabled": true
+}

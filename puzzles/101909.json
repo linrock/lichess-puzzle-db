@@ -1,0 +1,20 @@
+{
+  "id": 101909,
+  "rating": 895,
+  "attempts": 703,
+  "fen": "5r2/4R3/8/pp1k4/4NB2/r3P3/4K3/8 w - - 0 49",
+  "color": "black",
+  "initialPly": 97,
+  "gameId": "WC26pTdy",
+  "lines": {
+    "d5e4": {
+      "d7d4": {
+        "e4f5": {
+          "d4d5": "win"
+        }
+      }
+    }
+  },
+  "vote": 1,
+  "enabled": true
+}

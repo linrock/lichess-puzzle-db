@@ -1,0 +1,28 @@
+{
+  "id": 65204,
+  "rating": 1301,
+  "attempts": 76604,
+  "fen": "6k1/rb2bppp/3p1n2/3Pp3/2P1P3/5N1P/pBqN1PP1/Q3R1K1 b - - 9 29",
+  "color": "white",
+  "initialPly": 58,
+  "gameId": "MkGoX5Wn",
+  "lines": {
+    "e1c1": {
+      "c2d3": {
+        "c1c3": {
+          "d3e2": {
+            "c3e3": {
+              "e2e3": {
+                "f2e3": {
+                  "f6d7": "win"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 1038,
+  "enabled": true
+}

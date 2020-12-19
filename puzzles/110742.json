@@ -1,0 +1,24 @@
+{
+  "id": 110742,
+  "rating": 1260,
+  "attempts": 2003,
+  "fen": "2r2r2/p3b1pk/2n4p/2p5/P2pRN2/1P4BP/5PP1/5RK1 b - - 0 36",
+  "color": "white",
+  "initialPly": 72,
+  "gameId": "YNBN1KMR",
+  "lines": {
+    "f4e6": {
+      "d6g3": {
+        "e6f8": {
+          "c8f8": {
+            "f2g3": {
+              "f8d8": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 40,
+  "enabled": true
+}

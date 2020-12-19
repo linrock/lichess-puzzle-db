@@ -1,0 +1,24 @@
+{
+  "id": 95375,
+  "rating": 1571,
+  "attempts": 11140,
+  "fen": "r5nr/p5pp/2pbkp2/1pn1p3/4P3/P1N1BN2/1PP2PPP/2KR3R b - - 1 15",
+  "color": "white",
+  "initialPly": 30,
+  "gameId": "VLNAKM9g",
+  "lines": {
+    "d1d6": {
+      "e6d6": {
+        "h1d1": {
+          "d6c7": {
+            "e3c5": {
+              "e7c8": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 266,
+  "enabled": true
+}

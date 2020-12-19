@@ -1,0 +1,24 @@
+{
+  "id": 111561,
+  "rating": 2040,
+  "attempts": 6054,
+  "fen": "3r2k1/pp4p1/5p1p/2bn4/2N5/P4PNP/1PbR2PK/2B5 b - - 4 36",
+  "color": "white",
+  "initialPly": 72,
+  "gameId": "HLvtvKDC",
+  "lines": {
+    "c4a5": {
+      "c5b6": {
+        "a5c6": {
+          "c2b3": {
+            "c6d8": {
+              "b6d8": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 79,
+  "enabled": true
+}

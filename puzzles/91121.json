@@ -1,0 +1,24 @@
+{
+  "id": 91121,
+  "rating": 1931,
+  "attempts": 9590,
+  "fen": "2r2rk1/pp4pp/4bn2/q1b1N1B1/8/6P1/PP1Q1PBP/R3R1K1 b - - 2 18",
+  "color": "white",
+  "initialPly": 36,
+  "gameId": "ntlTpF69",
+  "lines": {
+    "d2f2": {
+      "f6e4": {
+        "f2e3": {
+          "e4g5": {
+            "e3g5": {
+              "c8c2": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 160,
+  "enabled": true
+}

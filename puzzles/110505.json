@@ -1,0 +1,24 @@
+{
+  "id": 110505,
+  "rating": 1865,
+  "attempts": 6186,
+  "fen": "2r3k1/5pp1/4p2p/3nN3/2PP4/8/1q3PPP/2R1Q1K1 b - - 0 32",
+  "color": "white",
+  "initialPly": 64,
+  "gameId": "PfATEcVH",
+  "lines": {
+    "c1d1": {
+      "d4c3": {
+        "c4d5": {
+          "c3e1": {
+            "d1e1": {
+              "e6d5": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 137,
+  "enabled": true
+}

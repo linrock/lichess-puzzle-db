@@ -1,0 +1,20 @@
+{
+  "id": 100518,
+  "rating": 777,
+  "attempts": 96,
+  "fen": "6k1/3b1qp1/p1pPp2p/1pP1B3/PP3pPP/3BnP2/1Q4K1/8 w - - 1 38",
+  "color": "black",
+  "initialPly": 75,
+  "gameId": "Wxmbsccp",
+  "lines": {
+    "e3d1": {
+      "f2g1": {
+        "d1b2": {
+          "e5b2": "win"
+        }
+      }
+    }
+  },
+  "vote": 1,
+  "enabled": true
+}

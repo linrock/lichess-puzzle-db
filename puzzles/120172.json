@@ -1,0 +1,24 @@
+{
+  "id": 120172,
+  "rating": 2366,
+  "attempts": 4147,
+  "fen": "3qr1k1/2p2pp1/p2br2p/2BQ4/2P5/7P/PP3PP1/R3R1K1 w - - 1 21",
+  "color": "black",
+  "initialPly": 41,
+  "gameId": "uMSdxIRL",
+  "lines": {
+    "e6e5": {
+      "e1e5": {
+        "e8e5": {
+          "d5d3": {
+            "e5c5": {
+              "a1e1": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 61,
+  "enabled": true
+}

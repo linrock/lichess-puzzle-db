@@ -1,0 +1,24 @@
+{
+  "id": 121094,
+  "rating": 1196,
+  "attempts": 4989,
+  "fen": "r2qk2r/pb3ppp/1p1bp3/2p1N3/3PpP2/2P1P2P/PP1B2P1/R2Q1RK1 b kq - 3 13",
+  "color": "white",
+  "initialPly": 26,
+  "gameId": "TITbsEem",
+  "lines": {
+    "d1h5": {
+      "g7g6": {
+        "e5g6": {
+          "h7g6": {
+            "h5h8": {
+              "e8d7": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 102,
+  "enabled": true
+}

@@ -1,0 +1,20 @@
+{
+  "id": 123565,
+  "rating": 1264,
+  "attempts": 4215,
+  "fen": "2q2r1k/p5pp/5R1N/2p1p3/3pP1Q1/1P5P/P1P3P1/7K b - - 0 31",
+  "color": "white",
+  "initialPly": 62,
+  "gameId": "PyPjtuby",
+  "lines": {
+    "h6f7": {
+      "f8f7": {
+        "g4c8": {
+          "h8g7": "win"
+        }
+      }
+    }
+  },
+  "vote": 84,
+  "enabled": true
+}

@@ -1,0 +1,32 @@
+{
+  "id": 103476,
+  "rating": 2213,
+  "attempts": 3932,
+  "fen": "4r1k1/1p4p1/p2p3p/2pPnq2/P1P4R/1PN4P/3Q2P1/6K1 w - - 0 30",
+  "color": "black",
+  "initialPly": 59,
+  "gameId": "It8VQuid",
+  "lines": {
+    "e5g6": {
+      "e4d6": {
+        "f5b1": {
+          "g1h2": {
+            "e8e1": {
+              "h4e4": {
+                "e1e4": {
+                  "d6e4": {
+                    "b1e4": {
+                      "h2g1": "win"
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 33,
+  "enabled": true
+}

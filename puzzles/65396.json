@@ -1,0 +1,24 @@
+{
+  "id": 65396,
+  "rating": 1582,
+  "attempts": 64231,
+  "fen": "5rk1/p1b2p1p/1p1r1p2/2pPn3/8/1P5P/PBB2PP1/3RR1K1 b - - 4 21",
+  "color": "white",
+  "initialPly": 42,
+  "gameId": "EyeKITdw",
+  "lines": {
+    "f2f4": {
+      "e5f3": {
+        "g2f3": {
+          "e8e1": {
+            "d1e1": {
+              "d6d5": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 703,
+  "enabled": true
+}

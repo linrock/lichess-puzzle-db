@@ -1,0 +1,24 @@
+{
+  "id": 78466,
+  "rating": 1260,
+  "attempts": 14505,
+  "fen": "2r2rk1/pp3pp1/1q2p1b1/3pB1P1/6pP/3P4/PPP1Q3/2KR3R w - - 0 21",
+  "color": "black",
+  "initialPly": 41,
+  "gameId": "ktlcxVHG",
+  "lines": {
+    "b6e3": {
+      "c1b1": {
+        "e3e5": {
+          "h4h5": {
+            "g6f5": {
+              "g4a4": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 280,
+  "enabled": true
+}

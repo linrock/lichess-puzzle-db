@@ -1,0 +1,20 @@
+{
+  "id": 123115,
+  "rating": 1115,
+  "attempts": 793,
+  "fen": "8/4p2p/3pPb2/2p2P1k/1p2K2P/1Pr5/7R/1R6 w - - 5 40",
+  "color": "black",
+  "initialPly": 79,
+  "gameId": "RPLwPMas",
+  "lines": {
+    "f6e5": {
+      "f4e4": {
+        "e5h2": {
+          "f5f6": "win"
+        }
+      }
+    }
+  },
+  "vote": 23,
+  "enabled": true
+}

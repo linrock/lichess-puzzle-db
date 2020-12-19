@@ -1,0 +1,24 @@
+{
+  "id": 100434,
+  "rating": 2048,
+  "attempts": 8177,
+  "fen": "2r2b2/1b4pp/p2k1p2/3PpP1Q/2Pq4/5R2/P5PP/2R4K w - - 0 33",
+  "color": "black",
+  "initialPly": 65,
+  "gameId": "TwiGEmAB",
+  "lines": {
+    "b7d5": {
+      "c4c5": {
+        "d6c6": {
+          "f7a7": {
+            "d5f3": {
+              "g2f3": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 173,
+  "enabled": true
+}

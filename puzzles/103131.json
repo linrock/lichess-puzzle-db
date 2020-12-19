@@ -1,0 +1,28 @@
+{
+  "id": 103131,
+  "rating": 1839,
+  "attempts": 10147,
+  "fen": "r1bqr1k1/1pp2pbp/3p2p1/p1nN2B1/2PNP3/5PnP/PP1QB1P1/R3R1K1 b - - 3 17",
+  "color": "white",
+  "initialPly": 34,
+  "gameId": "LznanGPf",
+  "lines": {
+    "d2d4": {
+      "d8g5": {
+        "d5f6": {
+          "g5f6": {
+            "d4f6": {
+              "g3e2": {
+                "e1e2": {
+                  "b7b6": "win"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 150,
+  "enabled": true
+}

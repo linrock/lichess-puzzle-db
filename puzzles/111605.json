@@ -1,0 +1,28 @@
+{
+  "id": 111605,
+  "rating": 2087,
+  "attempts": 4608,
+  "fen": "r1bq1rk1/2p1nppp/p7/np2p3/8/2NB1N1P/PP2QPP1/R3R1K1 w - - 0 17",
+  "color": "black",
+  "initialPly": 33,
+  "gameId": "crACREI5",
+  "lines": {
+    "c8f5": {
+      "e4e5": {
+        "a5c6": {
+          "e5c5": {
+            "d8d3": {
+              "e1e7": {
+                "c6e7": {
+                  "c5e7": "win"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 74,
+  "enabled": true
+}

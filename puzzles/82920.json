@@ -1,0 +1,28 @@
+{
+  "id": 82920,
+  "rating": 2257,
+  "attempts": 7064,
+  "fen": "8/6k1/2N2p1p/6pP/P1p1PpP1/3p1P2/2r5/R3K3 w - - 0 51",
+  "color": "black",
+  "initialPly": 101,
+  "gameId": "kevrYxNT",
+  "lines": {
+    "c4c3": {
+      "c6b4": {
+        "c2h2": {
+          "b4d3": {
+            "h2h1": {
+              "e1e2": {
+                "h1a1": {
+                  "d3b4": "win"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 160,
+  "enabled": true
+}

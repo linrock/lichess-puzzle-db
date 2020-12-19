@@ -1,0 +1,28 @@
+{
+  "id": 81528,
+  "rating": 2210,
+  "attempts": 46821,
+  "fen": "5rk1/1pq5/8/p1p1p1bp/P1P1Q1p1/P1BNP3/6PP/5BK1 w - - 1 33",
+  "color": "black",
+  "initialPly": 65,
+  "gameId": "WopmYrtb",
+  "lines": {
+    "c7c6": {
+      "e4c6": {
+        "g5e3": {
+          "d3f2": {
+            "e3f2": {
+              "g1h1": {
+                "b7c6": {
+                  "e5d6": "win"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 278,
+  "enabled": true
+}

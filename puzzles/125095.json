@@ -1,0 +1,24 @@
+{
+  "id": 125095,
+  "rating": 1583,
+  "attempts": 7086,
+  "fen": "r2q4/ppp3kp/3p1np1/3Pp3/2Pr1nBP/4QP2/PP2NP2/R4K1R b - - 9 18",
+  "color": "white",
+  "initialPly": 36,
+  "gameId": "GHPAllXN",
+  "lines": {
+    "e2f4": {
+      "d3e3": {
+        "f4e6": {
+          "g7h6": {
+            "e6d8": {
+              "e3d3": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 75,
+  "enabled": true
+}

@@ -1,0 +1,24 @@
+{
+  "id": 115548,
+  "rating": 1717,
+  "attempts": 11041,
+  "fen": "7r/2p1k1pp/p2rp3/1pb4q/4QB2/2p5/PP3PP1/R3RK2 b - - 3 24",
+  "color": "white",
+  "initialPly": 48,
+  "gameId": "CMAwKlkc",
+  "lines": {
+    "e4e5": {
+      "h5e5": {
+        "e1e5": {
+          "d6e6": {
+            "e5c5": {
+              "c3b2": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 246,
+  "enabled": true
+}

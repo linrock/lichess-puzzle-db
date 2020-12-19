@@ -1,0 +1,20 @@
+{
+  "id": 80180,
+  "rating": 1261,
+  "attempts": 6545,
+  "fen": "r5k1/1pb1q1pp/p1p1prb1/2PpN3/1P1PpPQ1/2B1P2R/P5PP/5RK1 w - - 10 20",
+  "color": "black",
+  "initialPly": 39,
+  "gameId": "4sofdvmz",
+  "lines": {
+    "g6f5": {
+      "g4h4": {
+        "f5h3": {
+          "h4h3": "win"
+        }
+      }
+    }
+  },
+  "vote": 155,
+  "enabled": true
+}

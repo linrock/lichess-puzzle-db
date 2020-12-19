@@ -1,0 +1,28 @@
+{
+  "id": 74078,
+  "rating": 2189,
+  "attempts": 7128,
+  "fen": "4r1k1/6p1/2p2p2/1b1p4/PP1Rr1qp/4P1P1/1BQ2P1P/4R1K1 b - - 0 27",
+  "color": "white",
+  "initialPly": 54,
+  "gameId": "QlJCHBP6",
+  "lines": {
+    "f2f3": {
+      "g4f3": {
+        "d4e4": {
+          "f3e4": {
+            "c2e4": {
+              "e8e4": {
+                "a4b5": {
+                  "e4b4": "win"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 104,
+  "enabled": true
+}

@@ -1,0 +1,24 @@
+{
+  "id": 81186,
+  "rating": 862,
+  "attempts": 262,
+  "fen": "8/3rk3/p1R4p/p3N3/P2n2p1/4K1P1/5P2/8 w - - 0 36",
+  "color": "black",
+  "initialPly": 71,
+  "gameId": "VNyXLif2",
+  "lines": {
+    "d4f5": {
+      "e3f4": {
+        "f5h6": {
+          "e5d7": {
+            "e7d7": {
+              "f4g5": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 9,
+  "enabled": true
+}

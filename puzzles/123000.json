@@ -1,0 +1,20 @@
+{
+  "id": 123000,
+  "rating": 1745,
+  "attempts": 7919,
+  "fen": "3r2k1/pp3pb1/4pq1p/4Nnp1/2R1Q3/1P1P2BP/P4PP1/6K1 w - - 1 25",
+  "color": "black",
+  "initialPly": 49,
+  "gameId": "NezzHKkg",
+  "lines": {
+    "f5d6": {
+      "e4c2": {
+        "d6c4": {
+          "c2c4": "win"
+        }
+      }
+    }
+  },
+  "vote": 144,
+  "enabled": true
+}

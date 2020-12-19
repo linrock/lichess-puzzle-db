@@ -1,0 +1,24 @@
+{
+  "id": 75368,
+  "rating": 2165,
+  "attempts": 13616,
+  "fen": "3q2k1/5p2/p2pN3/4Q1P1/1p6/8/PPr3r1/1K1R1R2 b - - 0 27",
+  "color": "white",
+  "initialPly": 54,
+  "gameId": "jmTuxo5w",
+  "lines": {
+    "d1d8": {
+      "g8h7": {
+        "g5g6": {
+          "h7g6": {
+            "d8g8": {
+              "g6h7": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 258,
+  "enabled": true
+}

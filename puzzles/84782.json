@@ -1,0 +1,24 @@
+{
+  "id": 84782,
+  "rating": 1248,
+  "attempts": 69057,
+  "fen": "5bk1/1p4p1/p2p2Bp/P2nr3/2rN4/6P1/1P3R1P/3R2K1 b - - 4 32",
+  "color": "white",
+  "initialPly": 64,
+  "gameId": "JAhmRduc",
+  "lines": {
+    "g6f7": {
+      "g8h7": {
+        "f7c4": {
+          "e3d1": {
+            "f2f8": {
+              "g7g5": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 209,
+  "enabled": true
+}

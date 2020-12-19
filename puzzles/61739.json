@@ -1,0 +1,20 @@
+{
+  "id": 61739,
+  "rating": 1379,
+  "attempts": 100120,
+  "fen": "rnbqk2r/ppp3pp/3p1p2/5p2/1b1P4/2NQ4/PPP1PPPP/2KR1BNR b kq - 1 6",
+  "color": "white",
+  "initialPly": 12,
+  "gameId": "sgduckLG",
+  "lines": {
+    "d3c4": {
+      "f8f7": {
+        "c4b4": {
+          "a7a6": "win"
+        }
+      }
+    }
+  },
+  "vote": 1796,
+  "enabled": true
+}

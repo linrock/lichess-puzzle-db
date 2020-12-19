@@ -1,0 +1,24 @@
+{
+  "id": 96887,
+  "rating": 1796,
+  "attempts": 10707,
+  "fen": "6k1/p1q2p2/4pnp1/1pr5/5PR1/P6P/1P1Q2RK/8 w - - 0 44",
+  "color": "black",
+  "initialPly": 87,
+  "gameId": "BJk4lmaX",
+  "lines": {
+    "c5g5": {
+      "g2g5": {
+        "f6e4": {
+          "g5g6": {
+            "f7g6": {
+              "d2e3": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 277,
+  "enabled": true
+}

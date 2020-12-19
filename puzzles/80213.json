@@ -1,0 +1,24 @@
+{
+  "id": 80213,
+  "rating": 1563,
+  "attempts": 50460,
+  "fen": "2rq1rk1/1b1nppbp/p4np1/2pP4/2B5/P3PN2/1BQN1PPP/2R2RK1 b - - 0 15",
+  "color": "white",
+  "initialPly": 30,
+  "gameId": "CttwgulC",
+  "lines": {
+    "b2g7": {
+      "g8g7": {
+        "c2b2": {
+          "d5f6": {
+            "b2b7": {
+              "c8b8": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 513,
+  "enabled": true
+}

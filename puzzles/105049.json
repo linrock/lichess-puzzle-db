@@ -1,0 +1,24 @@
+{
+  "id": 105049,
+  "rating": 1377,
+  "attempts": 6265,
+  "fen": "1rb2rk1/ppq2ppp/2nbpn2/2p5/4P3/2P2NP1/PPQN1PBP/R1B1R1K1 b - - 0 11",
+  "color": "white",
+  "initialPly": 22,
+  "gameId": "goO5VPro",
+  "lines": {
+    "f3e5": {
+      "d6e5": {
+        "f2f4": {
+          "f6d7": {
+            "f4e5": {
+              "d7e5": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 110,
+  "enabled": true
+}

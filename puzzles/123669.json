@@ -1,0 +1,20 @@
+{
+  "id": 123669,
+  "rating": 1344,
+  "attempts": 3659,
+  "fen": "r1bq1rk1/1pp3pp/p1p5/3nN3/1b1P4/2N4P/PP1B1PP1/R2Q1RK1 b - - 2 13",
+  "color": "white",
+  "initialPly": 26,
+  "gameId": "TZ50k6hr",
+  "lines": {
+    "c3d5": {
+      "c6d5": {
+        "d2b4": {
+          "f8e8": "win"
+        }
+      }
+    }
+  },
+  "vote": 45,
+  "enabled": true
+}

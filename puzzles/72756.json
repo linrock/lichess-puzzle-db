@@ -1,0 +1,24 @@
+{
+  "id": 72756,
+  "rating": 1240,
+  "attempts": 11833,
+  "fen": "r1b1r1k1/1p1p1ppp/p3n3/3QN3/8/1Bq5/P1P2PPP/R3R1K1 b - - 1 17",
+  "color": "white",
+  "initialPly": 34,
+  "gameId": "LoCXn7Pg",
+  "lines": {
+    "d5c5": {
+      "e6c5": {
+        "b3f7": {
+          "g8f8": {
+            "f7e8": {
+              "f8e8": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 246,
+  "enabled": true
+}

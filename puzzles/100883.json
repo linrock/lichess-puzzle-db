@@ -1,0 +1,20 @@
+{
+  "id": 100883,
+  "rating": 945,
+  "attempts": 695,
+  "fen": "2k2r2/ppp1q1p1/7p/3rp3/2Bn4/2Q2P1P/PPP3P1/2KR3R w - - 0 18",
+  "color": "black",
+  "initialPly": 35,
+  "gameId": "GADYOmfs",
+  "lines": {
+    "d4e2": {
+      "c1b1": {
+        "e2c3": {
+          "b2c3": "win"
+        }
+      }
+    }
+  },
+  "vote": 20,
+  "enabled": true
+}

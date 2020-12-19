@@ -1,0 +1,24 @@
+{
+  "id": 114502,
+  "rating": 748,
+  "attempts": 271,
+  "fen": "8/1p6/4kpp1/Pb1pp2p/8/1N1PPP2/1n2BKPP/8 b - - 2 37",
+  "color": "white",
+  "initialPly": 74,
+  "gameId": "8AmssTrl",
+  "lines": {
+    "e2d3": {
+      "b5d3": {
+        "b3c5": {
+          "e6d6": {
+            "c5d3": {
+              "g6g5": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 15,
+  "enabled": true
+}

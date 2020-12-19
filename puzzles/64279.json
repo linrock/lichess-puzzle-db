@@ -1,0 +1,28 @@
+{
+  "id": 64279,
+  "rating": 2155,
+  "attempts": 74854,
+  "fen": "3r2k1/1b3ppp/4pb2/1r6/2B1P3/5N2/1P3PPP/1R2R1K1 b - - 3 24",
+  "color": "white",
+  "initialPly": 48,
+  "gameId": "msphC73w",
+  "lines": {
+    "b1b2": {
+      "f6b2": {
+        "e1b1": {
+          "b7e4": {
+            "b1b2": {
+              "e4f3": {
+                "g2f3": {
+                  "g7g5": "win"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 1028,
+  "enabled": true
+}

@@ -1,0 +1,26 @@
+{
+  "id": 77790,
+  "rating": 2292,
+  "attempts": 8956,
+  "fen": "4r1k1/3q4/p1p4p/Q7/1P4p1/P2P2Pn/2P2PKP/R4R2 w - - 0 27",
+  "color": "black",
+  "initialPly": 53,
+  "gameId": "HexVNBaw",
+  "lines": {
+    "d7d5": {
+      "f2f3": {
+        "g4f3": {
+          "f1f3": {
+            "e8e2": {
+              "g2f1": {
+                "d5f3": "win"
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 288,
+  "enabled": true
+}

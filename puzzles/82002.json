@@ -1,0 +1,24 @@
+{
+  "id": 82002,
+  "rating": 2140,
+  "attempts": 10258,
+  "fen": "1r6/4pRbk/3p2p1/6Pn/p5q1/8/QPP4P/1K1RN3 w - - 2 32",
+  "color": "black",
+  "initialPly": 63,
+  "gameId": "05ToYKit",
+  "lines": {
+    "g4e2": {
+      "f7g7": {
+        "h7g7": {
+          "a2a4": {
+            "e2e1": {
+              "b1a2": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 232,
+  "enabled": true
+}

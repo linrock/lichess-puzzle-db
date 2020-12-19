@@ -1,0 +1,24 @@
+{
+  "id": 92608,
+  "rating": 1277,
+  "attempts": 4071,
+  "fen": "r1b2rk1/1p1n1pbp/pqpp2p1/8/P1P1PBP1/2NP3P/1P4B1/R2Q1RK1 w - - 1 15",
+  "color": "black",
+  "initialPly": 29,
+  "gameId": "Gp62MK4v",
+  "lines": {
+    "b6b2": {
+      "c3e2": {
+        "b2a1": {
+          "d1a1": {
+            "g7a1": {
+              "f1a1": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 89,
+  "enabled": true
+}

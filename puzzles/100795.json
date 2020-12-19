@@ -1,0 +1,22 @@
+{
+  "id": 100795,
+  "rating": 1918,
+  "attempts": 22236,
+  "fen": "2r3r1/1p2qppk/3p1n1p/1p1PpP2/1P2P3/P3Q1RR/3B2PP/6K1 b - - 3 27",
+  "color": "white",
+  "initialPly": 54,
+  "gameId": "OVnYPPL9",
+  "lines": {
+    "g3g7": {
+      "f8g7": {
+        "h3h6": {
+          "g7h6": {
+            "e3h6": "win"
+          }
+        }
+      }
+    }
+  },
+  "vote": 380,
+  "enabled": true
+}

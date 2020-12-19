@@ -1,0 +1,20 @@
+{
+  "id": 73972,
+  "rating": 836,
+  "attempts": 902,
+  "fen": "r1bqr1k1/pppn1ppp/3bpn2/3pN3/3P4/1P1BP3/PBP2PPP/RN1Q1RK1 b - - 6 8",
+  "color": "white",
+  "initialPly": 16,
+  "gameId": "RHMDiaNJ",
+  "lines": {
+    "d4e5": {
+      "d6e7": {
+        "e5f6": {
+          "e7f6": "win"
+        }
+      }
+    }
+  },
+  "vote": -15,
+  "enabled": true
+}

@@ -1,0 +1,24 @@
+{
+  "id": 120413,
+  "rating": 1772,
+  "attempts": 17764,
+  "fen": "2rq1rk1/1p1bbppp/p3pn2/n7/3PN3/P3BN2/1P1Q1PPP/RB3RK1 b - - 9 16",
+  "color": "white",
+  "initialPly": 32,
+  "gameId": "jdowZoy1",
+  "lines": {
+    "e4f6": {
+      "e7f6": {
+        "d2d3": {
+          "g7g6": {
+            "d3b3": {
+              "d7c6": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 270,
+  "enabled": true
+}

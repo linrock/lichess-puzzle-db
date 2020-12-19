@@ -1,0 +1,28 @@
+{
+  "id": 111366,
+  "rating": 2020,
+  "attempts": 6805,
+  "fen": "q3r1k1/4pp1p/2p3p1/2BbP3/4pP2/4P2P/4Q1P1/1R4K1 w - - 1 30",
+  "color": "black",
+  "initialPly": 59,
+  "gameId": "iAUBnjgV",
+  "lines": {
+    "a8a1": {
+      "g1h2": {
+        "a1c3": {
+          "c5e7": {
+            "e8e7": {
+              "b4b8": {
+                "g8g7": {
+                  "e2f2": "win"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 132,
+  "enabled": true
+}

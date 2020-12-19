@@ -1,0 +1,24 @@
+{
+  "id": 107105,
+  "rating": 1454,
+  "attempts": 5613,
+  "fen": "4r1k1/p5pp/1pp4r/3pN1R1/3PpP2/4P2q/PP6/3QR1K1 w - - 0 30",
+  "color": "black",
+  "initialPly": 59,
+  "gameId": "A2crimDD",
+  "lines": {
+    "h3h1": {
+      "g1f2": {
+        "h6h2": {
+          "g4g2": {
+            "h2g2": {
+              "g5g2": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 141,
+  "enabled": true
+}

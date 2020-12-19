@@ -1,0 +1,24 @@
+{
+  "id": 117751,
+  "rating": 1382,
+  "attempts": 15181,
+  "fen": "5rk1/pp3pp1/8/2nR2p1/2B1p3/5P2/PPP3P1/2K5 b - - 1 25",
+  "color": "white",
+  "initialPly": 50,
+  "gameId": "Ink5TWwO",
+  "lines": {
+    "d5c5": {
+      "f3g2": {
+        "c5g5": {
+          "g2g1r": {
+            "g5g1": {
+              "f8d8": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 114,
+  "enabled": true
+}

@@ -1,0 +1,24 @@
+{
+  "id": 94547,
+  "rating": 1127,
+  "attempts": 2364,
+  "fen": "r2qk2r/1pp1ppbp/p4np1/4P3/6b1/2P1B3/PP2BPPP/RN1Q1RK1 b kq - 0 10",
+  "color": "white",
+  "initialPly": 20,
+  "gameId": "yhdChagV",
+  "lines": {
+    "e2d1": {
+      "f6d5": {
+        "d1g4": {
+          "d5e3": {
+            "f2e3": {
+              "g7e5": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": -43,
+  "enabled": true
+}

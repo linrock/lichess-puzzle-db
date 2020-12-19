@@ -1,0 +1,20 @@
+{
+  "id": 78133,
+  "rating": 1070,
+  "attempts": 88641,
+  "fen": "r1b2rk1/pp2ppbp/1n4p1/3Q4/1q1P1B2/1P2P3/P2N1PPP/R3KB1R w KQ - 3 13",
+  "color": "black",
+  "initialPly": 25,
+  "gameId": "vg5lt1vt",
+  "lines": {
+    "b4c5": {
+      "d4c5": {
+        "g7a1": {
+          "c5b6": "win"
+        }
+      }
+    }
+  },
+  "vote": 189,
+  "enabled": true
+}

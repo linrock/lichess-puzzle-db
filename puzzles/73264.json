@@ -1,0 +1,20 @@
+{
+  "id": 73264,
+  "rating": 873,
+  "attempts": 672,
+  "fen": "8/7p/3ppp1k/6p1/3PP3/3B1rP1/6r1/2Q1K3 w - - 0 32",
+  "color": "black",
+  "initialPly": 63,
+  "gameId": "rutaBH9k",
+  "lines": {
+    "g2g1": {
+      "e1d2": {
+        "g1c1": {
+          "e2f3": "win"
+        }
+      }
+    }
+  },
+  "vote": 11,
+  "enabled": true
+}

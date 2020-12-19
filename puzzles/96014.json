@@ -1,0 +1,28 @@
+{
+  "id": 96014,
+  "rating": 1793,
+  "attempts": 11334,
+  "fen": "r4rk1/p5pp/2p2pq1/1p2p3/3bP3/1P1P4/1PPQ1BPP/3R1R1K b - - 0 22",
+  "color": "white",
+  "initialPly": 44,
+  "gameId": "D1exZ19I",
+  "lines": {
+    "c2c3": {
+      "b2a3": {
+        "b3b4": {
+          "a7a5": {
+            "d2a2": {
+              "g6f7": {
+                "a2a3": {
+                  "a5a4": "win"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 279,
+  "enabled": true
+}

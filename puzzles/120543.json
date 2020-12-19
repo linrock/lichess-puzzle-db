@@ -1,0 +1,24 @@
+{
+  "id": 120543,
+  "rating": 1353,
+  "attempts": 11354,
+  "fen": "r7/3k1ppp/p7/3P1P2/Nr2nR2/8/RP4PP/6K1 b - - 0 24",
+  "color": "white",
+  "initialPly": 48,
+  "gameId": "BTQGbVCo",
+  "lines": {
+    "f4e4": {
+      "b4e4": {
+        "a4c5": {
+          "d7d6": {
+            "c5e4": {
+              "d6d5": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 109,
+  "enabled": true
+}

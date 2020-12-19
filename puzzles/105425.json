@@ -1,0 +1,24 @@
+{
+  "id": 105425,
+  "rating": 1438,
+  "attempts": 11693,
+  "fen": "1k5r/1pp4r/p2p2q1/8/2P1P1B1/3P3P/P5Q1/1R5K b - - 4 33",
+  "color": "white",
+  "initialPly": 66,
+  "gameId": "S8Z22YCY",
+  "lines": {
+    "e4e5": {
+      "h7h3": {
+        "g4h3": {
+          "h8h3": {
+            "g2h3": {
+              "f6e5": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 128,
+  "enabled": true
+}

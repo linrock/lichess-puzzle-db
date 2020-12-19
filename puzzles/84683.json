@@ -1,0 +1,24 @@
+{
+  "id": 84683,
+  "rating": 999,
+  "attempts": 1332,
+  "fen": "r2q1rk1/ppp1bppp/2np4/3P3n/4P1b1/2N1BN2/PPP1B1PP/R2Q1RK1 b - - 0 12",
+  "color": "white",
+  "initialPly": 24,
+  "gameId": "OsiJgoIv",
+  "lines": {
+    "f3e5": {
+      "g4e2": {
+        "d1e2": {
+          "h5g3": {
+            "h2g3": {
+              "d6e5": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": -53,
+  "enabled": true
+}

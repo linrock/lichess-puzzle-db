@@ -1,0 +1,24 @@
+{
+  "id": 81030,
+  "rating": 1248,
+  "attempts": 5621,
+  "fen": "8/1n3kp1/4p1p1/2b1Pp2/2KN4/4P2P/3B2P1/8 b - - 0 34",
+  "color": "white",
+  "initialPly": 68,
+  "gameId": "WiLffnVO",
+  "lines": {
+    "c4b5": {
+      "b6c7": {
+        "b5c6": {
+          "c7e5": {
+            "c6b7": {
+              "e5g3": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 111,
+  "enabled": true
+}

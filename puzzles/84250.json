@@ -1,0 +1,24 @@
+{
+  "id": 84250,
+  "rating": 2046,
+  "attempts": 10853,
+  "fen": "2r3k1/5pp1/1R1p4/3ppq1p/1P1P3P/1N2P1B1/Q1r2PP1/6K1 w - - 2 29",
+  "color": "black",
+  "initialPly": 57,
+  "gameId": "LJxWDaxx",
+  "lines": {
+    "c2c1": {
+      "g1h2": {
+        "f5b1": {
+          "a6c8": {
+            "c1c8": {
+              "d4e5": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 179,
+  "enabled": true
+}

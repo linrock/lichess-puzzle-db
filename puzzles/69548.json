@@ -1,0 +1,28 @@
+{
+  "id": 69548,
+  "rating": 1499,
+  "attempts": 32854,
+  "fen": "r3k2r/4nppp/p1q1p3/P1bpP3/5P2/2N2R2/1PQ3PP/R1B4K b kq - 4 18",
+  "color": "white",
+  "initialPly": 36,
+  "gameId": "AV03MfBN",
+  "lines": {
+    "c3a4": {
+      "f5d4": {
+        "c2c5": {
+          "c6c5": {
+            "a4c5": {
+              "d4f3": {
+                "g2f3": {
+                  "e8g8": "win"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 116,
+  "enabled": true
+}

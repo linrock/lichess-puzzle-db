@@ -1,0 +1,24 @@
+{
+  "id": 79414,
+  "rating": 2119,
+  "attempts": 8479,
+  "fen": "r3r1k1/1b4pp/p1n2p2/1pB2P1q/3PNb2/1PP2N2/1P2QR1P/R5K1 w - - 5 23",
+  "color": "black",
+  "initialPly": 45,
+  "gameId": "cnpa3783",
+  "lines": {
+    "c6d4": {
+      "f3d4": {
+        "e8e4": {
+          "e2e4": {
+            "b7e4": {
+              "e1e4": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 255,
+  "enabled": true
+}

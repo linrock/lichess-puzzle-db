@@ -1,0 +1,24 @@
+{
+  "id": 111177,
+  "rating": 1740,
+  "attempts": 7798,
+  "fen": "1brqk2r/1p1n1pp1/p3pnp1/3p2B1/3P2P1/2N2B1P/PPP2PK1/R2Q1R2 w k - 4 15",
+  "color": "black",
+  "initialPly": 29,
+  "gameId": "mtLEGajB",
+  "lines": {
+    "e6d5": {
+      "d1e1": {
+        "e8f8": {
+          "e1b4": {
+            "f8g8": {
+              "b4b7": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": -59,
+  "enabled": true
+}

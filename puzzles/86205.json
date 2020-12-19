@@ -1,0 +1,24 @@
+{
+  "id": 86205,
+  "rating": 1442,
+  "attempts": 93579,
+  "fen": "2q2rk1/1p4pp/1p6/7Q/1PPpNp2/r2P2Pn/2R3KP/5R2 w - - 0 30",
+  "color": "black",
+  "initialPly": 59,
+  "gameId": "WTgZhpTM",
+  "lines": {
+    "f4f3": {
+      "f1f3": {
+        "c8h3": {
+          "g2h3": {
+            "f8f3": {
+              "e4f2": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 258,
+  "enabled": true
+}

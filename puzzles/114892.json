@@ -1,0 +1,24 @@
+{
+  "id": 114892,
+  "rating": 1613,
+  "attempts": 10034,
+  "fen": "r3r1k1/5pp1/p7/1p1n1PP1/3p4/P4P2/2PKB3/1R5R w - - 1 22",
+  "color": "black",
+  "initialPly": 43,
+  "gameId": "zuLsuSC2",
+  "lines": {
+    "e8e2": {
+      "d2e2": {
+        "d5c3": {
+          "e2d3": {
+            "c3b1": {
+              "a3a4": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 177,
+  "enabled": true
+}

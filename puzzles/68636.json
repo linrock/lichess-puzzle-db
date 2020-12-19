@@ -1,0 +1,24 @@
+{
+  "id": 68636,
+  "rating": 1917,
+  "attempts": 38062,
+  "fen": "r2q2k1/pppbn1bp/3p2p1/3P2B1/5Q1N/2N5/PPP3PP/R5K1 b - - 0 17",
+  "color": "white",
+  "initialPly": 34,
+  "gameId": "etaTOGl2",
+  "lines": {
+    "b2c3": {
+      "d8f8": {
+        "f4f8": {
+          "a8f8": {
+            "g5e7": {
+              "f8e8": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": -486,
+  "enabled": true
+}

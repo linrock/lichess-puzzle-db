@@ -1,0 +1,24 @@
+{
+  "id": 93197,
+  "rating": 1440,
+  "attempts": 10469,
+  "fen": "2rqk2r/pb1ppp1p/1p4p1/2n5/2P1PP2/2R1B3/PP4PP/1B1Q1RK1 b k - 0 15",
+  "color": "white",
+  "initialPly": 30,
+  "gameId": "uOERsEse",
+  "lines": {
+    "b1e4": {
+      "b7e4": {
+        "d1d4": {
+          "e8g8": {
+            "d4e4": {
+              "e7e6": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 214,
+  "enabled": true
+}

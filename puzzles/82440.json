@@ -1,0 +1,24 @@
+{
+  "id": 82440,
+  "rating": 1698,
+  "attempts": 18787,
+  "fen": "r1bqk2r/3p1pp1/p1p2n1p/4p3/1b2P3/2N1B3/PPPQ1PPP/2KR1B1R w kq - 4 10",
+  "color": "black",
+  "initialPly": 19,
+  "gameId": "MCaxN6o7",
+  "lines": {
+    "f6e4": {
+      "d2d3": {
+        "e4c3": {
+          "a3b4": {
+            "c3d1": {
+              "d3d1": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 194,
+  "enabled": true
+}

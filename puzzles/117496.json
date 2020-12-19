@@ -1,0 +1,28 @@
+{
+  "id": 117496,
+  "rating": 1667,
+  "attempts": 25927,
+  "fen": "rnb2rk1/pppp1ppp/4p3/5P1q/2PP4/P1P2Nn1/2Q1P2P/R1B1KBR1 b Q - 2 11",
+  "color": "white",
+  "initialPly": 22,
+  "gameId": "jxr16VTZ",
+  "lines": {
+    "g1g5": {
+      "h5h6": {
+        "g5f5": {
+          "h6g6": {
+            "f3h4": {
+              "g6g4": {
+                "f5f4": {
+                  "g4g5": "win"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 334,
+  "enabled": true
+}

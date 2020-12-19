@@ -1,0 +1,24 @@
+{
+  "id": 99641,
+  "rating": 1525,
+  "attempts": 7869,
+  "fen": "r1bqkbnr/ppp2pp1/2n4p/3p2N1/4pP2/3P2P1/PPP1P1BP/RNBQK2R w KQkq - 0 7",
+  "color": "black",
+  "initialPly": 13,
+  "gameId": "MIKrk7pP",
+  "lines": {
+    "e8f7": {
+      "d3e4": {
+        "d5e4": {
+          "d1d8": {
+            "c6d8": {
+              "b1c3": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": -141,
+  "enabled": true
+}

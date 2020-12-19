@@ -1,0 +1,24 @@
+{
+  "id": 109392,
+  "rating": 1602,
+  "attempts": 7406,
+  "fen": "r4rk1/1bq2ppp/p3p3/2p1P3/5nQ1/P1BB3P/1PP2PP1/R4RK1 b - - 3 20",
+  "color": "white",
+  "initialPly": 40,
+  "gameId": "KUbMfomg",
+  "lines": {
+    "d3e4": {
+      "b7e4": {
+        "g4e4": {
+          "g2f4": {
+            "e4f4": {
+              "a8d8": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 164,
+  "enabled": true
+}

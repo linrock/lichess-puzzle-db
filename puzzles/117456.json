@@ -1,0 +1,24 @@
+{
+  "id": 117456,
+  "rating": 1835,
+  "attempts": 9021,
+  "fen": "rn5r/pppk1Bbp/3p3n/8/3qPQb1/3N4/PPPP3P/RNB2R1K w - - 3 14",
+  "color": "black",
+  "initialPly": 27,
+  "gameId": "ScpSALUh",
+  "lines": {
+    "h8f8": {
+      "f2g4": {
+        "f8f7": {
+          "f4f7": {
+            "h6f7": {
+              "b1c3": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 145,
+  "enabled": true
+}

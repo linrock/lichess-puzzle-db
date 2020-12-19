@@ -1,0 +1,32 @@
+{
+  "id": 107003,
+  "rating": 1845,
+  "attempts": 8124,
+  "fen": "4r1k1/p2q1rp1/2p3Qp/2PpB3/1R2nP2/7P/P5P1/2R3K1 b - - 4 30",
+  "color": "white",
+  "initialPly": 60,
+  "gameId": "FymV4Nip",
+  "lines": {
+    "b4b8": {
+      "f7f8": {
+        "b8f8": {
+          "g8f8": {
+            "e5g7": {
+              "d7g7": {
+                "g6e6": {
+                  "g7d4": {
+                    "g1h2": {
+                      "d4f6": "win"
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 197,
+  "enabled": true
+}

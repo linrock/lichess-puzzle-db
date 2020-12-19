@@ -1,0 +1,24 @@
+{
+  "id": 88232,
+  "rating": 1287,
+  "attempts": 17503,
+  "fen": "r4rk1/1pp2pp1/1p4qp/3PpN2/2n5/3P4/PPP2PPP/R2Q1RK1 b - - 0 15",
+  "color": "white",
+  "initialPly": 30,
+  "gameId": "Eycs3Yeu",
+  "lines": {
+    "f5e7": {
+      "g8h7": {
+        "e7g6": {
+          "b2d1": {
+            "g6f8": {
+              "h7g8": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 149,
+  "enabled": true
+}

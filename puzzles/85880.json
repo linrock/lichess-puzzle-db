@@ -1,0 +1,24 @@
+{
+  "id": 85880,
+  "rating": 1632,
+  "attempts": 15707,
+  "fen": "2r1b3/r3q1pk/4N1np/3B4/p1PPQ3/1p4P1/7P/R4RK1 b - - 1 32",
+  "color": "white",
+  "initialPly": 64,
+  "gameId": "KofzbyUb",
+  "lines": {
+    "e6f8": {
+      "h7h8": {
+        "f8g6": {
+          "e8g6": {
+            "e4g6": {
+              "e7g5": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 381,
+  "enabled": true
+}

@@ -1,0 +1,24 @@
+{
+  "id": 89491,
+  "rating": 1836,
+  "attempts": 14812,
+  "fen": "3r3k/b1p3p1/p4p2/7q/P7/2Q3Bn/1P3P1N/5R1K w - - 0 33",
+  "color": "black",
+  "initialPly": 65,
+  "gameId": "SoX1paoK",
+  "lines": {
+    "h5d5": {
+      "f2f3": {
+        "a7b8": {
+          "c7b8": {
+            "d8b8": {
+              "g3b8": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 304,
+  "enabled": true
+}

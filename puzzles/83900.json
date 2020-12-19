@@ -1,0 +1,24 @@
+{
+  "id": 83900,
+  "rating": 2111,
+  "attempts": 11810,
+  "fen": "2k2rr1/2p2n2/p1p5/1p4bp/4N3/3P3P/PPP1K3/5RR1 w - - 0 26",
+  "color": "black",
+  "initialPly": 51,
+  "gameId": "PVgcHsmc",
+  "lines": {
+    "g8g5": {
+      "g1g5": {
+        "f8e8": {
+          "e2d1": {
+            "f7g5": {
+              "h3h4": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 317,
+  "enabled": true
+}

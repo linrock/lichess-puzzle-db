@@ -1,0 +1,28 @@
+{
+  "id": 101308,
+  "rating": 2099,
+  "attempts": 6427,
+  "fen": "1rbR4/p4kb1/Np2p2p/2p1npp1/2P5/4PNP1/PP2BPP1/6K1 b - - 7 21",
+  "color": "white",
+  "initialPly": 42,
+  "gameId": "zwurCSSZ",
+  "lines": {
+    "e2f3": {
+      "f7e7": {
+        "d8g8": {
+          "c8a6": {
+            "g8b8": {
+              "g7b2": {
+                "f3e2": {
+                  "e7d6": "win"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 51,
+  "enabled": true
+}

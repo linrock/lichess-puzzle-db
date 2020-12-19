@@ -1,0 +1,32 @@
+{
+  "id": 94422,
+  "rating": 1540,
+  "attempts": 18574,
+  "fen": "1r1r2k1/2p2pp1/p1N4p/3p4/1P6/P2P3P/2P2PP1/R3b1K1 w - - 0 24",
+  "color": "black",
+  "initialPly": 47,
+  "gameId": "VSC2SrIZ",
+  "lines": {
+    "e1c3": {
+      "d8c6": {
+        "b8b6": {
+          "c6e7": {
+            "g8f8": {
+              "e7d5": {
+                "c3a1": {
+                  "d5b6": {
+                    "c7b6": {
+                      "f2f3": "win"
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 285,
+  "enabled": true
+}

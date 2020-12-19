@@ -1,0 +1,20 @@
+{
+  "id": 95988,
+  "rating": 2018,
+  "attempts": 8563,
+  "fen": "r1b1k2r/1pp1nppp/1pnp1q2/1B2p3/3PP3/2P2N2/PP3PPP/R1BQ1RK1 b kq - 0 9",
+  "color": "white",
+  "initialPly": 18,
+  "gameId": "4fCdSq07",
+  "lines": {
+    "d4d5": {
+      "h7h6": {
+        "d5c6": {
+          "b7c6": "win"
+        }
+      }
+    }
+  },
+  "vote": 62,
+  "enabled": true
+}

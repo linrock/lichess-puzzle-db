@@ -1,0 +1,24 @@
+{
+  "id": 87906,
+  "rating": 1269,
+  "attempts": 3529,
+  "fen": "rn1qk2r/pbp2ppp/1p2pn2/3p4/3PP3/2bB1N2/PPP1QPPP/R1B2RK1 w kq - 0 8",
+  "color": "black",
+  "initialPly": 15,
+  "gameId": "LpDnkfaq",
+  "lines": {
+    "d5e4": {
+      "d3b5": {
+        "c7c6": {
+          "f3e5": {
+            "c6b5": {
+              "e2b5": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 58,
+  "enabled": true
+}

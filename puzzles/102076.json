@@ -1,0 +1,28 @@
+{
+  "id": 102076,
+  "rating": 2461,
+  "attempts": 1820,
+  "fen": "2kr4/1bq2p2/pp2p1rp/7Q/2p1P3/2P3P1/PPB2R1P/5RK1 w - - 4 26",
+  "color": "black",
+  "initialPly": 51,
+  "gameId": "gMOExG9G",
+  "lines": {
+    "g6g5": {
+      "h5f7": {
+        "c7c6": {
+          "f7f3": {
+            "c6f3": {
+              "f2f3": {
+                "b7f3": {
+                  "f1f3": "win"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": -4,
+  "enabled": true
+}

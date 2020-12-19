@@ -1,0 +1,28 @@
+{
+  "id": 87566,
+  "rating": 1655,
+  "attempts": 85619,
+  "fen": "2k1r3/pp5p/5B2/2pB4/r5n1/2P1P3/P1b1K1PP/R6R w - - 4 28",
+  "color": "black",
+  "initialPly": 55,
+  "gameId": "NsFCisEx",
+  "lines": {
+    "e8e5": {
+      "d5b3": {
+        "c2b3": {
+          "a2b3": {
+            "a4a1": {
+              "h1a1": {
+                "e5g5": {
+                  "h2h4": "win"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 380,
+  "enabled": true
+}

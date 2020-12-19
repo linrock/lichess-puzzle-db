@@ -1,0 +1,24 @@
+{
+  "id": 90438,
+  "rating": 1610,
+  "attempts": 60364,
+  "fen": "3r2k1/4bppp/p3p3/1p2P3/4bPP1/P1PrBNKP/1P3R2/4R3 w - - 3 23",
+  "color": "black",
+  "initialPly": 45,
+  "gameId": "KJsMLeC1",
+  "lines": {
+    "e4f3": {
+      "f2f3": {
+        "e7h4": {
+          "g3h4": {
+            "d3f3": {
+              "e1e4": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 377,
+  "enabled": true
+}

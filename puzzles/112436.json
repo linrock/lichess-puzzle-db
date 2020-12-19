@@ -1,0 +1,24 @@
+{
+  "id": 112436,
+  "rating": 1719,
+  "attempts": 8493,
+  "fen": "1k5r/ppp1p3/4Qb2/3p2p1/3P4/2NPPqP1/PP3P2/3RK3 w - - 5 21",
+  "color": "black",
+  "initialPly": 41,
+  "gameId": "IC4FIeMS",
+  "lines": {
+    "h8h1": {
+      "e1d2": {
+        "h1d1": {
+          "d2c2": {
+            "f3d5": {
+              "c3d5": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 158,
+  "enabled": true
+}

@@ -1,0 +1,24 @@
+{
+  "id": 109669,
+  "rating": 1650,
+  "attempts": 7794,
+  "fen": "r1b2r2/ppp1q1k1/1n1p2pp/4p3/3P3n/2NB3N/PPPQ1PPP/4RRK1 w - - 2 17",
+  "color": "black",
+  "initialPly": 33,
+  "gameId": "DOBXMyDT",
+  "lines": {
+    "e7g5": {
+      "f4e6": {
+        "c8e6": {
+          "d2g5": {
+            "h6g5": {
+              "d4e5": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 121,
+  "enabled": true
+}

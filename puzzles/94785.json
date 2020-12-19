@@ -1,0 +1,24 @@
+{
+  "id": 94785,
+  "rating": 2298,
+  "attempts": 4047,
+  "fen": "3r1r1k/1b5p/pq3np1/1p1P4/1P1N4/1QN4P/1P4PK/3R1R2 b - - 4 24",
+  "color": "white",
+  "initialPly": 48,
+  "gameId": "WHGSUnXe",
+  "lines": {
+    "c3d5": {
+      "b7d5": {
+        "f1f8": {
+          "d8f8": {
+            "b3d5": {
+              "b6c7": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 32,
+  "enabled": true
+}

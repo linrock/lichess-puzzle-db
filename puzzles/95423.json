@@ -1,0 +1,28 @@
+{
+  "id": 95423,
+  "rating": 1804,
+  "attempts": 60849,
+  "fen": "4rq2/5bk1/1R3pr1/2Np3Q/pP1P3P/P7/3b1PB1/3R3K w - - 0 34",
+  "color": "black",
+  "initialPly": 67,
+  "gameId": "HPptVA06",
+  "lines": {
+    "e8e1": {
+      "h1h2": {
+        "g6g2": {
+          "h2g2": {
+            "f7h5": {
+              "c5e6": {
+                "e1e6": {
+                  "b6e6": "win"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 364,
+  "enabled": true
+}

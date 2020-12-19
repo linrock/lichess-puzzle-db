@@ -1,0 +1,20 @@
+{
+  "id": 107025,
+  "rating": 1144,
+  "attempts": 1483,
+  "fen": "r4rk1/pp1nbppp/2p1pn2/q4b2/2BP1B2/P1N2N1P/1PP1QPP1/R4RK1 b - - 0 11",
+  "color": "white",
+  "initialPly": 22,
+  "gameId": "DorAdObf",
+  "lines": {
+    "b2b4": {
+      "e7b4": {
+        "a3b4": {
+          "a5b4": "win"
+        }
+      }
+    }
+  },
+  "vote": 38,
+  "enabled": true
+}

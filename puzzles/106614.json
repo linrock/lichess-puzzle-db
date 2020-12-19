@@ -1,0 +1,24 @@
+{
+  "id": 106614,
+  "rating": 1660,
+  "attempts": 11838,
+  "fen": "2r2r2/1p4pk/p6p/1n3q2/4pR2/3N4/PPP3PP/1K1Q3R b - - 1 27",
+  "color": "white",
+  "initialPly": 54,
+  "gameId": "NWWSLScv",
+  "lines": {
+    "f4f5": {
+      "d3c2": {
+        "d1c2": {
+          "c8c2": {
+            "f5f8": {
+              "c2g2": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 182,
+  "enabled": true
+}

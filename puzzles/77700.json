@@ -1,0 +1,20 @@
+{
+  "id": 77700,
+  "rating": 1225,
+  "attempts": 8275,
+  "fen": "3r1rk1/p1p3p1/2p4p/2P2q2/1P1bp3/2N3P1/P3QP1P/1R3RK1 b - - 3 25",
+  "color": "white",
+  "initialPly": 50,
+  "gameId": "AteuTNjS",
+  "lines": {
+    "e2c4": {
+      "f5e6": {
+        "c4d4": {
+          "e4e3": "win"
+        }
+      }
+    }
+  },
+  "vote": 174,
+  "enabled": true
+}

@@ -1,0 +1,24 @@
+{
+  "id": 94108,
+  "rating": 1188,
+  "attempts": 4779,
+  "fen": "r4rk1/3bqppn/p1pN3p/1p2p2P/4N3/1P1PP1Q1/1PP3P1/R4RK1 w - - 5 21",
+  "color": "black",
+  "initialPly": 41,
+  "gameId": "ULEZG4PC",
+  "lines": {
+    "f7f5": {
+      "g3e5": {
+        "e7e5": {
+          "d4e5": {
+            "f5e4": {
+              "f1f4": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 107,
+  "enabled": true
+}

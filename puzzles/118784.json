@@ -1,0 +1,24 @@
+{
+  "id": 118784,
+  "rating": 1139,
+  "attempts": 1266,
+  "fen": "rn1q1rk1/ppp2ppp/3bp3/3p4/3Pb3/2P1PNB1/PP3PPP/R2QKB1R w KQ - 0 9",
+  "color": "black",
+  "initialPly": 17,
+  "gameId": "RIJsygIv",
+  "lines": {
+    "e4f3": {
+      "h4d8": {
+        "f3d1": {
+          "d8c7": {
+            "d6c7": {
+              "a1d1": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 18,
+  "enabled": true
+}

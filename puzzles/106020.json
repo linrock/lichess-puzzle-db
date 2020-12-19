@@ -1,0 +1,24 @@
+{
+  "id": 106020,
+  "rating": 2014,
+  "attempts": 7723,
+  "fen": "r4bnr/p1pk4/3p4/1Q1Pn2p/3N2pq/2P2p2/PP4PP/RNB2K1R b - - 1 15",
+  "color": "white",
+  "initialPly": 30,
+  "gameId": "3VRMTnkl",
+  "lines": {
+    "c1g5": {
+      "h4g5": {
+        "d4e6": {
+          "d8e7": {
+            "e6g5": {
+              "f8h6": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 235,
+  "enabled": true
+}

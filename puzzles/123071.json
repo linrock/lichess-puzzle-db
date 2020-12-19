@@ -1,0 +1,20 @@
+{
+  "id": 123071,
+  "rating": 878,
+  "attempts": 136,
+  "fen": "6k1/5pp1/2B4p/1p1p4/p2P4/P1Pb1P2/1P1N2nP/3K4 w - - 2 35",
+  "color": "black",
+  "initialPly": 69,
+  "gameId": "LarOOCkC",
+  "lines": {
+    "g2e3": {
+      "d1c1": {
+        "e3d5": {
+          "d2e4": "win"
+        }
+      }
+    }
+  },
+  "vote": 4,
+  "enabled": true
+}

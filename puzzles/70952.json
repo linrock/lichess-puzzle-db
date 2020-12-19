@@ -1,0 +1,24 @@
+{
+  "id": 70952,
+  "rating": 1201,
+  "attempts": 8871,
+  "fen": "8/6pk/8/1B2nP1p/P2R3P/8/r7/6K1 w - - 5 36",
+  "color": "black",
+  "initialPly": 71,
+  "gameId": "CISd5A2d",
+  "lines": {
+    "e5f3": {
+      "g1f1": {
+        "f3d2": {
+          "f1e2": {
+            "d2e4": {
+              "e2f3": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 156,
+  "enabled": true
+}

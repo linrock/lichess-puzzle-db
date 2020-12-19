@@ -1,0 +1,20 @@
+{
+  "id": 111986,
+  "rating": 1203,
+  "attempts": 2054,
+  "fen": "2kr1bnr/ppp2ppp/8/4q3/8/2N1B3/PPP1QPPP/R3K2R b KQ - 1 10",
+  "color": "white",
+  "initialPly": 20,
+  "gameId": "WMMR56oE",
+  "lines": {
+    "e2g4": {
+      "e5e6": {
+        "g4b4": {
+          "g8e7": "win"
+        }
+      }
+    }
+  },
+  "vote": 47,
+  "enabled": true
+}

@@ -1,0 +1,24 @@
+{
+  "id": 70388,
+  "rating": 1236,
+  "attempts": 19616,
+  "fen": "3rr1k1/1p2qppp/p1p2n2/5b2/1PB5/PQ2P3/N4PPP/4RRK1 w - - 4 21",
+  "color": "black",
+  "initialPly": 41,
+  "gameId": "RSJ98Nxo",
+  "lines": {
+    "b7b5": {
+      "c4f7": {
+        "e7f7": {
+          "b3f7": {
+            "g8f7": {
+              "e3e4": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": -204,
+  "enabled": true
+}

@@ -1,0 +1,32 @@
+{
+  "id": 88177,
+  "rating": 2711,
+  "attempts": 380,
+  "fen": "4k3/8/1p5R/3P1p2/1PP1p2n/5p1P/6P1/4rBK1 w - - 0 41",
+  "color": "black",
+  "initialPly": 81,
+  "gameId": "nsrajfPY",
+  "lines": {
+    "e4e3": {
+      "h4f4": {
+        "e1f1": {
+          "g1f1": {
+            "e3e2": {
+              "f1e1": {
+                "f3g2": {
+                  "e1e2": {
+                    "g2g1q": {
+                      "f4f5": "win"
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 17,
+  "enabled": true
+}

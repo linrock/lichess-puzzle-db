@@ -1,0 +1,24 @@
+{
+  "id": 92258,
+  "rating": 1654,
+  "attempts": 37202,
+  "fen": "5rk1/b1r2ppp/p3p3/1p6/2P1N3/1P1Q4/P4PPP/5K2 b - - 3 22",
+  "color": "white",
+  "initialPly": 44,
+  "gameId": "myne7pyq",
+  "lines": {
+    "e4f6": {
+      "g7f6": {
+        "d3g3": {
+          "g8h8": {
+            "g3c7": {
+              "a7b8": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 397,
+  "enabled": true
+}

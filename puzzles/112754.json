@@ -1,0 +1,24 @@
+{
+  "id": 112754,
+  "rating": 1606,
+  "attempts": 7826,
+  "fen": "r1b2rk1/ppp2pp1/1b6/4n2Q/7B/1N1n4/PP4PP/R4R1K w - - 2 18",
+  "color": "black",
+  "initialPly": 35,
+  "gameId": "VuxRKgLP",
+  "lines": {
+    "c8g4": {
+      "h5g5": {
+        "f7f6": {
+          "f1f6": {
+            "f8f6": {
+              "a1f1": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 157,
+  "enabled": true
+}

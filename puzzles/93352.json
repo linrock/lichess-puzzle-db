@@ -1,0 +1,24 @@
+{
+  "id": 93352,
+  "rating": 1432,
+  "attempts": 8159,
+  "fen": "r3k2r/pbq1npbp/1pp3p1/4p1B1/2P1P3/2NQ1N2/PP3PPP/R2R2K1 b kq - 2 14",
+  "color": "white",
+  "initialPly": 28,
+  "gameId": "EmkDdRLd",
+  "lines": {
+    "d3d7": {
+      "c7d7": {
+        "d1d7": {
+          "b7c8": {
+            "d7e7": {
+              "f7f6": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 191,
+  "enabled": true
+}

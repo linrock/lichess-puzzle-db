@@ -1,0 +1,28 @@
+{
+  "id": 91374,
+  "rating": 2071,
+  "attempts": 28078,
+  "fen": "rnb2rk1/pp2ppb1/6pp/2pq4/3P1B2/3B1N2/PPP2PPP/R2QK2R w KQ - 0 10",
+  "color": "black",
+  "initialPly": 19,
+  "gameId": "gyLWCRS6",
+  "lines": {
+    "e7e5": {
+      "f4e3": {
+        "e5e4": {
+          "d3e2": {
+            "d5d1": {
+              "a1d1": {
+                "e4f3": {
+                  "e2f3": "win"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 253,
+  "enabled": true
+}

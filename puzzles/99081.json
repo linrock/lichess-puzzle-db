@@ -1,0 +1,24 @@
+{
+  "id": 99081,
+  "rating": 1258,
+  "attempts": 4076,
+  "fen": "R1b5/b1r2k1p/5p2/N2p1p2/4pP2/4P1P1/1P3K1P/3B4 b - - 7 37",
+  "color": "white",
+  "initialPly": 74,
+  "gameId": "RpXGRBeT",
+  "lines": {
+    "a8a7": {
+      "c7a7": {
+        "a5c6": {
+          "e7d6": {
+            "c6a7": {
+              "c8d7": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 84,
+  "enabled": true
+}

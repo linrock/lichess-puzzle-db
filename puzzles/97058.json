@@ -1,0 +1,28 @@
+{
+  "id": 97058,
+  "rating": 1747,
+  "attempts": 10610,
+  "fen": "5r1k/p5b1/3p1q1p/2p1n1pQ/5p2/1BPP3P/Pr3PPN/R4RK1 b - - 1 24",
+  "color": "white",
+  "initialPly": 48,
+  "gameId": "zYNEHaTc",
+  "lines": {
+    "h2g4": {
+      "f6f5": {
+        "g4h6": {
+          "f5h7": {
+            "h6f7": {
+              "f8f7": {
+                "h5f7": {
+                  "c5c4": "win"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 131,
+  "enabled": true
+}

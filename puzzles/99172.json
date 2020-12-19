@@ -1,0 +1,24 @@
+{
+  "id": 99172,
+  "rating": 2127,
+  "attempts": 4459,
+  "fen": "r4r1k/1pp3p1/p2p3p/5P2/PPBb2qP/4RR2/5PP1/3Q2K1 w - - 0 23",
+  "color": "black",
+  "initialPly": 45,
+  "gameId": "MPON6I3S",
+  "lines": {
+    "d4f2": {
+      "g1f2": {
+        "g4h4": {
+          "f2g1": {
+            "h4e7": {
+              "c4e6": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 148,
+  "enabled": true
+}

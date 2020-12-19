@@ -1,0 +1,24 @@
+{
+  "id": 100702,
+  "rating": 2104,
+  "attempts": 6799,
+  "fen": "4Q2k/p5bp/3q2p1/8/2BP4/3n4/6KP/8 b - - 6 37",
+  "color": "white",
+  "initialPly": 74,
+  "gameId": "EGkDEmdd",
+  "lines": {
+    "e8f7": {
+      "d6c6": {
+        "g2g1": {
+          "c6c4": {
+            "f7c4": {
+              "d3f4": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 138,
+  "enabled": true
+}

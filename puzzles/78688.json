@@ -1,0 +1,28 @@
+{
+  "id": 78688,
+  "rating": 1192,
+  "attempts": 5776,
+  "fen": "r4rk1/b1p3p1/p4p2/np2p3/4Q3/P1PPBN1P/1P3PP1/qNKR4 b - - 3 21",
+  "color": "white",
+  "initialPly": 42,
+  "gameId": "CpLD78JP",
+  "lines": {
+    "c1c2": {
+      "a1a2": {
+        "e4d5": {
+          "g8h7": {
+            "d5b3": {
+              "a2b3": {
+                "c2b3": {
+                  "f8d8": "win"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 131,
+  "enabled": true
+}

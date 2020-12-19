@@ -1,0 +1,24 @@
+{
+  "id": 113984,
+  "rating": 1676,
+  "attempts": 9212,
+  "fen": "3rr1k1/pp2qpp1/2p4p/4Nb2/P2PnP1Q/2P4P/4B1P1/2R2R1K w - - 7 28",
+  "color": "black",
+  "initialPly": 55,
+  "gameId": "MBuMCmpW",
+  "lines": {
+    "e4g3": {
+      "h1h2": {
+        "g3f1": {
+          "e2f1": {
+            "e8e7": {
+              "h2g3": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 233,
+  "enabled": true
+}

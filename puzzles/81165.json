@@ -1,0 +1,24 @@
+{
+  "id": 81165,
+  "rating": 2103,
+  "attempts": 44060,
+  "fen": "2kr3r/pp2qp2/2nbpp2/1N6/4P2P/5Q2/PP3PBP/3RR1K1 b - - 0 18",
+  "color": "white",
+  "initialPly": 36,
+  "gameId": "MxnUsRaA",
+  "lines": {
+    "d1d6": {
+      "d8d6": {
+        "f3g3": {
+          "d6d8": {
+            "g3h4": {
+              "e7b4": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 407,
+  "enabled": true
+}

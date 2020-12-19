@@ -1,0 +1,32 @@
+{
+  "id": 81422,
+  "rating": 2659,
+  "attempts": 403,
+  "fen": "1r3rk1/3R2p1/1p2n2p/2p1p3/4N2P/2P3P1/PR1Q3K/5q2 b - - 6 35",
+  "color": "white",
+  "initialPly": 70,
+  "gameId": "QsLich7k",
+  "lines": {
+    "d2d5": {
+      "b8e8": {
+        "d7d6": {
+          "g8h7": {
+            "d6e6": {
+              "e8f8": {
+                "b2g2": {
+                  "f3d3": {
+                    "d5c4": {
+                      "d3e3": "win"
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": -7,
+  "enabled": true
+}

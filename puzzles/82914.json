@@ -1,0 +1,24 @@
+{
+  "id": 82914,
+  "rating": 1094,
+  "attempts": 2177,
+  "fen": "2kr3r/pp3ppp/3Pp3/2Pp4/4n3/8/PPn1NPPP/1RB2RK1 w - - 2 15",
+  "color": "black",
+  "initialPly": 29,
+  "gameId": "GSwycLCy",
+  "lines": {
+    "c2e3": {
+      "f2e3": {
+        "e4d2": {
+          "b1e1": {
+            "d2f1": {
+              "e1f1": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 79,
+  "enabled": true
+}

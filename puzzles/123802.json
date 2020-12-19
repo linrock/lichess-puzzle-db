@@ -1,0 +1,28 @@
+{
+  "id": 123802,
+  "rating": 2151,
+  "attempts": 6293,
+  "fen": "3r2k1/2R2p2/1Q1qpn1p/6p1/1P1N4/r3P1P1/5PP1/5RK1 w - - 2 26",
+  "color": "black",
+  "initialPly": 51,
+  "gameId": "32PSvcPO",
+  "lines": {
+    "f6d5": {
+      "b6b7": {
+        "d5c7": {
+          "c6d8": {
+            "d6d8": {
+              "f1c1": {
+                "c7e8": {
+                  "b7c8": "win"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 125,
+  "enabled": true
+}

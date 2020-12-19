@@ -1,0 +1,32 @@
+{
+  "id": 123069,
+  "rating": 1988,
+  "attempts": 6936,
+  "fen": "4r1k1/5pp1/2p3bp/1p1p3n/p2P4/P1P2P1B/1P1N1KPP/2R5 w - - 0 28",
+  "color": "black",
+  "initialPly": 55,
+  "gameId": "LarOOCkC",
+  "lines": {
+    "e8e7": {
+      "d7c6": {
+        "h5f4": {
+          "c6b5": {
+            "g6d3": {
+              "c1e1": {
+                "e7e1": {
+                  "f2e1": {
+                    "d3b5": {
+                      "b2b3": "win"
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 84,
+  "enabled": true
+}

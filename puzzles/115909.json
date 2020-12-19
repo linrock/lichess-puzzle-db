@@ -1,0 +1,24 @@
+{
+  "id": 115909,
+  "rating": 2032,
+  "attempts": 8651,
+  "fen": "r2qk1r1/ppp2pPp/2n1b3/2b3N1/2pp4/8/PPP2PPP/RNBQR1K1 b q - 4 10",
+  "color": "white",
+  "initialPly": 20,
+  "gameId": "BOOYxPSI",
+  "lines": {
+    "g5e6": {
+      "f7e6": {
+        "d1h5": {
+          "f6f7": {
+            "h5c5": {
+              "e8c8": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 167,
+  "enabled": true
+}

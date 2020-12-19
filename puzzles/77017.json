@@ -1,0 +1,22 @@
+{
+  "id": 77017,
+  "rating": 1028,
+  "attempts": 77690,
+  "fen": "6k1/1R4p1/2p2b1p/2P2Q2/pP6/4q3/P5PP/6K1 w - - 0 35",
+  "color": "black",
+  "initialPly": 69,
+  "gameId": "LperPawj",
+  "lines": {
+    "e3c1": {
+      "f2f1": {
+        "f6d4": {
+          "g1h1": {
+            "c1f1": "win"
+          }
+        }
+      }
+    }
+  },
+  "vote": 126,
+  "enabled": true
+}

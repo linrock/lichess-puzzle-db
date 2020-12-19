@@ -1,0 +1,28 @@
+{
+  "id": 72590,
+  "rating": 2360,
+  "attempts": 4964,
+  "fen": "2r5/2q1n1kp/r3p1p1/p2pP1P1/3P4/2P3NR/2KQ4/7R b - - 5 30",
+  "color": "white",
+  "initialPly": 60,
+  "gameId": "cNHhR75L",
+  "lines": {
+    "d2h2": {
+      "h7h5": {
+        "g3h5": {
+          "g6h5": {
+            "h3h5": {
+              "c7c4": {
+                "h5h8": {
+                  "c4a4": "win"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 90,
+  "enabled": true
+}

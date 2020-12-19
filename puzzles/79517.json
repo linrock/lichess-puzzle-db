@@ -1,0 +1,23 @@
+{
+  "id": 79517,
+  "rating": 1500,
+  "attempts": 3,
+  "fen": "8/8/Q5K1/8/2p1P3/prP5/1k6/8 w - - 4 70",
+  "color": "black",
+  "initialPly": 139,
+  "gameId": "OMPtsn35",
+  "lines": {
+    "a3a2": {
+      "a6c4": {
+        "b3b6": {
+          "e5e6": {
+            "a2a1q": {
+              "c4e2": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": -9000
+}

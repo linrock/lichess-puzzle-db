@@ -1,0 +1,20 @@
+{
+  "id": 98000,
+  "rating": 886,
+  "attempts": 260,
+  "fen": "r2q1rk1/ppp1ppbp/3p2p1/2nP4/2PnP3/2N1B2P/PP3PP1/RB1QK2R b KQ - 4 12",
+  "color": "white",
+  "initialPly": 24,
+  "gameId": "KFki018I",
+  "lines": {
+    "e3d4": {
+      "g7d4": {
+        "d1d4": {
+          "d8b6": "win"
+        }
+      }
+    }
+  },
+  "vote": -2,
+  "enabled": true
+}

@@ -1,0 +1,24 @@
+{
+  "id": 91635,
+  "rating": 2360,
+  "attempts": 3084,
+  "fen": "r4q1k/1r5n/p1Rp1b2/Bp1PpP2/5p1p/5P1N/PPQ5/1K5R b - - 5 32",
+  "color": "white",
+  "initialPly": 64,
+  "gameId": "TEppsv45",
+  "lines": {
+    "h3g5": {
+      "f6g5": {
+        "a5c7": {
+          "b7c7": {
+            "c6c7": {
+              "f8f6": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": -19,
+  "enabled": true
+}

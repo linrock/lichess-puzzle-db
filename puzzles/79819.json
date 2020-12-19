@@ -1,0 +1,28 @@
+{
+  "id": 79819,
+  "rating": 2679,
+  "attempts": 499,
+  "fen": "R2b2k1/7p/4p3/4P1pN/1ppPK1P1/3r4/8/8 b - - 1 44",
+  "color": "white",
+  "initialPly": 88,
+  "gameId": "GOcgMybZ",
+  "lines": {
+    "a8d8": {
+      "g8f7": {
+        "d8d7": {
+          "f7f8": {
+            "d7b7": {
+              "d3d1": {
+                "d4d5": {
+                  "b3b2": "win"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": -4,
+  "enabled": true
+}

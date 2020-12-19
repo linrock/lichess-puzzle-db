@@ -1,0 +1,20 @@
+{
+  "id": 101340,
+  "rating": 1001,
+  "attempts": 806,
+  "fen": "5B2/3k4/4p3/3n4/r7/P5K1/PR6/8 w - - 9 50",
+  "color": "black",
+  "initialPly": 99,
+  "gameId": "NxOoGttb",
+  "lines": {
+    "a4f4": {
+      "f3e2": {
+        "f4f8": {
+          "b2b7": "win"
+        }
+      }
+    }
+  },
+  "vote": 26,
+  "enabled": true
+}

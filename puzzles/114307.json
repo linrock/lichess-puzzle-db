@@ -1,0 +1,28 @@
+{
+  "id": 114307,
+  "rating": 1826,
+  "attempts": 72507,
+  "fen": "8/R3nk1p/1p1r1qp1/p1pP4/2Pn2P1/4Q2P/PP4B1/6K1 b - - 1 32",
+  "color": "white",
+  "initialPly": 64,
+  "gameId": "kXsu89wi",
+  "lines": {
+    "g4g5": {
+      "d4f5": {
+        "g5f6": {
+          "f5e3": {
+            "a7e7": {
+              "f7f6": {
+                "e7e3": {
+                  "a5a4": "win"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 370,
+  "enabled": true
+}

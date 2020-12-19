@@ -1,0 +1,24 @@
+{
+  "id": 107581,
+  "rating": 1741,
+  "attempts": 7672,
+  "fen": "8/1B2k3/2P2p2/4p3/p5RP/1b2KP2/1Pr5/8 b - - 0 42",
+  "color": "white",
+  "initialPly": 84,
+  "gameId": "DEegMkwK",
+  "lines": {
+    "c6c7": {
+      "b3e6": {
+        "c7c8q": {
+          "e6c8": {
+            "b7c8": {
+              "a4a3": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 81,
+  "enabled": true
+}

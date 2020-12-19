@@ -1,0 +1,31 @@
+{
+  "id": 72617,
+  "rating": 1500,
+  "attempts": 6,
+  "fen": "1r6/8/P1KR4/6k1/6p1/4n3/8/7N b - - 4 50",
+  "color": "white",
+  "initialPly": 100,
+  "gameId": "vC2g2YIM",
+  "lines": {
+    "a6a7": {
+      "b1a1": {
+        "c6b7": {
+          "a1a7": {
+            "b7a7": {
+              "e3f5": {
+                "d6d5": {
+                  "g5f4": {
+                    "h1f2": {
+                      "f5e3": "win"
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": -9000
+}

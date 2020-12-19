@@ -1,0 +1,24 @@
+{
+  "id": 100951,
+  "rating": 1556,
+  "attempts": 61598,
+  "fen": "1r3rk1/1p3p1p/pRbNp1p1/2P5/2B2b2/5P1P/P5P1/1R4K1 w - - 0 26",
+  "color": "black",
+  "initialPly": 51,
+  "gameId": "Bzv81kSM",
+  "lines": {
+    "f4e3": {
+      "g1f1": {
+        "e3c5": {
+          "b6c6": {
+            "b7c6": {
+              "d6b7": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 231,
+  "enabled": true
+}

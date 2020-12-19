@@ -1,0 +1,24 @@
+{
+  "id": 93126,
+  "rating": 1201,
+  "attempts": 178670,
+  "fen": "1rr3k1/R4p1p/2B5/1p2P3/1R4p1/6P1/4bPKP/8 w - - 1 32",
+  "color": "black",
+  "initialPly": 63,
+  "gameId": "LQL1COKi",
+  "lines": {
+    "c8c6": {
+      "a6c6": {
+        "e2f3": {
+          "g2f1": {
+            "f3c6": {
+              "b4g4": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 1569,
+  "enabled": true
+}

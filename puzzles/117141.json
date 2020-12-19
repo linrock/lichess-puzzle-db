@@ -1,0 +1,24 @@
+{
+  "id": 117141,
+  "rating": 1825,
+  "attempts": 9303,
+  "fen": "r2qkb1r/pp1n1ppp/4P3/1B3b2/3n1B2/1QN5/PP3PPP/R3K1NR b KQkq - 0 10",
+  "color": "white",
+  "initialPly": 20,
+  "gameId": "ahRupELL",
+  "lines": {
+    "b5d7": {
+      "d8d7": {
+        "e6d7": {
+          "f5d7": {
+            "a2b3": {
+              "f8c5": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 195,
+  "enabled": true
+}

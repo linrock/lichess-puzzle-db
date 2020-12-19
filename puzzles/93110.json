@@ -1,0 +1,24 @@
+{
+  "id": 93110,
+  "rating": 1279,
+  "attempts": 4170,
+  "fen": "r2qbrk1/6pp/4p3/1p1pbP2/1PpPnP2/2P1P3/3BQ2P/1BR2RK1 w - - 0 25",
+  "color": "black",
+  "initialPly": 49,
+  "gameId": "lstSBh2s",
+  "lines": {
+    "d8g5": {
+      "e2g2": {
+        "g5g2": {
+          "g1g2": {
+            "e4d2": {
+              "f1f2": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 100,
+  "enabled": true
+}

@@ -1,0 +1,24 @@
+{
+  "id": 110579,
+  "rating": 2482,
+  "attempts": 533,
+  "fen": "r5k1/pp4p1/1q6/3PN2Q/2p4P/PnP5/1P3rP1/1K1R3R w - - 1 25",
+  "color": "black",
+  "initialPly": 49,
+  "gameId": "R436vOJC",
+  "lines": {
+    "b3d2": {
+      "d1d2": {
+        "f2f1": {
+          "d2d1": {
+            "a8f8": {
+              "e5c6": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 2,
+  "enabled": true
+}

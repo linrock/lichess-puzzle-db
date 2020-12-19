@@ -1,0 +1,24 @@
+{
+  "id": 61183,
+  "rating": 2046,
+  "attempts": 501165,
+  "fen": "1k1r3r/pp3pp1/3q4/2R4p/3P1P2/1P2n3/PQ4PP/2R3K1 b - - 6 23",
+  "color": "white",
+  "initialPly": 46,
+  "gameId": "mUzySVdL",
+  "lines": {
+    "c5c8": {
+      "d8c8": {
+        "c1c8": {
+          "h8c8": {
+            "b2d4": {
+              "e3g4": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 10144,
+  "enabled": true
+}

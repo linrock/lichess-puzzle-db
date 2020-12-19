@@ -1,0 +1,28 @@
+{
+  "id": 125059,
+  "rating": 2407,
+  "attempts": 5057,
+  "fen": "8/1kp5/4P3/2p3Rp/5K2/6P1/8/1r6 b - - 2 35",
+  "color": "white",
+  "initialPly": 70,
+  "gameId": "fFpXtID5",
+  "lines": {
+    "g5b5": {
+      "b1b5": {
+        "e6e7": {
+          "c4c3": {
+            "e7e8q": {
+              "b5c5": {
+                "e8e4": {
+                  "b7b6": "win"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 56,
+  "enabled": true
+}

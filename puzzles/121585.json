@@ -1,0 +1,24 @@
+{
+  "id": 121585,
+  "rating": 1562,
+  "attempts": 7333,
+  "fen": "2rr2k1/5p1p/p5p1/3p2Pb/PP2PB1P/3K4/8/1R5R w - - 0 35",
+  "color": "black",
+  "initialPly": 69,
+  "gameId": "TrYlElvc",
+  "lines": {
+    "h5f3": {
+      "h1c1": {
+        "f3e4": {
+          "d3e2": {
+            "e4b1": {
+              "c1b1": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 158,
+  "enabled": true
+}

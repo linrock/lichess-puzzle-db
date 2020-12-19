@@ -1,0 +1,28 @@
+{
+  "id": 83315,
+  "rating": 2037,
+  "attempts": 10675,
+  "fen": "3r2k1/3qbppp/pQ1p1n2/1p6/2r1PB2/P1NR3P/1P3PP1/3R2K1 b - - 5 18",
+  "color": "white",
+  "initialPly": 36,
+  "gameId": "Nw3Nboai",
+  "lines": {
+    "c3e4": {
+      "c4e4": {
+        "d3d6": {
+          "e7d6": {
+            "d1d6": {
+              "d7d6": {
+                "f4d6": {
+                  "d8a8": "win"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 319,
+  "enabled": true
+}

@@ -1,0 +1,24 @@
+{
+  "id": 114323,
+  "rating": 1026,
+  "attempts": 809,
+  "fen": "1r3k2/1R4pp/5p2/2n1pN2/8/4P3/1P3PPP/3R2K1 b - - 0 26",
+  "color": "white",
+  "initialPly": 52,
+  "gameId": "AUeM2nge",
+  "lines": {
+    "d1d8": {
+      "f8f7": {
+        "f5d6": {
+          "f7e6": {
+            "d6b7": {
+              "c5b7": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 19,
+  "enabled": true
+}

@@ -1,0 +1,24 @@
+{
+  "id": 98469,
+  "rating": 2253,
+  "attempts": 3675,
+  "fen": "3R3r/p6k/1p3P2/2p3B1/2P2PK1/1r6/8/8 w - - 1 47",
+  "color": "black",
+  "initialPly": 93,
+  "gameId": "7RSBKImo",
+  "lines": {
+    "h7h8": {
+      "g4f5": {
+        "h8h7": {
+          "f5e6": {
+            "b3e3": {
+              "e6d6": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 84,
+  "enabled": true
+}

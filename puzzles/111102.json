@@ -1,0 +1,24 @@
+{
+  "id": 111102,
+  "rating": 1653,
+  "attempts": 8544,
+  "fen": "r4rk1/bQ4p1/p2p3p/3Pp1q1/1P2PnB1/P6P/1BR2PP1/5RK1 w - - 1 23",
+  "color": "black",
+  "initialPly": 45,
+  "gameId": "NjSNwmNa",
+  "lines": {
+    "h6h5": {
+      "c7g7": {
+        "g5g7": {
+          "b7g7": {
+            "g8g7": {
+              "g4f5": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 127,
+  "enabled": true
+}

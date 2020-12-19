@@ -1,0 +1,32 @@
+{
+  "id": 78537,
+  "rating": 2381,
+  "attempts": 3058,
+  "fen": "r1b2rk1/pp4pn/4p3/q2pb1N1/8/PP2B3/6PP/2RQ1RK1 w - - 0 21",
+  "color": "black",
+  "initialPly": 41,
+  "gameId": "MneMCxi5",
+  "lines": {
+    "h7f8": {
+      "d1h5": {
+        "g7g6": {
+          "h5f3": {
+            "c8d7": {
+              "g5f7": {
+                "e5g7": {
+                  "f7h6": {
+                    "g7h6": {
+                      "e3h6": "win"
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 8,
+  "enabled": true
+}

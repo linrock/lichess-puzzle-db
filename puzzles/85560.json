@@ -1,0 +1,24 @@
+{
+  "id": 85560,
+  "rating": 2022,
+  "attempts": 11025,
+  "fen": "8/5p2/4p3/P1p1P3/2P5/5K1b/1R4pk/8 w - - 2 47",
+  "color": "black",
+  "initialPly": 93,
+  "gameId": "f3M2DMpp",
+  "lines": {
+    "h2h1": {
+      "b2g2": {
+        "h3g2": {
+          "f3g4": {
+            "h1h2": {
+              "g4h4": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 130,
+  "enabled": true
+}

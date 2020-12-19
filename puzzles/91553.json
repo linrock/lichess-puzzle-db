@@ -1,0 +1,24 @@
+{
+  "id": 91553,
+  "rating": 1639,
+  "attempts": 205620,
+  "fen": "2rr2k1/n7/1p2p2P/1Pp2pq1/2Bb4/P1N2b1P/2Q2B1K/1R3R2 w - - 0 28",
+  "color": "black",
+  "initialPly": 55,
+  "gameId": "kmClyzK0",
+  "lines": {
+    "d4e5": {
+      "f2g3": {
+        "d8d2": {
+          "c2d2": {
+            "g5d2": {
+              "c3e2": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 2057,
+  "enabled": true
+}

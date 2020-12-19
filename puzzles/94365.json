@@ -1,0 +1,23 @@
+{
+  "id": 94365,
+  "rating": 1500,
+  "attempts": 1,
+  "fen": "4r3/1R2P1k1/8/6K1/8/8/2r4p/5R2 w - - 2 53",
+  "color": "black",
+  "initialPly": 105,
+  "gameId": "1zAsKkRW",
+  "lines": {
+    "c2g2": {
+      "g5f4": {
+        "g2f2": {
+          "f1f2": {
+            "h2h1q": {
+              "f4g3": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": -9000
+}

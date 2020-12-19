@@ -1,0 +1,22 @@
+{
+  "id": 109273,
+  "rating": 859,
+  "attempts": 222,
+  "fen": "8/3R3p/1rQ3pk/8/3b4/1P5P/K1B3P1/8 w - - 1 54",
+  "color": "black",
+  "initialPly": 107,
+  "gameId": "EwiovAiT",
+  "lines": {
+    "b6a6": {
+      "c7a5": {
+        "a6a5": {
+          "a2b1": {
+            "a5a1": "win"
+          }
+        }
+      }
+    }
+  },
+  "vote": 12,
+  "enabled": true
+}

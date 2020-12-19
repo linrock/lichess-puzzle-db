@@ -1,0 +1,32 @@
+{
+  "id": 94244,
+  "rating": 1598,
+  "attempts": 10833,
+  "fen": "3r2k1/5pbp/p5p1/qr1P4/8/B2Q4/P3RPPP/3R2K1 w - - 1 25",
+  "color": "black",
+  "initialPly": 49,
+  "gameId": "KKZmolsA",
+  "lines": {
+    "b5d5": {
+      "d3d5": {
+        "d8d5": {
+          "e2e8": {
+            "g7f8": {
+              "d1d5": {
+                "a5d5": {
+                  "e8f8": {
+                    "g8g7": {
+                      "f8e8": "win"
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 219,
+  "enabled": true
+}

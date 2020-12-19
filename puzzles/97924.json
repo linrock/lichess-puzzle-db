@@ -1,0 +1,24 @@
+{
+  "id": 97924,
+  "rating": 1640,
+  "attempts": 10869,
+  "fen": "2kr1b1r/1bpq2p1/1p2n3/1P3N1p/3pPp1P/3P4/1QP1B1P1/R3K1NR w KQ - 2 23",
+  "color": "black",
+  "initialPly": 45,
+  "gameId": "VECO21KE",
+  "lines": {
+    "g7g6": {
+      "f3e5": {
+        "d7e8": {
+          "e5g6": {
+            "e8g6": {
+              "e2f3": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 222,
+  "enabled": true
+}

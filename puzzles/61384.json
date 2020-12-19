@@ -1,0 +1,22 @@
+{
+  "id": 61384,
+  "rating": 1726,
+  "attempts": 352500,
+  "fen": "1k6/ppp3R1/3r4/3bN2p/3Pq3/2P5/PP1K1P1P/6R1 b - - 7 28",
+  "color": "white",
+  "initialPly": 56,
+  "gameId": "ThPrMNBN",
+  "lines": {
+    "g7g8": {
+      "c4g8": {
+        "g1g8": {
+          "d6d8": {
+            "g8d8": "win"
+          }
+        }
+      }
+    }
+  },
+  "vote": 7697,
+  "enabled": true
+}

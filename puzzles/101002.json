@@ -1,0 +1,20 @@
+{
+  "id": 101002,
+  "rating": 892,
+  "attempts": 586,
+  "fen": "r4rk1/3q1pp1/p6p/4R3/3B4/1b1P1N1P/1Pn2PP1/R4QK1 w - - 5 29",
+  "color": "black",
+  "initialPly": 57,
+  "gameId": "ryUnaGCi",
+  "lines": {
+    "c2d4": {
+      "f3d4": {
+        "d7d4": {
+          "f1e2": "win"
+        }
+      }
+    }
+  },
+  "vote": 15,
+  "enabled": true
+}

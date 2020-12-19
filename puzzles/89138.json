@@ -1,0 +1,28 @@
+{
+  "id": 89138,
+  "rating": 2391,
+  "attempts": 3635,
+  "fen": "2q2rk1/pp2ppb1/5n1p/3pNbp1/3P4/1P2P3/PB1N1PPP/Q4RK1 b - - 1 16",
+  "color": "white",
+  "initialPly": 32,
+  "gameId": "ZRjTdMAM",
+  "lines": {
+    "b2c3": {
+      "f8c8": {
+        "f1c1": {
+          "c8c3": {
+            "a1c3": {
+              "c2c3": {
+                "c1c3": {
+                  "f6e8": "win"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 74,
+  "enabled": true
+}

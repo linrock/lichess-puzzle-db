@@ -1,0 +1,32 @@
+{
+  "id": 103417,
+  "rating": 2234,
+  "attempts": 4957,
+  "fen": "2kr3r/1pp2ppp/p2b2q1/3P4/1PPNp3/P1NnBnPP/4QP2/RR5K w - - 1 21",
+  "color": "black",
+  "initialPly": 41,
+  "gameId": "Sc97HpRB",
+  "lines": {
+    "d6e5": {
+      "c3e4": {
+        "g6e4": {
+          "e2f3": {
+            "e4f3": {
+              "d4f3": {
+                "e5a1": {
+                  "b1a1": {
+                    "a6b5": {
+                      "c4b5": "win"
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 51,
+  "enabled": true
+}

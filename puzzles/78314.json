@@ -1,0 +1,28 @@
+{
+  "id": 78314,
+  "rating": 2303,
+  "attempts": 8020,
+  "fen": "2kr3r/ppp2ppp/2n1p3/2b5/7q/1P3B2/P1PP1PPP/R1BQR1K1 w - - 1 13",
+  "color": "black",
+  "initialPly": 25,
+  "gameId": "vsSevu6v",
+  "lines": {
+    "c5f2": {
+      "g1f2": {
+        "h4d4": {
+          "f2g2": {
+            "d4a1": {
+              "f3c6": {
+                "b7c6": {
+                  "d1h5": "win"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 134,
+  "enabled": true
+}

@@ -1,0 +1,24 @@
+{
+  "id": 62487,
+  "rating": 2755,
+  "attempts": 23554,
+  "fen": "2rr2k1/pp1bnppp/3bp3/8/1P2P3/PBq2N2/5PPP/3RQRK1 w - - 0 18",
+  "color": "black",
+  "initialPly": 35,
+  "gameId": "IAVBKrND",
+  "lines": {
+    "c8c3": {
+      "d1d6": {
+        "e7c8": {
+          "d6d4": {
+            "c3b3": {
+              "f1d1": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 407,
+  "enabled": true
+}

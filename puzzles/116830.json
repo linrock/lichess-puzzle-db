@@ -1,0 +1,24 @@
+{
+  "id": 116830,
+  "rating": 897,
+  "attempts": 3220,
+  "fen": "2r3k1/p2n2p1/1pr4p/3p1p2/3P4/3QP1B1/nqBK1PPP/1RR5 b - - 1 23",
+  "color": "white",
+  "initialPly": 46,
+  "gameId": "Fke61LTO",
+  "lines": {
+    "c1c2": {
+      "b2c2": {
+        "d3c2": {
+          "c8c2": {
+            "d2c2": {
+              "a7a5": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 72,
+  "enabled": true
+}

@@ -1,0 +1,24 @@
+{
+  "id": 101448,
+  "rating": 993,
+  "attempts": 801,
+  "fen": "8/1p5p/5Rr1/7k/5B2/7b/P6P/7K w - - 4 33",
+  "color": "black",
+  "initialPly": 65,
+  "gameId": "sIFOp5NZ",
+  "lines": {
+    "h3g2": {
+      "h1g1": {
+        "g2d5": {
+          "g1f2": {
+            "d5f7": {
+              "a2a3": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 31,
+  "enabled": true
+}

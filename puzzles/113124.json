@@ -1,0 +1,24 @@
+{
+  "id": 113124,
+  "rating": 2138,
+  "attempts": 5010,
+  "fen": "r5k1/ppq2p1p/2pb2P1/3n4/3P4/2P1rB1R/PPQ3PP/5RK1 b - - 0 19",
+  "color": "white",
+  "initialPly": 38,
+  "gameId": "LiRSlrtB",
+  "lines": {
+    "f3d5": {
+      "d6h2": {
+        "g1h1": {
+          "c6d5": {
+            "h3e3": {
+              "h2g3": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 85,
+  "enabled": true
+}

@@ -1,0 +1,24 @@
+{
+  "id": 77967,
+  "rating": 1945,
+  "attempts": 100485,
+  "fen": "r4rk1/pp4pp/8/8/1bNn1Bb1/2N3P1/PP3P1P/2R2RK1 w - - 6 21",
+  "color": "black",
+  "initialPly": 41,
+  "gameId": "D211LVfA",
+  "lines": {
+    "g4f3": {
+      "g2h3": {
+        "f8f5": {
+          "g3g4": {
+            "f5f4": {
+              "c4e5": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 546,
+  "enabled": true
+}

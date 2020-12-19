@@ -1,0 +1,24 @@
+{
+  "id": 70095,
+  "rating": 1103,
+  "attempts": 5978,
+  "fen": "2r5/p7/3Pkpnp/1p2p3/1B6/1P4P1/P6P/3R3K b - - 3 38",
+  "color": "white",
+  "initialPly": 76,
+  "gameId": "bW2TlkeL",
+  "lines": {
+    "d6d7": {
+      "f8d7": {
+        "d1d6": {
+          "e6f5": {
+            "d6d7": {
+              "h6h5": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 108,
+  "enabled": true
+}

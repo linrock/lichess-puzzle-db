@@ -1,0 +1,24 @@
+{
+  "id": 87421,
+  "rating": 1474,
+  "attempts": 12269,
+  "fen": "r1b2rk1/pp2qppp/4p3/3pB3/3PB3/P3PQ2/1P1K1PPP/R6R b - - 0 15",
+  "color": "white",
+  "initialPly": 30,
+  "gameId": "VUTFATAC",
+  "lines": {
+    "f3g3": {
+      "f7f6": {
+        "e5d6": {
+          "e7d8": {
+            "d6f8": {
+              "d8f8": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 316,
+  "enabled": true
+}

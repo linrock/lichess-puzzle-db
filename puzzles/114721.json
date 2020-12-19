@@ -1,0 +1,40 @@
+{
+  "id": 114721,
+  "rating": 2255,
+  "attempts": 5198,
+  "fen": "1rbq1rk1/4bpp1/1n2p2p/1pp1P1N1/4NB2/P2P4/1P2Q1PP/1R3RK1 w - - 0 18",
+  "color": "black",
+  "initialPly": 35,
+  "gameId": "VdLi560m",
+  "lines": {
+    "h6g5": {
+      "f4g5": {
+        "e7g5": {
+          "e4g5": {
+            "d8d3": {
+              "g5f7": {
+                "d3h7": {
+                  "h5h7": {
+                    "g8h7": {
+                      "f7g5": {
+                        "h7g8": {
+                          "f1f8": {
+                            "g8f8": {
+                              "b1f1": "win"
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 83,
+  "enabled": true
+}

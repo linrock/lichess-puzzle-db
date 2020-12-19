@@ -1,0 +1,24 @@
+{
+  "id": 78145,
+  "rating": 1956,
+  "attempts": 17625,
+  "fen": "4r1k1/3brp1p/2pQp1p1/p6N/5P2/PP2R3/1q4PP/4R2K w - - 0 24",
+  "color": "black",
+  "initialPly": 47,
+  "gameId": "rkPGGMpE",
+  "lines": {
+    "g8h8": {
+      "g3d3": {
+        "g6h5": {
+          "d6e5": {
+            "b2e5": {
+              "e1e5": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 205,
+  "enabled": true
+}

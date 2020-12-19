@@ -1,0 +1,28 @@
+{
+  "id": 80477,
+  "rating": 2118,
+  "attempts": 10355,
+  "fen": "r3k2r/pp1b1ppp/2n1p3/q2pP3/8/1PbBBN2/P3QPPP/2R2RK1 b kq - 6 16",
+  "color": "white",
+  "initialPly": 32,
+  "gameId": "QHAPTpkb",
+  "lines": {
+    "f3e5": {
+      "c3e5": {
+        "e3d2": {
+          "a5a2": {
+            "c1c2": {
+              "a2b3": {
+                "e2e5": {
+                  "d7c6": "win"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": -57,
+  "enabled": true
+}

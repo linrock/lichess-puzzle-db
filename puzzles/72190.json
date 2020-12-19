@@ -1,0 +1,24 @@
+{
+  "id": 72190,
+  "rating": 1339,
+  "attempts": 20210,
+  "fen": "r1bq1rk1/ppp4p/2n3pP/3n2N1/8/P1P1p1P1/2PB1PB1/R2QK2R w KQ - 0 16",
+  "color": "black",
+  "initialPly": 31,
+  "gameId": "SBOvSakg",
+  "lines": {
+    "d5e3": {
+      "f2e3": {
+        "d8g5": {
+          "d1d5": {
+            "g5d5": {
+              "g2d5": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 90,
+  "enabled": true
+}

@@ -1,0 +1,24 @@
+{
+  "id": 91395,
+  "rating": 1708,
+  "attempts": 105705,
+  "fen": "r7/1b3rbk/p2p1q1p/B1p1pnp1/2P5/3P3P/P4PPN/1R1BQRK1 b - - 1 23",
+  "color": "white",
+  "initialPly": 46,
+  "gameId": "zoeRmTtL",
+  "lines": {
+    "b1b7": {
+      "f7b7": {
+        "e1e4": {
+          "f6g6": {
+            "e4b7": {
+              "a8f8": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 406,
+  "enabled": true
+}

@@ -1,0 +1,23 @@
+{
+  "id": 73990,
+  "rating": 1500,
+  "attempts": 5,
+  "fen": "8/8/3B4/8/6K1/1r3P1p/8/2R2bk1 b - - 0 63",
+  "color": "white",
+  "initialPly": 126,
+  "gameId": "WV51hBl5",
+  "lines": {
+    "d6c5": {
+      "g1g2": {
+        "c1c2": {
+          "f1e2": {
+            "c2e2": {
+              "g2f1": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": -9000
+}

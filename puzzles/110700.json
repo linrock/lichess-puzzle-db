@@ -1,0 +1,28 @@
+{
+  "id": 110700,
+  "rating": 2281,
+  "attempts": 2993,
+  "fen": "2b1r1k1/p1P3b1/p1R3p1/3r2qp/1P1ppp2/1Q6/P4PPN/4RNK1 w - - 0 28",
+  "color": "black",
+  "initialPly": 55,
+  "gameId": "LeUwtA32",
+  "lines": {
+    "e4f3": {
+      "e1e8": {
+        "g8f7": {
+          "c6g6": {
+            "g5g6": {
+              "b3f3": {
+                "f7e8": {
+                  "f3d5": "win"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 44,
+  "enabled": true
+}

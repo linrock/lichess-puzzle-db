@@ -1,0 +1,22 @@
+{
+  "id": 75870,
+  "rating": 1440,
+  "attempts": 137858,
+  "fen": "1k4rr/1ppQ4/pq2p3/4P1p1/8/1P4P1/P5PP/3RR2K w - - 0 29",
+  "color": "black",
+  "initialPly": 57,
+  "gameId": "PSkbvVow",
+  "lines": {
+    "h8h2": {
+      "h1h2": {
+        "g8h8": {
+          "d7h7": {
+            "h8h7": "win"
+          }
+        }
+      }
+    }
+  },
+  "vote": 1736,
+  "enabled": true
+}

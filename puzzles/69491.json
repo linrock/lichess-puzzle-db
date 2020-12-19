@@ -1,0 +1,24 @@
+{
+  "id": 69491,
+  "rating": 1572,
+  "attempts": 29971,
+  "fen": "r1b2rk1/pp3pp1/1qp2b1p/4P3/2P5/P4N2/1PQ1BPPP/R3K2R b KQ - 0 14",
+  "color": "white",
+  "initialPly": 28,
+  "gameId": "GpbWh2Ru",
+  "lines": {
+    "f3e5": {
+      "b6a5": {
+        "c2c3": {
+          "a5c3": {
+            "b2c3": {
+              "f8e8": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": -485,
+  "enabled": true
+}

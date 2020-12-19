@@ -1,0 +1,23 @@
+{
+  "id": 94423,
+  "rating": 1500,
+  "attempts": 1,
+  "fen": "8/8/B7/1P1b4/2pP4/4P3/3k1K2/8 w - - 1 56",
+  "color": "black",
+  "initialPly": 111,
+  "gameId": "3AyJLB9W",
+  "lines": {
+    "c4c3": {
+      "a6c4": {
+        "c3c2": {
+          "c4d5": {
+            "c2c1q": {
+              "e3e4": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": -9000
+}

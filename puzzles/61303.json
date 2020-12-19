@@ -1,0 +1,24 @@
+{
+  "id": 61303,
+  "rating": 1719,
+  "attempts": 449955,
+  "fen": "1rr2nk1/4q1p1/pb3p1p/3Rp3/2P1P2N/1P4PP/6PK/1Q1R1N2 b - - 2 31",
+  "color": "white",
+  "initialPly": 62,
+  "gameId": "PzGhcddg",
+  "lines": {
+    "b3c4": {
+      "b6g1": {
+        "h2g1": {
+          "b8b1": {
+            "d1b1": {
+              "e7a7": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": -13648,
+  "enabled": true
+}

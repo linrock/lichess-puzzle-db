@@ -1,0 +1,24 @@
+{
+  "id": 68042,
+  "rating": 1929,
+  "attempts": 41708,
+  "fen": "r7/pp4pk/2p1Q1bp/5rq1/2PP4/1N6/PP5P/R4R1K w - - 2 23",
+  "color": "black",
+  "initialPly": 45,
+  "gameId": "BFMYKCo8",
+  "lines": {
+    "g5h5": {
+      "e6g6": {
+        "h5g6": {
+          "g1g6": {
+            "h7g6": {
+              "b3c5": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": -544,
+  "enabled": true
+}

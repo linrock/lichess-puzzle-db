@@ -1,0 +1,24 @@
+{
+  "id": 65449,
+  "rating": 2736,
+  "attempts": 7108,
+  "fen": "r4rk1/p1q2pbp/1p4p1/2pP4/Q1PpB1b1/P4N2/1P2RPPP/3R2K1 b - - 6 19",
+  "color": "white",
+  "initialPly": 38,
+  "gameId": "DgfmsYDh",
+  "lines": {
+    "d5d6": {
+      "c7d6": {
+        "e4d5": {
+          "g8h8": {
+            "d5a8": {
+              "f8a8": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": -98,
+  "enabled": true
+}

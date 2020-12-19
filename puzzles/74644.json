@@ -1,0 +1,19 @@
+{
+  "id": 74644,
+  "rating": 1500,
+  "attempts": 5,
+  "fen": "8/8/1p4P1/1R6/8/3k1P2/p4K2/r7 w - - 0 49",
+  "color": "black",
+  "initialPly": 97,
+  "gameId": "5N0v4qiG",
+  "lines": {
+    "a1f1": {
+      "f2f1": {
+        "a2a1q": {
+          "f1f2": "win"
+        }
+      }
+    }
+  },
+  "vote": -9000
+}

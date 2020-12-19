@@ -1,0 +1,28 @@
+{
+  "id": 67072,
+  "rating": 2281,
+  "attempts": 82364,
+  "fen": "r1b2rk1/p1p2ppp/2N5/8/1b1qpB2/8/PPQ2PPP/R4RK1 b - - 0 14",
+  "color": "white",
+  "initialPly": 28,
+  "gameId": "LX284V45",
+  "lines": {
+    "f4e3": {
+      "b6b7": {
+        "c6b4": {
+          "b7b4": {
+            "e3c5": {
+              "b4b7": {
+                "c5f8": {
+                  "g8f8": "win"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 650,
+  "enabled": true
+}

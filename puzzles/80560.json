@@ -1,0 +1,24 @@
+{
+  "id": 80560,
+  "rating": 1515,
+  "attempts": 22799,
+  "fen": "r1b2rk1/pp4p1/2pp1q1p/5pn1/4Pp2/1PNP3P/1PPNQ1P1/R4RK1 w - - 0 19",
+  "color": "black",
+  "initialPly": 37,
+  "gameId": "KBUU13hP",
+  "lines": {
+    "g5h3": {
+      "g2h3": {
+        "f6g5": {
+          "e2g2": {
+            "g5f4": {
+              "a1f1": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 308,
+  "enabled": true
+}

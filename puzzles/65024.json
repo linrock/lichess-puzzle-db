@@ -1,0 +1,24 @@
+{
+  "id": 65024,
+  "rating": 1774,
+  "attempts": 72478,
+  "fen": "r2r4/pp1bkpQ1/4p2p/3q4/3P4/5N2/P4PPP/R3R1K1 b - - 0 18",
+  "color": "white",
+  "initialPly": 36,
+  "gameId": "TEBPLeRX",
+  "lines": {
+    "f3e5": {
+      "d5g2": {
+        "g7g2": {
+          "c6g2": {
+            "g1g2": {
+              "a8c8": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": -1088,
+  "enabled": true
+}

@@ -1,0 +1,24 @@
+{
+  "id": 109228,
+  "rating": 1741,
+  "attempts": 8004,
+  "fen": "r1bq1rk1/4bppp/p2p1n2/1pp3B1/3QP1P1/2NB1P2/PPP4P/2KR3R w - - 0 12",
+  "color": "black",
+  "initialPly": 23,
+  "gameId": "GzeEL5IR",
+  "lines": {
+    "f6g4": {
+      "g5e7": {
+        "g4e3": {
+          "e7d8": {
+            "e3d1": {
+              "d8e7": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 182,
+  "enabled": true
+}

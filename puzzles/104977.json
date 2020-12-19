@@ -1,0 +1,28 @@
+{
+  "id": 104977,
+  "rating": 1522,
+  "attempts": 78338,
+  "fen": "r3kb1r/2pqp3/2n1bp1n/p2p3p/PpPP2pP/1B2P1B1/1P1N1PP1/RN1Q1RK1 b kq - 2 14",
+  "color": "white",
+  "initialPly": 28,
+  "gameId": "TgBI6ACS",
+  "lines": {
+    "c4d5": {
+      "e6d5": {
+        "b3d5": {
+          "d7d5": {
+            "e3e4": {
+              "d5d7": {
+                "e4f5": {
+                  "c6d4": "win"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 217,
+  "enabled": true
+}

@@ -1,0 +1,24 @@
+{
+  "id": 119429,
+  "rating": 1799,
+  "attempts": 8396,
+  "fen": "r1b2rk1/1p2bpp1/pqnpp2p/P2nP3/2BP4/5N2/1P1BQPPP/RN1R2K1 b - - 0 13",
+  "color": "white",
+  "initialPly": 26,
+  "gameId": "uBylfmGa",
+  "lines": {
+    "a1a2": {
+      "c6d4": {
+        "a2b2": {
+          "d4e2": {
+            "c4e2": {
+              "d6e5": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 161,
+  "enabled": true
+}

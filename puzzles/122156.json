@@ -1,0 +1,28 @@
+{
+  "id": 122156,
+  "rating": 986,
+  "attempts": 3204,
+  "fen": "r4rk1/1bp1bpp1/p3p3/3qP3/1p1PN1R1/5N1P/PP3P1P/R2Q2K1 w - - 2 20",
+  "color": "black",
+  "initialPly": 39,
+  "gameId": "fhdbyrgN",
+  "lines": {
+    "e7f6": {
+      "e5f6": {
+        "d5f3": {
+          "d1f3": {
+            "b7f3": {
+              "g4g7": {
+                "g8h8": {
+                  "g1f1": "win"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 54,
+  "enabled": true
+}

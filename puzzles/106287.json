@@ -1,0 +1,48 @@
+{
+  "id": 106287,
+  "rating": 2670,
+  "attempts": 428,
+  "fen": "4r1k1/1p2r1p1/p2p1q1p/2pP1P2/P1Pb2Q1/1P5P/R5P1/2B2R1K w - - 1 27",
+  "color": "black",
+  "initialPly": 53,
+  "gameId": "mbcojwN8",
+  "lines": {
+    "e7e1": {
+      "f1e1": {
+        "e8e1": {
+          "h1h2": {
+            "d4g1": {
+              "h2g3": {
+                "e1e4": {
+                  "a2e2": {
+                    "f6d4": {
+                      "e2d2": {
+                        "e4e3": {
+                          "g3h4": {
+                            "d4d2": {
+                              "f5f6": {
+                                "g7g5": {
+                                  "h4h5": {
+                                    "d2e2": {
+                                      "h5g6": "win"
+                                    }
+                                  }
+                                }
+                              }
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 1,
+  "enabled": true
+}

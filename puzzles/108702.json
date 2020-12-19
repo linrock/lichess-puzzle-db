@@ -1,0 +1,28 @@
+{
+  "id": 108702,
+  "rating": 1507,
+  "attempts": 26322,
+  "fen": "Q4bk1/5p1p/1q2p1p1/3n4/8/4P3/P3NPPP/4B1K1 w - - 1 25",
+  "color": "black",
+  "initialPly": 49,
+  "gameId": "BKnv1mft",
+  "lines": {
+    "b6b1": {
+      "a5d2": {
+        "f8b4": {
+          "d2c1": {
+            "b1c1": {
+              "e2c1": {
+                "b4e1": {
+                  "c1b3": "win"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 183,
+  "enabled": true
+}

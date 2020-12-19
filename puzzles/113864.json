@@ -1,0 +1,28 @@
+{
+  "id": 113864,
+  "rating": 1730,
+  "attempts": 9784,
+  "fen": "r6k/3b2qp/1p1ppbp1/p7/P2pP3/1B1P4/1PPB1QPP/5RK1 b - - 5 20",
+  "color": "white",
+  "initialPly": 40,
+  "gameId": "YlAimunL",
+  "lines": {
+    "d2g5": {
+      "f6e7": {
+        "f2f8": {
+          "e7f8": {
+            "g5f6": {
+              "g7f6": {
+                "f1f6": {
+                  "h8g7": "win"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 192,
+  "enabled": true
+}

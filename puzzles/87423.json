@@ -1,0 +1,24 @@
+{
+  "id": 87423,
+  "rating": 1518,
+  "attempts": 10436,
+  "fen": "r3brk1/5ppp/3qpn2/1p1pN3/1p1P4/P1N5/2PQ1PPP/RR4K1 w - - 0 17",
+  "color": "black",
+  "initialPly": 33,
+  "gameId": "DamoBY8e",
+  "lines": {
+    "d6b4": {
+      "a3b4": {
+        "a8a1": {
+          "d2d1": {
+            "a1d1": {
+              "c3d1": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 65,
+  "enabled": true
+}

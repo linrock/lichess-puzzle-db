@@ -1,0 +1,20 @@
+{
+  "id": 76331,
+  "rating": 821,
+  "attempts": 946,
+  "fen": "rnb1kbnr/pp2pppp/8/2pq4/8/P7/1PPP1PPP/RNBQKBNR w KQkq - 0 4",
+  "color": "black",
+  "initialPly": 7,
+  "gameId": "CSLCEKEL",
+  "lines": {
+    "d5e5": {
+      "f1e2": {
+        "e5a1": {
+          "b1c3": "win"
+        }
+      }
+    }
+  },
+  "vote": 21,
+  "enabled": true
+}

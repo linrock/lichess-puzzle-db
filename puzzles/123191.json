@@ -1,0 +1,24 @@
+{
+  "id": 123191,
+  "rating": 1141,
+  "attempts": 992,
+  "fen": "r6r/pp2kppp/2b1p3/8/3pB3/4qP2/PP2R2P/R2Q3K b - - 7 18",
+  "color": "white",
+  "initialPly": 36,
+  "gameId": "ciriGBTk",
+  "lines": {
+    "e4f3": {
+      "c6f3": {
+        "h1g1": {
+          "f3e2": {
+            "d1e2": {
+              "a8d8": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 22,
+  "enabled": true
+}

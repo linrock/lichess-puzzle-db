@@ -1,0 +1,28 @@
+{
+  "id": 63556,
+  "rating": 2146,
+  "attempts": 290388,
+  "fen": "r6k/1pn1q2b/p1p2r1Q/4pB2/2P5/P1N5/1P4RP/5RK1 w - - 1 28",
+  "color": "black",
+  "initialPly": 55,
+  "gameId": "WBP9gNCC",
+  "lines": {
+    "e7c5": {
+      "f1f2": {
+        "c5f2": {
+          "g2f2": {
+            "f6g6": {
+              "h6g6": {
+                "h7g6": {
+                  "f2e2": "win"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 2938,
+  "enabled": true
+}

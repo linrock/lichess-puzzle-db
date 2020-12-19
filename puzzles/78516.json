@@ -1,0 +1,24 @@
+{
+  "id": 78516,
+  "rating": 1708,
+  "attempts": 32192,
+  "fen": "1nr3k1/p1rqbppp/1p1pp3/1P2P3/2NP1n2/PQ3N2/1B3PPP/2R2RK1 w - - 5 19",
+  "color": "black",
+  "initialPly": 37,
+  "gameId": "Y6SaxOMP",
+  "lines": {
+    "f4e2": {
+      "g1h1": {
+        "e2c1": {
+          "f1c1": {
+            "e7d6": {
+              "c1c3": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 491,
+  "enabled": true
+}

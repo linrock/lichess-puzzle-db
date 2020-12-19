@@ -1,0 +1,20 @@
+{
+  "id": 93838,
+  "rating": 1445,
+  "attempts": 8882,
+  "fen": "r4rk1/6b1/p2p1q1p/1ppP1bpB/2P1p3/1P2BP1P/P2Q2P1/2R2RK1 b - - 0 25",
+  "color": "white",
+  "initialPly": 50,
+  "gameId": "AxSDxS20",
+  "lines": {
+    "f3e4": {
+      "g6h5": {
+        "f1f6": {
+          "g7f6": "win"
+        }
+      }
+    }
+  },
+  "vote": 79,
+  "enabled": true
+}

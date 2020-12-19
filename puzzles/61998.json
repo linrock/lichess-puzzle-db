@@ -1,0 +1,24 @@
+{
+  "id": 61998,
+  "rating": 1804,
+  "attempts": 229546,
+  "fen": "r1r3k1/5pbp/b1q3p1/3pp3/3B4/P1P2P2/P1BN1QPP/2KRR3 w - - 0 22",
+  "color": "black",
+  "initialPly": 43,
+  "gameId": "vdtlMMOE",
+  "lines": {
+    "g7e5": {
+      "e1e5": {
+        "c6c3": {
+          "d2b3": {
+            "c3e5": {
+              "c1b1": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 4150,
+  "enabled": true
+}

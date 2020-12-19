@@ -1,0 +1,24 @@
+{
+  "id": 92056,
+  "rating": 1831,
+  "attempts": 12154,
+  "fen": "r4rk1/ppqnbpp1/2p1pnp1/8/P1BP2PB/2N2P2/1PP4P/R2QR1K1 b - - 2 16",
+  "color": "white",
+  "initialPly": 32,
+  "gameId": "paKrLiEK",
+  "lines": {
+    "h4g3": {
+      "e7d6": {
+        "g3d6": {
+          "c7d6": {
+            "f3g4": {
+              "d7f6": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 275,
+  "enabled": true
+}

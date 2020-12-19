@@ -1,0 +1,28 @@
+{
+  "id": 69031,
+  "rating": 1453,
+  "attempts": 152132,
+  "fen": "r5r1/1p2bk2/1qp1ppp1/5n2/p4P2/P1BP1B2/1PPQ2PP/1R2R2K w - - 6 26",
+  "color": "black",
+  "initialPly": 51,
+  "gameId": "Tw2808fS",
+  "lines": {
+    "f5g3": {
+      "h2g3": {
+        "g8h8": {
+          "f3h5": {
+            "h8h5": {
+              "e2h5": {
+                "g6h5": {
+                  "e1e2": "win"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 2414,
+  "enabled": true
+}

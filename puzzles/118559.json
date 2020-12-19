@@ -1,0 +1,24 @@
+{
+  "id": 118559,
+  "rating": 1498,
+  "attempts": 20513,
+  "fen": "1r1qk2r/4ppbp/6p1/np1pN3/PQ1PnP2/2P5/1P4PP/1RB2RK1 b k - 0 17",
+  "color": "white",
+  "initialPly": 34,
+  "gameId": "nwWanfAZ",
+  "lines": {
+    "b4a4": {
+      "e8f8": {
+        "e5d7": {
+          "f8g8": {
+            "d7b8": {
+              "g7f6": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 224,
+  "enabled": true
+}

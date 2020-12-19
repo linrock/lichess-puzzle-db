@@ -1,0 +1,28 @@
+{
+  "id": 83478,
+  "rating": 2408,
+  "attempts": 30457,
+  "fen": "2kr1r2/Bp6/2b1Q1p1/6q1/8/P7/2P2R1P/1R3K2 b - - 6 33",
+  "color": "white",
+  "initialPly": 66,
+  "gameId": "jsB21oQB",
+  "lines": {
+    "a7b6": {
+      "c7b8": {
+        "e6d6": {
+          "b8a8": {
+            "f2f8": {
+              "g5g2": {
+                "f1e1": {
+                  "g2h1": "win"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 104,
+  "enabled": true
+}

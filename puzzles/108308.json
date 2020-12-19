@@ -1,0 +1,24 @@
+{
+  "id": 108308,
+  "rating": 1380,
+  "attempts": 4855,
+  "fen": "r2qrnk1/ppb2ppp/2p1bp2/8/3P1B2/2PB1N2/PP1Q1PPP/R3R1K1 b - - 10 13",
+  "color": "white",
+  "initialPly": 26,
+  "gameId": "SehFMwMd",
+  "lines": {
+    "e1e8": {
+      "d8e8": {
+        "f4c7": {
+          "g4f3": {
+            "g2f3": {
+              "e8d7": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 111,
+  "enabled": true
+}

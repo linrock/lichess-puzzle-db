@@ -1,0 +1,24 @@
+{
+  "id": 97039,
+  "rating": 1621,
+  "attempts": 11581,
+  "fen": "r1bq1rk1/p4pbp/2pppnp1/6B1/2B1P3/2N2Q1P/PPP2PP1/R4RK1 b - - 1 11",
+  "color": "white",
+  "initialPly": 22,
+  "gameId": "pp8leaSc",
+  "lines": {
+    "e4e5": {
+      "d6e5": {
+        "c3e4": {
+          "f6e4": {
+            "g5d8": {
+              "e4d2": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 140,
+  "enabled": true
+}

@@ -1,0 +1,28 @@
+{
+  "id": 110697,
+  "rating": 2015,
+  "attempts": 15269,
+  "fen": "2rq1rk1/1p1bnpp1/p2b3p/5P2/3P2P1/PP5P/1B3NB1/R2QR1K1 b - - 2 22",
+  "color": "white",
+  "initialPly": 44,
+  "gameId": "YMCTPkel",
+  "lines": {
+    "d4d5": {
+      "e7d5": {
+        "g2d5": {
+          "c6d5": {
+            "d1d4": {
+              "d6h2": {
+                "g1h2": {
+                  "d8c7": "win"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 130,
+  "enabled": true
+}

@@ -1,0 +1,24 @@
+{
+  "id": 72819,
+  "rating": 1827,
+  "attempts": 20834,
+  "fen": "r1bq1rk1/ppp2pp1/2np1n1p/2b1p3/P1B1P3/2PP1N1P/1P3PP1/RNBQ1RK1 b - - 0 8",
+  "color": "white",
+  "initialPly": 16,
+  "gameId": "STLV4475",
+  "lines": {
+    "c4e6": {
+      "f7e6": {
+        "b2b4": {
+          "c5b4": {
+            "c3b4": {
+              "c6b4": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 249,
+  "enabled": true
+}

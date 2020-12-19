@@ -1,0 +1,24 @@
+{
+  "id": 95773,
+  "rating": 1421,
+  "attempts": 10652,
+  "fen": "2r3k1/1q2bbpp/p2p4/3PnR2/N7/1P2B1PP/2P1Q1B1/6K1 b - - 0 27",
+  "color": "white",
+  "initialPly": 54,
+  "gameId": "MCSOdjRE",
+  "lines": {
+    "g2d5": {
+      "b7d5": {
+        "a4b6": {
+          "d5c6": {
+            "b6c8": {
+              "c6c8": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 259,
+  "enabled": true
+}

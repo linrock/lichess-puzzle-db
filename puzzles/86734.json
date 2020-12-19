@@ -1,0 +1,24 @@
+{
+  "id": 86734,
+  "rating": 1441,
+  "attempts": 21017,
+  "fen": "5r2/2p5/p2k3p/1p2p3/3nRr2/6Q1/P1B2PPP/6K1 w - - 0 28",
+  "color": "black",
+  "initialPly": 55,
+  "gameId": "kGe432DN",
+  "lines": {
+    "d4e2": {
+      "g1f1": {
+        "e2g3": {
+          "f2g3": {
+            "e5f4": {
+              "g3f4": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 283,
+  "enabled": true
+}

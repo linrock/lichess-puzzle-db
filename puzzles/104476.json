@@ -1,0 +1,28 @@
+{
+  "id": 104476,
+  "rating": 1887,
+  "attempts": 7717,
+  "fen": "1r2r1k1/1p1b1p1p/pq1P2p1/2p1b3/P3R1P1/2N4P/1P1Q1P2/4RBK1 b - - 1 24",
+  "color": "white",
+  "initialPly": 48,
+  "gameId": "mpe19stv",
+  "lines": {
+    "d2d6": {
+      "e5d6": {
+        "e1d1": {
+          "e8e4": {
+            "c3e4": {
+              "d7c6": {
+                "e4d6": {
+                  "c6a4": "win"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 217,
+  "enabled": true
+}

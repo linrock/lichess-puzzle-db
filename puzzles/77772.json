@@ -1,0 +1,24 @@
+{
+  "id": 77772,
+  "rating": 1389,
+  "attempts": 14720,
+  "fen": "5k2/p2RR3/1b2p1p1/8/8/5nP1/P4r2/3K4 w - - 7 35",
+  "color": "black",
+  "initialPly": 69,
+  "gameId": "BtgOWXg1",
+  "lines": {
+    "f2f1": {
+      "d1c2": {
+        "f3d4": {
+          "d7d4": {
+            "b6d4": {
+              "e6g6": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 244,
+  "enabled": true
+}

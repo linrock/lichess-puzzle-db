@@ -1,0 +1,24 @@
+{
+  "id": 64472,
+  "rating": 1741,
+  "attempts": 81926,
+  "fen": "r3k2r/1ppb1p2/pbnp3p/4p3/4N1pq/1PPP2P1/PB2BP1P/R2Q1RK1 b kq - 0 14",
+  "color": "white",
+  "initialPly": 28,
+  "gameId": "rArUpoOP",
+  "lines": {
+    "e4f6": {
+      "e8e7": {
+        "f6d7": {
+          "a8g8": {
+            "d7b6": {
+              "c7b6": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 906,
+  "enabled": true
+}

@@ -1,0 +1,40 @@
+{
+  "id": 113325,
+  "rating": 2179,
+  "attempts": 6773,
+  "fen": "2r3k1/p1r2pbp/Pp2P1p1/2pq4/1B2n3/Q2NP2P/1PR2PP1/2R3K1 b - - 0 28",
+  "color": "white",
+  "initialPly": 56,
+  "gameId": "lam5frdO",
+  "lines": {
+    "c2c7": {
+      "c8c7": {
+        "c1c7": {
+          "b4a3": {
+            "c7c8": {
+              "g7f8": {
+                "e6e7": {
+                  "d5d6": {
+                    "c8f8": {
+                      "g8g7": {
+                        "e7e8q": {
+                          "d6f8": {
+                            "e8e4": {
+                              "a3a2": "win"
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 178,
+  "enabled": true
+}

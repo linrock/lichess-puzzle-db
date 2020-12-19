@@ -1,0 +1,24 @@
+{
+  "id": 97429,
+  "rating": 1697,
+  "attempts": 10881,
+  "fen": "6R1/4r3/1p1k4/b5P1/1p1P4/3KP3/8/8 b - - 6 46",
+  "color": "white",
+  "initialPly": 92,
+  "gameId": "ATNedvuI",
+  "lines": {
+    "g8g6": {
+      "d6e7": {
+        "g6g7": {
+          "e7e8": {
+            "g7c7": {
+              "e8f8": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 91,
+  "enabled": true
+}

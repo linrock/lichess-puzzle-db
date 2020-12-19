@@ -1,0 +1,20 @@
+{
+  "id": 100009,
+  "rating": 1626,
+  "attempts": 22787,
+  "fen": "4r3/1p1n1pk1/pq2p1pp/1r1p4/1P1P2P1/2P2Q1P/P2N1P2/1R2R1K1 b - - 0 26",
+  "color": "white",
+  "initialPly": 52,
+  "gameId": "sVelRXmD",
+  "lines": {
+    "a2a4": {
+      "b5b4": {
+        "c3b4": {
+          "a5b4": "win"
+        }
+      }
+    }
+  },
+  "vote": 258,
+  "enabled": true
+}

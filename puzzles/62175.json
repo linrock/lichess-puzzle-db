@@ -1,0 +1,24 @@
+{
+  "id": 62175,
+  "rating": 934,
+  "attempts": 23090,
+  "fen": "1k5r/1pp5/q4bpp/P3p3/1R1rQ3/1N4PP/5P2/4K2R w K - 1 25",
+  "color": "black",
+  "initialPly": 49,
+  "gameId": "IglBU71m",
+  "lines": {
+    "a6b7": {
+      "e4b7": {
+        "b8b7": {
+          "b3d4": {
+            "e5d4": {
+              "e1d2": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 242,
+  "enabled": true
+}

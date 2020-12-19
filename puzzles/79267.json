@@ -1,0 +1,24 @@
+{
+  "id": 79267,
+  "rating": 1527,
+  "attempts": 17225,
+  "fen": "4r3/p6p/6kB/1Pp2bP1/P2p3P/1P3R2/8/6K1 b - - 0 40",
+  "color": "white",
+  "initialPly": 80,
+  "gameId": "7PSpigeZ",
+  "lines": {
+    "h4h5": {
+      "g6h5": {
+        "f3f5": {
+          "d4d3": {
+            "f5f1": {
+              "c5c4": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 235,
+  "enabled": true
+}

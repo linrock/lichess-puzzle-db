@@ -1,0 +1,24 @@
+{
+  "id": 62030,
+  "rating": 2392,
+  "attempts": 119623,
+  "fen": "r5k1/1q1n1ppp/p2Qp3/4n3/N1r2B2/6P1/1P2PP1P/R2R2K1 b - - 6 22",
+  "color": "white",
+  "initialPly": 44,
+  "gameId": "FMMarGdV",
+  "lines": {
+    "f4e5": {
+      "d7e5": {
+        "a4b6": {
+          "a8f8": {
+            "b6c4": {
+              "e5c4": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 1846,
+  "enabled": true
+}

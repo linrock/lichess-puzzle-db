@@ -1,0 +1,24 @@
+{
+  "id": 96726,
+  "rating": 1968,
+  "attempts": 7433,
+  "fen": "r2q1r1k/ppp3pp/3bp3/3n3b/3Pp3/P3PN1P/1P2BPP1/R1BQR1K1 w - - 0 16",
+  "color": "black",
+  "initialPly": 31,
+  "gameId": "DLgsAiBm",
+  "lines": {
+    "d8h4": {
+      "d2e4": {
+        "h5e2": {
+          "e1e2": {
+            "h4e4": {
+              "d1c2": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 123,
+  "enabled": true
+}

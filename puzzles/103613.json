@@ -1,0 +1,24 @@
+{
+  "id": 103613,
+  "rating": 1858,
+  "attempts": 9133,
+  "fen": "r5k1/4p1b1/pp1q2Bp/2pPp3/2P2r2/6K1/PPQ1RPP1/5R2 w - - 2 26",
+  "color": "black",
+  "initialPly": 51,
+  "gameId": "LBN3hlDx",
+  "lines": {
+    "e5e4": {
+      "f5e6": {
+        "g8h8": {
+          "e2e4": {
+            "f4e4": {
+              "f2f4": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 113,
+  "enabled": true
+}

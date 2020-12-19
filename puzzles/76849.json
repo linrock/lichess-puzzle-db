@@ -1,0 +1,28 @@
+{
+  "id": 76849,
+  "rating": 1722,
+  "attempts": 132531,
+  "fen": "3k4/8/3p1p2/PP1Pp1pp/2n1P3/1Q3PP1/5K1P/2q2N2 w - - 3 50",
+  "color": "black",
+  "initialPly": 99,
+  "gameId": "Vyfk2UKm",
+  "lines": {
+    "c1f1": {
+      "f2f1": {
+        "c4d2": {
+          "f1f2": {
+            "d2b3": {
+              "a5a6": {
+                "d8c8": {
+                  "f2g2": "win"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 1591,
+  "enabled": true
+}

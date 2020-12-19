@@ -1,0 +1,20 @@
+{
+  "id": 75475,
+  "rating": 1136,
+  "attempts": 3565,
+  "fen": "r5k1/pp4p1/2pp4/8/2P2Q2/1P2P2P/Pq5K/3R4 w - - 2 31",
+  "color": "black",
+  "initialPly": 61,
+  "gameId": "MUsCqc43",
+  "lines": {
+    "a8f8": {
+      "f4f8": {
+        "g8f8": {
+          "d1f1": "win"
+        }
+      }
+    }
+  },
+  "vote": -125,
+  "enabled": true
+}

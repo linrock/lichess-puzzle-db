@@ -1,0 +1,24 @@
+{
+  "id": 70238,
+  "rating": 1646,
+  "attempts": 99082,
+  "fen": "1k1r2r1/ppp1qpBR/2b5/8/n3PP2/3B4/PPP5/1K2Q1R1 w - - 5 26",
+  "color": "black",
+  "initialPly": 51,
+  "gameId": "AIHKNLgB",
+  "lines": {
+    "g8g7": {
+      "h7g7": {
+        "e7f6": {
+          "e4e5": {
+            "f6g7": {
+              "e1h4": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 780,
+  "enabled": true
+}

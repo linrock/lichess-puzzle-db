@@ -1,0 +1,24 @@
+{
+  "id": 113412,
+  "rating": 2077,
+  "attempts": 6488,
+  "fen": "6k1/p6p/n1pB1pp1/1p1n4/3P3R/1BP4P/PP2r1PK/8 b - - 3 29",
+  "color": "white",
+  "initialPly": 58,
+  "gameId": "G3QoMeRP",
+  "lines": {
+    "h4e4": {
+      "a6c7": {
+        "d6c7": {
+          "b2b3": {
+            "a2b3": {
+              "d5c7": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 49,
+  "enabled": true
+}

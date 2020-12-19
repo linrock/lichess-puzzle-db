@@ -1,0 +1,24 @@
+{
+  "id": 69816,
+  "rating": 1899,
+  "attempts": 28564,
+  "fen": "5r1k/6p1/p2p2qp/1p1p1n2/1P1PrP2/P2QP1P1/4RK1P/2R2N2 w - - 10 35",
+  "color": "black",
+  "initialPly": 69,
+  "gameId": "MQVIcMg7",
+  "lines": {
+    "f5g3": {
+      "h2g3": {
+        "e4f4": {
+          "g3f4": {
+            "g6d3": {
+              "d2f3": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 678,
+  "enabled": true
+}

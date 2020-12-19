@@ -1,0 +1,20 @@
+{
+  "id": 70206,
+  "rating": 1979,
+  "attempts": 29220,
+  "fen": "6k1/5pp1/1q5p/p2RP3/Pp5P/2r3P1/1Q3P2/6K1 b - - 0 30",
+  "color": "white",
+  "initialPly": 60,
+  "gameId": "le37ZPFs",
+  "lines": {
+    "b2c3": {
+      "b3b2": {
+        "c3c8": {
+          "g8h7": "win"
+        }
+      }
+    }
+  },
+  "vote": 442,
+  "enabled": true
+}

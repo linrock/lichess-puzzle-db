@@ -1,0 +1,24 @@
+{
+  "id": 93317,
+  "rating": 1399,
+  "attempts": 77517,
+  "fen": "r1b2rk1/ppp2ppp/2n5/2PNP3/8/1P3NP1/2Q3KP/8 b - - 2 23",
+  "color": "white",
+  "initialPly": 46,
+  "gameId": "CQC23UfW",
+  "lines": {
+    "f3g5": {
+      "g7g6": {
+        "d5f6": {
+          "g8g7": {
+            "f6g4": {
+              "h7h5": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 261,
+  "enabled": true
+}

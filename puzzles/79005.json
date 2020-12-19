@@ -1,0 +1,20 @@
+{
+  "id": 79005,
+  "rating": 1024,
+  "attempts": 1966,
+  "fen": "2kr1b1r/pp2pppp/2p1q3/4P3/8/3B4/PPP1Q1PP/R4RK1 b - - 2 15",
+  "color": "white",
+  "initialPly": 30,
+  "gameId": "KIsmiday",
+  "lines": {
+    "d3f5": {
+      "e6f5": {
+        "f1f5": {
+          "e7e6": "win"
+        }
+      }
+    }
+  },
+  "vote": 65,
+  "enabled": true
+}

@@ -1,0 +1,20 @@
+{
+  "id": 90601,
+  "rating": 1297,
+  "attempts": 3939,
+  "fen": "4r1k1/p2q2pp/1p1bp3/3P4/4p1B1/1QP5/PP4P1/5RK1 b - - 0 25",
+  "color": "white",
+  "initialPly": 50,
+  "gameId": "sySXbc2g",
+  "lines": {
+    "g4e6": {
+      "e8e6": {
+        "d5e6": {
+          "d7e7": "win"
+        }
+      }
+    }
+  },
+  "vote": 114,
+  "enabled": true
+}

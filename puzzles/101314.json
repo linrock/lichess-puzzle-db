@@ -1,0 +1,24 @@
+{
+  "id": 101314,
+  "rating": 2069,
+  "attempts": 8464,
+  "fen": "7Q/pp2Rp2/1kq5/8/6P1/1P6/P4P1K/3r4 w - - 4 41",
+  "color": "black",
+  "initialPly": 81,
+  "gameId": "CLLMyMVM",
+  "lines": {
+    "c6h1": {
+      "h2g3": {
+        "d1d3": {
+          "e5e3": {
+            "d3e3": {
+              "e7e3": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 201,
+  "enabled": true
+}

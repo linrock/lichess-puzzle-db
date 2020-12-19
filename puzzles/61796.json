@@ -1,0 +1,24 @@
+{
+  "id": 61796,
+  "rating": 2915,
+  "attempts": 506,
+  "fen": "2rr2k1/p1bb2q1/2p1p2p/2P1Npp1/P2P4/3B4/4QPPP/R2R2K1 b - - 1 21",
+  "color": "white",
+  "initialPly": 42,
+  "gameId": "cGMog14Y",
+  "lines": {
+    "d3a6": {
+      "d8d4": {
+        "d1d4": {
+          "g7e5": {
+            "e2e5": {
+              "c7e5": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": -4,
+  "enabled": true
+}

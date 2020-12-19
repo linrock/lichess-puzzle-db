@@ -1,0 +1,19 @@
+{
+  "id": 89363,
+  "rating": 1500,
+  "attempts": 3,
+  "fen": "8/R2P4/8/3rkpp1/8/6P1/6K1/8 b - - 4 46",
+  "color": "white",
+  "initialPly": 92,
+  "gameId": "KMCutikJ",
+  "lines": {
+    "a7a5": {
+      "d5a5": {
+        "d7d8q": {
+          "a5a6": "win"
+        }
+      }
+    }
+  },
+  "vote": -9000
+}

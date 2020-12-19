@@ -1,0 +1,24 @@
+{
+  "id": 68067,
+  "rating": 1153,
+  "attempts": 21380,
+  "fen": "r3k2r/ppp1qpbp/2np1np1/8/4PPb1/2N1Q2P/PPPB2P1/2K1RBNR b kq - 0 10",
+  "color": "white",
+  "initialPly": 20,
+  "gameId": "Ttpf8PlX",
+  "lines": {
+    "e4e5": {
+      "d6e5": {
+        "f4e5": {
+          "e8c8": {
+            "e5f6": {
+              "e7f6": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 115,
+  "enabled": true
+}

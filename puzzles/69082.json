@@ -1,0 +1,32 @@
+{
+  "id": 69082,
+  "rating": 2288,
+  "attempts": 13737,
+  "fen": "1r5r/p1pk4/2p1p1p1/1qB2n2/3PN1P1/5Q2/5P2/5RK1 b - - 0 28",
+  "color": "white",
+  "initialPly": 56,
+  "gameId": "2OT35mLS",
+  "lines": {
+    "c5e7": {
+      "h8h1": {
+        "f3h1": {
+          "b5f1": {
+            "g1f1": {
+              "b8b1": {
+                "f1g2": {
+                  "b1h1": {
+                    "g2h1": {
+                      "d7e7": "win"
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 230,
+  "enabled": true
+}

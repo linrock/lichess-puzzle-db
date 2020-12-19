@@ -1,0 +1,20 @@
+{
+  "id": 79723,
+  "rating": 991,
+  "attempts": 4501,
+  "fen": "r3r1k1/pp1q1p1p/8/1Np2bp1/2P1nQP1/3P3P/PP2B3/R4K1R w - - 0 18",
+  "color": "black",
+  "initialPly": 35,
+  "gameId": "DwaRkbGL",
+  "lines": {
+    "e4g3": {
+      "f1f2": {
+        "g3f5": {
+          "g4f5": "win"
+        }
+      }
+    }
+  },
+  "vote": 61,
+  "enabled": true
+}

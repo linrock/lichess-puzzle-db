@@ -1,0 +1,28 @@
+{
+  "id": 90017,
+  "rating": 2694,
+  "attempts": 607,
+  "fen": "2rq2k1/4n3/p3p1r1/1b1p1pNR/1p1P1Pp1/8/PP1Q1P2/1BR1K3 b - - 2 26",
+  "color": "white",
+  "initialPly": 52,
+  "gameId": "NfRvpTpm",
+  "lines": {
+    "c1c4": {
+      "d5c4": {
+        "h5h8": {
+          "g8h8": {
+            "g5f7": {
+              "h8g8": {
+                "f7d8": {
+                  "c4c3": "win"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 1,
+  "enabled": true
+}

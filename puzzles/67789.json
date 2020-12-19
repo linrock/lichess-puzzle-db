@@ -1,0 +1,24 @@
+{
+  "id": 67789,
+  "rating": 1016,
+  "attempts": 40700,
+  "fen": "4k3/2p2Rp1/4P3/3P4/3K4/3P4/1p4P1/1r6 w - - 0 46",
+  "color": "black",
+  "initialPly": 91,
+  "gameId": "BEpacQCS",
+  "lines": {
+    "b1c1": {
+      "c7b7": {
+        "b2b1q": {
+          "b7b1": {
+            "c1b1": {
+              "d4e4": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 155,
+  "enabled": true
+}

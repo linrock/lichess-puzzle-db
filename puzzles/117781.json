@@ -1,0 +1,24 @@
+{
+  "id": 117781,
+  "rating": 1399,
+  "attempts": 214117,
+  "fen": "r1b4r/ppp1q1bp/1n3kp1/3QB3/2B1n3/2P5/PP3PPP/RN3RK1 b - - 7 13",
+  "color": "white",
+  "initialPly": 26,
+  "gameId": "aj95TOsb",
+  "lines": {
+    "d5f7": {
+      "f6g5": {
+        "f2f4": {
+          "g5h6": {
+            "f4e5": {
+              "g7e5": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 2560,
+  "enabled": true
+}

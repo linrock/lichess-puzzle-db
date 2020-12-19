@@ -1,0 +1,28 @@
+{
+  "id": 87321,
+  "rating": 2097,
+  "attempts": 9780,
+  "fen": "1r1q1rk1/R2bppbp/3p1np1/3N4/2pNP3/1P2BP2/2PQ2PP/5RK1 b - - 0 17",
+  "color": "white",
+  "initialPly": 34,
+  "gameId": "sVeXVt09",
+  "lines": {
+    "d4c6": {
+      "f6d5": {
+        "c6d8": {
+          "d5e3": {
+            "d2e3": {
+              "f8d8": {
+                "c2b3": {
+                  "g8f8": "win"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 149,
+  "enabled": true
+}

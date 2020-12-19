@@ -1,0 +1,24 @@
+{
+  "id": 108903,
+  "rating": 1254,
+  "attempts": 1756,
+  "fen": "5rk1/pp1q2pp/2p5/2Pp4/1P6/P1Q3P1/4r2P/R4RK1 b - - 1 24",
+  "color": "white",
+  "initialPly": 48,
+  "gameId": "JRyTDKM3",
+  "lines": {
+    "f1f8": {
+      "g8f8": {
+        "c3f3": {
+          "f8g8": {
+            "f3e2": {
+              "h7h6": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 44,
+  "enabled": true
+}

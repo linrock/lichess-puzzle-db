@@ -1,0 +1,24 @@
+{
+  "id": 66126,
+  "rating": 1808,
+  "attempts": 69184,
+  "fen": "r5k1/4q1p1/p3p1r1/1pNn1p1p/1P1Pp3/PQ2P1P1/2R2P1P/2R3K1 b - - 1 27",
+  "color": "white",
+  "initialPly": 54,
+  "gameId": "Ms68SfEO",
+  "lines": {
+    "c5e6": {
+      "e7e6": {
+        "c2c6": {
+          "e6f7": {
+            "c6g6": {
+              "d5f4": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 1050,
+  "enabled": true
+}

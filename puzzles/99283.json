@@ -1,0 +1,20 @@
+{
+  "id": 99283,
+  "rating": 1982,
+  "attempts": 8530,
+  "fen": "r5k1/pppn1pp1/3q1np1/3p4/3P4/2P1rPN1/PPQN2PP/4RRK1 b - - 5 15",
+  "color": "white",
+  "initialPly": 30,
+  "gameId": "BylzHUiu",
+  "lines": {
+    "d2e4": {
+      "d5e4": {
+        "e1e3": {
+          "e4f3": "win"
+        }
+      }
+    }
+  },
+  "vote": 177,
+  "enabled": true
+}

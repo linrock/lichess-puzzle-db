@@ -1,0 +1,24 @@
+{
+  "id": 104047,
+  "rating": 1517,
+  "attempts": 12683,
+  "fen": "5r2/p3r1k1/1p1p2p1/2pP3p/2P1N1n1/1P4P1/P3R3/4R1K1 b - - 0 35",
+  "color": "white",
+  "initialPly": 70,
+  "gameId": "BVJ65hdI",
+  "lines": {
+    "e4d6": {
+      "e7e2": {
+        "d6e8": {
+          "e2e8": {
+            "e1e8": {
+              "g7f7": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 176,
+  "enabled": true
+}

@@ -1,0 +1,24 @@
+{
+  "id": 72903,
+  "rating": 1014,
+  "attempts": 2253,
+  "fen": "1r4k1/2R2pp1/4p2p/8/2pP4/1PR5/3n2PP/6K1 w - - 0 33",
+  "color": "black",
+  "initialPly": 65,
+  "gameId": "eIM70Gb6",
+  "lines": {
+    "b8b1": {
+      "g1f2": {
+        "d2e4": {
+          "f2e3": {
+            "e4c3": {
+              "e3d3": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 45,
+  "enabled": true
+}

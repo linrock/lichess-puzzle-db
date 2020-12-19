@@ -1,0 +1,24 @@
+{
+  "id": 95191,
+  "rating": 2222,
+  "attempts": 3855,
+  "fen": "2r2r2/1p1bqpkn/p3p1p1/3pN2p/2nP4/P1N1P1Q1/1P3PPP/1BR2RK1 w - - 2 21",
+  "color": "black",
+  "initialPly": 41,
+  "gameId": "rESW430V",
+  "lines": {
+    "h5h4": {
+      "g3g4": {
+        "c4e5": {
+          "d4e5": {
+            "f7g6": {
+              "f2f4": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 110,
+  "enabled": true
+}

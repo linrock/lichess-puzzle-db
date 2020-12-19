@@ -1,0 +1,32 @@
+{
+  "id": 103849,
+  "rating": 2211,
+  "attempts": 3506,
+  "fen": "2k5/8/2N3p1/P1K2p1p/1P6/2P2r1P/8/8 b - - 0 48",
+  "color": "white",
+  "initialPly": 96,
+  "gameId": "nSI6zGur",
+  "lines": {
+    "c5b6": {
+      "c3a3": {
+        "a5a6": {
+          "f5f4": {
+            "a6a7": {
+              "a3a7": {
+                "c6a7": {
+                  "c8d7": {
+                    "a7c6": {
+                      "d7d6": "win"
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 62,
+  "enabled": true
+}

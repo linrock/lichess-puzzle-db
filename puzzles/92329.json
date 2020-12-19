@@ -1,0 +1,24 @@
+{
+  "id": 92329,
+  "rating": 1977,
+  "attempts": 10069,
+  "fen": "r4rk1/pbq2ppp/1p1bpn2/2p3B1/2PP4/5N1P/PPB1QPP1/R2R2K1 b - - 1 15",
+  "color": "white",
+  "initialPly": 30,
+  "gameId": "fRAAilEU",
+  "lines": {
+    "e2d3": {
+      "f7f5": {
+        "d4c5": {
+          "d6h2": {
+            "f3h2": {
+              "d7c5": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 271,
+  "enabled": true
+}

@@ -1,0 +1,28 @@
+{
+  "id": 79056,
+  "rating": 1846,
+  "attempts": 26247,
+  "fen": "3qr1k1/5ppp/1n2rb2/p7/PpN3Q1/8/1P1B1PPP/1R2R1K1 w - - 8 23",
+  "color": "black",
+  "initialPly": 45,
+  "gameId": "CYNGeaVy",
+  "lines": {
+    "d8d2": {
+      "e1e6": {
+        "e8e6": {
+          "g4d1": {
+            "d2d1": {
+              "b1d1": {
+                "e6b6": {
+                  "b2b3": "win"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 518,
+  "enabled": true
+}

@@ -1,0 +1,24 @@
+{
+  "id": 104690,
+  "rating": 1562,
+  "attempts": 7681,
+  "fen": "1r3r2/pb1n1pkn/1q4N1/6Qp/3p3P/1P1B1P2/P3NKP1/R6R w - - 1 21",
+  "color": "black",
+  "initialPly": 41,
+  "gameId": "lpHDwUte",
+  "lines": {
+    "f7g6": {
+      "h5g6": {
+        "b6g6": {
+          "d3g6": {
+            "g7g6": {
+              "h1d1": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 150,
+  "enabled": true
+}

@@ -1,0 +1,32 @@
+{
+  "id": 63904,
+  "rating": 2872,
+  "attempts": 2677,
+  "fen": "8/pp6/1kpRPB2/5K2/3P2r1/r7/8/8 b - - 2 36",
+  "color": "white",
+  "initialPly": 72,
+  "gameId": "TtiIBKa9",
+  "lines": {
+    "e6e7": {
+      "a3f3": {
+        "f5e6": {
+          "g2g8": {
+            "d6d8": {
+              "g8g6": {
+                "e6d7": {
+                  "g6f6": {
+                    "e7e8q": {
+                      "f6f4": "win"
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 32,
+  "enabled": true
+}

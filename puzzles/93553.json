@@ -1,0 +1,28 @@
+{
+  "id": 93553,
+  "rating": 1243,
+  "attempts": 3896,
+  "fen": "rnb2rk1/ppp2pb1/3p1qpp/4p3/2P5/3P1NP1/PP2PPBP/RN1Q1RK1 w - - 0 9",
+  "color": "black",
+  "initialPly": 17,
+  "gameId": "SMT8SrgE",
+  "lines": {
+    "e5e4": {
+      "d3e4": {
+        "f6b2": {
+          "c2b2": {
+            "g7b2": {
+              "b1d2": {
+                "b2a1": {
+                  "f1a1": "win"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 131,
+  "enabled": true
+}

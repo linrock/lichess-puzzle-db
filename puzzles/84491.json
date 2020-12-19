@@ -1,0 +1,24 @@
+{
+  "id": 84491,
+  "rating": 1899,
+  "attempts": 24202,
+  "fen": "5r1k/R6B/4b2p/2p5/2P3p1/1PN5/5bPK/8 w - - 2 37",
+  "color": "black",
+  "initialPly": 73,
+  "gameId": "LMcVdVmn",
+  "lines": {
+    "g4g3": {
+      "e4g3": {
+        "f8f4": {
+          "g3f5": {
+            "e6f5": {
+              "g2g3": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 409,
+  "enabled": true
+}

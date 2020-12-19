@@ -1,0 +1,28 @@
+{
+  "id": 62670,
+  "rating": 2042,
+  "attempts": 169063,
+  "fen": "5R2/1kp5/2r1p3/8/4P1P1/1p1PP2P/3K4/8 w - - 0 40",
+  "color": "black",
+  "initialPly": 79,
+  "gameId": "TocG4cg1",
+  "lines": {
+    "c6c2": {
+      "d2d1": {
+        "c2a2": {
+          "d1c1": {
+            "a2a1": {
+              "c1b2": {
+                "a1f1": {
+                  "b2b3": "win"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 2882,
+  "enabled": true
+}

@@ -1,0 +1,28 @@
+{
+  "id": 112693,
+  "rating": 1971,
+  "attempts": 6637,
+  "fen": "1r1q1rk1/p1p4p/3pp1p1/4n2Q/4B3/1P2P3/P4PPP/R4RK1 w - - 0 18",
+  "color": "black",
+  "initialPly": 35,
+  "gameId": "EJSPSy4k",
+  "lines": {
+    "b8b4": {
+      "f2f3": {
+        "d6d5": {
+          "h6h3": {
+            "d5e4": {
+              "h3e6": {
+                "e5f7": {
+                  "a1d1": "win"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 128,
+  "enabled": true
+}

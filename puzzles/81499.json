@@ -1,0 +1,20 @@
+{
+  "id": 81499,
+  "rating": 1210,
+  "attempts": 34957,
+  "fen": "8/pp1k4/3P4/2P3Bp/1P1pr2P/P3b3/7K/3R4 w - - 2 35",
+  "color": "black",
+  "initialPly": 69,
+  "gameId": "CmdX83JR",
+  "lines": {
+    "e3f4": {
+      "g5f4": {
+        "e4e1": {
+          "h2g3": "win"
+        }
+      }
+    }
+  },
+  "vote": 96,
+  "enabled": true
+}

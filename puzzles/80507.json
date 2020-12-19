@@ -1,0 +1,28 @@
+{
+  "id": 80507,
+  "rating": 2628,
+  "attempts": 489,
+  "fen": "7k/1r4b1/4pRQp/3pP3/1q4PK/Np2r3/1P3R2/8 w - - 10 41",
+  "color": "black",
+  "initialPly": 81,
+  "gameId": "GD76Y6rp",
+  "lines": {
+    "b7b8": {
+      "g6h5": {
+        "b4e4": {
+          "e6h6": {
+            "g7h6": {
+              "h5h6": {
+                "e4h7": {
+                  "h6h5": "win"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 2,
+  "enabled": true
+}

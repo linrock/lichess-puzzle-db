@@ -1,0 +1,24 @@
+{
+  "id": 110497,
+  "rating": 2015,
+  "attempts": 10511,
+  "fen": "r2r4/pp2pp1k/2q2p1b/3R4/8/1Q4P1/PPP2P1P/1K4NR w - - 1 19",
+  "color": "black",
+  "initialPly": 37,
+  "gameId": "UHjtRabz",
+  "lines": {
+    "h7g7": {
+      "d5d8": {
+        "c6h1": {
+          "d8d7": {
+            "h1g1": {
+              "d3d1": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 136,
+  "enabled": true
+}

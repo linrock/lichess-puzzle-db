@@ -1,0 +1,20 @@
+{
+  "id": 70549,
+  "rating": 977,
+  "attempts": 2201,
+  "fen": "rnbqnrk1/pp2b2p/2p3p1/3pP3/4P2P/P1NP4/1PP1B3/R1BQK1NR w KQ - 1 12",
+  "color": "black",
+  "initialPly": 23,
+  "gameId": "LDNoloUP",
+  "lines": {
+    "e7h4": {
+      "h1h4": {
+        "d8h4": {
+          "e1d2": "win"
+        }
+      }
+    }
+  },
+  "vote": 23,
+  "enabled": true
+}

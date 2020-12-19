@@ -1,0 +1,20 @@
+{
+  "id": 111068,
+  "rating": 1206,
+  "attempts": 1376,
+  "fen": "rnbq1rk1/1p3pp1/p4n1p/2bpN3/8/2NB4/PPP2PPP/R1BQR1K1 w - - 0 11",
+  "color": "black",
+  "initialPly": 21,
+  "gameId": "IKganTAn",
+  "lines": {
+    "d5d4": {
+      "e3d2": {
+        "d4c3": {
+          "d2c3": "win"
+        }
+      }
+    }
+  },
+  "vote": 40,
+  "enabled": true
+}

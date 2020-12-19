@@ -1,0 +1,35 @@
+{
+  "id": 81323,
+  "rating": 1500,
+  "attempts": 3,
+  "fen": "2r3nr/3k1ppp/4p3/pK1pPb2/P2P4/1P3N2/2P1BPPP/R6R b - - 0 18",
+  "color": "white",
+  "initialPly": 36,
+  "gameId": "bbPG34FX",
+  "lines": {
+    "b5a5": {
+      "c8b8": {
+        "e2b5": {
+          "e7c6": {
+            "b5c6": {
+              "d7c6": {
+                "c2c4": {
+                  "b8b3": {
+                    "c4d5": {
+                      "c6d5": {
+                        "g2g3": {
+                          "h8a8": "win"
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": -9000
+}

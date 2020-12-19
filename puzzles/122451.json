@@ -1,0 +1,24 @@
+{
+  "id": 122451,
+  "rating": 1467,
+  "attempts": 26059,
+  "fen": "5bk1/5pp1/4p2p/Rp6/1Ppq1B2/P2b3P/3Q1PP1/6K1 w - - 0 28",
+  "color": "black",
+  "initialPly": 55,
+  "gameId": "YoIRe88A",
+  "lines": {
+    "c4c3": {
+      "d2e3": {
+        "d4e3": {
+          "f4e3": {
+            "d3b5": {
+              "f2f3": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 148,
+  "enabled": true
+}

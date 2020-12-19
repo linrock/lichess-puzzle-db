@@ -1,0 +1,24 @@
+{
+  "id": 78643,
+  "rating": 1940,
+  "attempts": 15679,
+  "fen": "r1b1k2r/1pp1np1p/p1n1P3/1B6/3Q4/8/PPP4q/RNB1K1R1 b Qkq - 0 14",
+  "color": "white",
+  "initialPly": 28,
+  "gameId": "ANTaIv3S",
+  "lines": {
+    "d4h8": {
+      "e8d7": {
+        "h8d4": {
+          "e7d5": {
+            "b5c6": {
+              "b7c6": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 309,
+  "enabled": true
+}

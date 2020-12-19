@@ -1,0 +1,28 @@
+{
+  "id": 109184,
+  "rating": 1479,
+  "attempts": 6801,
+  "fen": "5r2/p1p2pkp/2p1b1pr/2q1P1Q1/2P5/3B1R2/P1P3PP/5R1K b - - 4 25",
+  "color": "white",
+  "initialPly": 50,
+  "gameId": "eMihgiat",
+  "lines": {
+    "g5f6": {
+      "g7g8": {
+        "f6e6": {
+          "h6h2": {
+            "h1h2": {
+              "f7e6": {
+                "f3f8": {
+                  "g8g7": "win"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 118,
+  "enabled": true
+}

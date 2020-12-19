@@ -1,0 +1,24 @@
+{
+  "id": 104090,
+  "rating": 1878,
+  "attempts": 8708,
+  "fen": "2kr3r/1p1q2p1/pnn3p1/3ppp2/8/1BNP1Q1P/PPP2PP1/R2R2K1 w - - 0 20",
+  "color": "black",
+  "initialPly": 39,
+  "gameId": "BWgpegPK",
+  "lines": {
+    "b6a4": {
+      "b3a4": {
+        "b7b5": {
+          "a4b5": {
+            "a6b5": {
+              "c2c3": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": -149,
+  "enabled": true
+}

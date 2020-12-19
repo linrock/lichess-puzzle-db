@@ -1,0 +1,24 @@
+{
+  "id": 95846,
+  "rating": 1229,
+  "attempts": 21485,
+  "fen": "4r2k/1ppn1p2/3p1qNp/p1bPr2Q/7P/P2KP3/1P3P2/R1B3R1 b - - 7 25",
+  "color": "white",
+  "initialPly": 50,
+  "gameId": "DybDKxDD",
+  "lines": {
+    "h5h6": {
+      "h8g8": {
+        "g1g6": {
+          "f6g6": {
+            "h6g6": {
+              "g8f8": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 102,
+  "enabled": true
+}

@@ -1,0 +1,24 @@
+{
+  "id": 104727,
+  "rating": 1073,
+  "attempts": 1029,
+  "fen": "3r2k1/1b1q1pbp/1p3np1/1P6/2PpP3/2B4P/2QNBPP1/3R2K1 w - - 0 22",
+  "color": "black",
+  "initialPly": 43,
+  "gameId": "GiBmmlhH",
+  "lines": {
+    "d4d3": {
+      "c2d3": {
+        "d7d3": {
+          "e2d3": {
+            "d8d3": {
+              "f2f3": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 26,
+  "enabled": true
+}

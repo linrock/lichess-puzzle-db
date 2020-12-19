@@ -1,0 +1,20 @@
+{
+  "id": 77258,
+  "rating": 2642,
+  "attempts": 347,
+  "fen": "5rk1/2p3p1/1p1pp2p/p3n1q1/2P2r2/1P3PP1/P2QB2P/3R1R1K b - - 1 25",
+  "color": "white",
+  "initialPly": 50,
+  "gameId": "FQVapoiS",
+  "lines": {
+    "d2f4": {
+      "f8f4": {
+        "g3f4": {
+          "g5f5": "win"
+        }
+      }
+    }
+  },
+  "vote": -2,
+  "enabled": true
+}

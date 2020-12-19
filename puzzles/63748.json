@@ -1,0 +1,24 @@
+{
+  "id": 63748,
+  "rating": 1911,
+  "attempts": 210430,
+  "fen": "2kr4/p4pNp/2p2p2/2B5/2P1P3/8/q5P1/3Q2K1 w - - 0 29",
+  "color": "black",
+  "initialPly": 57,
+  "gameId": "MRAtZMTc",
+  "lines": {
+    "a2a1": {
+      "g1h2": {
+        "a1e5": {
+          "h2h3": {
+            "e5c5": {
+              "f3f6": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 2136,
+  "enabled": true
+}

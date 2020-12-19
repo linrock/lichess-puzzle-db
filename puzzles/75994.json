@@ -1,0 +1,24 @@
+{
+  "id": 75994,
+  "rating": 1291,
+  "attempts": 63579,
+  "fen": "3r1rk1/pR3p2/6p1/1N4q1/2P1R3/5Q1P/P5p1/6K1 w - - 0 26",
+  "color": "black",
+  "initialPly": 51,
+  "gameId": "Tvrkmh6B",
+  "lines": {
+    "d8d1": {
+      "g1h2": {
+        "d1d2": {
+          "g2d2": {
+            "g5d2": {
+              "h2g1": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 240,
+  "enabled": true
+}

@@ -1,0 +1,24 @@
+{
+  "id": 100235,
+  "rating": 1509,
+  "attempts": 9617,
+  "fen": "r1b1k2r/1p2bppp/p1n1pn2/8/3p1q2/1P1P1N1P/PBPNB1P1/R2Q1RK1 w kq - 0 14",
+  "color": "black",
+  "initialPly": 27,
+  "gameId": "GeiaQD3Y",
+  "lines": {
+    "f4e3": {
+      "g1h1": {
+        "c6d4": {
+          "d2c4": {
+            "e3e2": {
+              "b2d4": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 258,
+  "enabled": true
+}

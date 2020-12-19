@@ -1,0 +1,32 @@
+{
+  "id": 117873,
+  "rating": 2098,
+  "attempts": 8572,
+  "fen": "8/3k3p/p5p1/Pp1pP1P1/1PpKb3/2P5/B7/8 b - - 6 49",
+  "color": "white",
+  "initialPly": 98,
+  "gameId": "NYCC1oHL",
+  "lines": {
+    "a2c4": {
+      "b5c4": {
+        "b4b5": {
+          "a6b5": {
+            "a5a6": {
+              "b5b4": {
+                "a6a7": {
+                  "b4b3": {
+                    "a7a8q": {
+                      "e6f5": "win"
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 244,
+  "enabled": true
+}

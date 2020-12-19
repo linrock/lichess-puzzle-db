@@ -1,0 +1,20 @@
+{
+  "id": 70690,
+  "rating": 1099,
+  "attempts": 6471,
+  "fen": "rnb1k2r/1p1p1p1p/p3pp2/2q5/3NP3/1R1Q4/P1P1KPPP/5B1R b kq - 3 12",
+  "color": "white",
+  "initialPly": 24,
+  "gameId": "nETTthmg",
+  "lines": {
+    "b3c3": {
+      "c5c3": {
+        "d3c3": {
+          "c8b7": "win"
+        }
+      }
+    }
+  },
+  "vote": 24,
+  "enabled": true
+}

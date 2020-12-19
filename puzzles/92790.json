@@ -1,0 +1,28 @@
+{
+  "id": 92790,
+  "rating": 1642,
+  "attempts": 87567,
+  "fen": "8/6r1/4Qpkp/8/6P1/5PK1/2r5/8 b - - 48 66",
+  "color": "white",
+  "initialPly": 132,
+  "gameId": "cPLBmr7A",
+  "lines": {
+    "e6g8": {
+      "c7g7": {
+        "g8e8": {
+          "g7f7": {
+            "e8e4": {
+              "g6g7": {
+                "e4c2": {
+                  "f7e7": "win"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 607,
+  "enabled": true
+}

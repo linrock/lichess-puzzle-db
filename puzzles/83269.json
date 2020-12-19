@@ -1,0 +1,28 @@
+{
+  "id": 83269,
+  "rating": 2229,
+  "attempts": 8406,
+  "fen": "4r2k/ppp3pp/6r1/5q2/4p3/1Q6/PPP2PPP/3R1RK1 w - - 2 22",
+  "color": "black",
+  "initialPly": 43,
+  "gameId": "Y20riL3E",
+  "lines": {
+    "f5f3": {
+      "g2g3": {
+        "g6d6": {
+          "d5b5": {
+            "c7c6": {
+              "d1d6": {
+                "c6b5": {
+                  "f1e1": "win"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 237,
+  "enabled": true
+}

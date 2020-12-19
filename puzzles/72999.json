@@ -1,0 +1,24 @@
+{
+  "id": 72999,
+  "rating": 771,
+  "attempts": 428,
+  "fen": "8/3r4/R2Pk3/P1P2p1p/3ppP2/7P/6K1/8 b - - 0 55",
+  "color": "white",
+  "initialPly": 110,
+  "gameId": "iYuIMUXU",
+  "lines": {
+    "c5c6": {
+      "d7d6": {
+        "c6c7": {
+          "d6a6": {
+            "c7c8q": {
+              "a6g6": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 13,
+  "enabled": true
+}

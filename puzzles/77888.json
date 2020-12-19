@@ -1,0 +1,28 @@
+{
+  "id": 77888,
+  "rating": 1609,
+  "attempts": 22670,
+  "fen": "r3kb1r/1pp2ppp/p1p2n2/8/4P3/2N5/PPP2PPP/R1BR2K1 b kq - 1 10",
+  "color": "white",
+  "initialPly": 20,
+  "gameId": "mpS8rods",
+  "lines": {
+    "e4e5": {
+      "d6e5": {
+        "d1e1": {
+          "f6d7": {
+            "f2f4": {
+              "e8c8": {
+                "f4e5": {
+                  "d8e8": "win"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 535,
+  "enabled": true
+}

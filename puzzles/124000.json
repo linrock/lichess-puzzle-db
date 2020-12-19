@@ -1,0 +1,32 @@
+{
+  "id": 124000,
+  "rating": 2902,
+  "attempts": 113,
+  "fen": "8/3k4/1K4pp/2P1Np2/8/6n1/8/8 b - - 2 48",
+  "color": "white",
+  "initialPly": 96,
+  "gameId": "lwoerZT9",
+  "lines": {
+    "e5c4": {
+      "f5f4": {
+        "c4d6": {
+          "c8d7": {
+            "c5c6": {
+              "d7d6": {
+                "c6c7": {
+                  "f4f3": {
+                    "c7c8q": {
+                      "g3h5": "win"
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 5,
+  "enabled": true
+}

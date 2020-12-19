@@ -1,0 +1,20 @@
+{
+  "id": 88750,
+  "rating": 926,
+  "attempts": 553,
+  "fen": "3r1r2/pp6/1np2k1p/2b1pBp1/2P1P3/1P5P/P1K1N1PN/7R b - - 7 25",
+  "color": "white",
+  "initialPly": 50,
+  "gameId": "AOT150tR",
+  "lines": {
+    "h2g4": {
+      "f6e7": {
+        "g4e3": {
+          "e7d6": "win"
+        }
+      }
+    }
+  },
+  "vote": 25,
+  "enabled": true
+}

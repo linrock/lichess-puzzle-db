@@ -1,0 +1,24 @@
+{
+  "id": 86381,
+  "rating": 1905,
+  "attempts": 11489,
+  "fen": "2r3k1/pp3ppp/2r1pP2/3pP1Q1/4q1P1/1P6/P6P/R4RK1 b - - 3 25",
+  "color": "white",
+  "initialPly": 50,
+  "gameId": "lOviANso",
+  "lines": {
+    "f1f2": {
+      "g7g6": {
+        "g5h6": {
+          "c6c1": {
+            "a1c1": {
+              "d4g4": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 186,
+  "enabled": true
+}

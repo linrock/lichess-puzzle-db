@@ -1,0 +1,24 @@
+{
+  "id": 75965,
+  "rating": 1618,
+  "attempts": 21272,
+  "fen": "rn2k2r/pp3pp1/2p1b2p/q2p4/1bPPn3/1PN2N2/PBQ1BPPP/R3K2R w KQkq - 5 11",
+  "color": "black",
+  "initialPly": 21,
+  "gameId": "MQ2s9nib",
+  "lines": {
+    "b4c3": {
+      "b2c3": {
+        "a5c3": {
+          "c2c3": {
+            "e4c3": {
+              "e2d3": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 291,
+  "enabled": true
+}

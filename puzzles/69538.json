@@ -1,0 +1,28 @@
+{
+  "id": 69538,
+  "rating": 2228,
+  "attempts": 15857,
+  "fen": "rn6/pQ2p1k1/1npq1b1p/8/2BP3p/7P/PPP2PP1/R4RK1 w - - 1 19",
+  "color": "black",
+  "initialPly": 37,
+  "gameId": "Nx386L79",
+  "lines": {
+    "b6c4": {
+      "a2a4": {
+        "c4b6": {
+          "a4a5": {
+            "d6d7": {
+              "b7d7": {
+                "b6d7": {
+                  "f1e1": "win"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 296,
+  "enabled": true
+}

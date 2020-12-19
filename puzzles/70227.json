@@ -1,0 +1,28 @@
+{
+  "id": 70227,
+  "rating": 1931,
+  "attempts": 39072,
+  "fen": "r1bq1rk1/ppppnppp/2n5/2b3N1/2B1P3/2N5/PP3PPP/R1BQ1RK1 b - - 2 8",
+  "color": "white",
+  "initialPly": 16,
+  "gameId": "NaNoqQgY",
+  "lines": {
+    "g5f7": {
+      "f8f7": {
+        "c4f7": {
+          "g8f7": {
+            "d1h5": {
+              "f7g8": {
+                "h5c5": {
+                  "d7d6": "win"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 677,
+  "enabled": true
+}

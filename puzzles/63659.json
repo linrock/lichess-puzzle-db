@@ -1,0 +1,24 @@
+{
+  "id": 63659,
+  "rating": 1971,
+  "attempts": 322110,
+  "fen": "5r2/1p4k1/p1ppr1b1/5p2/P3P1n1/2N2P1Q/1PP1Bq2/4K1RR w - - 8 33",
+  "color": "black",
+  "initialPly": 65,
+  "gameId": "VH0Daxrx",
+  "lines": {
+    "f2g1": {
+      "h1g1": {
+        "g4f2": {
+          "d1d2": {
+            "f2h3": {
+              "g1g3": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 2806,
+  "enabled": true
+}

@@ -1,0 +1,24 @@
+{
+  "id": 97788,
+  "rating": 1822,
+  "attempts": 23184,
+  "fen": "1r4k1/p2p1p1p/5Qp1/2p5/8/2P1P1P1/5PKP/q4B2 b - - 2 29",
+  "color": "white",
+  "initialPly": 58,
+  "gameId": "jmsiBWTm",
+  "lines": {
+    "f1c4": {
+      "b1g1": {
+        "g2h3": {
+          "a1f1": {
+            "c4f1": {
+              "g1f1": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 284,
+  "enabled": true
+}

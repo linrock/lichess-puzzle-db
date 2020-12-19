@@ -1,0 +1,24 @@
+{
+  "id": 106568,
+  "rating": 1646,
+  "attempts": 7874,
+  "fen": "r6k/pppn2p1/1B1pq2p/5r2/8/2P2N1P/PP1Q1PP1/R4RK1 b - - 0 18",
+  "color": "white",
+  "initialPly": 36,
+  "gameId": "LQkeFLaL",
+  "lines": {
+    "f3d4": {
+      "f5d5": {
+        "c3c4": {
+          "d5d4": {
+            "d2d4": {
+              "e6e5": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 163,
+  "enabled": true
+}

@@ -1,0 +1,24 @@
+{
+  "id": 120538,
+  "rating": 1823,
+  "attempts": 8469,
+  "fen": "3r1r1k/ppq5/5N1P/3B1bp1/8/2p5/PP2QPP1/2KR3R w - - 0 24",
+  "color": "black",
+  "initialPly": 47,
+  "gameId": "TKcotpBO",
+  "lines": {
+    "c3b2": {
+      "c1b2": {
+        "c7b6": {
+          "b2a1": {
+            "b6d4": {
+              "e2b2": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 211,
+  "enabled": true
+}

@@ -1,0 +1,44 @@
+{
+  "id": 93124,
+  "rating": 2228,
+  "attempts": 5465,
+  "fen": "2r1bBk1/6qp/2r1P1p1/pp1p1pN1/3P1P1Q/2P4P/P6K/4R3 b - - 2 35",
+  "color": "white",
+  "initialPly": 70,
+  "gameId": "kCCRitNC",
+  "lines": {
+    "g5f7": {
+      "e8f7": {
+        "e6f7": {
+          "g8f7": {
+            "h4e7": {
+              "f7g8": {
+                "f8h6": {
+                  "h8f6": {
+                    "e7d7": {
+                      "f6f7": {
+                        "e1e7": {
+                          "c6c7": {
+                            "e7f7": {
+                              "c7d7": {
+                                "f7d7": {
+                                  "c8c3": "win"
+                                }
+                              }
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 140,
+  "enabled": true
+}

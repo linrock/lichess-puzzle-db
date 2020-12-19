@@ -1,0 +1,22 @@
+{
+  "id": 74635,
+  "rating": 1811,
+  "attempts": 261838,
+  "fen": "r3kb1r/p1p1pp2/1p5p/1P1pNnpn/P1PP4/N4PPq/4PB1P/R2Q1RK1 w kq - 4 17",
+  "color": "black",
+  "initialPly": 33,
+  "gameId": "Tu4ATX8T",
+  "lines": {
+    "f5h4": {
+      "g3h4": {
+        "h5f4": {
+          "e2e3": {
+            "h3g2": "win"
+          }
+        }
+      }
+    }
+  },
+  "vote": 1700,
+  "enabled": true
+}

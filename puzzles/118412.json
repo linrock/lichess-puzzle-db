@@ -1,0 +1,28 @@
+{
+  "id": 118412,
+  "rating": 2901,
+  "attempts": 154,
+  "fen": "1r3rk1/4pp1p/p1Np1npb/q7/2p2P2/PPn1PRP1/1B5P/3RQ2K b - - 1 24",
+  "color": "white",
+  "initialPly": 48,
+  "gameId": "SknkL4Fq",
+  "lines": {
+    "c6e7": {
+      "g8h8": {
+        "e1c3": {
+          "h6g7": {
+            "c3f6": {
+              "f8g8": {
+                "f6f7": {
+                  "b6b3": "win"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 4,
+  "enabled": true
+}

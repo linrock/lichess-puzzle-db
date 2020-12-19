@@ -1,0 +1,28 @@
+{
+  "id": 78249,
+  "rating": 2318,
+  "attempts": 7491,
+  "fen": "1r3rk1/6p1/p3pnBp/3pQ3/1PpP4/2q5/P5PP/1R3R1K b - - 1 29",
+  "color": "white",
+  "initialPly": 58,
+  "gameId": "JKSWjExe",
+  "lines": {
+    "e5e6": {
+      "g8h8": {
+        "e6d6": {
+          "f8b8": {
+            "d6b8": {
+              "b4b8": {
+                "b1b8": {
+                  "f6g8": "win"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 250,
+  "enabled": true
+}

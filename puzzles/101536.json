@@ -1,0 +1,24 @@
+{
+  "id": 101536,
+  "rating": 1941,
+  "attempts": 9090,
+  "fen": "8/8/4p3/PkP2p2/n4P2/5K2/1B6/8 w - - 3 62",
+  "color": "black",
+  "initialPly": 123,
+  "gameId": "R8326hHR",
+  "lines": {
+    "a4b2": {
+      "e3d4": {
+        "b2a4": {
+          "c5c6": {
+            "b5c6": {
+              "d4e5": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 185,
+  "enabled": true
+}

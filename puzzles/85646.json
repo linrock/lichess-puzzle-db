@@ -1,0 +1,20 @@
+{
+  "id": 85646,
+  "rating": 1656,
+  "attempts": 15211,
+  "fen": "4rr1k/8/3qpbp1/5p1p/1p5R/1B1P3Q/PP4PP/4R2K w - - 2 28",
+  "color": "black",
+  "initialPly": 55,
+  "gameId": "RK8ihjul",
+  "lines": {
+    "g6h5": {
+      "h3h5": {
+        "h8g7": {
+          "h5e2": "win"
+        }
+      }
+    }
+  },
+  "vote": 116,
+  "enabled": true
+}

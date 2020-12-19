@@ -1,0 +1,24 @@
+{
+  "id": 118905,
+  "rating": 1482,
+  "attempts": 7911,
+  "fen": "2r2rk1/2q2ppp/3p1b2/1Q1Bp3/4P2P/p7/PPPR1PP1/2K4R w - - 0 19",
+  "color": "black",
+  "initialPly": 37,
+  "gameId": "osdPdyCa",
+  "lines": {
+    "c7c3": {
+      "c1d1": {
+        "c3a1": {
+          "d1e2": {
+            "a1h1": {
+              "b5d3": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 126,
+  "enabled": true
+}

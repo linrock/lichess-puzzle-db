@@ -1,0 +1,20 @@
+{
+  "id": 80250,
+  "rating": 1621,
+  "attempts": 18396,
+  "fen": "r2q1rk1/ppp2pp1/3b1n1p/4n3/3p2bB/5N2/PPPNBPPP/R2Q1RK1 b - - 5 11",
+  "color": "white",
+  "initialPly": 22,
+  "gameId": "AiMOfl2F",
+  "lines": {
+    "f3e5": {
+      "d6e5": {
+        "e2g4": {
+          "f8e8": "win"
+        }
+      }
+    }
+  },
+  "vote": 305,
+  "enabled": true
+}

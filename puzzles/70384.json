@@ -1,0 +1,24 @@
+{
+  "id": 70384,
+  "rating": 2362,
+  "attempts": 11618,
+  "fen": "r1b2rk1/1p3pbp/p1n1p1p1/n3P3/Pqp1N3/4BNP1/BPP1QP1P/R4RK1 b - - 2 16",
+  "color": "white",
+  "initialPly": 32,
+  "gameId": "u918DRDG",
+  "lines": {
+    "f3e5": {
+      "g7e5": {
+        "e3c5": {
+          "b4a4": {
+            "c5f8": {
+              "a4c6": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 39,
+  "enabled": true
+}

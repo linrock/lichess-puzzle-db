@@ -1,0 +1,24 @@
+{
+  "id": 80053,
+  "rating": 1997,
+  "attempts": 18642,
+  "fen": "r5k1/ppB2pbp/5np1/2Qq4/8/5N2/PP2rPPP/R1R3K1 w - - 2 18",
+  "color": "black",
+  "initialPly": 35,
+  "gameId": "QviViAtl",
+  "lines": {
+    "d5c5": {
+      "c1c5": {
+        "f6d7": {
+          "e5g7": {
+            "d7c5": {
+              "g1f1": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 417,
+  "enabled": true
+}

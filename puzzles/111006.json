@@ -1,0 +1,20 @@
+{
+  "id": 111006,
+  "rating": 1265,
+  "attempts": 3619,
+  "fen": "r4rk1/1p3ppp/p5nN/3p4/3Bq3/5Q2/PPP3PP/5RK1 b - - 3 26",
+  "color": "white",
+  "initialPly": 52,
+  "gameId": "nsuC34SP",
+  "lines": {
+    "f3f6": {
+      "e4d4": {
+        "f6d4": {
+          "a8e8": "win"
+        }
+      }
+    }
+  },
+  "vote": 71,
+  "enabled": true
+}

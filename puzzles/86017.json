@@ -1,0 +1,24 @@
+{
+  "id": 86017,
+  "rating": 1399,
+  "attempts": 7506,
+  "fen": "r4rk1/1b2npbp/ppn3p1/2p2P2/P5P1/6NP/1PP3B1/R1BN1RK1 b - - 0 16",
+  "color": "white",
+  "initialPly": 32,
+  "gameId": "GdkgubSP",
+  "lines": {
+    "f5f6": {
+      "g7f6": {
+        "f1f6": {
+          "b7g2": {
+            "g1g2": {
+              "e7d5": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 164,
+  "enabled": true
+}

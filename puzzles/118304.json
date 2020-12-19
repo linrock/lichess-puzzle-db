@@ -1,0 +1,24 @@
+{
+  "id": 118304,
+  "rating": 2068,
+  "attempts": 7132,
+  "fen": "4r3/pr2q1bk/1ppRN1pp/4np2/5P2/1QN1P3/PPP4P/2KR4 b - - 0 25",
+  "color": "white",
+  "initialPly": 50,
+  "gameId": "dbfsroXM",
+  "lines": {
+    "d6c6": {
+      "g7c3": {
+        "b3c3": {
+          "e7e6": {
+            "c6e6": {
+              "e8e6": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": -144,
+  "enabled": true
+}

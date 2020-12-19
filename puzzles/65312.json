@@ -1,0 +1,24 @@
+{
+  "id": 65312,
+  "rating": 1462,
+  "attempts": 45952,
+  "fen": "1br3k1/1Q3pp1/7p/1P2n3/N7/P3P3/1B2KPP1/3R3q b - - 2 26",
+  "color": "white",
+  "initialPly": 52,
+  "gameId": "MOY2wPvm",
+  "lines": {
+    "d1d2": {
+      "h1h5": {
+        "f2f3": {
+          "h5g6": {
+            "b7b8": {
+              "g8h7": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 539,
+  "enabled": true
+}

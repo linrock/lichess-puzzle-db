@@ -1,0 +1,24 @@
+{
+  "id": 115239,
+  "rating": 1173,
+  "attempts": 2428,
+  "fen": "r4r2/3q1pkp/3p1npb/4pP2/p1PpP3/Pp1P1RNP/1P2Q1PN/5R1K b - - 2 23",
+  "color": "white",
+  "initialPly": 46,
+  "gameId": "KiiucyDB",
+  "lines": {
+    "f5g6": {
+      "f7g6": {
+        "f3f6": {
+          "f8f6": {
+            "f1f6": {
+              "d7e7": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 57,
+  "enabled": true
+}

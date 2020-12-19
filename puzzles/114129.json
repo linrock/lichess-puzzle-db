@@ -1,0 +1,24 @@
+{
+  "id": 114129,
+  "rating": 1418,
+  "attempts": 5310,
+  "fen": "rnbqk2r/ppp2pp1/3b1n1p/3p4/3P3B/2PB4/PP3PPP/RN1QK1NR b KQkq - 1 7",
+  "color": "white",
+  "initialPly": 14,
+  "gameId": "Ti2XC62F",
+  "lines": {
+    "h4f6": {
+      "g4d1": {
+        "f6d8": {
+          "e8d8": {
+            "e1d1": {
+              "c7c6": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 80,
+  "enabled": true
+}

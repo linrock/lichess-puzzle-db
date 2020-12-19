@@ -1,0 +1,28 @@
+{
+  "id": 99595,
+  "rating": 1725,
+  "attempts": 10528,
+  "fen": "r1bq1rk1/p3n1bp/1p1p2p1/2pPp1N1/1PP2pn1/P1N3P1/1B2PPBP/R2QK2R w KQ - 0 14",
+  "color": "black",
+  "initialPly": 27,
+  "gameId": "IGWXAl66",
+  "lines": {
+    "c8e6": {
+      "d5e6": {
+        "f4g3": {
+          "h2g3": {
+            "g4f2": {
+              "d1d2": {
+                "f2h1": {
+                  "g2h1": "win"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 222,
+  "enabled": true
+}

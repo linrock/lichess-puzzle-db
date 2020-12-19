@@ -1,0 +1,28 @@
+{
+  "id": 65869,
+  "rating": 2765,
+  "attempts": 1203,
+  "fen": "4R3/p1q1r3/1p2k1Qp/1Pb1p2P/P7/3P4/6P1/7K b - - 19 53",
+  "color": "white",
+  "initialPly": 106,
+  "gameId": "puLPLiz6",
+  "lines": {
+    "g6e4": {
+      "d5e6": {
+        "e8c8": {
+          "c7c8": {
+            "e4g4": {
+              "e6d5": {
+                "g4c8": {
+                  "d5d4": "win"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 30,
+  "enabled": true
+}

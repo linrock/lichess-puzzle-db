@@ -1,0 +1,19 @@
+{
+  "id": 72112,
+  "rating": 1500,
+  "attempts": 6,
+  "fen": "3R4/6P1/6r1/4K3/6P1/8/1p6/2k5 w - - 11 73",
+  "color": "black",
+  "initialPly": 145,
+  "gameId": "gHHEG69k",
+  "lines": {
+    "g6g8": {
+      "d8g8": {
+        "b2b1q": {
+          "g4g5": "win"
+        }
+      }
+    }
+  },
+  "vote": -9000
+}

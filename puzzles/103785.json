@@ -1,0 +1,28 @@
+{
+  "id": 103785,
+  "rating": 1590,
+  "attempts": 7263,
+  "fen": "5k2/1b3p2/p2b4/5B1R/3PNP2/6QK/P1r4P/2q5 b - - 4 41",
+  "color": "white",
+  "initialPly": 82,
+  "gameId": "uaz2lkKT",
+  "lines": {
+    "h5h8": {
+      "f8e7": {
+        "g3h4": {
+          "f4g5": {
+            "h4g5": {
+              "c1g5": {
+                "e4g5": {
+                  "c2a2": "win"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 135,
+  "enabled": true
+}

@@ -1,0 +1,24 @@
+{
+  "id": 121711,
+  "rating": 1630,
+  "attempts": 7557,
+  "fen": "r4k2/pp1b1pp1/n4n1p/4p3/3N4/P5Pq/1P2BP2/R1BQ1RK1 w - - 0 21",
+  "color": "black",
+  "initialPly": 41,
+  "gameId": "THwdcH99",
+  "lines": {
+    "d7c6": {
+      "d1d6": {
+        "f8g8": {
+          "d6c6": {
+            "b7c6": {
+              "c1d2": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 101,
+  "enabled": true
+}

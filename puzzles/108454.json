@@ -1,0 +1,24 @@
+{
+  "id": 108454,
+  "rating": 1586,
+  "attempts": 6774,
+  "fen": "3r2k1/p4ppp/1p4q1/8/3r4/P2pR3/1PQ1NPPP/3R2K1 w - - 0 25",
+  "color": "black",
+  "initialPly": 49,
+  "gameId": "vcklCBed",
+  "lines": {
+    "d4d3": {
+      "c2d3": {
+        "g6d3": {
+          "e3d3": {
+            "d8d3": {
+              "e2c3": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 108,
+  "enabled": true
+}

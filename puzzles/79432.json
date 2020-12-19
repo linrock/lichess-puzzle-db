@@ -1,0 +1,28 @@
+{
+  "id": 79432,
+  "rating": 852,
+  "attempts": 817,
+  "fen": "6r1/ppk4p/8/2nP4/2P5/P3PP2/1B2K3/R7 w - - 3 32",
+  "color": "black",
+  "initialPly": 63,
+  "gameId": "faX01NNC",
+  "lines": {
+    "g8g2": {
+      "f1f2": {
+        "g2f2": {
+          "e2f2": {
+            "c5d3": {
+              "f2g3": {
+                "d3b2": {
+                  "c4c5": "win"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 42,
+  "enabled": true
+}

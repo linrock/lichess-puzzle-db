@@ -1,0 +1,20 @@
+{
+  "id": 95100,
+  "rating": 1090,
+  "attempts": 10066,
+  "fen": "6k1/p4p1p/8/1bN1p3/PP4P1/r4P1P/8/2K2R2 w - - 0 40",
+  "color": "black",
+  "initialPly": 79,
+  "gameId": "QtFEVuEl",
+  "lines": {
+    "a3a1": {
+      "c1d2": {
+        "a1f1": {
+          "d2e3": "win"
+        }
+      }
+    }
+  },
+  "vote": 87,
+  "enabled": true
+}

@@ -1,0 +1,24 @@
+{
+  "id": 73627,
+  "rating": 1490,
+  "attempts": 24330,
+  "fen": "7k/pp3p2/4qb1p/5p2/1N5P/P3r3/1P4Q1/K5R1 b - - 3 36",
+  "color": "white",
+  "initialPly": 72,
+  "gameId": "TBz490aB",
+  "lines": {
+    "a1b1": {
+      "e6e4": {
+        "g2e4": {
+          "f5e4": {
+            "b2a3": {
+              "f6h4": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 341,
+  "enabled": true
+}

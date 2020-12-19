@@ -1,0 +1,22 @@
+{
+  "id": 123929,
+  "rating": 1680,
+  "attempts": 22811,
+  "fen": "4r1k1/b4bpp/P1p2r2/P3p2q/5p2/2NP1P2/2PB2PP/R3QR1K w - - 0 30",
+  "color": "black",
+  "initialPly": 59,
+  "gameId": "XvEam4mg",
+  "lines": {
+    "h5h2": {
+      "h1h2": {
+        "f6h6": {
+          "e1h4": {
+            "h6h4": "win"
+          }
+        }
+      }
+    }
+  },
+  "vote": 183,
+  "enabled": true
+}

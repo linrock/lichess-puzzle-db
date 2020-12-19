@@ -1,0 +1,28 @@
+{
+  "id": 64346,
+  "rating": 2417,
+  "attempts": 24999,
+  "fen": "5rk1/1p4p1/3p2b1/3Pp1Np/7P/Pq1nP2P/1P2Q1B1/5RK1 b - - 4 32",
+  "color": "white",
+  "initialPly": 64,
+  "gameId": "FIcPzSsl",
+  "lines": {
+    "f1f8": {
+      "g8f8": {
+        "e2f1": {
+          "f8e7": {
+            "g2e4": {
+              "b2d2": {
+                "e4g6": {
+                  "d2e3": "win"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 630,
+  "enabled": true
+}

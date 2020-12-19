@@ -1,0 +1,28 @@
+{
+  "id": 91083,
+  "rating": 1211,
+  "attempts": 41652,
+  "fen": "r5k1/5p1p/8/p1R4p/2b5/8/1B3PPP/6K1 b - - 9 36",
+  "color": "white",
+  "initialPly": 72,
+  "gameId": "MSLGXaRV",
+  "lines": {
+    "c5g5": {
+      "g8f8": {
+        "b2a3": {
+          "f8e8": {
+            "g5g8": {
+              "e8d7": {
+                "g8a8": {
+                  "b3c2": "win"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 116,
+  "enabled": true
+}

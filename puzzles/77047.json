@@ -1,0 +1,28 @@
+{
+  "id": 77047,
+  "rating": 1944,
+  "attempts": 13470,
+  "fen": "5k2/3R4/p1pP2rp/1pP1p3/1P2Pr2/3Q1PN1/P5KP/4q3 b - - 4 31",
+  "color": "white",
+  "initialPly": 62,
+  "gameId": "mZRMexHb",
+  "lines": {
+    "d7d8": {
+      "f8g7": {
+        "d6d7": {
+          "h5h4": {
+            "d8g8": {
+              "g7g8": {
+                "d7d8q": {
+                  "g8g7": "win"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 359,
+  "enabled": true
+}

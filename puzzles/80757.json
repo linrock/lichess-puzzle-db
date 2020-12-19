@@ -1,0 +1,32 @@
+{
+  "id": 80757,
+  "rating": 2423,
+  "attempts": 3760,
+  "fen": "r4r1k/pp2q1p1/6np/2P1b3/8/1PQ2BP1/PB5P/2R2RK1 w - - 1 24",
+  "color": "black",
+  "initialPly": 47,
+  "gameId": "BTeL73xb",
+  "lines": {
+    "a8d8": {
+      "d2e2": {
+        "e5b2": {
+          "e2b2": {
+            "e7e3": {
+              "b2f2": {
+                "f8f3": {
+                  "f2e3": {
+                    "f3e3": {
+                      "f1e1": "win"
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 66,
+  "enabled": true
+}

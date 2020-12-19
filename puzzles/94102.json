@@ -1,0 +1,24 @@
+{
+  "id": 94102,
+  "rating": 2479,
+  "attempts": 1302,
+  "fen": "6k1/pp4pp/3b1pq1/3p4/3n1P2/P1N4P/1P1B1P2/4Q2K b - - 0 29",
+  "color": "white",
+  "initialPly": 58,
+  "gameId": "YoZCZitG",
+  "lines": {
+    "e1e6": {
+      "g6f7": {
+        "e6d6": {
+          "h7h6": {
+            "d2c1": {
+              "d5d4": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 19,
+  "enabled": true
+}

@@ -1,0 +1,28 @@
+{
+  "id": 104385,
+  "rating": 1629,
+  "attempts": 9237,
+  "fen": "R7/3r1p1k/p4Kp1/P3B2p/2b4P/6P1/8/8 w - - 16 56",
+  "color": "black",
+  "initialPly": 111,
+  "gameId": "cifkTyOR",
+  "lines": {
+    "f7f6": {
+      "e5f6": {
+        "d7d5": {
+          "g5f4": {
+            "d5f5": {
+              "f4e3": {
+                "f5f6": {
+                  "a8c8": "win"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 265,
+  "enabled": true
+}

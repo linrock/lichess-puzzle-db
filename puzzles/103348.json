@@ -1,0 +1,20 @@
+{
+  "id": 103348,
+  "rating": 747,
+  "attempts": 100,
+  "fen": "5k2/8/p5p1/2p2n1p/P7/1P6/6KP/5R2 w - - 0 38",
+  "color": "black",
+  "initialPly": 75,
+  "gameId": "F0CAWS99",
+  "lines": {
+    "f5e3": {
+      "g2f3": {
+        "e3d1": {
+          "f3e2": "win"
+        }
+      }
+    }
+  },
+  "vote": 4,
+  "enabled": true
+}

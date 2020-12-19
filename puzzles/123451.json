@@ -1,0 +1,20 @@
+{
+  "id": 123451,
+  "rating": 1370,
+  "attempts": 4932,
+  "fen": "3r2k1/5pp1/4pb1p/1r6/1pR1NPP1/1R3KP1/8/8 b - - 8 45",
+  "color": "white",
+  "initialPly": 90,
+  "gameId": "JxTHIG27",
+  "lines": {
+    "e4f6": {
+      "g7f6": {
+        "c4d4": {
+          "b5a5": "win"
+        }
+      }
+    }
+  },
+  "vote": 74,
+  "enabled": true
+}

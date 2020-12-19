@@ -1,0 +1,20 @@
+{
+  "id": 103042,
+  "rating": 840,
+  "attempts": 2411,
+  "fen": "8/8/1B2k3/3n2p1/4p1Pp/1R2Pp1P/3r1P2/6K1 b - - 1 40",
+  "color": "white",
+  "initialPly": 80,
+  "gameId": "caw15eP1",
+  "lines": {
+    "b3c3": {
+      "d2d1": {
+        "g1h2": {
+          "d1d2": "win"
+        }
+      }
+    }
+  },
+  "vote": -35,
+  "enabled": true
+}

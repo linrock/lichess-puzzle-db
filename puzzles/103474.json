@@ -1,0 +1,24 @@
+{
+  "id": 103474,
+  "rating": 2584,
+  "attempts": 494,
+  "fen": "r4rk1/ppp2p2/4p1pB/8/2PbN3/4Q3/Pq4PP/4RRK1 w - - 1 22",
+  "color": "black",
+  "initialPly": 43,
+  "gameId": "P2giTJAI",
+  "lines": {
+    "d4f2": {
+      "f1f2": {
+        "b2b6": {
+          "e4f6": {
+            "g8h8": {
+              "h6d2": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": -5,
+  "enabled": true
+}

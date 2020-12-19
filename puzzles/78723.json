@@ -1,0 +1,24 @@
+{
+  "id": 78723,
+  "rating": 1533,
+  "attempts": 31346,
+  "fen": "5r1k/1r2Npbp/p2q1np1/2pP4/2p5/1PN1R3/P1Q2PPP/4R1K1 w - - 0 22",
+  "color": "black",
+  "initialPly": 43,
+  "gameId": "Bi11xATP",
+  "lines": {
+    "f6g4": {
+      "e3g3": {
+        "b7e7": {
+          "e1e7": {
+            "d6e7": {
+              "c2e2": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 454,
+  "enabled": true
+}

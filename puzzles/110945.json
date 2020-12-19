@@ -1,0 +1,26 @@
+{
+  "id": 110945,
+  "rating": 1221,
+  "attempts": 52319,
+  "fen": "6k1/4bppp/4q1n1/1Q6/p7/P7/1P4PP/5R1K b - - 1 29",
+  "color": "white",
+  "initialPly": 58,
+  "gameId": "MYHXcndr",
+  "lines": {
+    "b5e8": {
+      "g6f8": {
+        "e8f7": {
+          "g8h8": {
+            "f7f8": {
+              "e7f8": {
+                "f1f8": "win"
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 151,
+  "enabled": true
+}

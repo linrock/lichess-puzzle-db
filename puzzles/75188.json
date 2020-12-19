@@ -1,0 +1,24 @@
+{
+  "id": 75188,
+  "rating": 1153,
+  "attempts": 9109,
+  "fen": "3rr1k1/1pp2ppp/1n1q1n2/B2P4/P1P2P2/1B2p2P/1PP2QP1/R2R2K1 w - - 0 19",
+  "color": "black",
+  "initialPly": 37,
+  "gameId": "YRUXvISi",
+  "lines": {
+    "e3e2": {
+      "d1e1": {
+        "d6c5": {
+          "g1h2": {
+            "c5a5": {
+              "e1e2": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 150,
+  "enabled": true
+}

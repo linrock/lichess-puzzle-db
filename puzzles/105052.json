@@ -1,0 +1,22 @@
+{
+  "id": 105052,
+  "rating": 1595,
+  "attempts": 24335,
+  "fen": "8/8/1k1b2p1/1pp5/6RP/KP1N4/P3r3/7R w - - 2 36",
+  "color": "black",
+  "initialPly": 71,
+  "gameId": "8BPNGCca",
+  "lines": {
+    "b5b4": {
+      "d3b4": {
+        "c5b4": {
+          "a3a4": {
+            "e2a2": "win"
+          }
+        }
+      }
+    }
+  },
+  "vote": 241,
+  "enabled": true
+}

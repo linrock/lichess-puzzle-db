@@ -1,0 +1,24 @@
+{
+  "id": 66558,
+  "rating": 1243,
+  "attempts": 18976,
+  "fen": "1r2r1k1/2pq2pp/p1p2p2/3p1b2/3PnB2/2PB4/PP3PPP/R2Q1RK1 w - - 2 18",
+  "color": "black",
+  "initialPly": 35,
+  "gameId": "IkekzwFL",
+  "lines": {
+    "e4c3": {
+      "d1c1": {
+        "f5d3": {
+          "c1c3": {
+            "d3f1": {
+              "a1f1": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 315,
+  "enabled": true
+}

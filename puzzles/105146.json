@@ -1,0 +1,24 @@
+{
+  "id": 105146,
+  "rating": 2199,
+  "attempts": 3621,
+  "fen": "4rrk1/p5p1/1bp5/3bp3/4NpBq/1P1P3P/P1P1QPP1/3R1RK1 w - - 9 30",
+  "color": "black",
+  "initialPly": 59,
+  "gameId": "OPGvN3dV",
+  "lines": {
+    "f4f3": {
+      "g2f3": {
+        "f8f3": {
+          "e2f3": {
+            "d5f3": {
+              "g4f3": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 63,
+  "enabled": true
+}

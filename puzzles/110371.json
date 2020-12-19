@@ -1,0 +1,24 @@
+{
+  "id": 110371,
+  "rating": 1578,
+  "attempts": 75618,
+  "fen": "5rk1/pbpr1pp1/1p2p2p/3q4/8/2PB1P2/PP2QRPP/3R2K1 b - - 1 19",
+  "color": "white",
+  "initialPly": 38,
+  "gameId": "TCgiKNam",
+  "lines": {
+    "d3h7": {
+      "g8h7": {
+        "d1d5": {
+          "a6e2": {
+            "d5d7": {
+              "e2b5": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 189,
+  "enabled": true
+}

@@ -1,0 +1,24 @@
+{
+  "id": 124173,
+  "rating": 1921,
+  "attempts": 7412,
+  "fen": "r4rk1/pp3ppp/n1pq1n2/3p4/3P1Nb1/2P3Q1/PPB2PPP/RN3RK1 b - - 8 14",
+  "color": "white",
+  "initialPly": 28,
+  "gameId": "SZPaBBOk",
+  "lines": {
+    "f4h5": {
+      "a8d8": {
+        "h5f6": {
+          "d6f6": {
+            "g3g4": {
+              "c6c5": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 96,
+  "enabled": true
+}

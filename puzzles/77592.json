@@ -1,0 +1,20 @@
+{
+  "id": 77592,
+  "rating": 925,
+  "attempts": 1434,
+  "fen": "r3k2r/pppq2pp/2n2n2/8/P1Pp3P/BPb2P2/3NPP2/1R1QKB1R b Kkq - 0 12",
+  "color": "white",
+  "initialPly": 24,
+  "gameId": "FlyBlkX0",
+  "lines": {
+    "f1h3": {
+      "d7h3": {
+        "h1h3": {
+          "h8e8": "win"
+        }
+      }
+    }
+  },
+  "vote": 30,
+  "enabled": true
+}

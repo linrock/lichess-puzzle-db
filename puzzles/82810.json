@@ -1,0 +1,28 @@
+{
+  "id": 82810,
+  "rating": 2408,
+  "attempts": 2562,
+  "fen": "5rk1/1p1b1pb1/p5pB/q2Pp3/4P1P1/2P4Q/P7/R3K2R b Q - 0 24",
+  "color": "white",
+  "initialPly": 48,
+  "gameId": "lvPSZuO3",
+  "lines": {
+    "a1c1": {
+      "a5a4": {
+        "h3h6": {
+          "a4e4": {
+            "e1f2": {
+              "e4f4": {
+                "h6f4": {
+                  "e5f4": "win"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 53,
+  "enabled": true
+}

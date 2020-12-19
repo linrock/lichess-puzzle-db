@@ -1,0 +1,24 @@
+{
+  "id": 121713,
+  "rating": 1847,
+  "attempts": 7570,
+  "fen": "6k1/p4ppp/2p4q/8/P1B2P1n/1P3PQ1/3r3P/6RK w - - 1 26",
+  "color": "black",
+  "initialPly": 51,
+  "gameId": "AWRG25Fd",
+  "lines": {
+    "d2h2": {
+      "h1h2": {
+        "h4f3": {
+          "h2g3": {
+            "f3e1": {
+              "g1e1": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 133,
+  "enabled": true
+}

@@ -1,0 +1,20 @@
+{
+  "id": 102499,
+  "rating": 902,
+  "attempts": 386,
+  "fen": "r2qkb1r/1p2n1pp/p1npbp2/3Np3/4P3/4B3/PPP1BPPP/RN1QK2R b KQkq - 5 10",
+  "color": "white",
+  "initialPly": 20,
+  "gameId": "PdL960Bl",
+  "lines": {
+    "e4d5": {
+      "e6f7": {
+        "d5c6": {
+          "b7c6": "win"
+        }
+      }
+    }
+  },
+  "vote": 5,
+  "enabled": true
+}

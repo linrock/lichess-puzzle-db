@@ -1,0 +1,24 @@
+{
+  "id": 100085,
+  "rating": 1751,
+  "attempts": 11388,
+  "fen": "5r2/2R1Rp2/5P1p/pkn1B1p1/2p3P1/1r5P/5P1K/8 w - - 0 35",
+  "color": "black",
+  "initialPly": 69,
+  "gameId": "MleLGIiE",
+  "lines": {
+    "f8f7": {
+      "c7f7": {
+        "c4c3": {
+          "e5c3": {
+            "b3c3": {
+              "f2f4": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 220,
+  "enabled": true
+}

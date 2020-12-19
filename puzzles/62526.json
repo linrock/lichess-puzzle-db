@@ -1,0 +1,24 @@
+{
+  "id": 62526,
+  "rating": 1398,
+  "attempts": 95506,
+  "fen": "7k/6b1/6rp/P1R1p3/2N1P3/3B1n1K/7P/8 w - - 1 48",
+  "color": "black",
+  "initialPly": 95,
+  "gameId": "ECToNoxW",
+  "lines": {
+    "f3g1": {
+      "h3h4": {
+        "g1e2": {
+          "c5c8": {
+            "h8h7": {
+              "c8c7": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 1941,
+  "enabled": true
+}

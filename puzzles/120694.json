@@ -1,0 +1,24 @@
+{
+  "id": 120694,
+  "rating": 1494,
+  "attempts": 6206,
+  "fen": "1r1q1rk1/pb2bp1p/5p2/4p3/2Q5/1PN1P3/P1P2PPP/R3K1NR b KQ - 2 13",
+  "color": "white",
+  "initialPly": 26,
+  "gameId": "PbRQ5SEt",
+  "lines": {
+    "c4g4": {
+      "g8h8": {
+        "g4g2": {
+          "e7b4": {
+            "g1e2": {
+              "d8c7": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 137,
+  "enabled": true
+}

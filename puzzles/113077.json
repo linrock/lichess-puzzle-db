@@ -1,0 +1,28 @@
+{
+  "id": 113077,
+  "rating": 2901,
+  "attempts": 308,
+  "fen": "rnbqk2r/ppp1bppp/8/4N3/4n3/2N5/PPPP2PP/R1BQKB1R w KQkq - 0 7",
+  "color": "black",
+  "initialPly": 13,
+  "gameId": "MFZteeXm",
+  "lines": {
+    "e7h4": {
+      "g2g3": {
+        "e4g3": {
+          "f1b5": {
+            "e8f7": {
+              "d1f3": {
+                "g3f5": {
+                  "e1d1": "win"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 3,
+  "enabled": true
+}

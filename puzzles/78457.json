@@ -1,0 +1,24 @@
+{
+  "id": 78457,
+  "rating": 1552,
+  "attempts": 167267,
+  "fen": "8/5pkp/6p1/p1r5/4RP2/1B1n3P/P5P1/5K2 w - - 1 37",
+  "color": "black",
+  "initialPly": 73,
+  "gameId": "CpdooSEw",
+  "lines": {
+    "c5c1": {
+      "f1e2": {
+        "c1e1": {
+          "e2d3": {
+            "e1e7": {
+              "d3c4": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 2135,
+  "enabled": true
+}

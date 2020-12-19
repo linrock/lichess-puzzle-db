@@ -1,0 +1,24 @@
+{
+  "id": 61535,
+  "rating": 2048,
+  "attempts": 505659,
+  "fen": "2b2rk1/1rq1b1pp/pn1p1p2/2pPpPP1/2B1P2P/8/PPQBN3/1K4RR w - - 5 24",
+  "color": "black",
+  "initialPly": 47,
+  "gameId": "GtmdETGH",
+  "lines": {
+    "b6c4": {
+      "a5c7": {
+        "c4a3": {
+          "b1c1": {
+            "a3c2": {
+              "c7d6": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 9437,
+  "enabled": true
+}

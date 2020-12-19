@@ -1,0 +1,36 @@
+{
+  "id": 120031,
+  "rating": 2353,
+  "attempts": 3110,
+  "fen": "r2r2k1/1b1qbppp/p7/3np3/2R5/3QB2P/PP1NBPP1/2R3K1 w - - 3 20",
+  "color": "black",
+  "initialPly": 39,
+  "gameId": "Hwl80ziF",
+  "lines": {
+    "e7c5": {
+      "c4c5": {
+        "d5f4": {
+          "d3d7": {
+            "d8d7": {
+              "e2f3": {
+                "b7f3": {
+                  "d2f3": {
+                    "f4e2": {
+                      "g1f1": {
+                        "e2c1": {
+                          "c5c1": "win"
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 67,
+  "enabled": true
+}

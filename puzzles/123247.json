@@ -1,0 +1,32 @@
+{
+  "id": 123247,
+  "rating": 1932,
+  "attempts": 7753,
+  "fen": "8/1b2kp2/p7/2rP2R1/B2KP3/2p3R1/7r/8 b - - 1 37",
+  "color": "white",
+  "initialPly": 74,
+  "gameId": "MdjzORYE",
+  "lines": {
+    "d5d6": {
+      "e7d6": {
+        "g5c5": {
+          "h2d2": {
+            "d4e3": {
+              "d6c5": {
+                "e3d2": {
+                  "c2c1q": {
+                    "d2c1": {
+                      "c5d4": "win"
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 194,
+  "enabled": true
+}

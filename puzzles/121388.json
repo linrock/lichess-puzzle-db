@@ -1,0 +1,28 @@
+{
+  "id": 121388,
+  "rating": 1958,
+  "attempts": 7068,
+  "fen": "8/4k2p/3p2pP/3P1pP1/1n2pP2/4N1K1/8/8 w - - 5 51",
+  "color": "black",
+  "initialPly": 101,
+  "gameId": "IcSCOSgD",
+  "lines": {
+    "g6f5": {
+      "g5g6": {
+        "e4e3": {
+          "g6h7": {
+            "e3e2": {
+              "h7h8q": {
+                "e2e1q": {
+                  "g3g2": "win"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 123,
+  "enabled": true
+}

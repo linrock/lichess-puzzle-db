@@ -1,0 +1,24 @@
+{
+  "id": 80925,
+  "rating": 1966,
+  "attempts": 30006,
+  "fen": "1r2N2k/4R3/p3Bp1p/1p1pp3/1Pn5/P4bP1/1r3P2/2R3K1 b - - 2 35",
+  "color": "white",
+  "initialPly": 70,
+  "gameId": "S608NnK2",
+  "lines": {
+    "e8f6": {
+      "b8b7": {
+        "e6d7": {
+          "f3e4": {
+            "f6e4": {
+              "b7b6": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 407,
+  "enabled": true
+}

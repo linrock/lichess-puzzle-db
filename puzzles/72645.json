@@ -1,0 +1,28 @@
+{
+  "id": 72645,
+  "rating": 1614,
+  "attempts": 47087,
+  "fen": "2r2rk1/ppq2ppp/3b4/3Pp3/PPB1Q3/4P2P/6P1/R1R3K1 b - - 0 21",
+  "color": "white",
+  "initialPly": 42,
+  "gameId": "kVIS2mgP",
+  "lines": {
+    "c4d3": {
+      "c7c1": {
+        "a1c1": {
+          "c8c1": {
+            "g1h2": {
+              "g7g6": {
+                "e4b4": {
+                  "e5e4": "win"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 633,
+  "enabled": true
+}

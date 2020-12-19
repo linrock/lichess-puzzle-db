@@ -1,0 +1,24 @@
+{
+  "id": 89542,
+  "rating": 1348,
+  "attempts": 203694,
+  "fen": "r4rk1/5p1p/p2Np3/1pb1p3/8/2P2R2/PP3PPP/3R2K1 b - - 0 19",
+  "color": "white",
+  "initialPly": 38,
+  "gameId": "1Isfikby",
+  "lines": {
+    "f3g3": {
+      "g8h8": {
+        "d6f7": {
+          "f8f7": {
+            "d1d8": {
+              "f7f8": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 1906,
+  "enabled": true
+}

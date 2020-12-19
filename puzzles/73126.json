@@ -1,0 +1,28 @@
+{
+  "id": 73126,
+  "rating": 1931,
+  "attempts": 28021,
+  "fen": "rn1qkb1r/1bpn1ppp/1p2p3/p1PpP3/QP1P1P2/2N2N2/P5PP/R1B1KB1R w KQkq - 2 11",
+  "color": "black",
+  "initialPly": 21,
+  "gameId": "StSpbgHS",
+  "lines": {
+    "a5b4": {
+      "b6c7": {
+        "d8c7": {
+          "c3b5": {
+            "c7c1": {
+              "a1c1": {
+                "a8a4": {
+                  "c1c7": "win"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 464,
+  "enabled": true
+}

@@ -1,0 +1,24 @@
+{
+  "id": 61682,
+  "rating": 1938,
+  "attempts": 395067,
+  "fen": "3r1rk1/2Qnqp1p/1p2p1p1/p7/2PP2N1/1P5P/5PP1/1R2R1K1 b - - 3 27",
+  "color": "white",
+  "initialPly": 54,
+  "gameId": "dlElvRF2",
+  "lines": {
+    "c7d7": {
+      "e7d7": {
+        "g4f6": {
+          "g8g7": {
+            "f6d7": {
+              "f8d8": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 6368,
+  "enabled": true
+}

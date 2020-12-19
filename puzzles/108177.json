@@ -1,0 +1,28 @@
+{
+  "id": 108177,
+  "rating": 2497,
+  "attempts": 1595,
+  "fen": "r5k1/1Q1R2p1/6qp/p4p2/P3p3/2r5/2P2PPP/3R2K1 b - - 0 25",
+  "color": "white",
+  "initialPly": 50,
+  "gameId": "BLUqZ6QG",
+  "lines": {
+    "d1d6": {
+      "c3c2": {
+        "b7b3": {
+          "g8h7": {
+            "d6g6": {
+              "c2c1": {
+                "d7d1": {
+                  "h7g6": "win"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 40,
+  "enabled": true
+}

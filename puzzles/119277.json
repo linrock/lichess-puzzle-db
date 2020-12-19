@@ -1,0 +1,24 @@
+{
+  "id": 119277,
+  "rating": 1216,
+  "attempts": 3350,
+  "fen": "1Q6/2p2rpk/3pN2p/3Ppn2/4q3/2P5/KP3PPP/3R4 w - - 4 28",
+  "color": "black",
+  "initialPly": 55,
+  "gameId": "TTbuT2Fk",
+  "lines": {
+    "f7f8": {
+      "b8f8": {
+        "e4a4": {
+          "a2b1": {
+            "a4d1": {
+              "b1a2": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 74,
+  "enabled": true
+}

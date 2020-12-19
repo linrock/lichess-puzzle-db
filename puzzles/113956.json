@@ -1,0 +1,24 @@
+{
+  "id": 113956,
+  "rating": 1590,
+  "attempts": 37267,
+  "fen": "4r1k1/6pp/p4p2/1p1pn3/3B4/2P2PQP/PPq3P1/4R1K1 b - - 2 26",
+  "color": "white",
+  "initialPly": 52,
+  "gameId": "EOvgaKzS",
+  "lines": {
+    "f3f4": {
+      "e5f3": {
+        "g2f3": {
+          "e8e1": {
+            "g3e1": {
+              "g8f7": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 222,
+  "enabled": true
+}

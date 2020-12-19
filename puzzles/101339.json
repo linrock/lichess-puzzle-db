@@ -1,0 +1,24 @@
+{
+  "id": 101339,
+  "rating": 850,
+  "attempts": 217,
+  "fen": "8/pb1r2k1/1p2R1p1/5r1p/P2p3P/8/1P3PP1/4RNK1 b - - 4 40",
+  "color": "white",
+  "initialPly": 80,
+  "gameId": "jhNGTBTW",
+  "lines": {
+    "e6e7": {
+      "d7e7": {
+        "e1e7": {
+          "g7f6": {
+            "e7b7": {
+              "a5a4": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 9,
+  "enabled": true
+}

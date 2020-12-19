@@ -1,0 +1,24 @@
+{
+  "id": 99934,
+  "rating": 1393,
+  "attempts": 74493,
+  "fen": "8/3r3p/p2p1k2/3P1pp1/2PR4/3P1K1P/P5P1/8 w - - 0 33",
+  "color": "black",
+  "initialPly": 65,
+  "gameId": "FCMuBCgx",
+  "lines": {
+    "f6e5": {
+      "f3e3": {
+        "f5f4": {
+          "d4f4": {
+            "g5f4": {
+              "e3e2": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 201,
+  "enabled": true
+}

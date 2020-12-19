@@ -1,0 +1,24 @@
+{
+  "id": 122287,
+  "rating": 2900,
+  "attempts": 88,
+  "fen": "b1r2rk1/4bppp/2qNp3/2N1P3/1p2P3/1Q6/6PP/2RR2K1 b - - 0 26",
+  "color": "white",
+  "initialPly": 52,
+  "gameId": "uOSpmcGr",
+  "lines": {
+    "c5e6": {
+      "c6c1": {
+        "e6d8": {
+          "c1d1": {
+            "b3d1": {
+              "c8d8": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 1,
+  "enabled": true
+}

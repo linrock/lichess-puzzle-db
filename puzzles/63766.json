@@ -1,0 +1,28 @@
+{
+  "id": 63766,
+  "rating": 2905,
+  "attempts": 931,
+  "fen": "2kr3r/1ppq3p/p7/1P1n2p1/3Q1p2/P6P/6P1/1RB2R1K b - - 0 23",
+  "color": "white",
+  "initialPly": 46,
+  "gameId": "ngCJbPKK",
+  "lines": {
+    "d4a7": {
+      "d7d4": {
+        "a7a8": {
+          "c8d7": {
+            "c1e3": {
+              "d8a8": {
+                "e3d4": {
+                  "h8e8": "win"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "vote": 2,
+  "enabled": true
+}

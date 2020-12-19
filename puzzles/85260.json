@@ -1,0 +1,20 @@
+{
+  "id": 85260,
+  "rating": 847,
+  "attempts": 1024,
+  "fen": "r1b3k1/p3b1rp/3q2p1/1Q1PNp2/8/2P1PK2/5PPR/7R b - - 0 26",
+  "color": "white",
+  "initialPly": 52,
+  "gameId": "GAHlWMU4",
+  "lines": {
+    "b5e8": {
+      "e7f8": {
+        "e8e5": {
+          "g7e7": "win"
+        }
+      }
+    }
+  },
+  "vote": 32,
+  "enabled": true
+}
