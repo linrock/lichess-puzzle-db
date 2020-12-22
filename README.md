@@ -1,6 +1,9 @@
 Lichess Puzzle DB
 =================
 
+Update (Dec 22, 2020): Lichess has published a new set of puzzles in the public domain here:
+[https://database.lichess.org/#puzzles](https://database.lichess.org/#puzzles)
+
 This is a snapshot of all 64,214 puzzles used by the [Lichess tactics trainer](lichess.org/training) as of December 2020.
 
 Each file in the `puzzles/` directory is a pretty-printed JSON data file containing puzzle data in the following format:
